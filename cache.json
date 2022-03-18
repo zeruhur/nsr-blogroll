@@ -386,6 +386,23 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Slight Adjustments",
+      "feedUrl": "https://slightadjustments.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://slightadjustments.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://slightadjustments.blogspot.com/2022/02/one-million-swords.html",
+          "author": null,
+          "description": "img.gallery { \twidth: 100% } figure.gallery { \ttext-align: center } \n \t\tSeven of Swords - Ride-Waite tarot deck\nCombat\nVictory is not achieved by skill (attack bonuses) or luck (high dice rolls). Each combatant takes turns bidding things they are willing to sacrifice to help them achieve victory. Combat ends when one side surrenders, or when they risk their life in pursuit of victory, and fail.\n\nWhoever says \"I attack!\" first, goes first.\nThey bid what resources they are staking on their victory. They can bid innate qualities or training, relevant equipment, situational advantages, and things they are willing to sacrifice. The initial bid can't be changed after this step.\nTheir opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…",
+          "link": "https://slightadjustments.blogspot.com/2022/02/one-million-swords.html",
+          "publishedOn": "2022-02-19T02:43:00.007Z",
+          "wordCount": 3699,
+          "title": "One Million Swords",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezy7T6rz0Fw-aiyZ9MSQbk0v0N4FddKGsv9rx7F7tdGw4EnBllior9_RKE09kRjCa1gUsZuZKSpYEyFtNPlUzQEEpFhqO3cLnJ8GBd2NWK3tV0UjNzCvXQbNl8ZmVzFnDi49rE=w1200-h630-p-k-no-nu"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"

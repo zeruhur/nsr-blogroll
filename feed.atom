@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T15:19:25.530Z</id>
+    <id>urn:2022-03-18T15:22:36.913Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T15:19:25.530Z</updated>
+    <updated>2022-03-18T15:22:36.913Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -332,6 +332,23 @@ intention of sharing my materials with anybody but the players of my games. I]]>
 One of my players will be starting a new campaign with this group using his own modified version of MRD, so we're not done! And additionally, I'm hoping to start an in-person game soon for MRD2 as I continue…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Million Swords]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/02/one-million-swords.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/02/one-million-swords.html"/>
+        <updated>2022-02-19T02:43:00.007Z</updated>
+        <summary type="html"><![CDATA[img.gallery { 	width: 100% } figure.gallery { 	text-align: center } 
+ 		Seven of Swords - Ride-Waite tarot deck
+Combat
+Victory is not achieved by skill (attack bonuses) or luck (high dice rolls). Each combatant takes turns bidding things they are willing to sacrifice to help them achieve victory. Combat ends when one side surrenders, or when they risk their life in pursuit of victory, and fail.
+
+Whoever says "I attack!" first, goes first.
+They bid what resources they are staking on their victory. They can bid innate qualities or training, relevant equipment, situational advantages, and things they are willing to sacrifice. The initial bid can't be changed after this step.
+Their opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…]]></summary>
+        <author>
+            <name>Slight Adjustments</name>
         </author>
     </entry>
     <entry>
