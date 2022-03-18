@@ -1,492 +1,378 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T12:32:50.389Z</id>
+    <id>urn:2022-03-18T14:37:15.377Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T12:32:50.389Z</updated>
+    <updated>2022-03-18T14:37:15.377Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
-        <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
-        <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
-        <updated>2022-03-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
+        <title type="html"><![CDATA[BONUS: Maximum Recursion Depth Exalted Funeral Printing!]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html"/>
+        <updated>2022-03-16T11:55:00.003Z</updated>
+        <summary type="html"><![CDATA[Maximum Recursion Depth is now available on Exalted Funeral! It should be available print+pdf later today (as of posting). I've been vocal about the fact that I'm a very digitally-oriented person, but I'm still looking forward to having a copy of MRD physically in my hands, and I know many other people do prefer print so I'm glad to have an offering for them. Also, Exalted Funeral is an awesome publisher and it's a real honor to be a part of their catalog. I hope that this exposes more people to MRD and my blog who I would not otherwise have crossed paths with.
+
+
+Maximum Recursion Depth on Exalted Funeral!]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python String to Int – Convert a String Example]]></title>
-        <id>62333a16cdcd57069ddfa7f3</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/"/>
-        <updated>2022-03-17T23:53:39.000Z</updated>
-        <summary type="html"><![CDATA[When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform]]></summary>
+        <title type="html"><![CDATA[Alternative Economics (Part 3: Treasure-Driven Adventure)]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/03/alternative-economics-part-3-treasure.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/03/alternative-economics-part-3-treasure.html"/>
+        <updated>2022-03-13T16:02:00.003Z</updated>
+        <summary type="html"><![CDATA[Return to part 1
+
+Continuing from part 2, I'm exploring some alternatives to the traditional role that money and economics plays in D&D, inspired by real-life situations found in history, with the occasional creative liberty taken here or there to make things more gameable. It's fantasy after all, we're not going to stress about accuracy here. Last time I just talked about small-to-medium adjustments to the existing economic situations your players engage in. This time I want to think bigger picture. In traditional, OSR, "XP for Gold" schemes, dungeoneering is a path that leads to domains being built up for each individual player. But what other campaign arcs shaped by treasure can we imagine?
+An important caveat for this: all specific numbers and variables are intentionally left ambiguous…]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>A Knight at the Opera</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn WebGPU – A next-generation graphics API for the web]]></title>
-        <id>62322496cdcd57069ddfa225</id>
-        <link href="https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/"/>
-        <updated>2022-03-17T21:33:19.000Z</updated>
-        <summary type="html"><![CDATA[WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25]]></summary>
+        <title type="html"><![CDATA[MRD2 Mecha Gear Thematic Spark Tables]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html"/>
+        <updated>2022-03-13T14:06:00.001Z</updated>
+        <summary type="html"><![CDATA[In moving forward with the idea of using Tarsos Theorem's Concept Crafting for the basis of my Mecha Gear system in Maximum Recursion Depth 2, I have run a series of "Mock Session 0 Playtests", discussing the setting, game mechanics, and character creation with people as if we were going to run a game (and in one case, it actually is going to be an ongoing IRL Campaign!).
+
+
+I've been pleasantly surprised the extent to which people have responded really positively to the Playtests- it feels like I have demonstrably learned from MRD1 and have gotten better at conveying information and setting expectations, and also in game design itself. One of the playtests was with the first group I ran the earliest version of MRD1, and they said they liked the idea of MRD2 even better and were interested …]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Search for Files from the Linux Command Line]]></title>
-        <id>62331abccdcd57069ddfa72f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/"/>
-        <updated>2022-03-17T19:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,]]></summary>
+        <title type="html"><![CDATA[Blorb: The Technoskald Interpretation]]></title>
+        <id>http://technoskald.me/?p=6327</id>
+        <link href="https://technoskald.me/2022/03/11/blorb-the-technoskald-interpretation/"/>
+        <updated>2022-03-11T17:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Blorb is a neologism for a particular prep-focused play style that occasionally creates controversy because it means the game world is "real" even before it shows up in a session. Here are my notes on what I think it means.]]></summary>
         <author>
-            <name>Zaira Hira</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS REM – What is REM in CSS?]]></title>
-        <id>621d17ecc4d0d306772f1b2f</id>
-        <link href="https://www.freecodecamp.org/news/what-is-rem-in-css/"/>
-        <updated>2022-03-17T19:47:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article I'm going to discuss some use cases of REM (Root EM) in CSS.  I will begin with some background knowledge about CSS properties and values, which I think is necessary. Then I'll discuss the differences between absolute length values and relative ones. REM is a relative]]></summary>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 4]]></title>
+        <id>http://technoskald.me/?p=6308</id>
+        <link href="https://technoskald.me/2022/03/10/janus-mothership-campaign-session-4/"/>
+        <updated>2022-03-10T17:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Session alternate title: “Cubic Worsening” The crew this time consisted of: Aeris (Teamster)Billy Ray (Marine)BR3ND4 (Android) Dr Wilson stayed back on the ship, both because the player was unavailable this week as well as because that’s his nature. Narrative The crew finished up some business on Prospero, namely the cyber mod installations for BR3ND4 and … Continue reading “Janus” Mothership Campaign – Session 4 →]]></summary>
         <author>
-            <name>Slimane Aguersif</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Sleep – time.sleep() in Python]]></title>
-        <id>623308b9cdcd57069ddfa696</id>
-        <link href="https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/"/>
-        <updated>2022-03-17T17:22:29.000Z</updated>
-        <summary type="html"><![CDATA[While running a Python program, there might be times when you'd like to delay the execution of the program for some seconds. The Python time module has a built-in function called time.sleep() with which you can delay the execution of a program. With the sleep() function, you can get more]]></summary>
+        <title type="html"><![CDATA[Follow the Bones]]></title>
+        <id>https://blog.symbolic.city/follow-the-bones</id>
+        <link href="https://blog.symbolic.city/follow-the-bones"/>
+        <updated>2022-03-09T14:00:56.000Z</updated>
+        <summary type="html"><![CDATA[If you like quest stories like Gawain and the Green Knight or the Grail cycle, then you may want to check out the new tool I've published...]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>Session Zero</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a Portfolio Website Using HTML, CSS, & JavaScript]]></title>
-        <id>6233481fcdcd57069ddfa86c</id>
-        <link href="https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/"/>
-        <updated>2022-03-17T14:49:23.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &]]></summary>
+        <title type="html"><![CDATA[Random Encounters in the Trollshaws]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html"/>
+        <updated>2022-03-09T13:37:00.002Z</updated>
+        <summary type="html"><![CDATA[I'm a big fan of random tables. Assuming I curate the table correctly, a random table brings a feeling of exciting realness to the flow of a game - they ensure I'm not just writing a fantasy novel in front of my players.
+However, during a game, I can only have so many *things* in front of me. I'm always thinking, "Wait, I know I have a d100 list of books around here, where did I put the Dungeon Alphabet?" In practice, I've become frustrated with how many good tables I know I own vs how many good tables I can bring to hand easily.
+I'm trying to solve this problem with technology. I started experimenting with Perchance.
+Here is a generator I made to run a Middle-earth game set in the Trollshaws:
+
+If you're looking for a random encounter table to use for your next MERP game, voila! You can st…]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Rise Up Comus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB]]></title>
-        <id>6231a5b3c3e3d106805db9fc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/"/>
-        <updated>2022-03-17T00:15:43.000Z</updated>
-        <summary type="html"><![CDATA[In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries]]></summary>
+        <title type="html"><![CDATA[Mausritter Musings]]></title>
+        <id>http://technoskald.me/?p=6298</id>
+        <link href="https://technoskald.me/2022/03/08/mausritter-musings/"/>
+        <updated>2022-03-09T02:18:46.000Z</updated>
+        <summary type="html"><![CDATA[We played Mausritter last night and it really felt like, well, playing. Setting matters, even implied setting, and it affects the kinds of stories we can tell.]]></summary>
         <author>
-            <name>Ashutosh Krishna</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Debugging? How to Debug Your Code for Beginners]]></title>
-        <id>62321616cdcd57069ddfa114</id>
-        <link href="https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"/>
-        <updated>2022-03-16T21:31:29.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get]]></summary>
+        <title type="html"><![CDATA[Where The Wheat Grows Tall Review]]></title>
+        <id>https://newschoolrevolution.com/2022/03/09/where-the-wheat-grows-tall-review</id>
+        <link href="https://newschoolrevolution.com/2022/03/09/where-the-wheat-grows-tall-review"/>
+        <updated>2022-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Where The Wheat Grows Tall Review]]></summary>
         <author>
-            <name>Germán Cocca</name>
+            <name>New School Revolution</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Functions – How to Define and Call a Function]]></title>
-        <id>6231fec0cdcd57069ddfa05d</id>
-        <link href="https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/"/>
-        <updated>2022-03-16T17:17:43.000Z</updated>
-        <summary type="html"><![CDATA[In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in]]></summary>
+        <title type="html"><![CDATA[Weird & Wonderful Wavelengths (Variety Show s1e2)]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html"/>
+        <updated>2022-03-06T15:18:00.001Z</updated>
+        <summary type="html"><![CDATA[We interrupt this broadcast of the normally scheduled Weird & Wonderful Worlds blog to traverse the other WWW (the Weird Wonderful Wavelength decomposed like an overzealous cockroach in an empty kitchen from the spectrum of nutrient deficient fluorescent white light that is the World Wide Web). Let us begin with an interactive spacetime courtesy of Leenalchi, from the past, present, future, and sidetime of Korea. But watch out... TIGER IS COMING!
+
+
+
+
+Link here if you don't see the embed on mobile
+That sure was something folks. Reminds me of my conversation with Gearoong. Horrific psychedelic Scooby-Don't and the Gang hunting Poltergeists in Maximum Recursion Depth (poor Frieda is already an Ashura).
+
+
+Moving on to RPGs, because that's why you came here... Right? Or maybe not, sound off fro…]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Python Crash Course]]></title>
-        <id>623204d4cdcd57069ddfa080</id>
-        <link href="https://www.freecodecamp.org/news/free-python-crash-course/"/>
-        <updated>2022-03-16T15:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this]]></summary>
+        <title type="html"><![CDATA[Rolling Dice in Call of Cthulhu]]></title>
+        <id>http://technoskald.me/?p=6279</id>
+        <link href="https://technoskald.me/2022/03/05/rolling-dice-in-call-of-cthulhu/"/>
+        <updated>2022-03-06T01:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Call of Cthulhu has some surprisingly (to me) narrative-focused rules for rolling dice.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
-        <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
-        <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
-        <updated>2022-03-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
+        <title type="html"><![CDATA[Cut-Out Decoration Cards for your Cozy Hole Home]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/03/cut-out-decoration-cards-for-your-cozy.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/03/cut-out-decoration-cards-for-your-cozy.html"/>
+        <updated>2022-03-05T12:54:00.006Z</updated>
+        <summary type="html"><![CDATA[I have made a toy.
+The equipment cards from Mausritter/Last Gasp Grimoire are so fun. The gimmick is that you print out your equipment cards on card stock and use blue tack to stick them physically onto your character sheet, so you have a sort of Diablo pack experience.
+I took this paradigm and applied it to decorations for the cozy hole that you call a home. All artwork is stolen from Mike Ploog's background art in Ralph Bakshi's Fellowship of the Ring.
+
+
+Choose a decoration for your tiny home.
+
+
+
+
+Place them in your parlor...
+
+
+
+
+...or in your entrance hall.
+
+
+Click on any of the pictures above - or click here - to download all of the assets. 
+Use this for your Mausritter games or maybe even Under Hill, By Water.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>Rise Up Comus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Tricks is joining DigitalOcean!]]></title>
-        <id>https://css-tricks.com/?p=365042</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-15T12:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey hey!
-I’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)
-CSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!
-You can hear …
-CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 3]]></title>
+        <id>http://technoskald.me/?p=6256</id>
+        <link href="https://technoskald.me/2022/03/04/janus-mothership-campaign-session-3/"/>
+        <updated>2022-03-04T16:43:05.000Z</updated>
+        <summary type="html"><![CDATA[A Mothership shopping session was interrupted by unrest and corporate investigation. You know, like you do.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
-        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
-        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
-        <updated>2022-03-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
+        <title type="html"><![CDATA[Protecting Our Spaces: A Response to Raggi]]></title>
+        <id>https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html</id>
+        <link href="https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html"/>
+        <updated>2022-03-04T14:05:00.002Z</updated>
+        <summary type="html"><![CDATA[Somewhere in the 2009-2011 range, when I was just discovering the OSR scene, I ran across a retroclone which stuck out to me and zoomed up into my favorites for quite some time. In contrast to most of the other rulesets I had seen at the time, it had a lot of referee advice -- and it had safety tools. 
+No, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like "The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them." or "Know your players. Communicate outside of…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
+            <name>Legacy of the Bieth</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
-        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
-        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
-        <updated>2022-03-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <title type="html"><![CDATA[Digging into the original Star Wars RPG]]></title>
+        <id>http://technoskald.me/?p=6197</id>
+        <link href="https://technoskald.me/2022/03/03/digging-into-the-original-star-wars-rpg/"/>
+        <updated>2022-03-03T17:10:23.000Z</updated>
+        <summary type="html"><![CDATA[I've been thinking about trying to do for Star Wars d6 what Cthulhu Dark did for Call of Cthulhu, or what Into the Odd did for Cypher: break it down to a minimal approach without needing to spend too much time thinking about game rules. As I was looking at this, I started to wonder if it doesn't need anything more than GM attitude. Here’s my first set of thoughts about the game.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
-        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
-        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
-        <updated>2022-03-10T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
+        <title type="html"><![CDATA[Royal Tenenbaums meets Children of the Atom: Help me make a storygame!]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html"/>
+        <updated>2022-03-01T13:52:00.001Z</updated>
+        <summary type="html"><![CDATA[I had a dream last night (as of when this was drafted, not posted) that got rudely interrupted by construction just as it was wrapping up. It would make a great story that I will likely never write, but could also be a storygame TTRPG. I don't normally play or run storygames, I used to listen to a bunch of Actual Plays of them but honestly at this point don't know much about them, and don't have sufficient time to invest in it, but I would love it if somebody with more knowledge and interest in storygames could help me carry this idea into some small side project. I'm somewhat less gung-ho on this now that it's been several days since I had the dream and this would admittedly be a lot of work, but I do still love this idea and I suspect one way or another this will eventually influence som…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/"/>
-        <updated>2022-03-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <title type="html"><![CDATA[FLoK dev diary: Character Generation]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/02/flok-dev-diary-character-generation.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/02/flok-dev-diary-character-generation.html"/>
+        <updated>2022-02-27T22:05:00.004Z</updated>
+        <summary type="html"><![CDATA[Character generation in the original FLoK was deliberately sparse because I had no real idea of what the project was going to be yet. 
+It was also one of the areas my playtesters had the most feedback on. Especially the generation of the standard attributes (strength, dex, etc.) was contentious. 
+Some disliked that that these tags didn't really come into play, others liked how it informed their idea of their character and the way they roleplayed them. 
+This made me consider making some Maze Rats inspired d66 tables to help those who like that input in visualising and roleplaying their character, without suggesting that these are tags which are supposed to come into play.
+I also tried to standardise the equipment you get from backgrounds a bit more, allow folks to simply roll up their background and provide some examples of those 'twist' items. All also in d66 tables. 
+Here's the current results:
+
+
+All of this is still subject to revision and I might end up deciding I don't like this form of character generation after all. However, the tables seem like they could be useful all the same, so I might as well share them. 
+Next up is probably finishing my write up of GM and Player advise. I've noticed I find it hard to explain what I do quite naturally at the table, so I think I might try an example of play that does everything I tend to do when things go well and see if I can't use that as a basis for writing up the advice.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>Tabletop Curiosity Cabinet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Performance Signals For Customizing Website UX]]></title>
-        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
-        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
-        <updated>2022-03-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
+        <title type="html"><![CDATA[Alternative Economics (Part 2: Interesting Choices)]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html"/>
+        <updated>2022-02-27T00:33:00.010Z</updated>
+        <summary type="html"><![CDATA[Return to part 1
+
+
+
+
+I have previously talked at length about the virtues of "campaign-level play." That is, rather than only ever running your game as a series of mostly-isolated scenarios in episodic fashion and then calling it a "campaign," you actually flesh out all the connective tissue between adventures. There are certain gameplay structures you can incorporate which aren't really interacted with on a scenario-to-scenario basis, but which nonetheless have an impact on the campaign as a whole. Examples I give are things like a calendar and downtime play, usable maps and travel gameplay, complicated NPC relationship charts that'll change over time, and of course, domain play and some slightly more in-depth economics than just a menu of regular adventuring gear.
+
+Most of this post's co…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>A Knight at the Opera</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create An Information Architecture That Is Easy To Use]]></title>
-        <id>https://smashingmagazine.com/2022/03/easy-information-architecture/</id>
-        <link href="https://smashingmagazine.com/2022/03/easy-information-architecture/"/>
-        <updated>2022-03-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.]]></summary>
+        <title type="html"><![CDATA[Autopsy Report: Looking back at my first GLoG hack]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html"/>
+        <updated>2022-02-25T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Back when I initially started this blog I was working on a GLoG hack for the table I played with at the time. It is somewhat finished, but barely playtested and the few people that did play it seemed to hate it. 
+Moreover, this is from before I realised you don't actually need rules for everything, so despite aiming for 'elegant design' it is a rather convoluted mess of rules I thought I'd need because they were so prevalent in other systems, rules I wanted to add because I thought they were missing from 5e and a bunch of systems and mechanics stolen from other blogs merely because they looked interesting.
+
+For these reasons, I don't like looking back at it, it makes me cringe. However, every once in a while when I need an example of something I like, I find myself returning to stuff I wro…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>Tabletop Curiosity Cabinet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
-        <id>https://css-tricks.com/?p=363972</id>
-        <link href="https://css-tricks.com/the-selectmenu-element/"/>
-        <updated>2022-03-03T15:35:32.000Z</updated>
-        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
-Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 2]]></title>
+        <id>http://technoskald.me/?p=6230</id>
+        <link href="https://technoskald.me/2022/02/24/janus-mothership-campaign-session-2/"/>
+        <updated>2022-02-25T01:45:15.000Z</updated>
+        <summary type="html"><![CDATA[“How do you break an android? You give it feelings.” Elsa (BR3ND4 player) The crew of the Janus arrived at ALCOR Station – basically a truck stop in space – before heading to Prospero. Special thanks to Victor Merino for kindly providing a cleaned-up version of the station image I could share with my players. … Continue reading “Janus” Mothership Campaign – Session 2 →]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
-        <id>https://css-tricks.com/?p=364001</id>
-        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
-        <updated>2022-03-03T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
-Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[MRD2 Introduction and Campaign Setup Proof of Concept]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html"/>
+        <updated>2022-02-24T13:04:00.001Z</updated>
+        <summary type="html"><![CDATA[MRD2 is underway, as I've alluded to in previous blog posts. Similar to how much changed between the earliest MRD1 blog posts and the final book, treat this as Proof of Concept, but below is a working draft of the Introduction to the world of MRD2, how it relates to MRD1, and the basic Campaign Setup (an idea I've much appreciated from Anne Hunter). Also, I will definitely clean up the writing significantly- this is not publishing-grade ;).
+
+
+Previous Posts:
+
+Mecha Gear with Tarsos Theorem Crafting: The basis of the Golem mechanics in MRD2, and also hyperlinks to basically all the previous posts, including the one below.
+
+Jewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A discussion on the Jewish subtext of MRD2. Also contains additional relevant links at the en…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
-        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <title type="html"><![CDATA[On Characters and Roles]]></title>
+        <id>https://blog.symbolic.city/on-characters-and-roles</id>
+        <link href="https://blog.symbolic.city/on-characters-and-roles"/>
+        <updated>2022-02-23T02:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Twice today, entirely by coincidence, I've run across different versions of a claim that might seem uncontroversial, but is worth questio...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+            <name>Session Zero</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
-        <id>https://css-tricks.com/?p=364350</id>
-        <link href="https://css-tricks.com/performance-links-february-2022/"/>
-        <updated>2022-03-02T21:26:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
-The new WebPageTest website design
-From fonts to SVG: an icon migration strategy
-…
-7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Hand-Crafted Adventures]]></title>
+        <id>https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html</id>
+        <link href="https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html"/>
+        <updated>2022-02-20T16:54:00.002Z</updated>
+        <summary type="html"><![CDATA[There was a period of years early in
+the hobby’s history when there were no adventure modules at all. In those days,
+everybody made their own adventures by hand—without computers. You can,
+too.
+
+Lately I’ve returned to the quiet pleasure
+of developing hand-crafted adventures and setting materials on my own. I have no
+intention of sharing my materials with anybody but the players of my games. I]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Lich Van Winkle's Return to Gaming</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=363882</id>
-        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
-        <updated>2022-03-02T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
-Here’s an example where I …
-How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 1]]></title>
+        <id>http://technoskald.me/?p=6222</id>
+        <link href="https://technoskald.me/2022/02/19/janus-mothership-campaign-session-1/"/>
+        <updated>2022-02-19T17:07:05.000Z</updated>
+        <summary type="html"><![CDATA[I’ve recently kicked off a Mothership campaign with friends that focuses more on the stresses of making a living in a capitalist space dystopia than on “horror” in the genre sense. I’m not quite sure what will come of it, but for now we’re having fun. The game takes place two centuries from now in … Continue reading “Janus” Mothership Campaign – Session 1 →]]></summary>
         <author>
-            <name>Silvestar Bistrović</name>
+            <name>Kyle Maxwell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
-        <updated>2022-03-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <title type="html"><![CDATA[MRD Campaign PENULTIMATE Play Reports]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/02/mrd-campaign-penultimate-play-reports.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/02/mrd-campaign-penultimate-play-reports.html"/>
+        <updated>2022-02-19T14:41:00.001Z</updated>
+        <summary type="html"><![CDATA[After >1yr, we've decided to wrap up our MRD campaign. I was developing the MRD core book simultaneously, so this campaign informed a lot of the tone, setting, and content that went into the final book. While we very early on deviated from the core structure of Poltergeist Investigation -> Court Crawl, I'm happy that we got to do some of that, while also demonstrating how this system and setting can support much more than just that. There's a lot of stuff I've written on my blog that isn't in the core book, but it's become a rich and interesting setting, and I'm very grateful for it.
+
+
+One of my players will be starting a new campaign with this group using his own modified version of MRD, so we're not done! And additionally, I'm hoping to start an in-person game soon for MRD2 as I continue…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
-        <id>https://css-tricks.com/?p=363724</id>
-        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
-        <updated>2022-03-01T17:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
-CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[One Million Swords]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/02/one-million-swords.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/02/one-million-swords.html"/>
+        <updated>2022-02-19T02:43:00.007Z</updated>
+        <summary type="html"><![CDATA[img.gallery { 	width: 100% } figure.gallery { 	text-align: center } 
+ 		Seven of Swords - Ride-Waite tarot deck
+Combat
+Victory is not achieved by skill (attack bonuses) or luck (high dice rolls). Each combatant takes turns bidding things they are willing to sacrifice to help them achieve victory. Combat ends when one side surrenders, or when they risk their life in pursuit of victory, and fail.
+
+Whoever says "I attack!" first, goes first.
+They bid what resources they are staking on their victory. They can bid innate qualities or training, relevant equipment, situational advantages, and things they are willing to sacrifice. The initial bid can't be changed after this step.
+Their opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>Slight Adjustments</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
-        <id>https://css-tricks.com/?p=364351</id>
-        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
-        <updated>2022-03-01T15:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
-The fit-content keyword is actually …
-Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[A Darkness Strewn with Gems: Session Recaps, LotB Campaign]]></title>
+        <id>https://lotbieth.blogspot.com/2022/02/a-darkness-strewn-with-gems-session.html</id>
+        <link href="https://lotbieth.blogspot.com/2022/02/a-darkness-strewn-with-gems-session.html"/>
+        <updated>2022-02-17T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[After many years, I've finally gotten my brains together enough to start running a Legacy of the Bieth campaign again. It's brief spurts -- 2-3 hours over Discord -- but I need to bite off small chunks to get my head in the game (and make sure I'm adapting properly to the schedule). 
+I'm adapting Gus L's Tomb Robbers of the Crystal Frontier as the introductory dungeon. TRCF does a really good job at tapping into some of the Roadside Picnic-meets-spaghetti-western feel that I've craved over the years. I've had to use a bit of elbow grease to make details fit with my own setting, but of course that's going to be the case with any module! The core ruleset is currently a modification of  "Savage World of Krul," created by Hydra Coop colleague Robert Parker. 
+The game is drop-in/drop-out, so no…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Legacy of the Bieth</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <title type="html"><![CDATA[Plerion - A Space Opera Adventure Game]]></title>
+        <id>https://zotiquest.zeruhur.space/plerion/2022/02/17/plerion/</id>
+        <link href="https://zotiquest.zeruhur.space/plerion/2022/02/17/plerion/"/>
+        <updated>2022-02-17T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[I know, I know… I promised to devote myself on growing and support Thálassa with an adventure guide and the first module. The guide will arrive when inspiration strikes me (and when the time will come, it’s going to be quick to write down). The module is quite ambitious since it will be a situational ecosystem to play ancient Knossos in the Mythical Age.
+Writing rulesets is my greatest enjoyment when it comes to RPGs. I really suck hard in writing adventures, but I really like to hack and mix rules, tables and ideas. Sorry pals, Here we go again! ^_^”
+My plans were to write a new Cairn Hack which was to be a sword and planet themed game, allegedly named “Swordsmen of the Solar System”. Its lore would be based on beloved authors (by me at least) like Edgar Rice Burroughs, C.L. Moore and Lei…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
-        <updated>2022-02-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March For Equality (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/</id>
-        <link href="https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/"/>
-        <updated>2022-02-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Recipe For A Good Design System]]></title>
-        <id>https://smashingmagazine.com/2022/02/recipe-good-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/02/recipe-good-design-system/"/>
-        <updated>2022-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
-        <id>https://css-tricks.com/?p=364070</id>
-        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
-        <updated>2022-02-25T21:13:08.000Z</updated>
-        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
-1) https://website.com/foo/
-2) https://websites.com/foo
-The first option has a “trailing slash.” The second does not.
-I’ve always preferred this thinking: you use a trailing …
-Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
-        <id>https://css-tricks.com/?p=363619</id>
-        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
-        <updated>2022-02-25T15:28:33.000Z</updated>
-        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
-Let me demonstrate the usefulness of …
-When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
-        <id>https://css-tricks.com/?p=364152</id>
-        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
-        <updated>2022-02-25T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
-One of the ways to help get …
-Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Anand Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
-        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
-        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
-        <updated>2022-02-24T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
-        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
-        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
-        <updated>2022-02-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Knut Melvær)</name>
+            <name>RSS Feed Title</name>
         </author>
     </entry>
 </feed>
