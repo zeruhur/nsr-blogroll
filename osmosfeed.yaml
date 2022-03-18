@@ -5,7 +5,19 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://technoskald.me/feed/
+  - href: https://tabletopcuriositycabinet.blogspot.com/feeds/posts/default
+  - href: https://substituteadventurer.blogspot.com/feeds/posts/default
+  - href: https://eskur.dev/index.xml
+  - href: https://hopefulweirdwonder.blogspot.com/feeds/posts/default
+  - href: https://blog.symbolic.city/feed/
+  - href: https://cigeengine.blogspot.com/feeds/posts/default
+  - href: https://knightattheopera.blogspot.com/feeds/posts/default
+  - href: https://riseupcomus.blogspot.com/feeds/posts/default
+  - href: https://weirdwonderfulworlds.blogspot.com/feeds/posts/default
+  - href: https://lichvanwinkle.blogspot.com/feeds/posts/default
+  - href: https://zotiquest.zeruhur.space/feed.xml
+  - href: https://lotbieth.blogspot.com/feeds/posts/default
+  - href: https://slightadjustments.blogspot.com/feeds/posts/default
+  - href: https://hamsterhoard.home.blog/feed/
+  - href: https://newschoolrevolution.com/feed.xml
