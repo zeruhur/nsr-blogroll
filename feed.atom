@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T16:23:41.664Z</id>
+    <id>urn:2022-03-18T17:22:31.515Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T16:23:41.664Z</updated>
+    <updated>2022-03-18T17:22:31.515Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,6 +16,18 @@
 Maximum Recursion Depth on Exalted Funeral!]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level Up Everyone and Everything]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:613d1cbe927160661891602c</id>
+        <link href="https://www.prismaticwasteland.com/blog/level-up-everyone-and-everything"/>
+        <updated>2022-03-15T13:16:23.000Z</updated>
+        <summary type="html"><![CDATA[In most games, the player doesn’t have a choice about what to do with their 
+XP. But what if they could invest it into their character, their followers, 
+their equipment or anything else?]]></summary>
+        <author>
+            <name>W. F. Smith</name>
         </author>
     </entry>
     <entry>
@@ -258,6 +270,17 @@ For these reasons, I don't like looking back at it, it makes me cringe. However,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Calendars, Not Just Maps]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:621812076f54662e8d018384</id>
+        <link href="https://www.prismaticwasteland.com/blog/calendars-not-just-maps"/>
+        <updated>2022-02-25T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Maps are important for running location-based adventures, but having a 
+useful calendar or timeline is equally essential.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 2]]></title>
         <id>http://technoskald.me/?p=6230</id>
         <link href="https://technoskald.me/2022/02/24/janus-mothership-campaign-session-2/"/>
@@ -292,6 +315,17 @@ Jewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A d
         <summary type="html"><![CDATA[Twice today, entirely by coincidence, I've run across different versions of a claim that might seem uncontroversial, but is worth questio...]]></summary>
         <author>
             <name>Session Zero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conspiracy in the Borderlands]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:61f09349eefbb34934aa55a0</id>
+        <link href="https://www.prismaticwasteland.com/blog/conspiracy-in-the-borderlands"/>
+        <updated>2022-02-22T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[An evaluation of the true villains of the classic adventure: the Cult of 
+Evil Chaos, including what they might be up to two hundred years later.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
         </author>
     </entry>
     <entry>
@@ -366,6 +400,37 @@ They bid what resources they are staking on their victory. They can bid innate q
 Their opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…]]></summary>
         <author>
             <name>Slight Adjustments</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPGs and Creative Constraints: What’s behind the OSR and FKR?]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/02/rpgs-and-creative-constraints-whats.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/02/rpgs-and-creative-constraints-whats.html"/>
+        <updated>2022-02-18T18:05:00.006Z</updated>
+        <summary type="html"><![CDATA[I.
+
+
+Before RPG design became my main hobby, I used to write poetry. My favorite book on my shelf from that time is The New Book of Forms by Lewis Turco. It explains the fundamental building blocks of poetry (such as what “iambic pentameter” means) and lists, in encyclopedic fashion, all the notable forms within English poetry.
+
+
+Most modern poetry is free verse, including all the poetry I ever wrote. You put the words together however you think they sound good. There are certain principles to absorb that’ll help you with that, but it’s ultimately up to your intuition of what feels right.
+
+
+It wasn’t always that way. For various historical reasons — because poetry used to be primarily for performance, because it used to be set to music, etc. — poems almost were almost always composed withi…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Taverns Need a Procedure]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:61e0d721c686d110ba5031f6</id>
+        <link href="https://www.prismaticwasteland.com/blog/your-taverns-need-a-procedure"/>
+        <updated>2022-02-18T14:06:53.000Z</updated>
+        <summary type="html"><![CDATA[I propose a procedure for running TTRPG taverns less like a beginner’s 
+improv class and more like the Mos Eisley Cantina. I also briefly describe 
+the trend of “proceduralism” in the OSR and Post-OSR.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
         </author>
     </entry>
     <entry>
