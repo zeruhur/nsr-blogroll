@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-19T08:03:27.151Z</id>
+    <id>urn:2022-03-19T08:05:13.481Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-19T08:03:27.151Z</updated>
+    <updated>2022-03-19T08:05:13.481Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Monster Parts for Magical Reagents & Research]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-monster-parts-for-magical-reagents.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-monster-parts-for-magical-reagents.html"/>
+        <updated>2022-03-18T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Confession Time: I’ve always found myself to be very fond of Spell Components, even though tracking such things is often a bit too fiddly for the tastes of most tables. Rather than making them a necessary requirement to cast a given Spell these days, I find that they can still serve a purpose if used in conjunction with standard casting by boosting the effect, duration, range, or modifying other mutable parameters of an appropriate Spell. By making them desirable instead of mandatory, players seem to enjoy amassing and keeping track of them a little more. They also serve as a great hook for potential Adventure: If rumors swirl about a particularly powerful ingredient for augmenting Magical Might, some Wonder Workers will immediately start scheming towards its acquisition. Knowledge of thes…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BONUS: Maximum Recursion Depth Exalted Funeral Printing!]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html</id>
@@ -64,6 +74,44 @@ I've been pleasantly surprised the extent to which people have responded really 
         <summary type="html"><![CDATA[Blorb is a neologism for a particular prep-focused play style that occasionally creates controversy because it means the game world is "real" even before it shows up in a session. Here are my notes on what I think it means.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Fantastical Fishes & Spectacular Seafood]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-fantastical-fishes-spectacular.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-fantastical-fishes-spectacular.html"/>
+        <updated>2022-03-11T15:15:00.004Z</updated>
+        <summary type="html"><![CDATA[Happy Friday! Here’s another table for sprucing some of the water-bound animals your players might encounter or seek out during their travels. Akin to my generator for Remarkable Birds, this kind of set dressing and these in-world “Common Names” can sometimes add a little bit of fun or interesting detail to the Wilderness Foraging, Catch-monger Stalls, or even the occasional Wave-Crawl. One column might also be useful for quick descriptors of seafood dishes the players might deign to dine upon.
+ I’ve also included a handy Perchance Generator below to speed up generation of these aquatic critters.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids On The Borderland: The Adventures of Jason the Ninja - Part 1: Sir Richard Bluecarrot the Knight.]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderland-adventures-of-jason.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderland-adventures-of-jason.html"/>
+        <updated>2022-03-11T13:25:00.005Z</updated>
+        <summary type="html"><![CDATA[As we have some time left over at the end of the lessons, we sometimes play some RPG. This goes very slowly as we're playing it in sessions as short as 5 minutes at the time sometimes. This time, a student of 7 years old made an adventurer character called Robin the Ninja, using my regular Risus setup and B2 - Keep on the Borderlands.
+So enter Jason the Ninja:
+
+
+Ninja 4
+Language Buff 3
+Basketball Player 2
+Cook 1
+
+
+He decided he wanted to check out the caves for treasure so we went on our way and I rolled to see if there was a random encounter. Or I just decided to roll to see which random encounter he came upon, I can't remember. It was weeks ago. I rolled up a giant gecko, which I just explained as a giant lizard. I googled a picture of a dimetrodon and showed that to him. I improvised a little scene to make it interesting. The beast was sunning on a log while a knight in armour with a broken shield and sword was laying on the ground going "Ow! Ow! Owowowowowowow! That was a bad idea!"
+Jason the Ninja went on to kick the Giant Lizard (3) without getting a scratch on himself. I made it a drawn out combat encounter, rather than a one roll type of encounter. He didn't get hit once, and made the lizard ran off (I let him narrate his own victory). He then carried the knight back to the castle to save him. I asked him his favorite colour and his favorite vegetable, because ... I dunno, it's silly, and made it into the name of the knight. He had now made a friend. Sir Richard Bluecarrot will accompany him on his adventures from now on, if able. Jason immediately started to train the knight in the art of the Ninja "so he can protect himself", providing him with a trampoline to practice his flips, succeeding in it.
+And that's where this part ended.
+Sir Richard Bluecarrot:
+
+
+Knight 3
+Ninja 2]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
     <entry>
@@ -190,6 +238,19 @@ Use this for your Mausritter games or maybe even Under Hill, By Water.]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[d100 - Spellbook Surrogates & Ritual Research]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-spellbook-surrogates-ritual.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-spellbook-surrogates-ritual.html"/>
+        <updated>2022-03-04T16:21:00.002Z</updated>
+        <summary type="html"><![CDATA[R
+ounding off this little run of tables, I decided to dust off another that’s been lingering in development for far too long. I’ve always been fond of unique Magic Users, but most of the time I don’t use or create a new Class/Subclass for them. There’s a significant amount of customization that can take place elsewhere to capture a different feel for a Wonder Worker, and in addition to just modifying Spell Lists/Creating New Spells, I like to tweak their process of Preparing Spells.
+ These modifications are mostly cosmetic in nature and I’d assume that whatever materials or paraphernalia affiliated with these consumes about as much Inventory Space/Encumbrance as a standard Spellbook, and perhaps even possessses a degree of similar fragility. Losing a Spellbook is never fun, and I’m sure there are interesting and creative ways Players could discover that would end up with them losing access to some of these. 
+ As I was working on this, it struck me that it might perform a bit of lovely double duty as a list of strange Rituals associated with woefully un-specified Spell Acquisition or under-detailed Magical Research as well. If the more traditonal Tome is still your personal preference, please see my previous One Hundred Grimoires Post for some ideas on how to snazz these 😊.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Protecting Our Spaces: A Response to Raggi]]></title>
         <id>https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html</id>
         <link href="https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html"/>
@@ -211,6 +272,42 @@ No, seriously! They were perhaps a bit rudimentary compared to the codified tool
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[d100 - Starting Equipment: Backstories & Seeds]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html"/>
+        <updated>2022-03-03T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Musing the other day about Randomizing the Players’ Starting Equipment (why would this Magic User have a suit of Chainmail Armor?) got me thinking: What if some of a Character’s Initial Gear could serve as a bit of double duty somehow? It would be fun if one of the items they began play with had a little History, or even maybe an Adventure Hook/Rumor/bit of Mystery to pursue right out of the gate. As a big proponent of a more Sandbox-style of play, one can never have enough seeds to broadcast into those initially fallow fields in hopes that something sprouts, so naturally I felt another table was in order 😊.
+   
+At first, I had contemplated dividing this up into categories like Weapons/Armor/Tools and such, but gradually started leaning toward attempting to make the entries at least somewhat applicable to all (as you never know what the players will decide to spend that 3d6 x 100 on or select from my Quick Equipment & Encumbrance Sheet). Some Referees perform this Shopping portion of Character Generation in play, and not all of these may be appropriate with that method, but there could be some inspiration found below for roleplaying cues I suppose.
+ Gut-feeling tells me that these would likely work best with the more durable pieces of gear on the Adventure Equipment list of your choice but it might lead to interesting situations to attach something like this to a consumable like a single Torch or Arrow. Could lead to a tough choice down the road eventually. 
+ I do have an additional d100 for Equipment here, but this list doesn’t include the “bread and butter” of Arms and Armor.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Picayune Portfolios for Lesser Local Deities]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-picayune-portfolios-for-lesser.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-picayune-portfolios-for-lesser.html"/>
+        <updated>2022-03-02T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Should you find yourself in need of a locally worshipped, minor Godling, here’s a table to help with defining their Domains. Perhaps not worshipped in a conventional sense by Clerics (though I don’t see why these wouldn’t work within the context of my system for Holy Taboos), these divinities govern what might seem like mundanity on the surface, but feel free to make them more important as necessary. Do they grant the occasional prayer of coincidence or serendipitous blessing? What sort of modest offerings does one tenderly place before their humble shrines? 
+ I also managed to squeeze in a hundred names should you find yourself at a loss for one. And yes, I decided to do the entries within this table in couplets because I’m apparently a glutton for punishment 😊.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Fairy Tale Weaknesses]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-fairy-tale-weaknesses.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-fairy-tale-weaknesses.html"/>
+        <updated>2022-03-01T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Folk and Fairy Tales abound with foes that can’t be bested in conventional ways. Some of the standard Monsters have a few hints of this quality: Lycanthropes and their susceptibility to Silver, the traditional Vampire vulnerabilities, etc. These all help grant things a more folkloric feel and generate minor puzzles/mysteries for the players to solve.
+ Occasionally, it might be interesting to provide a Monster with a special Weakness or Achillies Heel, some form of flaw that might be exploited or sometimes serve as the only method of defeat. So, here’s a list of One Hundred Fairy Tale Weaknesses that might be useful. Sometimes discovering such secret things can even lead to adventure along the way. Some of these feature a little bit of ludic bleed (relying on things like Die color, or other things at the table itself), but I find that can sometimes be rather fun in moderation.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Royal Tenenbaums meets Children of the Atom: Help me make a storygame!]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html</id>
         <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html"/>
@@ -218,6 +315,16 @@ No, seriously! They were perhaps a bit rudimentary compared to the codified tool
         <summary type="html"><![CDATA[I had a dream last night (as of when this was drafted, not posted) that got rudely interrupted by construction just as it was wrapping up. It would make a great story that I will likely never write, but could also be a storygame TTRPG. I don't normally play or run storygames, I used to listen to a bunch of Actual Plays of them but honestly at this point don't know much about them, and don't have sufficient time to invest in it, but I would love it if somebody with more knowledge and interest in storygames could help me carry this idea into some small side project. I'm somewhat less gung-ho on this now that it's been several days since I had the dream and this would admittedly be a lot of work, but I do still love this idea and I suspect one way or another this will eventually influence som…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Magical Footwear]]></title>
+        <id>https://blog.d4caltrops.com/2022/02/d100-magical-footwear.html</id>
+        <link href="https://blog.d4caltrops.com/2022/02/d100-magical-footwear.html"/>
+        <updated>2022-02-28T12:42:00.001Z</updated>
+        <summary type="html"><![CDATA[Let me see, I’ve done Swords, Shields, Bows, Potions, Grimoires, Lockpicks... I wonder what other wonderous items one might need? Below is a d100 Table that can be used for generating all manner of Magical Footwear. Rise Up Comus pointed out that this leaves our lovely Halflings in the lurch a little bit, but I suppose some could be re-skinned as toe-rings or fancy forefoot combs. Maybe I’ll make it up to them with a list of d100 “Halfling Only” items 😊.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
         </author>
     </entry>
     <entry>
@@ -254,6 +361,18 @@ I have previously talked at length about the virtues of "campaign-level play." T
 Most of this post's co…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids of the Borderland: Carnaval 2022 Actual Play Report]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/kids-of-borderland-carnaval-2022-actual.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/kids-of-borderland-carnaval-2022-actual.html"/>
+        <updated>2022-02-26T10:11:00.004Z</updated>
+        <summary type="html"><![CDATA[Yesterday was the last day before what we call "krokusvakantie" or "crocus vacation" also known as Carnaval Vacation. Carnaval being the Catholic dress-up feast before the start of Lent, also known as Mardi Gras, but not the Louisiana version of it. That's not to say that for some adults it's not also a bacchanal, but it's mostly a party where kids dress up and have a fun day. There's often parades etc.
+But yeah. The kids were not in the mood for lessons, which I had anticipated. So, we played a roleplaying game. I only got to it with one group, which was a group of 9 year olds. I chose to run Keep on the Borderlands with RISUS, but have it more geared towards young kids. I know one of the kids in that class is easily upset by violence in stories etc.
+I started the game with narrating that…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
     <entry>
@@ -346,6 +465,19 @@ intention of sharing my materials with anybody but the players of my games. I]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Bearded Belgian and the Boy Who Lived - A Harry Potter Book Series Review]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/the-bearded-belgian-and-boy-who-lived.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/the-bearded-belgian-and-boy-who-lived.html"/>
+        <updated>2022-02-20T08:42:00.003Z</updated>
+        <summary type="html"><![CDATA[My wife is a big fan of Harry Potter. In the weeks before our wedding, me, her and her best friend watched all the movies. I had only ever seen the first one, loaded with skepticism and suspicion, as my pretty newly converted evangelical self had been severely warned against this series.
+
+Turns out, it's not as bad as it seems. While watching, I had to constantly hear that as the movies progressed, the faithfulness to the books regressed, as is often the way with cinema. So we had wanted to read the books. Since then we've been peeking in second hand bookstores to find copies in English. This not being an English speaking country, finding the entire series proved harder than we thought. 
+After we found some second hand copies —including a first print edition— we started reading the first b…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 1]]></title>
         <id>http://technoskald.me/?p=6222</id>
         <link href="https://technoskald.me/2022/02/19/janus-mothership-campaign-session-1/"/>
@@ -366,6 +498,32 @@ intention of sharing my materials with anybody but the players of my games. I]]>
 One of my players will be starting a new campaign with this group using his own modified version of MRD, so we're not done! And additionally, I'm hoping to start an in-person game soon for MRD2 as I continue…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancelled Class Actual Play Report: Kids of the Borderlands]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/cancelled-class-actual-play-report-kids.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/cancelled-class-actual-play-report-kids.html"/>
+        <updated>2022-02-19T14:30:00.009Z</updated>
+        <summary type="html"><![CDATA[Yesterday there was a storm called Eunice rampaging through the country.
+Nothing as bad as storms in the USA seem to get, but enough that parents went to pick up kids from school before school was out. It made it so that I had only one pupil left of the three I normally had. This means that I skipped the normally planned lessons and we played a game.
+She liked the weird games with the dice I sometimes play with kids, so I opened B2-Keep on the Borderlands and ran it for her using RISUS. I helped her make a character, which ended up being the following the following one:
+
+
+
+The picture the girl chose 
+for her character.
+
+Eliza-B
+Huntress (4)
+Sweet Danser (3)
+Make-up Artist (2)
+Lumberjack (1)
+
+
+Asking her what she wanted to do and pointing out the areas on the map, she decided to head into t…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
     <entry>
@@ -431,6 +589,33 @@ improv class and more like the Mos Eisley Cantina. I also briefly describe
 the trend of “proceduralism” in the OSR and Post-OSR.]]></summary>
         <author>
             <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdoms of Pegolia 2022: Actual Play Report #2]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/kingdoms-of-pegolia-2022-actual-play_17.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/kingdoms-of-pegolia-2022-actual-play_17.html"/>
+        <updated>2022-02-18T06:26:00.001Z</updated>
+        <summary type="html"><![CDATA[Year one resolves in the kingdoms of Pegolia as the kids gave their reactions to what happened.
+
+
+
+
+There's two kids — who happen to be neighbors on the map — that want to play this as a game of Fortnite and immediately geared up for war. So there's a war in the mountains. For one of them (King Vili of Vil) it's reasonable, since he wants to take the volcano on the map to build a lair in. It just so happens that Johny King's capitol city is located there. Johny King though, seems to have only skimmed the information given and payed no heed to his citizens disappearing in the north, before going to wage war in the south, so he now finds flying pirate ships abducting his citizens from the actual city now that his armies are away. But at least he won the first bout of the war. He's going to need to make some decisions. King Vili will also need to make some decisions, but he has a war-hungry general (General Moustache) who is feeding him ideas.
+
+
+Others immediately started sending out feelers to see who's around. De Adder (The Viper) already questioned Rita Van Dieren (Rita of the Animals) wether or not they can make a deal. He didn't specify, so he's going to have to spend a whole other year to work this out with Rita Van Dieren.
+
+
+Rita seems to be the hub for that area, having made contact with all the players as Sofia De Beste came visiting her as well. To her only the two War Bro's in the mountain are unknown and all of the NPC kingdoms. Rita seems a bit concerned as well, (perhaps of hearing the boys talking about war) and started training hunters and fighters. 
+
+
+Pasteur Clara seems to be the only one taking any interest in the disappearing parents plot and keeps investigating how to find and free her parents. So far she has been able to find evidence of her mom in the swamps up north (they found her jacket in piles of waste) and had a vision of her parents being able to slip their bonds and jump over the edge of a flying pirate ship. She doesn't know where they are now though.
+
+
+That's it for now!]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
     <entry>
