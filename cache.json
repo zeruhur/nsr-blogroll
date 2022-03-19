@@ -108,7 +108,7 @@
           "description": "Back when I initially started this blog I was working on a GLoG hack for the table I played with at the time. It is somewhat finished, but barely playtested and the few people that did play it seemed to hate it. \nMoreover, this is from before I realised you don't actually need rules for everything, so despite aiming for 'elegant design' it is a rather convoluted mess of rules I thought I'd need because they were so prevalent in other systems, rules I wanted to add because I thought they were missing from 5e and a bunch of systems and mechanics stolen from other blogs merely because they looked interesting.\n\nFor these reasons, I don't like looking back at it, it makes me cringe. However, every once in a while when I need an example of something I like, I find myself returning to stuff I wro…",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html",
           "publishedOn": "2022-02-25T17:33:00.000Z",
-          "wordCount": 3476,
+          "wordCount": null,
           "title": "Autopsy Report: Looking back at my first GLoG hack",
           "imageUrl": null
         }
@@ -332,7 +332,7 @@
           "publishedOn": "2022-02-17T21:23:00.000Z",
           "wordCount": 4956,
           "title": "A Darkness Strewn with Gems: Session Recaps, LotB Campaign",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyTiX4G9nMpDLCb4TrA6schh0l6arZ6juchv3uh-zPBaQmfZDE4PDnk0Gcc23waltMGMuMxW6VNL2z2i3ZIBIzmf7gvb3AbZcC7lwSgqovIeP_Oe8rEQzwQv5kL8Y0hR6f6wj26YCjrX8txX9FRsFa_fTZGC3TWzFqorE0HHQKlP_w17w=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/ABLy4EyTiX4G9nMpDLCb4TrA6schh0l6arZ6juchv3uh-zPBaQmfZDE4PDnk0Gcc23waltMGMuMxW6VNL2z2i3ZIBIzmf7gvb3AbZcC7lwSgqovIeP_Oe8rEQzwQv5kL8Y0hR6f6wj26YCjrX8txX9FRsFa_fTZGC3TWzFqorE0HHQKlP_w17w=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -349,7 +349,7 @@
           "publishedOn": "2022-02-19T02:43:00.007Z",
           "wordCount": 3699,
           "title": "One Million Swords",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezy7T6rz0Fw-aiyZ9MSQbk0v0N4FddKGsv9rx7F7tdGw4EnBllior9_RKE09kRjCa1gUsZuZKSpYEyFtNPlUzQEEpFhqO3cLnJ8GBd2NWK3tV0UjNzCvXQbNl8ZmVzFnDi49rE=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwRIDGB3svtLIDhcH4U40MW8zPzWNiZjzosfjG4f8Ku40rAemQ82odbm12HVZPZbbYEEjSuqtf3MCnEqxHAwOIGW5T0Sx1d9rr3MnlyG80bo6-cKrA0JwozIXhX88NsIil2_AY=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -389,7 +389,7 @@
           "publishedOn": "2022-02-19T02:43:00.007Z",
           "wordCount": 3699,
           "title": "One Million Swords",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezy7T6rz0Fw-aiyZ9MSQbk0v0N4FddKGsv9rx7F7tdGw4EnBllior9_RKE09kRjCa1gUsZuZKSpYEyFtNPlUzQEEpFhqO3cLnJ8GBd2NWK3tV0UjNzCvXQbNl8ZmVzFnDi49rE=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwRIDGB3svtLIDhcH4U40MW8zPzWNiZjzosfjG4f8Ku40rAemQ82odbm12HVZPZbbYEEjSuqtf3MCnEqxHAwOIGW5T0Sx1d9rr3MnlyG80bo6-cKrA0JwozIXhX88NsIil2_AY=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -594,6 +594,24 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhMrZ6tW2f9q522Blnnpan6rV-9tqlCt-Bf-pCamtPcVIxd_5QedznUPZEbuBC-2sBsC66rVuxN8Pyo6Vj9TNTyH2hBQnOHRKDS-8ao30fzzjabTwP2eckFALw97jNefts72cpXmWv-FcPLXHP_VRysV7k7Q6f3xiEr9mK-YxNkDxIHMLz55EVq8Tim=w1200-h630-p-k-no-nu"
         }
       ]
+    },
+    {
+      "title": "Hopeful Weird Wonder",
+      "feedUrl": "https://hopefulweirdwonder.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://hopefulweirdwonder.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "Academy of Doors",
+      "feedUrl": "https://feeds.feedburner.com/AcademyOfDoors",
+      "siteUrl": "https://academyofdoors.blogspot.com/",
+      "articles": []
+    },
+    {
+      "title": "The Cosmic Orrery",
+      "feedUrl": "https://thecosmicorrery.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://thecosmicorrery.blogspot.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"
