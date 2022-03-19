@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-18T17:22:31.515Z</id>
+    <id>urn:2022-03-19T01:00:53.090Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T17:22:31.515Z</updated>
+    <updated>2022-03-19T01:00:53.090Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -443,18 +443,6 @@ I'm adapting Gus L's Tomb Robbers of the Crystal Frontier as the introductory du
 The game is drop-in/drop-out, so no…]]></summary>
         <author>
             <name>Legacy of the Bieth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plerion - A Space Opera Adventure Game]]></title>
-        <id>https://zotiquest.zeruhur.space/plerion/2022/02/17/plerion/</id>
-        <link href="https://zotiquest.zeruhur.space/plerion/2022/02/17/plerion/"/>
-        <updated>2022-02-17T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[I know, I know… I promised to devote myself on growing and support Thálassa with an adventure guide and the first module. The guide will arrive when inspiration strikes me (and when the time will come, it’s going to be quick to write down). The module is quite ambitious since it will be a situational ecosystem to play ancient Knossos in the Mythical Age.
-Writing rulesets is my greatest enjoyment when it comes to RPGs. I really suck hard in writing adventures, but I really like to hack and mix rules, tables and ideas. Sorry pals, Here we go again! ^_^”
-My plans were to write a new Cairn Hack which was to be a sword and planet themed game, allegedly named “Swordsmen of the Solar System”. Its lore would be based on beloved authors (by me at least) like Edgar Rice Burroughs, C.L. Moore and Lei…]]></summary>
-        <author>
-            <name>RSS Feed Title</name>
         </author>
     </entry>
 </feed>
