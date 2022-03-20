@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T08:18:52.173Z</id>
+    <id>urn:2022-03-20T16:21:45.032Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T08:18:52.173Z</updated>
+    <updated>2022-03-20T16:21:45.032Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Response to Patrick Stuart's Post About Flow Control]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html"/>
+        <updated>2022-03-20T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[This was originally intended as a comment on Patrick Stuart's blog post WHAT IS FLOW CONTROL?? (AND WHY SHOULD I CARE?) but my comment was too long so I'm just making it it's own post in response. You should definitely read that post first or this response won't make sense.
+
+I appreciate the self awareness you demonstrate in questioning the extent to which you actually prefer a greater sense of freedom even if it's made a lesser experience, and likewise differentiating between actual freedom and the sense of freedom. These are both critical, I think, to any kind of discussion on this topic.
+
+While I dislike the extreme linearity or narrative constraints of Paizo/modern WotC design and a lot of PbtA/FitD/storygames respectively, it's also an easy straw man/false binary that I can already ki…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday Night Daydreams]]></title>
         <id>http://githyankidiaspora.com/?p=18672</id>
@@ -624,52 +638,6 @@ Lumberjack (1)
 Asking her what she wanted to do and pointing out the areas on the map, she decided to head into t…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Million Swords]]></title>
-        <id>https://slightadjustments.blogspot.com/2022/02/one-million-swords.html</id>
-        <link href="https://slightadjustments.blogspot.com/2022/02/one-million-swords.html"/>
-        <updated>2022-02-19T02:43:00.007Z</updated>
-        <summary type="html"><![CDATA[img.gallery { 	width: 100% } figure.gallery { 	text-align: center } 
- 		Seven of Swords - Ride-Waite tarot deck
-Combat
-Victory is not achieved by skill (attack bonuses) or luck (high dice rolls). Each combatant takes turns bidding things they are willing to sacrifice to help them achieve victory. Combat ends when one side surrenders, or when they risk their life in pursuit of victory, and fail.
-
-Whoever says "I attack!" first, goes first.
-They bid what resources they are staking on their victory. They can bid innate qualities or training, relevant equipment, situational advantages, and things they are willing to sacrifice. The initial bid can't be changed after this step.
-Their opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…]]></summary>
-        <author>
-            <name>Slight Adjustments</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Million Swords]]></title>
-        <id>https://slightadjustments.blogspot.com/2022/02/one-million-swords.html</id>
-        <link href="https://slightadjustments.blogspot.com/2022/02/one-million-swords.html"/>
-        <updated>2022-02-19T02:43:00.007Z</updated>
-        <summary type="html"><![CDATA[img.gallery { 	width: 100% } figure.gallery { 	text-align: center } 
- 		Seven of Swords - Ride-Waite tarot deck
-Combat
-Victory is not achieved by skill (attack bonuses) or luck (high dice rolls). Each combatant takes turns bidding things they are willing to sacrifice to help them achieve victory. Combat ends when one side surrenders, or when they risk their life in pursuit of victory, and fail.
-
-Whoever says "I attack!" first, goes first.
-They bid what resources they are staking on their victory. They can bid innate qualities or training, relevant equipment, situational advantages, and things they are willing to sacrifice. The initial bid can't be changed after this step.
-Their opponent must meet or exceed that bid with their own resources (qualities, equipment, advantages, sacrifices). If…]]></summary>
-        <author>
-            <name>Slight Adjustments</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mothership, What We Give to Alien Gods, S2: Aboard the Corporate Science Frigate Balinadae]]></title>
-        <id>http://githyankidiaspora.com/?p=18361</id>
-        <link href="https://githyankidiaspora.com/2022/02/18/mothership-what-we-give-to-alien-gods-s2-aboard-the-corporate-science-frigate-balinadae/"/>
-        <updated>2022-02-18T21:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Mothership, What We Give to Alien Gods, S2: Aboard the Corporate Science Frigate Balinadae
-
-In which the scientists look through the powered down science frigate their mentor had taken into this nebula and abandoned before everyone went into the alien temple.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
