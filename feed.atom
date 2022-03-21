@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T12:26:27.129Z</id>
+    <id>urn:2022-03-21T16:28:28.951Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T12:26:27.129Z</updated>
+    <updated>2022-03-21T16:28:28.951Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Monster Special Attacks]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-monster-special-attacks.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-monster-special-attacks.html"/>
+        <updated>2022-03-21T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a quick table that has somehow managed to evade posting for some time now. This itemizes some of the Monster Special Attacks found within the B/X and OSE rulesets. I’ve found it useful in conjunction with a standard Stat Block (such as the classic “Just Use Bears”) for creating new and unexpected Monsters for the players to face off with. Reconciling these abilities can sometimes lead to interesting physical traits, which in turn can influence the description of the Creature 😊.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women Warriors]]></title>
         <id>https://knightattheopera.blogspot.com/2022/03/women-warriors.html</id>
