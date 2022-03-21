@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T08:22:10.278Z</id>
+    <id>urn:2022-03-21T12:26:27.129Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T08:22:10.278Z</updated>
+    <updated>2022-03-21T12:26:27.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -410,6 +410,16 @@ No, seriously! They were perhaps a bit rudimentary compared to the codified tool
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Any Source Is Gameable]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/03/any-source-is-gameable.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/03/any-source-is-gameable.html"/>
+        <updated>2022-03-03T16:44:00.008Z</updated>
+        <summary type="html"><![CDATA[Reposted from Issue #2 of The Neverending Drachenschwanz, an FKR fanzine.]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[d100 - Starting Equipment: Backstories & Seeds]]></title>
         <id>https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html</id>
         <link href="https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html"/>
@@ -521,6 +531,18 @@ But yeah. The kids were not in the mood for lessons, which I had anticipated. So
 I started the game with narrating that…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta NPCs - Reusing My Favorites Across Game Worlds]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/02/meta-npcs-reusing-my-favorites-across.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/02/meta-npcs-reusing-my-favorites-across.html"/>
+        <updated>2022-02-25T19:12:00.001Z</updated>
+        <summary type="html"><![CDATA[I have found, as an evergreen referee, that I'd much rather pilot NPCs than play a proper character in an ongoing campaign. I've mentioned this before, but as I consider today's topic, it is especially relevant. 
+NPCs are skeleton keys to the campaign world for referees. They are direct representations of tropes, themes, needs, and wants that you (if you're running a game) want to convey to the players to make the setting come alive. I'd rather spend three hours playing a dozen+ NPCs than a single, titular character. I've learned this over time. It remains my staple experience in adventure games. 
+This is brief preamble for my sharing with you my Meta NPCs. That is, my favorite NPCs that show up in just about all of my games regardless of genre or setting (tailored to fit, as necessary). I…]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
         </author>
     </entry>
     <entry>
