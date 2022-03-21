@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T01:05:18.990Z</id>
+    <id>urn:2022-03-21T07:32:03.239Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T01:05:18.990Z</updated>
+    <updated>2022-03-21T07:32:03.239Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Women Warriors]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/03/women-warriors.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/03/women-warriors.html"/>
+        <updated>2022-03-21T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Credit: Malaysian artist Qistina Khalida, who
+you should all go check out immediately
+
+
+Female Fighters
+
+
+Lady Lancers
+
+
+Nonbinary Knights
+
+
+I have a ton of folders of collected artwork for D&D inspiration. I was just thinking to myself that they could make for a good post. Why not start here? 
+
+
+I hope you like women in armor, because I have many digital binders full of 'em. This collection skews towards European knight aesthetics because I'm a hack. Feel free to correct that in the comments by contributing more pics. 
+
+
+I've tried to credit everyone. This isn't exhaustive or anything, these are just the pieces I've come across over the years that I enjoyed enough to save.
+
+
+This one goes out to all the thirsty lesbians reading this blog. If it's popular then I'll do more of these posts (…]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 5]]></title>
         <id>http://technoskald.me/?p=6335</id>
@@ -82,6 +114,28 @@ XP. But what if they could invest it into their character, their followers,
 their equipment or anything else?]]></summary>
         <author>
             <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUNGEON!, STRATEGOS, AND D&D]]></title>
+        <id>https://alldeadgenerations.blogspot.com/2022/03/dungeon-strategos-and-d.html</id>
+        <link href="https://alldeadgenerations.blogspot.com/2022/03/dungeon-strategos-and-d.html"/>
+        <updated>2022-03-14T04:07:00.001Z</updated>
+        <summary type="html"><![CDATA[Stumbling  Towards  D&D's Alternate, Alternate Combat System
+
+
+ 
+
+
+
+The combat mechanics of Classic fantasy RPGs are a huge source of both debate and game design innovation. The first official changes to Dungeons & Dragons in “Supplement 1 - Greyhawk” are changes to combat mechanics (variable Hit Dice, including weapon damage and Hit Points by class) that form a central aspect of every subsequent edition of Dungeons & Dragons. Even now D&D's combat rules continue to evolve, increasing in complexity and offering ever more variability, steadily accreting to form the 100’s of pages of rules, customization options, feats, spells and mechanics that allow the current edition to function almost as a tactical game of fantasy superpowers and feat usage.
+
+
+
+
+I’m not going to catalog, debate, or mock…]]></summary>
+        <author>
+            <name>All Dead Generations</name>
         </author>
     </entry>
     <entry>
@@ -551,6 +605,19 @@ Jewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A d
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRYSTAL FRONTIER - GYGAX '75 PART 1]]></title>
+        <id>https://alldeadgenerations.blogspot.com/2022/02/crystal-frontier-gygax-75-part-1.html</id>
+        <link href="https://alldeadgenerations.blogspot.com/2022/02/crystal-frontier-gygax-75-part-1.html"/>
+        <updated>2022-02-22T22:22:00.003Z</updated>
+        <summary type="html"><![CDATA[A draft cover for a potential
+Crystal Frontier adventure
+
+A purchaser of Tomb Robbers of the Crystal Frontier recently asked me how the adventure might fit into a larger setting. Specifically they inquired about the "Warlock King", ruler of the Bull Kingdom - who claims sovereignty over the Frontier but doesn’t seem to project much power into it. The Warlock King and Bull Kingdom have been mentioned in a couple of Crystal Frontier adventures, notably Marble Eye, the Bruja in The Bruja, The Beast and The Barrow is a refugee from the King’s court, hiding in exile from the his demonic assassins. Other then that we know of the King and his nation only through Jolly Diamond, the Bull Kingdom’s agent in Scarlet Town, a bad gambler and sore loser whose loyalty is enforced by a “demon mark” on his…]]></summary>
+        <author>
+            <name>All Dead Generations</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Conspiracy in the Borderlands]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:61f09349eefbb34934aa55a0</id>
         <link href="https://www.prismaticwasteland.com/blog/conspiracy-in-the-borderlands"/>
@@ -597,55 +664,6 @@ intention of sharing my materials with anybody but the players of my games. I]]>
 
 Turns out, it's not as bad as it seems. While watching, I had to constantly hear that as the movies progressed, the faithfulness to the books regressed, as is often the way with cinema. So we had wanted to read the books. Since then we've been peeking in second hand bookstores to find copies in English. This not being an English speaking country, finding the entire series proved harder than we thought. 
 After we found some second hand copies —including a first print edition— we started reading the first b…]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 1]]></title>
-        <id>http://technoskald.me/?p=6222</id>
-        <link href="https://technoskald.me/2022/02/19/janus-mothership-campaign-session-1/"/>
-        <updated>2022-02-19T17:07:05.000Z</updated>
-        <summary type="html"><![CDATA[I’ve recently kicked off a Mothership campaign with friends that focuses more on the stresses of making a living in a capitalist space dystopia than on “horror” in the genre sense. I’m not quite sure what will come of it, but for now we’re having fun. The game takes place two centuries from now in … Continue reading “Janus” Mothership Campaign – Session 1 →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD Campaign PENULTIMATE Play Reports]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/02/mrd-campaign-penultimate-play-reports.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/02/mrd-campaign-penultimate-play-reports.html"/>
-        <updated>2022-02-19T14:41:00.001Z</updated>
-        <summary type="html"><![CDATA[After >1yr, we've decided to wrap up our MRD campaign. I was developing the MRD core book simultaneously, so this campaign informed a lot of the tone, setting, and content that went into the final book. While we very early on deviated from the core structure of Poltergeist Investigation -> Court Crawl, I'm happy that we got to do some of that, while also demonstrating how this system and setting can support much more than just that. There's a lot of stuff I've written on my blog that isn't in the core book, but it's become a rich and interesting setting, and I'm very grateful for it.
-
-
-One of my players will be starting a new campaign with this group using his own modified version of MRD, so we're not done! And additionally, I'm hoping to start an in-person game soon for MRD2 as I continue…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cancelled Class Actual Play Report: Kids of the Borderlands]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/cancelled-class-actual-play-report-kids.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/cancelled-class-actual-play-report-kids.html"/>
-        <updated>2022-02-19T14:30:00.009Z</updated>
-        <summary type="html"><![CDATA[Yesterday there was a storm called Eunice rampaging through the country.
-Nothing as bad as storms in the USA seem to get, but enough that parents went to pick up kids from school before school was out. It made it so that I had only one pupil left of the three I normally had. This means that I skipped the normally planned lessons and we played a game.
-She liked the weird games with the dice I sometimes play with kids, so I opened B2-Keep on the Borderlands and ran it for her using RISUS. I helped her make a character, which ended up being the following the following one:
-
-
-
-The picture the girl chose 
-for her character.
-
-Eliza-B
-Huntress (4)
-Sweet Danser (3)
-Make-up Artist (2)
-Lumberjack (1)
-
-
-Asking her what she wanted to do and pointing out the areas on the map, she decided to head into t…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
         </author>
