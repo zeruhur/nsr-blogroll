@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-20T21:17:57.401Z</id>
+    <id>urn:2022-03-21T01:05:18.990Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-20T21:17:57.401Z</updated>
+    <updated>2022-03-21T01:05:18.990Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 5]]></title>
+        <id>http://technoskald.me/?p=6335</id>
+        <link href="https://technoskald.me/2022/03/20/janus-mothership-campaign-session-5/"/>
+        <updated>2022-03-21T00:37:31.000Z</updated>
+        <summary type="html"><![CDATA[In this week's session, I took a small location from the Dissident Whispers book, added some content from Dead Planet and the third-party module Black Heart of Paradise, and generated one of my favorite sessions of Mothership yet.]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Response to Patrick Stuart's Post About Flow Control]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html</id>
