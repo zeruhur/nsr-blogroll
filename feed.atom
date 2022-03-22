@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T10:09:17.911Z</id>
+    <id>urn:2022-03-22T16:34:03.147Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T10:09:17.911Z</updated>
+    <updated>2022-03-22T16:34:03.147Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ordering the Chaos: Qualitative Harm and Encumbrance]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html"/>
+        <updated>2022-03-22T14:31:00.006Z</updated>
+        <summary type="html"><![CDATA[I am having a really hard time explaining people what I do when I run games. It is the next section I am trying to work on for FLoK, but even with the help of some folks who I have run games for, it is slow going. 
+To help the process along, I figured I would make some qualitative systems that sort of line up with how I tend to do things at the table. Mind you, this isn't what I actually consciously have in the back of my head while running, but I think using this will land you in a similar place. 
+
+To help understand where I am coming from it might be useful to keep in mind what my number one principle is when running games: Fluff = Crunch. Both for players, as well as for GMs.
+
+With that out of the way, here's some systems:
+
+Harm:
+Scuffs and Bruises
+These take a toll on you, making you l…]]></summary>
+        <author>
+            <name>Tabletop Curiosity Cabinet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First Impressions of some free stuff I found on Itch.io today]]></title>
         <id>https://substituteadventurer.blogspot.com/2022/03/first-impressions-of-some-free-stuff-i.html</id>
