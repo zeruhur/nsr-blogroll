@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T16:28:28.951Z</id>
+    <id>urn:2022-03-22T01:07:38.415Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T16:28:28.951Z</updated>
+    <updated>2022-03-22T01:07:38.415Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kids on the Borderlands: The Orc Caves (B+C) - part 1]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-1.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-1.html"/>
+        <updated>2022-03-21T17:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The Orcs on the Borderlands: Caves B and C or rooms 7-16
+
+
+
+Pig Faced Orc by Trash Mob Minis
+
+
+
+In the game I play with the kids using RISUS, the orcs are Pig Men who are dirty, gluttonous and lazy. Evil is also comically evil in this game, because I’m playing with young kids. This makes these encounters and scenes a lot more fun than dangerous, though there is danger and —depending on the sensibilities of the kids— lethal. Though situations should play out in such a way that evil should not triumph but rather defeat itself.
+
+
+I started thinking about this because in the game I play when we’re done early in class, the kid made it until the caves and decided to check out cave C. So I’ve been reading that entry lately, thinking about how I could run it for this 6 or 7 year old kid. And I tho…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Monster Special Attacks]]></title>
         <id>https://blog.d4caltrops.com/2022/03/d100-monster-special-attacks.html</id>
@@ -433,12 +454,12 @@ No, seriously! They were perhaps a bit rudimentary compared to the codified tool
         <title type="html"><![CDATA[d100 - Starting Equipment: Backstories & Seeds]]></title>
         <id>https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html</id>
         <link href="https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html"/>
-        <updated>2022-03-03T15:57:00.000Z</updated>
+        <updated>2022-03-03T15:57:00.001Z</updated>
         <summary type="html"><![CDATA[Musing the other day about Randomizing the Players’ Starting Equipment (why would this Magic User have a suit of Chainmail Armor?) got me thinking: What if some of a Character’s Initial Gear could serve as a bit of double duty somehow? It would be fun if one of the items they began play with had a little History, or even maybe an Adventure Hook/Rumor/bit of Mystery to pursue right out of the gate. As a big proponent of a more Sandbox-style of play, one can never have enough seeds to broadcast into those initially fallow fields in hopes that something sprouts, so naturally I felt another table was in order 😊.
    
 At first, I had contemplated dividing this up into categories like Weapons/Armor/Tools and such, but gradually started leaning toward attempting to make the entries at least somewhat applicable to all (as you never know what the players will decide to spend that 3d6 x 100 on or select from my Quick Equipment & Encumbrance Sheet). Some Referees perform this Shopping portion of Character Generation in play, and not all of these may be appropriate with that method, but there could be some inspiration found below for roleplaying cues I suppose.
  Gut-feeling tells me that these would likely work best with the more durable pieces of gear on the Adventure Equipment list of your choice but it might lead to interesting situations to attach something like this to a consumable like a single Torch or Arrow. Could lead to a tough choice down the road eventually. 
- I do have an additional d100 for Equipment here, but this list doesn’t include the “bread and butter” of Arms and Armor.]]></summary>
+ I do have an additional d100 for Equipment here, but this list doesn’t include the “bread and butter” of Arms and Armor. Updated: with Perchance generator below.]]></summary>
         <author>
             <name>d4 Caltrops</name>
         </author>
@@ -675,29 +696,6 @@ of developing hand-crafted adventures and setting materials on my own. I have no
 intention of sharing my materials with anybody but the players of my games. I]]></summary>
         <author>
             <name>Lich Van Winkle's Return to Gaming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mothership: Quick and Easy Sci-fi Soldier Creation Tables]]></title>
-        <id>http://githyankidiaspora.com/?p=18451</id>
-        <link href="https://githyankidiaspora.com/2022/02/20/mothership-roll-up-a-fast-soldier/"/>
-        <updated>2022-02-20T09:07:58.000Z</updated>
-        <summary type="html"><![CDATA[In case your Mothership team has to hire a soldier or you've got an NPC and need to flesh 'em out fast. Here's a table using for 1d10 and 1d10 and a if you need - a d20 to come up with a soldier NPC. Usable for any science fiction tabletop role-playing game.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bearded Belgian and the Boy Who Lived - A Harry Potter Book Series Review]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/the-bearded-belgian-and-boy-who-lived.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/the-bearded-belgian-and-boy-who-lived.html"/>
-        <updated>2022-02-20T08:42:00.003Z</updated>
-        <summary type="html"><![CDATA[My wife is a big fan of Harry Potter. In the weeks before our wedding, me, her and her best friend watched all the movies. I had only ever seen the first one, loaded with skepticism and suspicion, as my pretty newly converted evangelical self had been severely warned against this series.
-
-Turns out, it's not as bad as it seems. While watching, I had to constantly hear that as the movies progressed, the faithfulness to the books regressed, as is often the way with cinema. So we had wanted to read the books. Since then we've been peeking in second hand bookstores to find copies in English. This not being an English speaking country, finding the entire series proved harder than we thought. 
-After we found some second hand copies —including a first print edition— we started reading the first b…]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
