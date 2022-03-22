@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T01:07:38.415Z</id>
+    <id>urn:2022-03-22T08:21:07.891Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T01:07:38.415Z</updated>
+    <updated>2022-03-22T08:21:07.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Impressions of some free stuff I found on Itch.io today]]></title>
+        <id>https://substituteadventurer.blogspot.com/2022/03/first-impressions-of-some-free-stuff-i.html</id>
+        <link href="https://substituteadventurer.blogspot.com/2022/03/first-impressions-of-some-free-stuff-i.html"/>
+        <updated>2022-03-22T04:31:00.004Z</updated>
+        <summary type="html"><![CDATA[I browse "new free physical games" on itch.io at least a couple of times a week. Today I had time to write a blog post about what I found. I might do more of these if people dig it and if I find the time.
+
+Tools, Tables, Mechanics, and Mosaics
+Lines and Circles 
+
+So this is a Mosaic Strict procedure that provides a structure for players to model a romantic relationship. In a lot of ways Lines and Circles strikes me as a lyric game. It’s interesting to read, beautiful in a way, esoteric, and only kind of a game. 
+
+But then I think about how it might be more than that. The mechanics themselves aren’t much. You pick a type of relationship (line or circle) and progress through some scenes, negotiating what happens, and gaining and losing bond points as you go. Normally I avoid romantic relatio…]]></summary>
+        <author>
+            <name>Substitute Adventurer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexcrawl Dashboards]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html"/>
+        <updated>2022-03-22T02:21:00.001Z</updated>
+        <summary type="html"><![CDATA[[Voiceover] You're just a GM who wants to run a hexcrawl! But has THIS happened to YOU?!
+...You have the module open!
+...And the map!
+...And the random encounter tables!
+...And a virtual dice roller!
+...And the monster manual!
+...And your notes!
+Soon, there's so many windows open that you don't know which is which! There's GOT to be a BETTER WAY!
+
+
+Introducing! The...
+
+Hexcrawl Dashboard
+I've put together a proof of concept for something I've been calling the Hexcrawl Dashboard: a patchwork of iFramed tools cobbled together onto a single site for ease of GM access. The gimmick is that you have a single page for your map, your encounters, your random encounters, your dungeons, your monster's stats - anything you need to reference during play.
+
+
+Click the image to check out the sample Hexcra…]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kids on the Borderlands: The Orc Caves (B+C) - part 1]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-1.html</id>
@@ -679,23 +722,6 @@ A purchaser of Tomb Robbers of the Crystal Frontier recently asked me how the ad
 Evil Chaos, including what they might be up to two hundred years later.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hand-Crafted Adventures]]></title>
-        <id>https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html</id>
-        <link href="https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html"/>
-        <updated>2022-02-20T16:54:00.002Z</updated>
-        <summary type="html"><![CDATA[There was a period of years early in
-the hobby’s history when there were no adventure modules at all. In those days,
-everybody made their own adventures by hand—without computers. You can,
-too.
-
-Lately I’ve returned to the quiet pleasure
-of developing hand-crafted adventures and setting materials on my own. I have no
-intention of sharing my materials with anybody but the players of my games. I]]></summary>
-        <author>
-            <name>Lich Van Winkle's Return to Gaming</name>
         </author>
     </entry>
 </feed>

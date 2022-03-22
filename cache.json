@@ -118,7 +118,18 @@
       "title": "Substitute Adventurer",
       "feedUrl": "https://substituteadventurer.blogspot.com/feeds/posts/default",
       "siteUrl": "https://substituteadventurer.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://substituteadventurer.blogspot.com/2022/03/first-impressions-of-some-free-stuff-i.html",
+          "author": null,
+          "description": "I browse \"new free physical games\" on itch.io at least a couple of times a week. Today I had time to write a blog post about what I found. I might do more of these if people dig it and if I find the time.\n\nTools, Tables, Mechanics, and Mosaics\nLines and Circles \n\nSo this is a Mosaic Strict procedure that provides a structure for players to model a romantic relationship. In a lot of ways Lines and Circles strikes me as a lyric game. It’s interesting to read, beautiful in a way, esoteric, and only kind of a game. \n\nBut then I think about how it might be more than that. The mechanics themselves aren’t much. You pick a type of relationship (line or circle) and progress through some scenes, negotiating what happens, and gaining and losing bond points as you go. Normally I avoid romantic relatio…",
+          "link": "https://substituteadventurer.blogspot.com/2022/03/first-impressions-of-some-free-stuff-i.html",
+          "publishedOn": "2022-03-22T04:31:00.004Z",
+          "wordCount": 2148,
+          "title": "First Impressions of some free stuff I found on Itch.io today",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "eskur.dev",
@@ -176,7 +187,7 @@
           "description": "Credit: Malaysian artist Qistina Khalida, who\nyou should all go check out immediately\n\n\nFemale Fighters\n\n\nLady Lancers\n\n\nNonbinary Knights\n\n\nI have a ton of folders of collected artwork for D&D inspiration. I was just thinking to myself that they could make for a good post. Why not start here? \n\n\nI hope you like women in armor, because I have many digital binders full of 'em. This collection skews towards European knight aesthetics because I'm a hack. Feel free to correct that in the comments by contributing more pics. \n\n\nI've tried to credit everyone. This isn't exhaustive or anything, these are just the pieces I've come across over the years that I enjoyed enough to save.\n\n\nThis one goes out to all the thirsty lesbians reading this blog. If it's popular then I'll do more of these posts (…",
           "link": "https://knightattheopera.blogspot.com/2022/03/women-warriors.html",
           "publishedOn": "2022-03-21T06:33:00.000Z",
-          "wordCount": 1363,
+          "wordCount": 1355,
           "title": "Women Warriors",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjQKHEjia49xZKtgVUfMzUEXhR6nv9FOlvI-J_RLDAVtYCLB1v_g2QUiDDdUbWX_jZY_42GvbsE24X2LoX7Kz3rnTWW45zkcVlpm0DSsWOJayAkvh5w4c2cNJyda2f2EAE7hmmSyWrWdznWk6nmIjydqyjgOY5WSOZ9dA-Yo63stI1qghyt0Bdlpwu3=w1200-h630-p-k-no-nu"
         },
@@ -186,7 +197,7 @@
           "description": "Return to part 1\n\nContinuing from part 2, I'm exploring some alternatives to the traditional role that money and economics plays in D&D, inspired by real-life situations found in history, with the occasional creative liberty taken here or there to make things more gameable. It's fantasy after all, we're not going to stress about accuracy here. Last time I just talked about small-to-medium adjustments to the existing economic situations your players engage in. This time I want to think bigger picture. In traditional, OSR, \"XP for Gold\" schemes, dungeoneering is a path that leads to domains being built up for each individual player. But what other campaign arcs shaped by treasure can we imagine?\nAn important caveat for this: all specific numbers and variables are intentionally left ambiguous…",
           "link": "https://knightattheopera.blogspot.com/2022/03/alternative-economics-part-3-treasure.html",
           "publishedOn": "2022-03-13T16:02:00.003Z",
-          "wordCount": 9150,
+          "wordCount": 9142,
           "title": "Alternative Economics (Part 3: Treasure-Driven Adventure)",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhM6nbGVf6kL7uJN1COPf1ddpsCVqCuTqznGslfSUFcW0JXmVLjs6BZMpzcQm3Uhtndc_NDJdb7D8mHhtFVRGe9XSpumhz4-2DyXLvMk7EhjhY4dHlBTthI_4P-c8Mizu2bMcVpBxYKnRGOPpMl6x-a64r4b8vyzIvi0p2fOtInw_UJM2obAzbDxnF9=w1200-h630-p-k-no-nu"
         },
@@ -196,7 +207,7 @@
           "description": "Return to part 1\n\n\n\n\nI have previously talked at length about the virtues of \"campaign-level play.\" That is, rather than only ever running your game as a series of mostly-isolated scenarios in episodic fashion and then calling it a \"campaign,\" you actually flesh out all the connective tissue between adventures. There are certain gameplay structures you can incorporate which aren't really interacted with on a scenario-to-scenario basis, but which nonetheless have an impact on the campaign as a whole. Examples I give are things like a calendar and downtime play, usable maps and travel gameplay, complicated NPC relationship charts that'll change over time, and of course, domain play and some slightly more in-depth economics than just a menu of regular adventuring gear.\n\nMost of this post's co…",
           "link": "https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html",
           "publishedOn": "2022-02-27T00:33:00.010Z",
-          "wordCount": 13978,
+          "wordCount": 13970,
           "title": "Alternative Economics (Part 2: Interesting Choices)",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgSnNkCWpyIbwGm_yeYgh6TDUgn9djwq42HLmvdAKaQZloQ8B30u4YZLhzKCJ7rGWKTjP4ERHP_N0bZTcx0dI8t7262kRC9brnaU-o7SxKnm8KadhEdZJH8AT5qrNIw-bJ4pH3NgoEvvOKXDenG9LiC0mLC9kM7WYW5fvNuHEd0P1KyYtHyDagabGpi=w1200-h630-p-k-no-nu"
         }
@@ -208,12 +219,22 @@
       "siteUrl": "https://riseupcomus.blogspot.com/",
       "articles": [
         {
+          "id": "https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html",
+          "author": null,
+          "description": "[Voiceover] You're just a GM who wants to run a hexcrawl! But has THIS happened to YOU?!\n...You have the module open!\n...And the map!\n...And the random encounter tables!\n...And a virtual dice roller!\n...And the monster manual!\n...And your notes!\nSoon, there's so many windows open that you don't know which is which! There's GOT to be a BETTER WAY!\n\n\nIntroducing! The...\n\nHexcrawl Dashboard\nI've put together a proof of concept for something I've been calling the Hexcrawl Dashboard: a patchwork of iFramed tools cobbled together onto a single site for ease of GM access. The gimmick is that you have a single page for your map, your encounters, your random encounters, your dungeons, your monster's stats - anything you need to reference during play.\n\n\nClick the image to check out the sample Hexcra…",
+          "link": "https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html",
+          "publishedOn": "2022-03-22T02:21:00.001Z",
+          "wordCount": 1702,
+          "title": "Hexcrawl Dashboards",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgcx8_CNFc2nOVv1Z3qtfy6PCjXkicWMnhjMqzL3IUL4jmQgzYLhMbbJVDcYQ5feOfSEicE0gQBxkLTThASPOyFmhTgZyqhHq1dLzJkpRoTMKCLg1G0DaqwvBMTv-UG13x1Fb_EApSRwEXAthJyWhTvMxaWvFqZLWjgd-AUj0KAGcyyvGudCCrHAN1oHQ=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html",
           "author": null,
           "description": "I'm a big fan of random tables. Assuming I curate the table correctly, a random table brings a feeling of exciting realness to the flow of a game - they ensure I'm not just writing a fantasy novel in front of my players.\nHowever, during a game, I can only have so many *things* in front of me. I'm always thinking, \"Wait, I know I have a d100 list of books around here, where did I put the Dungeon Alphabet?\" In practice, I've become frustrated with how many good tables I know I own vs how many good tables I can bring to hand easily.\nI'm trying to solve this problem with technology. I started experimenting with Perchance.\nHere is a generator I made to run a Middle-earth game set in the Trollshaws:\n\nIf you're looking for a random encounter table to use for your next MERP game, voila! You can st…",
           "link": "https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html",
           "publishedOn": "2022-03-09T13:37:00.002Z",
-          "wordCount": 1990,
+          "wordCount": 1989,
           "title": "Random Encounters in the Trollshaws",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgTt3XxlHpSB5wqJHzdsdHj2kRJha5B7h3HML1geOpUnN6DELoJAuLOVezHTqhJrrno0fv38OVuVwLVKY-Qwm3u_8FErmn56XMhVRWCsTsXECUJQlE50_WVTq4-tauKJN4BcMP4IT7V2bvtK-WLWjOTQHrA1r5XfiCWk2wkDg2mUMHUR6Z716Y-nXRWXg=w1200-h630-p-k-no-nu"
         },
@@ -223,7 +244,7 @@
           "description": "I have made a toy.\nThe equipment cards from Mausritter/Last Gasp Grimoire are so fun. The gimmick is that you print out your equipment cards on card stock and use blue tack to stick them physically onto your character sheet, so you have a sort of Diablo pack experience.\nI took this paradigm and applied it to decorations for the cozy hole that you call a home. All artwork is stolen from Mike Ploog's background art in Ralph Bakshi's Fellowship of the Ring.\n\n\nChoose a decoration for your tiny home.\n\n\n\n\nPlace them in your parlor...\n\n\n\n\n...or in your entrance hall.\n\n\nClick on any of the pictures above - or click here - to download all of the assets. \nUse this for your Mausritter games or maybe even Under Hill, By Water.",
           "link": "https://riseupcomus.blogspot.com/2022/03/cut-out-decoration-cards-for-your-cozy.html",
           "publishedOn": "2022-03-05T12:54:00.006Z",
-          "wordCount": 1216,
+          "wordCount": 1213,
           "title": "Cut-Out Decoration Cards for your Cozy Hole Home",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgwhyzgwCZfKoZ-38LwTV84kFEKxbU-lVRLmmqEZBqXWZak0qiBc9vRlHbxcdjVOY_WeQaZuJxXA4BbqFsR60v4ySh6e64cqYKF9TFnWlw3r_lZKbuRpwSvGFxdb0dHxnvVLR-qXnrKFpZ-r4tqTR_meiDK9a4Al5UyRo_NOwJMfilpdfAvh7zThg6DBw=w1200-h630-p-k-no-nu"
         }
@@ -240,7 +261,7 @@
           "description": "This was originally intended as a comment on Patrick Stuart's blog post WHAT IS FLOW CONTROL?? (AND WHY SHOULD I CARE?) but my comment was too long so I'm just making it it's own post in response. You should definitely read that post first or this response won't make sense.\n\nI appreciate the self awareness you demonstrate in questioning the extent to which you actually prefer a greater sense of freedom even if it's made a lesser experience, and likewise differentiating between actual freedom and the sense of freedom. These are both critical, I think, to any kind of discussion on this topic.\n\nWhile I dislike the extreme linearity or narrative constraints of Paizo/modern WotC design and a lot of PbtA/FitD/storygames respectively, it's also an easy straw man/false binary that I can already ki…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html",
           "publishedOn": "2022-03-20T14:37:00.000Z",
-          "wordCount": 3254,
+          "wordCount": 3249,
           "title": "Response to Patrick Stuart's Post About Flow Control",
           "imageUrl": null
         },
@@ -250,9 +271,9 @@
           "description": "Maximum Recursion Depth is now available on Exalted Funeral! It should be available print+pdf later today (as of posting). I've been vocal about the fact that I'm a very digitally-oriented person, but I'm still looking forward to having a copy of MRD physically in my hands, and I know many other people do prefer print so I'm glad to have an offering for them. Also, Exalted Funeral is an awesome publisher and it's a real honor to be a part of their catalog. I hope that this exposes more people to MRD and my blog who I would not otherwise have crossed paths with.\n\n\nMaximum Recursion Depth on Exalted Funeral!",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html",
           "publishedOn": "2022-03-16T11:55:00.003Z",
-          "wordCount": 2013,
+          "wordCount": 2008,
           "title": "BONUS: Maximum Recursion Depth Exalted Funeral Printing!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzdWudhxrasvm0pu3rLKgSByV9mTnQpP5OpmN-gFV0dm7roSk-ZklMtpvuZcFmC5cSLvQdp6Hxth4CeHYq7BHiLXSBWftNHL6yVFNkPLLmOBNQrR43rFnYtrn3fzWoc8puPcMzsCx_4aRXP6bLF_j1FGyLJ9m98Y9y6q76pmn8sVAQrk64wiQCeci0WFse9KQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzkIT4VhpNanEgM-8IrAzHdP2TKo_oW8ZDDjc_vobalTvnGTC4zNmQfE-2UoLBkL0-M66s5dQPec-uv9XV7l3CgUw3eCQ7zhMJJEPfQjHgOYBx_9KgUyZUc_BXN7FUgOpsTL5PYuwaUg8T-J2tY0jOM1hcct4QsGuOvW0xl1uzaRAxMoE81LD5ZS11OQnpasw=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html",
@@ -260,9 +281,9 @@
           "description": "In moving forward with the idea of using Tarsos Theorem's Concept Crafting for the basis of my Mecha Gear system in Maximum Recursion Depth 2, I have run a series of \"Mock Session 0 Playtests\", discussing the setting, game mechanics, and character creation with people as if we were going to run a game (and in one case, it actually is going to be an ongoing IRL Campaign!).\n\n\nI've been pleasantly surprised the extent to which people have responded really positively to the Playtests- it feels like I have demonstrably learned from MRD1 and have gotten better at conveying information and setting expectations, and also in game design itself. One of the playtests was with the first group I ran the earliest version of MRD1, and they said they liked the idea of MRD2 even better and were interested …",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html",
           "publishedOn": "2022-03-13T14:06:00.001Z",
-          "wordCount": 3206,
+          "wordCount": 3201,
           "title": "MRD2 Mecha Gear Thematic Spark Tables",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzQwcdfhucYicMJt5SPg4YGhZcpjOyqJHpO-xNLjmDiwZHM5WG_BgUgO62ofk461IX6M5Za8U6_gbXAF-NQwbQr0FfBZovVSsFedFnaMrQeIJYcP4w6U2VaR4OC6BEPfLqJOL-jZaADXgBdR6DfaiygncuTXOktJQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew2YT4-WV29GGQjYKHjL36z5pl3Yfx4zuvBU1I79DcCzXaekJ3_F21Cpo4UK5Nv6taCCFrTgqcIJ4t7gj01O3c7A9H7ozp_05R067XoJqD9Q8asPMF3Kzl2ZZ6TCp2DW72HqaJVkvntNLZwyy7GX7lEiJuaxvxKhQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html",
@@ -270,9 +291,9 @@
           "description": "We interrupt this broadcast of the normally scheduled Weird & Wonderful Worlds blog to traverse the other WWW (the Weird Wonderful Wavelength decomposed like an overzealous cockroach in an empty kitchen from the spectrum of nutrient deficient fluorescent white light that is the World Wide Web). Let us begin with an interactive spacetime courtesy of Leenalchi, from the past, present, future, and sidetime of Korea. But watch out... TIGER IS COMING!\n\n\n\n\nLink here if you don't see the embed on mobile\nThat sure was something folks. Reminds me of my conversation with Gearoong. Horrific psychedelic Scooby-Don't and the Gang hunting Poltergeists in Maximum Recursion Depth (poor Frieda is already an Ashura).\n\n\nMoving on to RPGs, because that's why you came here... Right? Or maybe not, sound off fro…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html",
           "publishedOn": "2022-03-06T15:18:00.001Z",
-          "wordCount": 2567,
+          "wordCount": 2562,
           "title": "Weird & Wonderful Wavelengths (Variety Show s1e2)",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyqD434b8iq2UFYzV1Y4qm6TM7_JilH-8Pl_vBefFTP-G3TWrTjM6jXf0BOMul7tAOE64P1LU4isk-B7rd_I3FD-zgwaPWHrSBbJ2u4-UPGlWH5=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exw8ba2e_4Wr0rOWhhyIU45EvEDpn5HhFpNHsReL2xcvYwGQVxiWKNky34wBoBv3pPs0h0PO79W1j-u6YDEML3ku2Z3oPY-EX9SuamCKOnrasMV=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html",
@@ -280,9 +301,9 @@
           "description": "I had a dream last night (as of when this was drafted, not posted) that got rudely interrupted by construction just as it was wrapping up. It would make a great story that I will likely never write, but could also be a storygame TTRPG. I don't normally play or run storygames, I used to listen to a bunch of Actual Plays of them but honestly at this point don't know much about them, and don't have sufficient time to invest in it, but I would love it if somebody with more knowledge and interest in storygames could help me carry this idea into some small side project. I'm somewhat less gung-ho on this now that it's been several days since I had the dream and this would admittedly be a lot of work, but I do still love this idea and I suspect one way or another this will eventually influence som…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html",
           "publishedOn": "2022-03-01T13:52:00.001Z",
-          "wordCount": 3210,
+          "wordCount": 3205,
           "title": "Royal Tenenbaums meets Children of the Atom: Help me make a storygame!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzPCUGRA0U-2kaI-Q-GjyHiWYUwYiOFYUrkyIJjlGMfHDZ2xXLPA3f2hwxze6mroC1NjIif9ubKOWmRPsiLWcw9L7N2qYqpmb86UivFBk7mNKi3RzN99BJL6PEQ_ZKEL2LOnettbLQnJaZKCE0T94oD0fMH7czjnh8XzODKTjPf9HylzyKP-b-zWEkmACM6dsR1PguqJzdoW5msilUF67JpV2pJL06TXvzQOknActe1N-tTiHn1KXKx=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew17XJihnCRUNI90gQ1-8T9nr9m931AZEJboGpSjTNNcbnYZKuCx3wIPUBo5wOWdSo37gMn3atcMriCrpaIuGM1eEKfC6XcLbpGfU47IHdktEHxtLWKXoueWq4WCrfaR_9G4WZ1SqxrPMSz-ddZuO5l1ZGGcuLRPgFjrpYdFIE8WVGafhnY2ej1un3cjcYIWxc4gihaRks8SidqyI46bLAmSIpXKK0E49pWPLlRsHLX4F9ev7tWqcxr=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html",
@@ -290,9 +311,9 @@
           "description": "MRD2 is underway, as I've alluded to in previous blog posts. Similar to how much changed between the earliest MRD1 blog posts and the final book, treat this as Proof of Concept, but below is a working draft of the Introduction to the world of MRD2, how it relates to MRD1, and the basic Campaign Setup (an idea I've much appreciated from Anne Hunter). Also, I will definitely clean up the writing significantly- this is not publishing-grade ;).\n\n\nPrevious Posts:\n\nMecha Gear with Tarsos Theorem Crafting: The basis of the Golem mechanics in MRD2, and also hyperlinks to basically all the previous posts, including the one below.\n\nJewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A discussion on the Jewish subtext of MRD2. Also contains additional relevant links at the en…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html",
           "publishedOn": "2022-02-24T13:04:00.001Z",
-          "wordCount": 3442,
+          "wordCount": 3437,
           "title": "MRD2 Introduction and Campaign Setup Proof of Concept",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey5PBD55WukEbXnqSuj2UppdwJlmvK0hMChztK39CwwyLdgJu9TSMQtv-y4YBv3yurYcrrhCt0D5Usf5dolFHLBf8OtE6SeQtb0ZbV_kIKAvfDan_-cvPHtjIrLzKDkTM4-RDvbqvV3Soa3WteXvSKfT0EhaFeJD56C7bG9x6qKTR-IHg=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzzSShwvK3gOLbSxdvkFnA7u5KbAwR2dyoUI6fnRFTQ7wvynBRppkS8kpgxDJO3LeDCGN4xfY7aUWQa0oTeC24I1tlpQ33TNmzgvpLny50BGHQmWpbSgd2d02dTas2-vxCwtdQ7ltwIcWqO30QDCarQkwbgM0egP02ZGk0qv3LPrHVEpA=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -300,18 +321,7 @@
       "title": "Lich Van Winkle's Return to Gaming",
       "feedUrl": "https://lichvanwinkle.blogspot.com/feeds/posts/default",
       "siteUrl": "https://lichvanwinkle.blogspot.com/",
-      "articles": [
-        {
-          "id": "https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html",
-          "author": null,
-          "description": "There was a period of years early in\nthe hobby’s history when there were no adventure modules at all. In those days,\neverybody made their own adventures by hand—without computers. You can,\ntoo.\n\nLately I’ve returned to the quiet pleasure\nof developing hand-crafted adventures and setting materials on my own. I have no\nintention of sharing my materials with anybody but the players of my games. I",
-          "link": "https://lichvanwinkle.blogspot.com/2022/02/hand-crafted-adventures.html",
-          "publishedOn": "2022-02-20T16:54:00.002Z",
-          "wordCount": 1599,
-          "title": "Hand-Crafted Adventures",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "RSS Feed Title",
@@ -330,7 +340,7 @@
           "description": "Somewhere in the 2009-2011 range, when I was just discovering the OSR scene, I ran across a retroclone which stuck out to me and zoomed up into my favorites for quite some time. In contrast to most of the other rulesets I had seen at the time, it had a lot of referee advice -- and it had safety tools. \nNo, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like \"The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them.\" or \"Know your players. Communicate outside of…",
           "link": "https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html",
           "publishedOn": "2022-03-04T14:05:00.002Z",
-          "wordCount": 5802,
+          "wordCount": 5796,
           "title": "Protecting Our Spaces: A Response to Raggi",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh_keuKe1CYHYy6vjC8tLX8qMDcucLqfLThmaT24BXWB4Azl_ek3dJ6VRqu5j1v-hsxK9WSC_JhLJnpxk8FRT2AhCXZJy89CFa-mqF4UF5M5W3KakqsBUjQG7ePie3gvt13aKBucTCeVIWdp91MQAyESp29ENAHbS0y95PriXiKoGu5J7Oxob5luM04wA=w1200-h630-p-k-no-nu"
         }
@@ -428,7 +438,7 @@
           "description": "The Orcs on the Borderlands: Caves B and C or rooms 7-16\n\n\n\nPig Faced Orc by Trash Mob Minis\n\n\n\nIn the game I play with the kids using RISUS, the orcs are Pig Men who are dirty, gluttonous and lazy. Evil is also comically evil in this game, because I’m playing with young kids. This makes these encounters and scenes a lot more fun than dangerous, though there is danger and —depending on the sensibilities of the kids— lethal. Though situations should play out in such a way that evil should not triumph but rather defeat itself.\n\n\nI started thinking about this because in the game I play when we’re done early in class, the kid made it until the caves and decided to check out cave C. So I’ve been reading that entry lately, thinking about how I could run it for this 6 or 7 year old kid. And I tho…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-1.html",
           "publishedOn": "2022-03-21T17:42:00.000Z",
-          "wordCount": 2162,
+          "wordCount": 2180,
           "title": "Kids on the Borderlands: The Orc Caves (B+C) - part 1",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjXSsn3RJ9jfeavFuJBgP4Nz5MD96drRs23a7OYi8aRqysHhLM0GU8ZQVoWB9ltYK18jm_jT95UuuhecLwvpOMNJCzj418V5LmK4dzb51qTMwa-hIcTHdoIxp2ZB0uJrKpGgz9TOOxQ61h6cRhUHM6CawVg3OzAdSWsIjbKYZgbUzQvthjt1JykQaZ6Cw=w1200-h630-p-k-no-nu"
         },
@@ -570,7 +580,7 @@
           "description": "Using Cawood Publishing's Monster of the Underworld to create encounters for our upcoming Thursday night Dungeons and Dragons game. Thinking about our upcoming Mothership campaign and a dragon-slaying D&Dish thing almost ready to be playtested.",
           "link": "https://githyankidiaspora.com/2022/03/19/friday-night-daydreams/",
           "publishedOn": "2022-03-19T09:11:35.000Z",
-          "wordCount": 1011,
+          "wordCount": 1001,
           "title": "Friday Night Daydreams",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/dragonslayers-for-jay-project-ampersand-1.png"
         },
@@ -580,7 +590,7 @@
           "description": "In which Context, Cool Shit & Consequences is used to prep for a Robert E. Howard's Conan RPG by Mophidius Entertainment.",
           "link": "https://githyankidiaspora.com/2022/03/16/conan-context-cool-shit-consequences/",
           "publishedOn": "2022-03-17T01:45:36.000Z",
-          "wordCount": 637,
+          "wordCount": 627,
           "title": "Conan, Context, Cool Shit & Consequences",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/image-from-ios.jpg?w=1200"
         },
@@ -590,7 +600,7 @@
           "description": "In which a session of Mothership, the science-fiction horror tabletop role-playing game is discussed by a ghost astronaut.",
           "link": "https://githyankidiaspora.com/2022/03/11/mothership-what-we-give-to-alien-gods-s3-pushing-buttons/",
           "publishedOn": "2022-03-11T23:02:47.000Z",
-          "wordCount": 1219,
+          "wordCount": 1209,
           "title": "Mothership, What We Give to Alien Gods, S3: Pushing Buttons",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/mothership-alien-gods-twitter-pic-sessionless-title-card.png"
         },
@@ -600,7 +610,7 @@
           "description": "In which 5 of the Sigil 6 destroy the Three Who Are One - a Skull Lord from Mordenkainen's Tome of Foes and a Zombie Clot from Van Richten's Guide to Ravenloft in our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/03/10/all-shadows-lead-to-gloomwrought-session-6-the-three-who-are-one/",
           "publishedOn": "2022-03-11T04:07:32.000Z",
-          "wordCount": 1124,
+          "wordCount": 1114,
           "title": "All Shadows Lead to Gloomwrought, Session 6, The Three Who Are One",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s6-three-who-are-one.png"
         },
@@ -610,7 +620,7 @@
           "description": "A structure of Dungeon Masters playing Dungeons and Dragons and all kinds of tabletop role-playing games - Context, Cool Shit and Consequences. Inspiration from all over the damned gaming place...",
           "link": "https://githyankidiaspora.com/2022/03/09/context-cool-shit-consequences-structure-for-dms-notes/",
           "publishedOn": "2022-03-09T18:40:48.000Z",
-          "wordCount": 1492,
+          "wordCount": 1482,
           "title": "Context, Cool Shit & Consequences: structure for DM’s notes",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/01/context-cool-shit-and-consequences-1.png?w=1200"
         },
@@ -620,7 +630,7 @@
           "description": "In which recruit the villagers, scout ahead and meet a dragon in the skies before they lead the village through the Shadowfell to Gloomwrought in our Thursday night Dungeons and Dragons campaign.",
           "link": "https://githyankidiaspora.com/2022/03/03/all-shadows-lead-to-gloomwrought-session-5-recruiting-villagers-scouting-ahead-and-evading-a-dragon/",
           "publishedOn": "2022-03-04T03:45:10.000Z",
-          "wordCount": 1303,
+          "wordCount": 1293,
           "title": "All Shadows Lead to Gloomwrought, Session 5, Recruiting Villagers, Scouting Ahead and Evading a Dragon",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s5-villagers-scouting-dragon.png"
         },
@@ -630,7 +640,7 @@
           "description": "A few days ago, Pete asked me, \"Why do you think Strahd is such a good villain?\" Great question that made me think about our own recent playthrough of the Curse of Strahd in our Thursday night Dungeons and Dragons campaign.",
           "link": "https://githyankidiaspora.com/2022/03/01/why-is-strahd-a-good-villain/",
           "publishedOn": "2022-03-01T19:09:05.000Z",
-          "wordCount": 948,
+          "wordCount": 938,
           "title": "Why is Strahd a good villain?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/slaying-of-strahd-by-hajek.png"
         },
@@ -640,7 +650,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons session the Sigil 6 came face to face with Lord Soth and began to plan the moving of 2000 villagers across the Shadowfell using every tool at hand.",
           "link": "https://githyankidiaspora.com/2022/02/24/all-shadows-lead-to-gloomwrought-session-4-somewhere-between-lord-soth-and-the-moon/",
           "publishedOn": "2022-02-25T04:14:45.000Z",
-          "wordCount": 1582,
+          "wordCount": 1572,
           "title": "All Shadows Lead to Gloomwrought, Session 4, Somewhere Between Lord Soth and the Moon",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/all-shadows-lead-to-gloomwrought-twitter-pic-s4-lord-soth-and-the-moon.png"
         },
@@ -650,7 +660,7 @@
           "description": "The named blade, the Key to the Wolf Door...",
           "link": "https://githyankidiaspora.com/2022/02/22/the-key-to-the-wolf-door/",
           "publishedOn": "2022-02-23T02:22:55.000Z",
-          "wordCount": 667,
+          "wordCount": 657,
           "title": "The Key to the Wolf Door",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/key-to-the-wolf-door-1.png?w=1200"
         }
@@ -706,7 +716,7 @@
           "description": "Reposted from Issue #2 of The Neverending Drachenschwanz, an FKR fanzine.",
           "link": "https://d66kobolds.blogspot.com/2022/03/any-source-is-gameable.html",
           "publishedOn": "2022-03-03T16:44:00.008Z",
-          "wordCount": 511,
+          "wordCount": 513,
           "title": "Any Source Is Gameable",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjA0J-9yjNyTVgaiSs6ePd1eNYi5_-woPIg9F407LdOJqoGW0_TGSHDK97hRjQ-FKfqmtpoOibNoA4rorZ8kxRPB-OmyaBvUEFpmRiia1xDwFak_COXm0fZQcFk6XyxYncZYZr2yAGHpkB4gMSfEI-e40hJiClnu6eYdHeRqF0SLDorGdPUavMvtVReGg=w1200-h630-p-k-no-nu"
         },
@@ -716,7 +726,7 @@
           "description": "I have found, as an evergreen referee, that I'd much rather pilot NPCs than play a proper character in an ongoing campaign. I've mentioned this before, but as I consider today's topic, it is especially relevant. \nNPCs are skeleton keys to the campaign world for referees. They are direct representations of tropes, themes, needs, and wants that you (if you're running a game) want to convey to the players to make the setting come alive. I'd rather spend three hours playing a dozen+ NPCs than a single, titular character. I've learned this over time. It remains my staple experience in adventure games. \nThis is brief preamble for my sharing with you my Meta NPCs. That is, my favorite NPCs that show up in just about all of my games regardless of genre or setting (tailored to fit, as necessary). I…",
           "link": "https://d66kobolds.blogspot.com/2022/02/meta-npcs-reusing-my-favorites-across.html",
           "publishedOn": "2022-02-25T19:12:00.001Z",
-          "wordCount": 2501,
+          "wordCount": 2503,
           "title": "Meta NPCs - Reusing My Favorites Across Game Worlds",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiVa2PbEANeAkb0uJZmKsyEBUqO9R_c51VmvWmwd3pOt9aTRJ4KXD6b0q0OiYicze_X7uK0v-XX1J5dKEo1Dx71jz1efrWezEISInPfTahrYhoht73-W7TP4bO9g6UMR6YBWdV87HHVdn0I6Bo040j4J0g2OAve5V97EXYVhVI6bXzXwbDwS_87GbNLOg=w1200-h630-p-k-no-nu"
         }
