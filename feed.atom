@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-22T08:21:07.891Z</id>
+    <id>urn:2022-03-22T10:09:17.911Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-22T08:21:07.891Z</updated>
+    <updated>2022-03-22T10:09:17.911Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -317,6 +317,18 @@ Ninja 2]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[advanced shore leave for Mothership]]></title>
+        <id>https://www.hypertextcorner.com/shore</id>
+        <link href="https://www.hypertextcorner.com/shore"/>
+        <updated>2022-03-10T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What do I do as the Warden during Shore Leave? This post will aim to answer the question, providing more depth to Shore Leave phases based on Mothership 1e mechanics. Using a downtime die and faction turns can create opportunities for new missions, and are generally helpful for worldbuilding. And as I say in every post, these rules are super modular. You can adjust them to your taste and the specifics of your campaign.
+downtime die
+While your characters rest in port, the world around them changes. The downtime die is a special kind of die that is rolled every Shore Leave phase. It is introduced to simulate the growth of various dangers and factions. Similar to the derelict die, it is meant as a guiding tool to help the warden flesh out the world. Feel free to customise the table below to y…]]></summary>
+        <author>
+            <name>advanced shore leave for Mothership</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Context, Cool Shit & Consequences: structure for DM’s notes]]></title>
         <id>http://githyankidiaspora.com/?p=17931</id>
         <link href="https://githyankidiaspora.com/2022/03/09/context-cool-shit-consequences-structure-for-dms-notes/"/>
@@ -461,6 +473,18 @@ ounding off this little run of tables, I decided to dust off another that’s be
 No, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like "The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them." or "Know your players. Communicate outside of…]]></summary>
         <author>
             <name>Legacy of the Bieth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[squads and space battles for Mothership]]></title>
+        <id>https://www.hypertextcorner.com/squads</id>
+        <link href="https://www.hypertextcorner.com/squads"/>
+        <updated>2022-03-04T08:47:00.000Z</updated>
+        <summary type="html"><![CDATA[In this double feature blog post I wanted to explore higher level play in Mothership. Not in the sense of more XP, but in the sense of larger scale. I think that factions are a key driving force for campaign. When the crew interacts with one, they gain access to more resources, but also open themselves to more risk. More risk equals more opportunity for tense sessions and horror!
+squads
+Squad is a group of contractors united by mission and proficiencies. They are usually too expensive to be hired by individual characters, so most of the time they will be attached to a faction. Such faction squads will count as resources (which I will cover in a later post). Once a goal is set for a squad, they will complete it autonomously. If a character has a Command skill, they can also control a squad …]]></summary>
+        <author>
+            <name>squads and space battles for Mothership</name>
         </author>
     </entry>
     <entry>
@@ -722,6 +746,20 @@ A purchaser of Tomb Robbers of the Crystal Frontier recently asked me how the ad
 Evil Chaos, including what they might be up to two hundred years later.]]></summary>
         <author>
             <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[worldbuilding AFTER]]></title>
+        <id>https://www.hypertextcorner.com/after</id>
+        <link href="https://www.hypertextcorner.com/after"/>
+        <updated>2022-02-22T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a simple checklist tool I use when prepping sessions or writing worlds. In this post I will take you through all the steps and make a little scenario along the way. You can use this in combination with my crafting adventures with screenwriting post for greater effect.
+AFTER stands for Ambience, Factions, Troupe, Encounters, Rooms.
+While AFTER is meant to be done sequentially, it can be useful to shuffle around the steps in certain situations. For example, for a Mausritter setting I’m writing, I have first sketched an overall map of the location, and only then have decided on the factions and encounters.
+Ambience.
+Think in major terms about the setting/place you want the players to explore. Determine the scale you will be operating on. Is it a tiny cave? A derelict space station? An…]]></summary>
+        <author>
+            <name>worldbuilding AFTER</name>
         </author>
     </entry>
 </feed>
