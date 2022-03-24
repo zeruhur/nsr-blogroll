@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-23T16:23:06.883Z</id>
+    <id>urn:2022-03-24T01:08:47.547Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T16:23:06.883Z</updated>
+    <updated>2022-03-24T01:08:47.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Hundred Clues & Tells for the Tersely Detailed Trap]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/a-hundred-clues-tells-for-tersely.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/a-hundred-clues-tells-for-tersely.html"/>
+        <updated>2022-03-23T23:21:00.000Z</updated>
+        <summary type="html"><![CDATA[See Also: d100 - This Secret Door Opens...
+ So often in Modules and Published Adventures, Traps are tragically under-telegraphed. Oftentimes, they are at least properly indicated on the provided maps/grids with a “T” and we might see a terse description of their primary function/effect (often in the form or Recommended Saving Throws), but seldom are there any telltale indicators that can be used to foreshadow these dangers.
+ I prefer to assume competency with Adventurers. The characters are well aware that these locations full of Treasure that they’ve found themselves exploring are fraught with perilous dangers, even if the Players might be more cavalier in terms of their approach. In addition to threats from Monsters, Running out of Resources, Getting Lost, or even the Dungeon Itself, the…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ordering the Chaos: Qualitative Harm and Encumbrance]]></title>
         <id>https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html</id>
