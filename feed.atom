@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T08:20:06.614Z</id>
+    <id>urn:2022-03-24T16:23:09.062Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T08:20:06.614Z</updated>
+    <updated>2022-03-24T16:23:09.062Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[I Get Knocked Down, But I Get Up Again]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:622a1f2aead858780734313b</id>
+        <link href="https://www.prismaticwasteland.com/blog/i-get-knocked-down-but-i-get-up-again"/>
+        <updated>2022-03-24T13:19:58.000Z</updated>
+        <summary type="html"><![CDATA[A few options for making healing from 0 hp feel more realistic and offer 
+more tactical depth.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Handling luck]]></title>
         <id>http://technoskald.me/?p=6348</id>
@@ -743,64 +754,6 @@ Mecha Gear with Tarsos Theorem Crafting: The basis of the Golem mechanics in MRD
 Jewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A discussion on the Jewish subtext of MRD2. Also contains additional relevant links at the en…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Characters and Roles]]></title>
-        <id>https://blog.symbolic.city/on-characters-and-roles</id>
-        <link href="https://blog.symbolic.city/on-characters-and-roles"/>
-        <updated>2022-02-23T02:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Twice today, entirely by coincidence, I've run across different versions of a claim that might seem uncontroversial, but is worth questio...]]></summary>
-        <author>
-            <name>Session Zero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Key to the Wolf Door]]></title>
-        <id>http://githyankidiaspora.com/?p=18321</id>
-        <link href="https://githyankidiaspora.com/2022/02/22/the-key-to-the-wolf-door/"/>
-        <updated>2022-02-23T02:22:55.000Z</updated>
-        <summary type="html"><![CDATA[The named blade, the Key to the Wolf Door...]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRYSTAL FRONTIER - GYGAX '75 PART 1]]></title>
-        <id>https://alldeadgenerations.blogspot.com/2022/02/crystal-frontier-gygax-75-part-1.html</id>
-        <link href="https://alldeadgenerations.blogspot.com/2022/02/crystal-frontier-gygax-75-part-1.html"/>
-        <updated>2022-02-22T22:22:00.003Z</updated>
-        <summary type="html"><![CDATA[A draft cover for a potential
-Crystal Frontier adventure
-
-A purchaser of Tomb Robbers of the Crystal Frontier recently asked me how the adventure might fit into a larger setting. Specifically they inquired about the "Warlock King", ruler of the Bull Kingdom - who claims sovereignty over the Frontier but doesn’t seem to project much power into it. The Warlock King and Bull Kingdom have been mentioned in a couple of Crystal Frontier adventures, notably Marble Eye, the Bruja in The Bruja, The Beast and The Barrow is a refugee from the King’s court, hiding in exile from the his demonic assassins. Other then that we know of the King and his nation only through Jolly Diamond, the Bull Kingdom’s agent in Scarlet Town, a bad gambler and sore loser whose loyalty is enforced by a “demon mark” on his…]]></summary>
-        <author>
-            <name>All Dead Generations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conspiracy in the Borderlands]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:61f09349eefbb34934aa55a0</id>
-        <link href="https://www.prismaticwasteland.com/blog/conspiracy-in-the-borderlands"/>
-        <updated>2022-02-22T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[An evaluation of the true villains of the classic adventure: the Cult of 
-Evil Chaos, including what they might be up to two hundred years later.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[worldbuilding AFTER]]></title>
-        <id>https://www.hypertextcorner.com/after</id>
-        <link href="https://www.hypertextcorner.com/after"/>
-        <updated>2022-02-22T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a simple checklist tool I use when prepping sessions or writing worlds. In this post I will take you through all the steps and make a little scenario along the way. You can use this in combination with my crafting adventures with screenwriting post for greater effect.
-AFTER stands for Ambience, Factions, Troupe, Encounters, Rooms.
-While AFTER is meant to be done sequentially, it can be useful to shuffle around the steps in certain situations. For example, for a Mausritter setting I’m writing, I have first sketched an overall map of the location, and only then have decided on the factions and encounters.
-Ambience.
-Think in major terms about the setting/place you want the players to explore. Determine the scale you will be operating on. Is it a tiny cave? A derelict space station? An…]]></summary>
-        <author>
-            <name>worldbuilding AFTER</name>
         </author>
     </entry>
 </feed>
