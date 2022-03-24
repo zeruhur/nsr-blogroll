@@ -6,12 +6,22 @@
       "siteUrl": "https://technoskald.me",
       "articles": [
         {
+          "id": "http://technoskald.me/?p=6348",
+          "author": "Kyle Maxwell",
+          "description": "Luck rolls represent the GM choosing to be surprised rather than just deciding what happens. I look at how a few different games do this and talk about my currently preferred approach.",
+          "link": "https://technoskald.me/2022/03/23/handling-luck/",
+          "publishedOn": "2022-03-24T03:27:46.000Z",
+          "wordCount": 1351,
+          "title": "Handling luck",
+          "imageUrl": "https://skaldforge.files.wordpress.com/2022/03/lucky-star.jpg"
+        },
+        {
           "id": "http://technoskald.me/?p=6335",
           "author": "Kyle Maxwell",
           "description": "In this week's session, I took a small location from the Dissident Whispers book, added some content from Dead Planet and the third-party module Black Heart of Paradise, and generated one of my favorite sessions of Mothership yet.",
           "link": "https://technoskald.me/2022/03/20/janus-mothership-campaign-session-5/",
           "publishedOn": "2022-03-21T00:37:31.000Z",
-          "wordCount": 1634,
+          "wordCount": 1637,
           "title": "“Janus” Mothership Campaign – Session 5",
           "imageUrl": "https://skaldforge.files.wordpress.com/2022/03/station-472-terminal-map.jpg?w=1200"
         },
@@ -98,9 +108,9 @@
           "description": "I am having a really hard time explaining people what I do when I run games. It is the next section I am trying to work on for FLoK, but even with the help of some folks who I have run games for, it is slow going. \nTo help the process along, I figured I would make some qualitative systems that sort of line up with how I tend to do things at the table. Mind you, this isn't what I actually consciously have in the back of my head while running, but I think using this will land you in a similar place. \n\nTo help understand where I am coming from it might be useful to keep in mind what my number one principle is when running games: Fluff = Crunch. Both for players, as well as for GMs.\n\nWith that out of the way, here's some systems:\n\nHarm:\nScuffs and Bruises\nThese take a toll on you, making you l…",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html",
           "publishedOn": "2022-03-22T14:31:00.006Z",
-          "wordCount": null,
+          "wordCount": 1260,
           "title": "Ordering the Chaos: Qualitative Harm and Encumbrance",
-          "imageUrl": null
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exfq-WRPl4YJr2Ry6_s86Cmco8ztiQE7XNpwbeGXM-TbSfD3VKyJ0Kex4cOgnl7Hrs2xOlZs2Edssc9TK3puDG64OfjnyEYz6ee1hlc_szB5RPm=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://tabletopcuriositycabinet.blogspot.com/2022/02/flok-dev-diary-character-generation.html",
@@ -118,7 +128,7 @@
           "description": "Back when I initially started this blog I was working on a GLoG hack for the table I played with at the time. It is somewhat finished, but barely playtested and the few people that did play it seemed to hate it. \nMoreover, this is from before I realised you don't actually need rules for everything, so despite aiming for 'elegant design' it is a rather convoluted mess of rules I thought I'd need because they were so prevalent in other systems, rules I wanted to add because I thought they were missing from 5e and a bunch of systems and mechanics stolen from other blogs merely because they looked interesting.\n\nFor these reasons, I don't like looking back at it, it makes me cringe. However, every once in a while when I need an example of something I like, I find myself returning to stuff I wro…",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html",
           "publishedOn": "2022-02-25T17:33:00.000Z",
-          "wordCount": null,
+          "wordCount": 3479,
           "title": "Autopsy Report: Looking back at my first GLoG hack",
           "imageUrl": null
         }
@@ -283,7 +293,7 @@
           "publishedOn": "2022-03-16T11:55:00.003Z",
           "wordCount": 2015,
           "title": "BONUS: Maximum Recursion Depth Exalted Funeral Printing!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyM-amQTBwTmLVOj5cpgzrMD66R_B2hwAEhMyTBC-Uua2uvgbAzdKsemZSAzyl4lDsP8rRDZXmxf8B6aRio3hG4hNGawii7304111KRH_F0Qxqp23PpZg-YdSPR-snmdgWPRIx8xNMiOKJVVxaGHbRnMMq_3xF0cT1D5DoleNVjF3Ud9uftbtxd2JtK3x-eWw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExMwDq7158R3y9-KmksGdad3Lnn7k2mn-VoovEjD1HK4e6KgA5LrRukdNCJrhYOLz7AU4UxUPY71jbKBv7Z7AY_w-YwFNfe4q05OjKAxrPLzHjmSHehtqDZEi6Nrcm6AtiaoIGt8KwFKR80NVSZRJlB41x71XyUncYPDblj6sQNTYNFP9HDRie0GyO5XOIrxg=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html",
@@ -293,7 +303,7 @@
           "publishedOn": "2022-03-13T14:06:00.001Z",
           "wordCount": 3208,
           "title": "MRD2 Mecha Gear Thematic Spark Tables",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex57jMwrZ4S5RvFlu229INNhGLZSt4KWeVcrBLwD79nQUjo8vDbyMdqC8xLQjui1Xj5I4ZSxWJHrGlcn5PoV3vG-TSInif8pu2_pYwAqxlXgvkYW9apnMToSspxg9JrMjb8JuRaQYfCdd5KmmIBmk3e5Y3ZgjrA0A=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew91ZNLX07s0NKdkmQFtsduBbXGsDRvo9l_L25st9PLFLz9WFbz-WXPQJsmckzS3s6Vf_o7tEGl2BjkFiR3I3SHK8-4kzw4ZBrEzbOxIwqt9MsAyB0YfDCLE-kID7i6cblmo-JRu49tkyh5cgUWvY2EWjFSYwp3qA=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html",
@@ -303,7 +313,7 @@
           "publishedOn": "2022-03-06T15:18:00.001Z",
           "wordCount": 2569,
           "title": "Weird & Wonderful Wavelengths (Variety Show s1e2)",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzAhi58uBSgN34EipIVpRxtV-q6snJu1QiLwhUBvoi4xX7HFAcPQjmZYHmJSg57kizfFhlH8Vf815XjIlp_I3BWbln8CZ39vKhXrNJyHDiX7HEa=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzBcHuNFbskwziFZoJAjMW8OfHC_kQ0h5O8Pf_B8Juk5Bpov_B5BPejbwqYCPf60-pr_S72j0DR1XGB-QYendfRC1hIvGQKcYPkU3ORU00Qd78Y=w1200-h630-n-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/royal-tenenbaums-meets-children-of-atom.html",
@@ -313,7 +323,7 @@
           "publishedOn": "2022-03-01T13:52:00.001Z",
           "wordCount": 3212,
           "title": "Royal Tenenbaums meets Children of the Atom: Help me make a storygame!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EybsmJ0Pp1ty7Cefai68j8rzOZg5uOfpabRcsj2hjTadgX7gk8yuI5awD8xIZWAv8EhjjNIO8mOckT74NUIp7mZeJnck7bSjPmZ5E8v31Hur3R-kDOkX3igg10CZQMnk0j1GI98WWjhCwq1dgGnWMFz7vw7Opf7JZgdqesIm-cmgQ5tjY8DQqn1ZiOttNlKKJH9SH6s3r-ujxcGJBy9wv7hKDEl00fnVBJhl9rMtW9QrdUt0SOtmIab=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezvnoie5-cQ6DNh1wsHjYBOebudL7I71uSCiAlMtJI7AvW3YmwwM3V60D8Igf1h8qnRbSPFf2l8IguYA-Lw6_ugElOrWNiL4kc8R_HYWvpom5dAQHtN4dESuiuFEp2nFF0b5NUofKrc9vDSoezRJu6fTFAXS4KQfPXweS4WEXdVB6ju5NpoiF1z7pFkGLb7O7pdbTAv_DarXB-AqpNUVB9Q0TIiX5hMRe3wHjiF39wtkA7vGJV2Qa2q=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html",
@@ -323,7 +333,7 @@
           "publishedOn": "2022-02-24T13:04:00.001Z",
           "wordCount": 3444,
           "title": "MRD2 Introduction and Campaign Setup Proof of Concept",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExEWaLvPRrVwywzQOOqVa8j3HiLQp46Ed1T9w4lYCY86fa6o8Z1MrrmgqfYB_DTovzW7vz7Cyq_s79Twl8g1o4E6Qh4Kkh19oesU1rVCVI4paa4pybo-1LEMKj7w4n5no2IF-rFXYiKx9YibC0jcci9ZbGFnUAUQk6QWDlwvyH3C-Pr4Q=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzJNqF5mfRPibBiSEl_gS0cVCAl_7TTbEasRh9ETdMJMRQc3FK9I1UO4Rnu18dO7s4apQfvrSpMV-bZjXNXXgALl_aRXc_lZ07gFCQ_xnHV9Q3eESsz4EYa7kMaKTmXvYT07xQe0Zr_Zc1KLufEuvrCiuu8TPEMH2hzllDbZSpa1zB1jQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -350,7 +360,7 @@
           "description": "Somewhere in the 2009-2011 range, when I was just discovering the OSR scene, I ran across a retroclone which stuck out to me and zoomed up into my favorites for quite some time. In contrast to most of the other rulesets I had seen at the time, it had a lot of referee advice -- and it had safety tools. \nNo, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like \"The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them.\" or \"Know your players. Communicate outside of…",
           "link": "https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html",
           "publishedOn": "2022-03-04T14:05:00.002Z",
-          "wordCount": 5818,
+          "wordCount": 5821,
           "title": "Protecting Our Spaces: A Response to Raggi",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh_keuKe1CYHYy6vjC8tLX8qMDcucLqfLThmaT24BXWB4Azl_ek3dJ6VRqu5j1v-hsxK9WSC_JhLJnpxk8FRT2AhCXZJy89CFa-mqF4UF5M5W3KakqsBUjQG7ePie3gvt13aKBucTCeVIWdp91MQAyESp29ENAHbS0y95PriXiKoGu5J7Oxob5luM04wA=w1200-h630-p-k-no-nu"
         }
@@ -600,7 +610,7 @@
           "description": "Using Cawood Publishing's Monster of the Underworld to create encounters for our upcoming Thursday night Dungeons and Dragons game. Thinking about our upcoming Mothership campaign and a dragon-slaying D&Dish thing almost ready to be playtested.",
           "link": "https://githyankidiaspora.com/2022/03/19/friday-night-daydreams/",
           "publishedOn": "2022-03-19T09:11:35.000Z",
-          "wordCount": 1008,
+          "wordCount": 1000,
           "title": "Friday Night Daydreams",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/dragonslayers-for-jay-project-ampersand-1.png"
         },
@@ -610,7 +620,7 @@
           "description": "In which Context, Cool Shit & Consequences is used to prep for a Robert E. Howard's Conan RPG by Mophidius Entertainment.",
           "link": "https://githyankidiaspora.com/2022/03/16/conan-context-cool-shit-consequences/",
           "publishedOn": "2022-03-17T01:45:36.000Z",
-          "wordCount": 634,
+          "wordCount": 626,
           "title": "Conan, Context, Cool Shit & Consequences",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/image-from-ios.jpg?w=1200"
         },
@@ -620,7 +630,7 @@
           "description": "In which a session of Mothership, the science-fiction horror tabletop role-playing game is discussed by a ghost astronaut.",
           "link": "https://githyankidiaspora.com/2022/03/11/mothership-what-we-give-to-alien-gods-s3-pushing-buttons/",
           "publishedOn": "2022-03-11T23:02:47.000Z",
-          "wordCount": 1216,
+          "wordCount": 1208,
           "title": "Mothership, What We Give to Alien Gods, S3: Pushing Buttons",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/mothership-alien-gods-twitter-pic-sessionless-title-card.png"
         },
@@ -630,7 +640,7 @@
           "description": "In which 5 of the Sigil 6 destroy the Three Who Are One - a Skull Lord from Mordenkainen's Tome of Foes and a Zombie Clot from Van Richten's Guide to Ravenloft in our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/03/10/all-shadows-lead-to-gloomwrought-session-6-the-three-who-are-one/",
           "publishedOn": "2022-03-11T04:07:32.000Z",
-          "wordCount": 1121,
+          "wordCount": 1113,
           "title": "All Shadows Lead to Gloomwrought, Session 6, The Three Who Are One",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s6-three-who-are-one.png"
         },
@@ -640,7 +650,7 @@
           "description": "A structure of Dungeon Masters playing Dungeons and Dragons and all kinds of tabletop role-playing games - Context, Cool Shit and Consequences. Inspiration from all over the damned gaming place...",
           "link": "https://githyankidiaspora.com/2022/03/09/context-cool-shit-consequences-structure-for-dms-notes/",
           "publishedOn": "2022-03-09T18:40:48.000Z",
-          "wordCount": 1489,
+          "wordCount": 1481,
           "title": "Context, Cool Shit & Consequences: structure for DM’s notes",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/01/context-cool-shit-and-consequences-1.png?w=1200"
         },
@@ -650,7 +660,7 @@
           "description": "In which recruit the villagers, scout ahead and meet a dragon in the skies before they lead the village through the Shadowfell to Gloomwrought in our Thursday night Dungeons and Dragons campaign.",
           "link": "https://githyankidiaspora.com/2022/03/03/all-shadows-lead-to-gloomwrought-session-5-recruiting-villagers-scouting-ahead-and-evading-a-dragon/",
           "publishedOn": "2022-03-04T03:45:10.000Z",
-          "wordCount": 1300,
+          "wordCount": 1292,
           "title": "All Shadows Lead to Gloomwrought, Session 5, Recruiting Villagers, Scouting Ahead and Evading a Dragon",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s5-villagers-scouting-dragon.png"
         },
@@ -660,7 +670,7 @@
           "description": "A few days ago, Pete asked me, \"Why do you think Strahd is such a good villain?\" Great question that made me think about our own recent playthrough of the Curse of Strahd in our Thursday night Dungeons and Dragons campaign.",
           "link": "https://githyankidiaspora.com/2022/03/01/why-is-strahd-a-good-villain/",
           "publishedOn": "2022-03-01T19:09:05.000Z",
-          "wordCount": 945,
+          "wordCount": 937,
           "title": "Why is Strahd a good villain?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/slaying-of-strahd-by-hajek.png"
         },
@@ -670,7 +680,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons session the Sigil 6 came face to face with Lord Soth and began to plan the moving of 2000 villagers across the Shadowfell using every tool at hand.",
           "link": "https://githyankidiaspora.com/2022/02/24/all-shadows-lead-to-gloomwrought-session-4-somewhere-between-lord-soth-and-the-moon/",
           "publishedOn": "2022-02-25T04:14:45.000Z",
-          "wordCount": 1579,
+          "wordCount": 1571,
           "title": "All Shadows Lead to Gloomwrought, Session 4, Somewhere Between Lord Soth and the Moon",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/all-shadows-lead-to-gloomwrought-twitter-pic-s4-lord-soth-and-the-moon.png"
         },
@@ -680,7 +690,7 @@
           "description": "The named blade, the Key to the Wolf Door...",
           "link": "https://githyankidiaspora.com/2022/02/22/the-key-to-the-wolf-door/",
           "publishedOn": "2022-02-23T02:22:55.000Z",
-          "wordCount": 664,
+          "wordCount": 656,
           "title": "The Key to the Wolf Door",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/key-to-the-wolf-door-1.png?w=1200"
         }

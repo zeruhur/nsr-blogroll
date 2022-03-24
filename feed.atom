@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T01:08:47.547Z</id>
+    <id>urn:2022-03-24T08:20:06.614Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T01:08:47.548Z</updated>
+    <updated>2022-03-24T08:20:06.614Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Handling luck]]></title>
+        <id>http://technoskald.me/?p=6348</id>
+        <link href="https://technoskald.me/2022/03/23/handling-luck/"/>
+        <updated>2022-03-24T03:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Luck rolls represent the GM choosing to be surprised rather than just deciding what happens. I look at how a few different games do this and talk about my currently preferred approach.]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Hundred Clues & Tells for the Tersely Detailed Trap]]></title>
         <id>https://blog.d4caltrops.com/2022/03/a-hundred-clues-tells-for-tersely.html</id>
