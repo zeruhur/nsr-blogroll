@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-25T01:05:19.048Z</id>
+    <id>urn:2022-03-25T08:20:07.035Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T01:05:19.048Z</updated>
+    <updated>2022-03-25T08:20:07.035Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 7, On the Salt Road]]></title>
+        <id>http://githyankidiaspora.com/?p=18699</id>
+        <link href="https://githyankidiaspora.com/2022/03/24/all-shadows-lead-to-gloomwrought-session-7-on-the-salt-road/"/>
+        <updated>2022-03-25T03:05:46.000Z</updated>
+        <summary type="html"><![CDATA[In our Thursday Night Dungeons & Dragons campaign, the Sigil 6 saved a caravan from a zombie mob.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Get Knocked Down, But I Get Up Again]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:622a1f2aead858780734313b</id>
