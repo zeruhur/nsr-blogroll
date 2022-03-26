@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T01:04:53.903Z</id>
+    <id>urn:2022-03-26T08:19:20.847Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T01:04:53.903Z</updated>
+    <updated>2022-03-26T08:19:20.847Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -785,23 +785,6 @@ useful calendar or timeline is equally essential.]]></summary>
         <summary type="html"><![CDATA[“How do you break an android? You give it feelings.” Elsa (BR3ND4 player) The crew of the Janus arrived at ALCOR Station – basically a truck stop in space – before heading to Prospero. Special thanks to Victor Merino for kindly providing a cleaned-up version of the station image I could share with my players. … Continue reading “Janus” Mothership Campaign – Session 2 →]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD2 Introduction and Campaign Setup Proof of Concept]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/02/mrd2-introduction-and-campaign-setup.html"/>
-        <updated>2022-02-24T13:04:00.001Z</updated>
-        <summary type="html"><![CDATA[MRD2 is underway, as I've alluded to in previous blog posts. Similar to how much changed between the earliest MRD1 blog posts and the final book, treat this as Proof of Concept, but below is a working draft of the Introduction to the world of MRD2, how it relates to MRD1, and the basic Campaign Setup (an idea I've much appreciated from Anne Hunter). Also, I will definitely clean up the writing significantly- this is not publishing-grade ;).
-
-
-Previous Posts:
-
-Mecha Gear with Tarsos Theorem Crafting: The basis of the Golem mechanics in MRD2, and also hyperlinks to basically all the previous posts, including the one below.
-
-Jewish American Identity and Jewish Philosophy in Maximum Recursion Depth 2: A discussion on the Jewish subtext of MRD2. Also contains additional relevant links at the en…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
