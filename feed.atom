@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T08:19:20.847Z</id>
+    <id>urn:2022-03-26T16:22:09.768Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T08:19:20.847Z</updated>
+    <updated>2022-03-26T16:22:09.769Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Setting: The Gyldir Vale]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/03/setting-gyldir-vale.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/03/setting-gyldir-vale.html"/>
+        <updated>2022-03-26T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Big hexes are 18 miles, little hexes are 6 miles.
+
+
+I.
+
+
+The Gyldir Vale is a temperate river valley enclosed by the sharp and rocky Red Range to the west; the ancient, forested Green Range to the east; and the magnificent, snow-capped White Range to the north.
+
+
+The valley's name is derived from the Golden Flame, the mysterious source of power with which Rotangur barbarians conquered this land from the high elves 1,000 years ago.
+
+
+The Common Church denounces the Golden Flame as the work of the Devil, but some whisper that the Flame was a gift of divine grace, granted to the Rotangur by the pagan gods of their northern lands.
+
+
+II.
+
+
+500 years ago, when the kingdom of Gyldria was at the peak of its prosperity, the king's oracle pronounced a vision that the Golden Flame would soon be lost …]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Methods of Magical Item Identification]]></title>
         <id>https://blog.d4caltrops.com/2022/03/d100-methods-of-magical-item.html</id>
@@ -765,26 +793,6 @@ For these reasons, I don't like looking back at it, it makes me cringe. However,
 useful calendar or timeline is equally essential.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 4, Somewhere Between Lord Soth and the Moon]]></title>
-        <id>http://githyankidiaspora.com/?p=18555</id>
-        <link href="https://githyankidiaspora.com/2022/02/24/all-shadows-lead-to-gloomwrought-session-4-somewhere-between-lord-soth-and-the-moon/"/>
-        <updated>2022-02-25T04:14:45.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons session the Sigil 6 came face to face with Lord Soth and began to plan the moving of 2000 villagers across the Shadowfell using every tool at hand.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 2]]></title>
-        <id>http://technoskald.me/?p=6230</id>
-        <link href="https://technoskald.me/2022/02/24/janus-mothership-campaign-session-2/"/>
-        <updated>2022-02-25T01:45:15.000Z</updated>
-        <summary type="html"><![CDATA[“How do you break an android? You give it feelings.” Elsa (BR3ND4 player) The crew of the Janus arrived at ALCOR Station – basically a truck stop in space – before heading to Prospero. Special thanks to Victor Merino for kindly providing a cleaned-up version of the station image I could share with my players. … Continue reading “Janus” Mothership Campaign – Session 2 →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
