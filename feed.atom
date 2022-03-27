@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T16:22:09.768Z</id>
+    <id>urn:2022-03-27T01:12:16.656Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T16:22:09.769Z</updated>
+    <updated>2022-03-27T01:12:16.656Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Interview with Tony @ PlusOneExp]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/03/my-interview-with-tony-plusoneexp.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/03/my-interview-with-tony-plusoneexp.html"/>
+        <updated>2022-03-26T20:04:00.001Z</updated>
+        <summary type="html"><![CDATA[Tony Vasinda was kind enough to invite me on his RPG show PlusOneExp. I had a very fun time talking to him about:
+
+
+Making travel fun
+Alchemical subsystems
+Dungeon Meshi
+What IS the GLoG?
+Enriching PDFs with digital tools
+The current state of HIS MAJESTY THE WORM
+
+
+Plus, I made this very handsome face. 
+
+
+(Click The Handsome Face to hear our conversion.)
+
+
+If you missed the live stream, click above to hear our conversation and check out the other cool work he's doing on his channel.
+Tony is currently hosting a game jam on Itch called TogetherWeGo. There are some excellent designers participating and you should definitely check it out.]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setting: The Gyldir Vale]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/03/setting-gyldir-vale.html</id>
