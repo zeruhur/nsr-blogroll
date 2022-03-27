@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T01:12:16.656Z</id>
+    <id>urn:2022-03-27T08:19:17.588Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T01:12:16.656Z</updated>
+    <updated>2022-03-27T08:19:17.588Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -785,42 +785,6 @@ But yeah. The kids were not in the mood for lessons, which I had anticipated. So
 I started the game with narrating that…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta NPCs - Reusing My Favorites Across Game Worlds]]></title>
-        <id>https://d66kobolds.blogspot.com/2022/02/meta-npcs-reusing-my-favorites-across.html</id>
-        <link href="https://d66kobolds.blogspot.com/2022/02/meta-npcs-reusing-my-favorites-across.html"/>
-        <updated>2022-02-25T19:12:00.001Z</updated>
-        <summary type="html"><![CDATA[I have found, as an evergreen referee, that I'd much rather pilot NPCs than play a proper character in an ongoing campaign. I've mentioned this before, but as I consider today's topic, it is especially relevant. 
-NPCs are skeleton keys to the campaign world for referees. They are direct representations of tropes, themes, needs, and wants that you (if you're running a game) want to convey to the players to make the setting come alive. I'd rather spend three hours playing a dozen+ NPCs than a single, titular character. I've learned this over time. It remains my staple experience in adventure games. 
-This is brief preamble for my sharing with you my Meta NPCs. That is, my favorite NPCs that show up in just about all of my games regardless of genre or setting (tailored to fit, as necessary). I…]]></summary>
-        <author>
-            <name>d66 Classless Kobolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autopsy Report: Looking back at my first GLoG hack]]></title>
-        <id>https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html</id>
-        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/02/autopsy-report-looking-back-at-my-first.html"/>
-        <updated>2022-02-25T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Back when I initially started this blog I was working on a GLoG hack for the table I played with at the time. It is somewhat finished, but barely playtested and the few people that did play it seemed to hate it. 
-Moreover, this is from before I realised you don't actually need rules for everything, so despite aiming for 'elegant design' it is a rather convoluted mess of rules I thought I'd need because they were so prevalent in other systems, rules I wanted to add because I thought they were missing from 5e and a bunch of systems and mechanics stolen from other blogs merely because they looked interesting.
-
-For these reasons, I don't like looking back at it, it makes me cringe. However, every once in a while when I need an example of something I like, I find myself returning to stuff I wro…]]></summary>
-        <author>
-            <name>Tabletop Curiosity Cabinet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calendars, Not Just Maps]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:621812076f54662e8d018384</id>
-        <link href="https://www.prismaticwasteland.com/blog/calendars-not-just-maps"/>
-        <updated>2022-02-25T14:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Maps are important for running location-based adventures, but having a 
-useful calendar or timeline is equally essential.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
