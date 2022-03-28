@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T16:22:34.633Z</id>
+    <id>urn:2022-03-28T01:19:08.595Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T16:22:34.633Z</updated>
+    <updated>2022-03-28T01:19:08.595Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[Game Jam] Forest Farragoes]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/game-jam-forest-farragoes.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/game-jam-forest-farragoes.html"/>
+        <updated>2022-03-28T01:10:00.001Z</updated>
+        <summary type="html"><![CDATA[My often neglected itch.io page stirs with a new submission, brought about by the Cairn Forest Jam.
+ Forest Farragoes by ktrey]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-licensed not!Tolkien games]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/03/non-licensed-nottolkien-games.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/03/non-licensed-nottolkien-games.html"/>
+        <updated>2022-03-27T19:45:00.005Z</updated>
+        <summary type="html"><![CDATA[A small story
+When I was 12, I was introduced to RPGs. I said "Oh I will make one for Lord of the Rings." I went home and wrote it in a notebook. 
+It was terrible. 
+For the last 20 years, I have been chasing this white whale. Here is what I have learned:
+There is no one, perfect game. There is only the perfect game for the campaign you want to run (some assembly required). 
+If you want to run a Tolkien game, there are a lot of resources to help you assemble the right game for you, both licensed and unlicensed. 
+What's this post about?
+Given this story and this blog I suspect no one is surprised that I have Opinions (TM) about Lord of the Rings games. 
+Here is a blog post about licensed Tolkien games. 
+What follows is a blog post about games that feel "Tolkienesque" but are not licensed. 
+T…]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Interview with Tony @ PlusOneExp]]></title>
         <id>https://riseupcomus.blogspot.com/2022/03/my-interview-with-tony-plusoneexp.html</id>
@@ -773,18 +804,6 @@ I have previously talked at length about the virtues of "campaign-level play." T
 Most of this post's co…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kids of the Borderland: Carnaval 2022 Actual Play Report]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/02/kids-of-borderland-carnaval-2022-actual.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/02/kids-of-borderland-carnaval-2022-actual.html"/>
-        <updated>2022-02-26T10:11:00.004Z</updated>
-        <summary type="html"><![CDATA[Yesterday was the last day before what we call "krokusvakantie" or "crocus vacation" also known as Carnaval Vacation. Carnaval being the Catholic dress-up feast before the start of Lent, also known as Mardi Gras, but not the Louisiana version of it. That's not to say that for some adults it's not also a bacchanal, but it's mostly a party where kids dress up and have a fun day. There's often parades etc.
-But yeah. The kids were not in the mood for lessons, which I had anticipated. So, we played a roleplaying game. I only got to it with one group, which was a group of 9 year olds. I chose to run Keep on the Borderlands with RISUS, but have it more geared towards young kids. I know one of the kids in that class is easily upset by violence in stories etc.
-I started the game with narrating that…]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
