@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-28T08:22:17.135Z</id>
+    <id>urn:2022-03-28T16:23:52.239Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T08:22:17.135Z</updated>
+    <updated>2022-03-28T16:23:52.239Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Twilight Throne and the House of Ruin (and more)]]></title>
+        <id>http://githyankidiaspora.com/?p=18810</id>
+        <link href="https://githyankidiaspora.com/2022/03/28/the-twilight-throne-and-the-house-of-ruin-and-more/"/>
+        <updated>2022-03-28T11:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Want to get excited about a game on a Monday morning? Usually, when I’m hearing about a fictional setting, be it a tabletop game, video-game, novel or talkie, when proper nouns and titles come up my eyes kind of glaze over. Not so with Rae’s stuff. From a picklist in The Twilight Throne and the […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Game Jam] Forest Farragoes]]></title>
         <id>https://blog.d4caltrops.com/2022/03/game-jam-forest-farragoes.html</id>
@@ -787,23 +797,6 @@ All of this is still subject to revision and I might end up deciding I don't lik
 Next up is probably finishing my write up of GM and Player advise. I've noticed I find it hard to explain what I do quite naturally at the table, so I think I might try an example of play that does everything I tend to do when things go well and see if I can't use that as a basis for writing up the advice.]]></summary>
         <author>
             <name>Tabletop Curiosity Cabinet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternative Economics (Part 2: Interesting Choices)]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/02/alternative-economics-part-2.html"/>
-        <updated>2022-02-27T00:33:00.010Z</updated>
-        <summary type="html"><![CDATA[Return to part 1
-
-
-
-
-I have previously talked at length about the virtues of "campaign-level play." That is, rather than only ever running your game as a series of mostly-isolated scenarios in episodic fashion and then calling it a "campaign," you actually flesh out all the connective tissue between adventures. There are certain gameplay structures you can incorporate which aren't really interacted with on a scenario-to-scenario basis, but which nonetheless have an impact on the campaign as a whole. Examples I give are things like a calendar and downtime play, usable maps and travel gameplay, complicated NPC relationship charts that'll change over time, and of course, domain play and some slightly more in-depth economics than just a menu of regular adventuring gear.
-
-Most of this post's co…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
