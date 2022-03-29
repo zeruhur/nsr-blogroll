@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T08:20:56.346Z</id>
+    <id>urn:2022-03-29T16:24:13.161Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T08:20:56.346Z</updated>
+    <updated>2022-03-29T16:24:13.161Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -780,25 +780,6 @@ At first, I had contemplated dividing this up into categories like Weapons/Armor
         <summary type="html"><![CDATA[Let me see, I’ve done Swords, Shields, Bows, Potions, Grimoires, Lockpicks... I wonder what other wonderous items one might need? Below is a d100 Table that can be used for generating all manner of Magical Footwear. Rise Up Comus pointed out that this leaves our lovely Halflings in the lurch a little bit, but I suppose some could be re-skinned as toe-rings or fancy forefoot combs. Maybe I’ll make it up to them with a list of d100 “Halfling Only” items 😊.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLoK dev diary: Character Generation]]></title>
-        <id>https://tabletopcuriositycabinet.blogspot.com/2022/02/flok-dev-diary-character-generation.html</id>
-        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/02/flok-dev-diary-character-generation.html"/>
-        <updated>2022-02-27T22:05:00.004Z</updated>
-        <summary type="html"><![CDATA[Character generation in the original FLoK was deliberately sparse because I had no real idea of what the project was going to be yet. 
-It was also one of the areas my playtesters had the most feedback on. Especially the generation of the standard attributes (strength, dex, etc.) was contentious. 
-Some disliked that that these tags didn't really come into play, others liked how it informed their idea of their character and the way they roleplayed them. 
-This made me consider making some Maze Rats inspired d66 tables to help those who like that input in visualising and roleplaying their character, without suggesting that these are tags which are supposed to come into play.
-I also tried to standardise the equipment you get from backgrounds a bit more, allow folks to simply roll up their background and provide some examples of those 'twist' items. All also in d66 tables. 
-Here's the current results:
-
-
-All of this is still subject to revision and I might end up deciding I don't like this form of character generation after all. However, the tables seem like they could be useful all the same, so I might as well share them. 
-Next up is probably finishing my write up of GM and Player advise. I've noticed I find it hard to explain what I do quite naturally at the table, so I think I might try an example of play that does everything I tend to do when things go well and see if I can't use that as a basis for writing up the advice.]]></summary>
-        <author>
-            <name>Tabletop Curiosity Cabinet</name>
         </author>
     </entry>
 </feed>
