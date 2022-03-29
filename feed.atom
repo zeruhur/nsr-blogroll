@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T01:12:13.504Z</id>
+    <id>urn:2022-03-29T08:20:56.346Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T01:12:13.504Z</updated>
+    <updated>2022-03-29T08:20:56.346Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -130,12 +130,14 @@ This is superhero pastiche done right. On the surface of it, it feels very roote
         <title type="html"><![CDATA[Kids on the Borderlands: The Orc Caves B+C — Part 2 (Rooms 9 + 10)]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-2.html</id>
         <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-2.html"/>
-        <updated>2022-03-25T12:05:00.003Z</updated>
-        <summary type="html"><![CDATA[Room 9: The Banquet Area (This Is A Capital “L” Location)
+        <updated>2022-03-25T12:05:00.004Z</updated>
+        <summary type="html"><![CDATA[The cave's we've been covering up 'till now.
+
+Room 9: The Banquet Area (This Is A Capital “L” Location)
 If you keep going to the left of the entrance, you reach the Banquet Area. It has a great fireplace on the south wall (which the map seems to give a little crawlspace behind for no explained reason) in which the fire is still burning, but just weakly. There are many benches and tables here, of which a big throne like chair is sitting in the north, in which the leader will hold court when needed. 
 
 
-This is a great place to take the adventurers if they are captured at any point. The leader likes to hold court and to flaunt his power and wealth. This could be a good place for a hearing. It would be farcical and very silly. I think I should revisit the court hearing in Alice in Wonderland for this. It’s also a great way to show the ide…]]></summary>
+This is a great place to take the adventurers if they are captured at any point. The leader likes to hold court and to flaunt his power and wealth. This could be a good place for a hearing. It would be farcical and very silly. I think I should revisit the court hearing in Alice in Wonderland f…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
         </author>
