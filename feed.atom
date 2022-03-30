@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-30T08:21:19.876Z</id>
+    <id>urn:2022-03-30T16:21:55.903Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T08:21:19.876Z</updated>
+    <updated>2022-03-30T16:21:55.903Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Achievements]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/03/achievements.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/03/achievements.html"/>
+        <updated>2022-03-30T13:59:00.002Z</updated>
+        <summary type="html"><![CDATA[Sun Pillar - Exellero
+Things to Kill
+
+It's In The Name: Slay a dragon
+David: Kill a giant using a sling
+Taste of your Own Medicine: Turn a basilisk, a cockatrice or a medusa into stone
+Armaments 2:9-21: Kill a monster with a holy weapon
+That Still Only Counts As One: Kill a large monster by yourself
+Diplomancy: Turn an enemy over to your side and have them kill their former ally
+Who You Gonna Call?: Kill a supernatural creature or spirit
+Go For The Hat!: Kill a wizard
+Vengeance!: Kill an enemy that has previously slain a character
+Blitz: Kill a boss in a single round
+If It Bleeds: Kill a bonafide god or major demon
+If Only There Was Another Way!: Kill another character while mind-control is involved
+Murderer: Kill another character
+
+Things to Eat
+
+The Other White Meat: Eat a sentient enemy…]]></summary>
+        <author>
+            <name>Slight Adjustments</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achievements]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/03/achievements.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/03/achievements.html"/>
+        <updated>2022-03-30T13:59:00.002Z</updated>
+        <summary type="html"><![CDATA[Sun Pillar - Exellero
+Things to Kill
+
+It's In The Name: Slay a dragon
+David: Kill a giant using a sling
+Taste of your Own Medicine: Turn a basilisk, a cockatrice or a medusa into stone
+Armaments 2:9-21: Kill a monster with a holy weapon
+That Still Only Counts As One: Kill a large monster by yourself
+Diplomancy: Turn an enemy over to your side and have them kill their former ally
+Who You Gonna Call?: Kill a supernatural creature or spirit
+Go For The Hat!: Kill a wizard
+Vengeance!: Kill an enemy that has previously slain a character
+Blitz: Kill a boss in a single round
+If It Bleeds: Kill a bonafide god or major demon
+If Only There Was Another Way!: Kill another character while mind-control is involved
+Murderer: Kill another character
+
+Things to Eat
+
+The Other White Meat: Eat a sentient enemy…]]></summary>
+        <author>
+            <name>Slight Adjustments</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Twilight Throne and the House of Ruin (and more)]]></title>
         <id>http://githyankidiaspora.com/?p=18810</id>
