@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T16:24:13.161Z</id>
+    <id>urn:2022-03-30T01:13:06.159Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T16:24:13.161Z</updated>
+    <updated>2022-03-30T01:13:06.159Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -770,16 +770,6 @@ At first, I had contemplated dividing this up into categories like Weapons/Armor
         <summary type="html"><![CDATA[I had a dream last night (as of when this was drafted, not posted) that got rudely interrupted by construction just as it was wrapping up. It would make a great story that I will likely never write, but could also be a storygame TTRPG. I don't normally play or run storygames, I used to listen to a bunch of Actual Plays of them but honestly at this point don't know much about them, and don't have sufficient time to invest in it, but I would love it if somebody with more knowledge and interest in storygames could help me carry this idea into some small side project. I'm somewhat less gung-ho on this now that it's been several days since I had the dream and this would admittedly be a lot of work, but I do still love this idea and I suspect one way or another this will eventually influence som…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Magical Footwear]]></title>
-        <id>https://blog.d4caltrops.com/2022/02/d100-magical-footwear.html</id>
-        <link href="https://blog.d4caltrops.com/2022/02/d100-magical-footwear.html"/>
-        <updated>2022-02-28T12:42:00.001Z</updated>
-        <summary type="html"><![CDATA[Let me see, I’ve done Swords, Shields, Bows, Potions, Grimoires, Lockpicks... I wonder what other wonderous items one might need? Below is a d100 Table that can be used for generating all manner of Magical Footwear. Rise Up Comus pointed out that this leaves our lovely Halflings in the lurch a little bit, but I suppose some could be re-skinned as toe-rings or fancy forefoot combs. Maybe I’ll make it up to them with a list of d100 “Halfling Only” items 😊.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
