@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T08:19:31.181Z</id>
+    <id>urn:2022-03-31T16:23:43.720Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-31T08:19:31.181Z</updated>
+    <updated>2022-03-31T16:23:43.720Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Uses for a (Dead) Dragon]]></title>
+        <id>https://blog.d4caltrops.com/2022/03/d100-uses-for-dead-dragon.html</id>
+        <link href="https://blog.d4caltrops.com/2022/03/d100-uses-for-dead-dragon.html"/>
+        <updated>2022-03-31T13:21:00.001Z</updated>
+        <summary type="html"><![CDATA[Deserving of their own century of entries (after this table), these marvelous Monsters hold pride of place in the very triumvirate title of the game (sharing it with Dungeons and the dreadful Ampersands). In addition to their often quite generous hoards, it seems that players always seem to gravitate towards eking every potential use out of their remains. Perhaps it’s their Inherently Magical Nature that inspires this, or mythological traditions such as Sigurd inadvertently gaining the Language of Birds whilst roasting Fafnir’s Heart in the Völsunga saga. Whatever the underlying reason, in addition to stuffing their empty sacks with all that glitters, I’m often ghoulishly quizzed on “What parts can we use, and what can they be used for?” 
+ Naturally, not every Dragon is anatomically identi…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Achievements]]></title>
         <id>https://slightadjustments.blogspot.com/2022/03/achievements.html</id>
