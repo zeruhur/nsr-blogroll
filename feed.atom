@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T08:21:42.500Z</id>
+    <id>urn:2022-04-01T16:25:40.507Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T08:21:42.500Z</updated>
+    <updated>2022-04-01T16:25:40.507Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Worldbuilding with Pokemon]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html"/>
+        <updated>2022-04-01T12:31:00.000Z</updated>
+        <summary type="html"><![CDATA[An earlier version of this post was first shared on The Cauldron. I've fallen behind a bit and digging into my backlog, but I do have a few upcoming blog posts in mind that are more directly RPG related.
+
+
+
+
+
+
+Pokemon is obviously a huge decades-long phenomenon of a franchise requiring no introduction. Yet despite this fact, I am surprised by just how little impact it has had on fiction, how little regard is paid to the fact that it is a unique science fiction or fantasy sub-genre. My intention for this post is to describe what I think makes Pokemon unique as a sub-genre, and using that as a case example for how to go about thinking about works of fiction and how they might be extrapolated into new kinds of sub-genres, which can then be explored in tabletop RPG form.
+
+
+I am aware of the ra…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 8, Bounty Hunters]]></title>
         <id>http://githyankidiaspora.com/?p=18847</id>
