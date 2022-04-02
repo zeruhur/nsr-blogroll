@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T08:20:07.200Z</id>
+    <id>urn:2022-04-02T16:22:22.580Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T08:20:07.200Z</updated>
+    <updated>2022-04-02T16:22:22.581Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -828,16 +828,6 @@ squads
 Squad is a group of contractors united by mission and proficiencies. They are usually too expensive to be hired by individual characters, so most of the time they will be attached to a faction. Such faction squads will count as resources (which I will cover in a later post). Once a goal is set for a squad, they will complete it autonomously. If a character has a Command skill, they can also control a squad …]]></summary>
         <author>
             <name>squads and space battles for Mothership</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 5, Recruiting Villagers, Scouting Ahead and Evading a Dragon]]></title>
-        <id>http://githyankidiaspora.com/?p=18581</id>
-        <link href="https://githyankidiaspora.com/2022/03/03/all-shadows-lead-to-gloomwrought-session-5-recruiting-villagers-scouting-ahead-and-evading-a-dragon/"/>
-        <updated>2022-03-04T03:45:10.000Z</updated>
-        <summary type="html"><![CDATA[In which recruit the villagers, scout ahead and meet a dragon in the skies before they lead the village through the Shadowfell to Gloomwrought in our Thursday night Dungeons and Dragons campaign.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
