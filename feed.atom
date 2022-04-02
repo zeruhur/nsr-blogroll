@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T01:10:42.177Z</id>
+    <id>urn:2022-04-02T08:20:07.200Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T01:10:42.177Z</updated>
+    <updated>2022-04-02T08:20:07.200Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -838,40 +838,6 @@ Squad is a group of contractors united by mission and proficiencies. They are us
         <summary type="html"><![CDATA[In which recruit the villagers, scout ahead and meet a dragon in the skies before they lead the village through the Shadowfell to Gloomwrought in our Thursday night Dungeons and Dragons campaign.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digging into the original Star Wars RPG]]></title>
-        <id>http://technoskald.me/?p=6197</id>
-        <link href="https://technoskald.me/2022/03/03/digging-into-the-original-star-wars-rpg/"/>
-        <updated>2022-03-03T17:10:23.000Z</updated>
-        <summary type="html"><![CDATA[I've been thinking about trying to do for Star Wars d6 what Cthulhu Dark did for Call of Cthulhu, or what Into the Odd did for Cypher: break it down to a minimal approach without needing to spend too much time thinking about game rules. As I was looking at this, I started to wonder if it doesn't need anything more than GM attitude. Here’s my first set of thoughts about the game.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any Source Is Gameable]]></title>
-        <id>https://d66kobolds.blogspot.com/2022/03/any-source-is-gameable.html</id>
-        <link href="https://d66kobolds.blogspot.com/2022/03/any-source-is-gameable.html"/>
-        <updated>2022-03-03T16:44:00.008Z</updated>
-        <summary type="html"><![CDATA[Reposted from Issue #2 of The Neverending Drachenschwanz, an FKR fanzine.]]></summary>
-        <author>
-            <name>d66 Classless Kobolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Starting Equipment: Backstories & Seeds]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-starting-equipment-backstories.html"/>
-        <updated>2022-03-03T15:57:00.001Z</updated>
-        <summary type="html"><![CDATA[Musing the other day about Randomizing the Players’ Starting Equipment (why would this Magic User have a suit of Chainmail Armor?) got me thinking: What if some of a Character’s Initial Gear could serve as a bit of double duty somehow? It would be fun if one of the items they began play with had a little History, or even maybe an Adventure Hook/Rumor/bit of Mystery to pursue right out of the gate. As a big proponent of a more Sandbox-style of play, one can never have enough seeds to broadcast into those initially fallow fields in hopes that something sprouts, so naturally I felt another table was in order 😊.
-   
-At first, I had contemplated dividing this up into categories like Weapons/Armor/Tools and such, but gradually started leaning toward attempting to make the entries at least somewhat applicable to all (as you never know what the players will decide to spend that 3d6 x 100 on or select from my Quick Equipment & Encumbrance Sheet). Some Referees perform this Shopping portion of Character Generation in play, and not all of these may be appropriate with that method, but there could be some inspiration found below for roleplaying cues I suppose.
- Gut-feeling tells me that these would likely work best with the more durable pieces of gear on the Adventure Equipment list of your choice but it might lead to interesting situations to attach something like this to a consumable like a single Torch or Arrow. Could lead to a tough choice down the road eventually. 
- I do have an additional d100 for Equipment here, but this list doesn’t include the “bread and butter” of Arms and Armor. Updated: with Perchance generator below.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
