@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T08:19:22.955Z</id>
+    <id>urn:2022-04-03T16:22:21.950Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T08:19:22.955Z</updated>
+    <updated>2022-04-03T16:22:21.950Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[thursday]]></title>
+        <id>http://githyankidiaspora.wordpress.com/?p=18921</id>
+        <link href="https://githyankidiaspora.com/2022/04/03/thursday/"/>
+        <updated>2022-04-03T14:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Doubling Devil]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html</id>
