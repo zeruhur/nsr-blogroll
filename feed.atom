@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T16:22:22.580Z</id>
+    <id>urn:2022-04-03T01:14:26.129Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T16:22:22.581Z</updated>
+    <updated>2022-04-03T01:14:26.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Doubling Devil]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html"/>
+        <updated>2022-04-02T20:10:00.007Z</updated>
+        <summary type="html"><![CDATA[I.
+
+I've been working for a while now on a new game. Confusingly, I'm calling it G&G (Goblets & Grues), which is what my failed project from over a year ago was also called.
+
+What can I say? I really like the name. This is just a short post about a new mechanic I just added to the draft rules that I'm really excited to try out.
+
+So, the idea of this new G&G is to combine a focus on exploration and problem solving with a light emphasis on tactical combat. I miss 5E and how the differentiation of roles in combat makes every player feel important.
+How to marry these two things? The two approaches seem irreconcilable...
+
+"Combat as war" gameplay positions the uncertainty of combat as something to be mitigated or avoided entirely.
+"Combat as sport" gameplay positions the uncertainty of combat a…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Moments in Actual Play…]]></title>
         <id>http://githyankidiaspora.com/?p=18871</id>
@@ -816,18 +836,6 @@ ounding off this little run of tables, I decided to dust off another that’s be
 No, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like "The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them." or "Know your players. Communicate outside of…]]></summary>
         <author>
             <name>Legacy of the Bieth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[squads and space battles for Mothership]]></title>
-        <id>https://www.hypertextcorner.com/squads</id>
-        <link href="https://www.hypertextcorner.com/squads"/>
-        <updated>2022-03-04T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[In this double feature blog post I wanted to explore higher level play in Mothership. Not in the sense of more XP, but in the sense of larger scale. I think that factions are a key driving force for campaign. When the crew interacts with one, they gain access to more resources, but also open themselves to more risk. More risk equals more opportunity for tense sessions and horror!
-squads
-Squad is a group of contractors united by mission and proficiencies. They are usually too expensive to be hired by individual characters, so most of the time they will be attached to a faction. Such faction squads will count as resources (which I will cover in a later post). Once a goal is set for a squad, they will complete it autonomously. If a character has a Command skill, they can also control a squad …]]></summary>
-        <author>
-            <name>squads and space battles for Mothership</name>
         </author>
     </entry>
 </feed>
