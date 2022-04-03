@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T01:14:26.129Z</id>
+    <id>urn:2022-04-03T08:19:22.955Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T01:14:26.129Z</updated>
+    <updated>2022-04-03T08:19:22.955Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -802,40 +802,6 @@ Click on any of the pictures above - or click here - to download all of the a
 Use this for your Mausritter games or maybe even Under Hill, By Water.]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 3]]></title>
-        <id>http://technoskald.me/?p=6256</id>
-        <link href="https://technoskald.me/2022/03/04/janus-mothership-campaign-session-3/"/>
-        <updated>2022-03-04T16:43:05.000Z</updated>
-        <summary type="html"><![CDATA[A Mothership shopping session was interrupted by unrest and corporate investigation. You know, like you do.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Spellbook Surrogates & Ritual Research]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-spellbook-surrogates-ritual.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-spellbook-surrogates-ritual.html"/>
-        <updated>2022-03-04T16:21:00.002Z</updated>
-        <summary type="html"><![CDATA[R
-ounding off this little run of tables, I decided to dust off another that’s been lingering in development for far too long. I’ve always been fond of unique Magic Users, but most of the time I don’t use or create a new Class/Subclass for them. There’s a significant amount of customization that can take place elsewhere to capture a different feel for a Wonder Worker, and in addition to just modifying Spell Lists/Creating New Spells, I like to tweak their process of Preparing Spells.
- These modifications are mostly cosmetic in nature and I’d assume that whatever materials or paraphernalia affiliated with these consumes about as much Inventory Space/Encumbrance as a standard Spellbook, and perhaps even possessses a degree of similar fragility. Losing a Spellbook is never fun, and I’m sure there are interesting and creative ways Players could discover that would end up with them losing access to some of these. 
- As I was working on this, it struck me that it might perform a bit of lovely double duty as a list of strange Rituals associated with woefully un-specified Spell Acquisition or under-detailed Magical Research as well. If the more traditonal Tome is still your personal preference, please see my previous One Hundred Grimoires Post for some ideas on how to snazz these 😊.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Our Spaces: A Response to Raggi]]></title>
-        <id>https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html</id>
-        <link href="https://lotbieth.blogspot.com/2022/03/protecting-our-spaces-response-to-raggi.html"/>
-        <updated>2022-03-04T14:05:00.002Z</updated>
-        <summary type="html"><![CDATA[Somewhere in the 2009-2011 range, when I was just discovering the OSR scene, I ran across a retroclone which stuck out to me and zoomed up into my favorites for quite some time. In contrast to most of the other rulesets I had seen at the time, it had a lot of referee advice -- and it had safety tools. 
-No, seriously! They were perhaps a bit rudimentary compared to the codified tools that are out there today, but I didn't see many other rulesets (OSR or otherwise) including quotes like "The Referee shall realize that Rule 0 is for the purpose of establishing the desired atmosphere for his campaign, and not as an excuse to abuse players or a license to be a despot at the game table… The Referee’s role is to challenge players, not victimize them." or "Know your players. Communicate outside of…]]></summary>
-        <author>
-            <name>Legacy of the Bieth</name>
         </author>
     </entry>
 </feed>
