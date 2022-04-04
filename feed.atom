@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T08:20:49.126Z</id>
+    <id>urn:2022-04-04T16:25:22.495Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-04T08:20:49.126Z</updated>
+    <updated>2022-04-04T16:25:22.495Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Afterworlds]]></title>
+        <id>http://hamsterhoard.home.blog/?p=916</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/04/afterworlds/"/>
+        <updated>2022-04-04T12:18:18.000Z</updated>
+        <summary type="html"><![CDATA[How do you map an infinite variety of realms and planes, dimensions and space-time labyrinths? You don’t, really. But a certain metaphysical conception of how –- very broadly speaking! — they tend to sort themselves out does help a bit. Think of the worlds as a series of nested bubbles made up of drunken rings … Continue reading Afterworlds →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playing with adults in Antwerp]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/04/playing-with-adults-in-antwerp.html</id>
@@ -774,16 +784,6 @@ That sure was something folks. Reminds me of my conversation with Gearoong. Hor
 Moving on to RPGs, because that's why you came here... Right? Or maybe not, sound off fro…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rolling Dice in Call of Cthulhu]]></title>
-        <id>http://technoskald.me/?p=6279</id>
-        <link href="https://technoskald.me/2022/03/05/rolling-dice-in-call-of-cthulhu/"/>
-        <updated>2022-03-06T01:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Call of Cthulhu has some surprisingly (to me) narrative-focused rules for rolling dice.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
