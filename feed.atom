@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T16:22:21.950Z</id>
+    <id>urn:2022-04-04T01:18:05.814Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T16:22:21.950Z</updated>
+    <updated>2022-04-04T01:18:05.814Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[thursday]]></title>
-        <id>http://githyankidiaspora.wordpress.com/?p=18921</id>
-        <link href="https://githyankidiaspora.com/2022/04/03/thursday/"/>
-        <updated>2022-04-03T14:45:28.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Doubling Devil]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html</id>
@@ -783,35 +773,6 @@ Moving on to RPGs, because that's why you came here... Right? Or maybe not, soun
         <summary type="html"><![CDATA[Call of Cthulhu has some surprisingly (to me) narrative-focused rules for rolling dice.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cut-Out Decoration Cards for your Cozy Hole Home]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/03/cut-out-decoration-cards-for-your-cozy.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/03/cut-out-decoration-cards-for-your-cozy.html"/>
-        <updated>2022-03-05T12:54:00.006Z</updated>
-        <summary type="html"><![CDATA[I have made a toy.
-The equipment cards from Mausritter/Last Gasp Grimoire are so fun. The gimmick is that you print out your equipment cards on card stock and use blue tack to stick them physically onto your character sheet, so you have a sort of Diablo pack experience.
-I took this paradigm and applied it to decorations for the cozy hole that you call a home. All artwork is stolen from Mike Ploog's background art in Ralph Bakshi's Fellowship of the Ring.
-
-
-Choose a decoration for your tiny home.
-
-
-
-
-Place them in your parlor...
-
-
-
-
-...or in your entrance hall.
-
-
-Click on any of the pictures above - or click here - to download all of the assets. 
-Use this for your Mausritter games or maybe even Under Hill, By Water.]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
