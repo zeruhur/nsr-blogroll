@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T01:11:05.603Z</id>
+    <id>urn:2022-04-05T08:20:56.165Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T01:11:05.603Z</updated>
+    <updated>2022-04-05T08:20:56.165Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -765,25 +765,6 @@ If you're looking for a random encounter table to use for your next MERP game, v
         <summary type="html"><![CDATA[Where The Wheat Grows Tall Review]]></summary>
         <author>
             <name>New School Revolution</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird & Wonderful Wavelengths (Variety Show s1e2)]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/weird-wonderful-wavelengths-variety.html"/>
-        <updated>2022-03-06T15:18:00.001Z</updated>
-        <summary type="html"><![CDATA[We interrupt this broadcast of the normally scheduled Weird & Wonderful Worlds blog to traverse the other WWW (the Weird Wonderful Wavelength decomposed like an overzealous cockroach in an empty kitchen from the spectrum of nutrient deficient fluorescent white light that is the World Wide Web). Let us begin with an interactive spacetime courtesy of Leenalchi, from the past, present, future, and sidetime of Korea. But watch out... TIGER IS COMING!
-
-
-
-
-Link here if you don't see the embed on mobile
-That sure was something folks. Reminds me of my conversation with Gearoong. Horrific psychedelic Scooby-Don't and the Gang hunting Poltergeists in Maximum Recursion Depth (poor Frieda is already an Ashura).
-
-
-Moving on to RPGs, because that's why you came here... Right? Or maybe not, sound off fro…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
