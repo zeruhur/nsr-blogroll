@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-05T08:20:56.165Z</id>
+    <id>urn:2022-04-05T16:24:24.148Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-05T08:20:56.165Z</updated>
+    <updated>2022-04-05T16:24:24.148Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Burelac: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=919</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/05/burelac-foundation/"/>
+        <updated>2022-04-05T11:42:49.000Z</updated>
+        <summary type="html"><![CDATA[What is more precious than the core of one’s self, solid and resolute, a stony cradle for all that came before and shall come after, tucked away from prying eyes? What emerges from such secret nurturings but the most precious of gifts, given freely, from one who can choose to make that gift? And so … Continue reading Burelac: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Afterworlds]]></title>
         <id>http://hamsterhoard.home.blog/?p=916</id>
