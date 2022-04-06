@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-06T08:20:36.318Z</id>
+    <id>urn:2022-04-06T16:23:42.501Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T08:20:36.318Z</updated>
+    <updated>2022-04-06T16:23:42.501Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cerulean Hell: Manifold Palace]]></title>
+        <id>http://hamsterhoard.home.blog/?p=922</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/06/cerulean-hell-manifold-palace/"/>
+        <updated>2022-04-06T13:55:09.000Z</updated>
+        <summary type="html"><![CDATA[A miraculous place, this. Wondrous, truly. Or, places. Some describe the Cerulean Hell as an endless rolling hillscape of spiraling terraces and copper-winged gazebos beneath a burning blue-flame expanse. Others tell tales of billowing gold-painted draperies of inhuman complexity concealing magnificent miniature gardens, the skies unseen, all a endless sprawling palace of dizzying mosaic and … Continue reading Cerulean Hell: Manifold Palace →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Burelac: Foundation]]></title>
         <id>http://hamsterhoard.home.blog/?p=919</id>
