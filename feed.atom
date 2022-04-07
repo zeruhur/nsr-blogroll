@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T08:21:03.273Z</id>
+    <id>urn:2022-04-07T16:23:46.812Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T08:21:03.273Z</updated>
+    <updated>2022-04-07T16:23:46.812Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Breath Weapons for Dragons of a Different Color]]></title>
+        <id>https://blog.d4caltrops.com/2022/04/d100-breath-weapons-for-dragons-of.html</id>
+        <link href="https://blog.d4caltrops.com/2022/04/d100-breath-weapons-for-dragons-of.html"/>
+        <updated>2022-04-07T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[How conveniently color-coded those standard Dragons are! Telegraphing their offensive and offensive capabilities so! This can sometimes demystify these majestic Monsters a bit, so here’s a table that might provide some additional inspiration to surprise and bewilder by eschewing that predictability. Should you need an unusual shade for their scales to shimmer see the perchance generator below.
+  
+Naturally, one should assume that any standard effects and procedures associated with being doused in Dragon Breath should apply. These are merely adjuncts. Coupled with my prior post on Monster Special Attacks, I suppose this could also be used for foes of a less draconic nature should this be your bag.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death, in the worlds beyond worlds]]></title>
+        <id>http://hamsterhoard.home.blog/?p=925</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/07/death-in-the-worlds-beyond-worlds/"/>
+        <updated>2022-04-07T12:31:52.000Z</updated>
+        <summary type="html"><![CDATA[There’s always the question of what happens when things die, isn’t there? Unfortunately, for ringwalkers and other wanderers of the planes, there doesn’t seem to be one answer to rule them all. Some planes certainly seem to be abodes of the dead — or their place of punishment, or their final reward — but gods … Continue reading Death, in the worlds beyond worlds →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weird Mecha: A Metaphor for Embodied Cognition]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html"/>
+        <updated>2022-04-07T11:54:00.003Z</updated>
+        <summary type="html"><![CDATA[This is the second batch of tables/Mecha, see first post here and an explanation of how this word-based Mecha Gear system works here.
+
+
+Mecha are sometimes described as being a metaphor for the body- which makes sense, they are humanoid giant robots, often unnecessarily anthropomorphized, and often used to tell stories about the adolescent experience or the brutality of war. I don't mean to suggest this is all that Mecha entail, but this alone can be explored in ways that I have rarely if ever seen.
+
+
+In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolations of humans as units within greater superorganisms- Entropy Elancer existing partially in the Fourth Wall outside spacetime, Lycaon Strain a macroscopic distributed organism, and Hibernating Hyberia an encrypted c…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cerulean Hell: Manifold Palace]]></title>
         <id>http://hamsterhoard.home.blog/?p=922</id>
@@ -765,26 +803,6 @@ Here is a generator I made to run a Middle-earth game set in the Trollshaws:
 If you're looking for a random encounter table to use for your next MERP game, voila! You can st…]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mausritter Musings]]></title>
-        <id>http://technoskald.me/?p=6298</id>
-        <link href="https://technoskald.me/2022/03/08/mausritter-musings/"/>
-        <updated>2022-03-09T02:18:46.000Z</updated>
-        <summary type="html"><![CDATA[We played Mausritter last night and it really felt like, well, playing. Setting matters, even implied setting, and it affects the kinds of stories we can tell.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where The Wheat Grows Tall Review]]></title>
-        <id>https://newschoolrevolution.com/2022/03/09/where-the-wheat-grows-tall-review</id>
-        <link href="https://newschoolrevolution.com/2022/03/09/where-the-wheat-grows-tall-review"/>
-        <updated>2022-03-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Where The Wheat Grows Tall Review]]></summary>
-        <author>
-            <name>New School Revolution</name>
         </author>
     </entry>
 </feed>
