@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T08:20:29.325Z</id>
+    <id>urn:2022-04-08T16:24:37.351Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T08:20:29.325Z</updated>
+    <updated>2022-04-08T16:24:37.351Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[the Economics of souls, life, and the worlds beyond worlds]]></title>
+        <id>http://hamsterhoard.home.blog/?p=928</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/08/the-economics-of-souls-life-and-the-worlds-beyond-worlds/"/>
+        <updated>2022-04-08T12:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Naturally, the denizens of the realms beyond don’t wait for folks to shuffle off their mortal coil if they can help it. No, there’s quicker and more efficient methods to acquire the lucre that keeps the planes spinning, and it doesn’t even have to mean stealing it (though that’s also an option). After all, if … Continue reading the Economics of souls, life, and the worlds beyond worlds →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 9, The Old Githyanki Gate]]></title>
         <id>http://githyankidiaspora.com/?p=18937</id>
