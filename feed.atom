@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T01:10:40.252Z</id>
+    <id>urn:2022-04-08T08:20:29.325Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T01:10:40.253Z</updated>
+    <updated>2022-04-08T08:20:29.325Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 9, The Old Githyanki Gate]]></title>
+        <id>http://githyankidiaspora.com/?p=18937</id>
+        <link href="https://githyankidiaspora.com/2022/04/07/all-shadows-lead-to-gloomwrought-session-9-the-old-githyanki-gate/"/>
+        <updated>2022-04-08T02:49:14.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 agrees to do a bloody chore for a Drow Matron for use of the Old Githyanki Gate that her House currently controls.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Breath Weapons for Dragons of a Different Color]]></title>
         <id>https://blog.d4caltrops.com/2022/04/d100-breath-weapons-for-dragons-of.html</id>
@@ -768,41 +778,6 @@ downtime die
 While your characters rest in port, the world around them changes. The downtime die is a special kind of die that is rolled every Shore Leave phase. It is introduced to simulate the growth of various dangers and factions. Similar to the derelict die, it is meant as a guiding tool to help the warden flesh out the world. Feel free to customise the table below to y…]]></summary>
         <author>
             <name>advanced shore leave for Mothership</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context, Cool Shit & Consequences: structure for DM’s notes]]></title>
-        <id>http://githyankidiaspora.com/?p=17931</id>
-        <link href="https://githyankidiaspora.com/2022/03/09/context-cool-shit-consequences-structure-for-dms-notes/"/>
-        <updated>2022-03-09T18:40:48.000Z</updated>
-        <summary type="html"><![CDATA[A structure of Dungeon Masters playing Dungeons and Dragons and all kinds of tabletop role-playing games - Context, Cool Shit and Consequences. Inspiration from all over the damned gaming place...]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow the Bones]]></title>
-        <id>https://blog.symbolic.city/follow-the-bones</id>
-        <link href="https://blog.symbolic.city/follow-the-bones"/>
-        <updated>2022-03-09T14:00:56.000Z</updated>
-        <summary type="html"><![CDATA[If you like quest stories like Gawain and the Green Knight or the Grail cycle, then you may want to check out the new tool I've published...]]></summary>
-        <author>
-            <name>Session Zero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random Encounters in the Trollshaws]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/03/random-encounters-in-trollshaws.html"/>
-        <updated>2022-03-09T13:37:00.002Z</updated>
-        <summary type="html"><![CDATA[I'm a big fan of random tables. Assuming I curate the table correctly, a random table brings a feeling of exciting realness to the flow of a game - they ensure I'm not just writing a fantasy novel in front of my players.
-However, during a game, I can only have so many *things* in front of me. I'm always thinking, "Wait, I know I have a d100 list of books around here, where did I put the Dungeon Alphabet?" In practice, I've become frustrated with how many good tables I know I own vs how many good tables I can bring to hand easily.
-I'm trying to solve this problem with technology. I started experimenting with Perchance.
-Here is a generator I made to run a Middle-earth game set in the Trollshaws:
-
-If you're looking for a random encounter table to use for your next MERP game, voila! You can st…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
