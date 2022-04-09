@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T01:11:54.003Z</id>
+    <id>urn:2022-04-09T08:19:34.072Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T01:11:54.003Z</updated>
+    <updated>2022-04-09T08:19:34.072Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Magical Mishaps & Calamitous Curses]]></title>
+        <id>https://blog.d4caltrops.com/2022/04/d100-magical-mishaps-calamitous-curses.html</id>
+        <link href="https://blog.d4caltrops.com/2022/04/d100-magical-mishaps-calamitous-curses.html"/>
+        <updated>2022-04-09T01:52:00.002Z</updated>
+        <summary type="html"><![CDATA[Yet another table that had been languishing on the dev pile for far too long! Here we have One Hundred Magical Mishaps or Calamitous Curses to inflict upon the table. Since some games don’t have a “Roll To Cast” system in place, these could also be repurposed for all manner of other unfortunate Eldritch Events. Potion Miscibility is popular, but they may also prove useful for Failed Experiments, Scrambled Scrolls, or Grimoires Protected from Prying Eyes. Some of them make mighty fine Horrible Hexes as well, much more memorable and meaningful than a mechanical malus (that players have a remarkable tendency to conveniently forget to apply!)
+ Grafting on additional risk to Spell Casting is something I’ve done in the past. However, I feel it works a bit better if it’s accompanied by a correspondingly tempting reward. One that I particularly enjoyed was allowing a thrill-seeking Magic User to choose to roll a Saving Throw versus Spells after Casting, on a success the Spell is retained and they may cast it again. On a failure, the Spell is lost as with normal Vancian magics. On a 1, a Magical Mishap occurs. One can tweak the frequency of these fantastic failures to taste, or potentially even penalize the Save by the level of the Spell or number of prior retentions attempts in a given time-period. When Magic becomes predictable and repeatable, it can sometimes veer toward banality, so this at least tries to maintain a bit of that delicious wonder should one go down this route.    
+A small amount of effort was put into “tuning” this table a bit, so that smaller die sizes have less “consequential” impacts, so feel free to escalate these however you see fit. What happens with a d6 should be a little less severe than something rolled higher on a d30, with the more disastrous consequences generally occurring only on upper ends of the d100. Durations are occasionally included, but feel free to season those to taste, and as with all misfortunes some just might be possible to undo through additional Adventure.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sometimes the rockets launch and sometimes they don’t.]]></title>
         <id>http://githyankidiaspora.com/?p=18152</id>
@@ -19,7 +31,7 @@
         <title type="html"><![CDATA[Untitled WB:FMAG Hack]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html</id>
         <link href="https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html"/>
-        <updated>2022-04-08T22:34:00.000Z</updated>
+        <updated>2022-04-08T22:34:00.001Z</updated>
         <summary type="html"><![CDATA[I wrote this little White Box: FMAG hack over the course of the past few hours. I like how Spwack posts little hacks straight to their blog, so I figured I'd try something similar.
 I basically just stripped down how Worlds Without Number does ability checks and simplified attacking to one roll. The non-standard attributes, combat order, and Difficult Movement rules come from my big WIP, Goblets & Grues.
 I might try using this to run OSE adventures and the like, who knows.
@@ -798,16 +810,6 @@ Ninja 2]]></summary>
         <summary type="html"><![CDATA[In which 5 of the Sigil 6 destroy the Three Who Are One - a Skull Lord from Mordenkainen's Tome of Foes and a Zombie Clot from Van Richten's Guide to Ravenloft in our Thursday night Dungeons and Dragons game.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 4]]></title>
-        <id>http://technoskald.me/?p=6308</id>
-        <link href="https://technoskald.me/2022/03/10/janus-mothership-campaign-session-4/"/>
-        <updated>2022-03-10T17:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Session alternate title: “Cubic Worsening” The crew this time consisted of: Aeris (Teamster)Billy Ray (Marine)BR3ND4 (Android) Dr Wilson stayed back on the ship, both because the player was unavailable this week as well as because that’s his nature. Narrative The crew finished up some business on Prospero, namely the cyber mod installations for BR3ND4 and … Continue reading “Janus” Mothership Campaign – Session 4 →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
