@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-08T16:24:37.351Z</id>
+    <id>urn:2022-04-09T01:11:54.003Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T16:24:37.351Z</updated>
+    <updated>2022-04-09T01:11:54.003Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sometimes the rockets launch and sometimes they don’t.]]></title>
+        <id>http://githyankidiaspora.com/?p=18152</id>
+        <link href="https://githyankidiaspora.com/2022/04/08/sometimes-the-rockets-launch-and-sometimes-they-dont/"/>
+        <updated>2022-04-09T00:48:20.000Z</updated>
+        <summary type="html"><![CDATA[In which the game ends before the adventure is finished…? WTF? We all like Mothership, each other’s contributions and were digging the adventure but due to personal issues all around, we had nearly a month between games. This adventure is intense; it is a thinker or as Judd called it, “a cerebral xeno-temple crawl.” It […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled WB:FMAG Hack]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html"/>
+        <updated>2022-04-08T22:34:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote this little White Box: FMAG hack over the course of the past few hours. I like how Spwack posts little hacks straight to their blog, so I figured I'd try something similar.
+I basically just stripped down how Worlds Without Number does ability checks and simplified attacking to one roll. The non-standard attributes, combat order, and Difficult Movement rules come from my big WIP, Goblets & Grues.
+I might try using this to run OSE adventures and the like, who knows.
+
+
+Character Creation
+Roll 3d6 for your six attributes:
+
+Strength. Climb, swim, jump, push, pull, lift.
+Dexterity. Keep your balance, perform simple acrobatic stunts.
+Charisma. Persuade ambivalent NPCs, put on a charming or convincing performance.
+Craft. Create, tinker, repair, or operate.
+Stealth. Sneak, hide, perform sle…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[the Economics of souls, life, and the worlds beyond worlds]]></title>
         <id>http://hamsterhoard.home.blog/?p=928</id>
@@ -776,18 +808,6 @@ Ninja 2]]></summary>
         <summary type="html"><![CDATA[Session alternate title: “Cubic Worsening” The crew this time consisted of: Aeris (Teamster)Billy Ray (Marine)BR3ND4 (Android) Dr Wilson stayed back on the ship, both because the player was unavailable this week as well as because that’s his nature. Narrative The crew finished up some business on Prospero, namely the cyber mod installations for BR3ND4 and … Continue reading “Janus” Mothership Campaign – Session 4 →]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[advanced shore leave for Mothership]]></title>
-        <id>https://www.hypertextcorner.com/shore</id>
-        <link href="https://www.hypertextcorner.com/shore"/>
-        <updated>2022-03-10T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What do I do as the Warden during Shore Leave? This post will aim to answer the question, providing more depth to Shore Leave phases based on Mothership 1e mechanics. Using a downtime die and faction turns can create opportunities for new missions, and are generally helpful for worldbuilding. And as I say in every post, these rules are super modular. You can adjust them to your taste and the specifics of your campaign.
-downtime die
-While your characters rest in port, the world around them changes. The downtime die is a special kind of die that is rolled every Shore Leave phase. It is introduced to simulate the growth of various dangers and factions. Similar to the derelict die, it is meant as a guiding tool to help the warden flesh out the world. Feel free to customise the table below to y…]]></summary>
-        <author>
-            <name>advanced shore leave for Mothership</name>
         </author>
     </entry>
 </feed>
