@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T08:19:34.072Z</id>
+    <id>urn:2022-04-09T16:22:36.838Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T08:19:34.072Z</updated>
+    <updated>2022-04-09T16:22:36.838Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fidelity: Manifold Palace]]></title>
+        <id>http://hamsterhoard.home.blog/?p=936</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/09/fidelity-manifold-palace/"/>
+        <updated>2022-04-09T12:46:09.000Z</updated>
+        <summary type="html"><![CDATA[A world of light. A world of glass — or something akin to glass, perfect in its transparency, brushed with the faintest of golden sheen, painfully precise in edge and angle, facet and pitch. Beneath one’s feet lie perfect pebbles of that glass, oval or lenticular or granular, truncated pyramids and slim symmetrical stars; above … Continue reading Fidelity: Manifold Palace →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the Faded]]></title>
+        <id>http://hamsterhoard.home.blog/?p=932</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/09/the-faded/"/>
+        <updated>2022-04-09T12:40:11.000Z</updated>
+        <summary type="html"><![CDATA[So if all your soul has been traded away (or fallen off, or been eaten, or you tore it all out, or it was burned up, or any number of possibilities really), and that didn’t just end you (because perhaps a body just might keep moving without a soul), what else might happen? Nothing pleasant, … Continue reading the Faded →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Magical Mishaps & Calamitous Curses]]></title>
         <id>https://blog.d4caltrops.com/2022/04/d100-magical-mishaps-calamitous-curses.html</id>
@@ -800,16 +820,6 @@ Knight 3
 Ninja 2]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 6, The Three Who Are One]]></title>
-        <id>http://githyankidiaspora.com/?p=18629</id>
-        <link href="https://githyankidiaspora.com/2022/03/10/all-shadows-lead-to-gloomwrought-session-6-the-three-who-are-one/"/>
-        <updated>2022-03-11T04:07:32.000Z</updated>
-        <summary type="html"><![CDATA[In which 5 of the Sigil 6 destroy the Three Who Are One - a Skull Lord from Mordenkainen's Tome of Foes and a Zombie Clot from Van Richten's Guide to Ravenloft in our Thursday night Dungeons and Dragons game.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
