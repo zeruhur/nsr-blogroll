@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T16:22:36.838Z</id>
+    <id>urn:2022-04-10T01:17:29.608Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-09T16:22:36.838Z</updated>
+    <updated>2022-04-10T01:17:29.608Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 6]]></title>
+        <id>http://technoskald.me/?p=6365</id>
+        <link href="https://technoskald.me/2022/04/09/janus-mothership-campaign-session-6/"/>
+        <updated>2022-04-09T22:15:21.000Z</updated>
+        <summary type="html"><![CDATA[The crew takes shore leave on Station 472 and considers changes to their future business plans. Also, bricks of human flesh.]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fidelity: Manifold Palace]]></title>
         <id>http://hamsterhoard.home.blog/?p=936</id>
