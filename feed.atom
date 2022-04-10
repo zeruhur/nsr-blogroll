@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T08:19:39.317Z</id>
+    <id>urn:2022-04-10T16:22:37.513Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T08:19:39.317Z</updated>
+    <updated>2022-04-10T16:22:37.513Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Four Channels of Creative Constraints on RPGs]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/04/the-four-channels-of-creative.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/04/the-four-channels-of-creative.html"/>
+        <updated>2022-04-10T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve come up with what I think is an interesting and useful way of thinking about RPGs, but the seeds of it were planted in my head by an unlikely source.
+I was watching this GDC talk by Mick Gordon about how he created the music for Doom (2016). In it, he describes how his main instrument for the game was a simple sine wave — what he describes as the purest form of sound — filtered through four channels of machines that distort the “pure” sound into something industrial, noisy, and full of character.
+In a previous post, I described all RPGs as the product of different kinds of “creative constraints” upon play-pretend, which you might call the “purest form” of RPG. I listed various kinds of constraints, but this GDC talk made me think — what if I reorganized those constraints into four cha…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gebul: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=939</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/10/gebul-foundation/"/>
+        <updated>2022-04-10T13:16:29.000Z</updated>
+        <summary type="html"><![CDATA[The soothing susurrus of sand; sand that drifts through knotted labyrinths of chambers strung like gemstones on tangled passages through dense and layered strata, and whirls across the smooth-swelling rolling plains and rising peaks of weathered stone like a murmur of dust beneath the million million glittering facets, the uncountable colours, of the jeweled dome … Continue reading Gebul: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 6]]></title>
         <id>http://technoskald.me/?p=6365</id>
@@ -772,16 +794,6 @@ An important caveat for this: all specific numbers and variables are intentional
 I've been pleasantly surprised the extent to which people have responded really positively to the Playtests- it feels like I have demonstrably learned from MRD1 and have gotten better at conveying information and setting expectations, and also in game design itself. One of the playtests was with the first group I ran the earliest version of MRD1, and they said they liked the idea of MRD2 even better and were interested …]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mothership, What We Give to Alien Gods, S3: Pushing Buttons]]></title>
-        <id>http://githyankidiaspora.com/?p=18547</id>
-        <link href="https://githyankidiaspora.com/2022/03/11/mothership-what-we-give-to-alien-gods-s3-pushing-buttons/"/>
-        <updated>2022-03-11T23:02:47.000Z</updated>
-        <summary type="html"><![CDATA[In which a session of Mothership, the science-fiction horror tabletop role-playing game is discussed by a ghost astronaut.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
