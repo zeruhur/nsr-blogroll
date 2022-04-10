@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T01:17:29.608Z</id>
+    <id>urn:2022-04-10T08:19:39.317Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T01:17:29.608Z</updated>
+    <updated>2022-04-10T08:19:39.317Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -782,54 +782,6 @@ I've been pleasantly surprised the extent to which people have responded really 
         <summary type="html"><![CDATA[In which a session of Mothership, the science-fiction horror tabletop role-playing game is discussed by a ghost astronaut.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blorb: The Technoskald Interpretation]]></title>
-        <id>http://technoskald.me/?p=6327</id>
-        <link href="https://technoskald.me/2022/03/11/blorb-the-technoskald-interpretation/"/>
-        <updated>2022-03-11T17:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Blorb is a neologism for a particular prep-focused play style that occasionally creates controversy because it means the game world is "real" even before it shows up in a session. Here are my notes on what I think it means.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Fantastical Fishes & Spectacular Seafood]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-fantastical-fishes-spectacular.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-fantastical-fishes-spectacular.html"/>
-        <updated>2022-03-11T15:15:00.004Z</updated>
-        <summary type="html"><![CDATA[Happy Friday! Here’s another table for sprucing some of the water-bound animals your players might encounter or seek out during their travels. Akin to my generator for Remarkable Birds, this kind of set dressing and these in-world “Common Names” can sometimes add a little bit of fun or interesting detail to the Wilderness Foraging, Catch-monger Stalls, or even the occasional Wave-Crawl. One column might also be useful for quick descriptors of seafood dishes the players might deign to dine upon.
- I’ve also included a handy Perchance Generator below to speed up generation of these aquatic critters.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kids On The Borderland: The Adventures of Jason the Ninja - Part 1: Sir Richard Bluecarrot the Knight.]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderland-adventures-of-jason.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderland-adventures-of-jason.html"/>
-        <updated>2022-03-11T13:25:00.005Z</updated>
-        <summary type="html"><![CDATA[As we have some time left over at the end of the lessons, we sometimes play some RPG. This goes very slowly as we're playing it in sessions as short as 5 minutes at the time sometimes. This time, a student of 7 years old made an adventurer character called Robin the Ninja, using my regular Risus setup and B2 - Keep on the Borderlands.
-So enter Jason the Ninja:
-
-
-Ninja 4
-Language Buff 3
-Basketball Player 2
-Cook 1
-
-
-He decided he wanted to check out the caves for treasure so we went on our way and I rolled to see if there was a random encounter. Or I just decided to roll to see which random encounter he came upon, I can't remember. It was weeks ago. I rolled up a giant gecko, which I just explained as a giant lizard. I googled a picture of a dimetrodon and showed that to him. I improvised a little scene to make it interesting. The beast was sunning on a log while a knight in armour with a broken shield and sword was laying on the ground going "Ow! Ow! Owowowowowowow! That was a bad idea!"
-Jason the Ninja went on to kick the Giant Lizard (3) without getting a scratch on himself. I made it a drawn out combat encounter, rather than a one roll type of encounter. He didn't get hit once, and made the lizard ran off (I let him narrate his own victory). He then carried the knight back to the castle to save him. I asked him his favorite colour and his favorite vegetable, because ... I dunno, it's silly, and made it into the name of the knight. He had now made a friend. Sir Richard Bluecarrot will accompany him on his adventures from now on, if able. Jason immediately started to train the knight in the art of the Ninja "so he can protect himself", providing him with a trampoline to practice his flips, succeeding in it.
-And that's where this part ended.
-Sir Richard Bluecarrot:
-
-
-Knight 3
-Ninja 2]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
