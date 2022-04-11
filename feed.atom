@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T16:22:37.513Z</id>
+    <id>urn:2022-04-11T01:15:59.921Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-10T16:22:37.513Z</updated>
+    <updated>2022-04-11T01:15:59.921Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Why is Garlic so Stinking Expensive?]]></title>
+        <id>https://blog.d4caltrops.com/2022/04/d100-why-is-garlic-so-stinking-expensive.html</id>
+        <link href="https://blog.d4caltrops.com/2022/04/d100-why-is-garlic-so-stinking-expensive.html"/>
+        <updated>2022-04-10T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a somewhat tongue-in-cheek diversion from what might be considered slightly more useful Random Tables. It has always been extremely interesting to me how the standard Equipment lists in these games do so much heavy lifting to telegraph Setting, and I often tend to see players new to the game gravitate to a few of the same things.
+ Allium sativum on the list alongside other, perhaps more practical, purchases for Dungeon Delving is one of these. Its mere presence seems to scream to some that the possibility of Vampires is not only very real, but something they ought to prepare for. The same way those lovely Saving Throw Categories, so starkly listed on their sheet, stoically advertise other dangers.
+ But what may have gone unnoticed is just how pricey that lovely little Bulb can be. A little casual research reveals that it tends to stay remarkably stable pricewise in these older games. Naturally, this led me to wonder Why?
+ So, here is a table of a Hundred ways to address this burning question (admittedly over-contemplated on my part) and these weird implications. It just goes to show that there are all sorts of lovely little nuances living in those lists that are hiding and waiting to be revealed by Referee’s with perhaps too much time on their hands.😂]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Four Channels of Creative Constraints on RPGs]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/04/the-four-channels-of-creative.html</id>
