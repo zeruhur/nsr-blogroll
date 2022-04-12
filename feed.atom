@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T01:14:41.326Z</id>
+    <id>urn:2022-04-12T08:21:22.582Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T01:14:41.326Z</updated>
+    <updated>2022-04-12T08:21:22.582Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -852,32 +852,6 @@ The combat mechanics of Classic fantasy RPGs are a huge source of both debate an
 I’m not going to catalog, debate, or mock…]]></summary>
         <author>
             <name>All Dead Generations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternative Economics (Part 3: Treasure-Driven Adventure)]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/03/alternative-economics-part-3-treasure.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/03/alternative-economics-part-3-treasure.html"/>
-        <updated>2022-03-13T16:02:00.003Z</updated>
-        <summary type="html"><![CDATA[Return to part 1
-
-Continuing from part 2, I'm exploring some alternatives to the traditional role that money and economics plays in D&D, inspired by real-life situations found in history, with the occasional creative liberty taken here or there to make things more gameable. It's fantasy after all, we're not going to stress about accuracy here. Last time I just talked about small-to-medium adjustments to the existing economic situations your players engage in. This time I want to think bigger picture. In traditional, OSR, "XP for Gold" schemes, dungeoneering is a path that leads to domains being built up for each individual player. But what other campaign arcs shaped by treasure can we imagine?
-An important caveat for this: all specific numbers and variables are intentionally left ambiguous…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD2 Mecha Gear Thematic Spark Tables]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/mrd2-mecha-gear-thematic-spark-tables.html"/>
-        <updated>2022-03-13T14:06:00.001Z</updated>
-        <summary type="html"><![CDATA[In moving forward with the idea of using Tarsos Theorem's Concept Crafting for the basis of my Mecha Gear system in Maximum Recursion Depth 2, I have run a series of "Mock Session 0 Playtests", discussing the setting, game mechanics, and character creation with people as if we were going to run a game (and in one case, it actually is going to be an ongoing IRL Campaign!).
-
-
-I've been pleasantly surprised the extent to which people have responded really positively to the Playtests- it feels like I have demonstrably learned from MRD1 and have gotten better at conveying information and setting expectations, and also in game design itself. One of the playtests was with the first group I ran the earliest version of MRD1, and they said they liked the idea of MRD2 even better and were interested …]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
