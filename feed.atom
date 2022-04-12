@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T16:24:56.552Z</id>
+    <id>urn:2022-04-12T01:14:41.326Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T16:24:56.552Z</updated>
+    <updated>2022-04-12T01:14:41.326Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why I like Into the Odd]]></title>
+        <id>http://technoskald.me/?p=6378</id>
+        <link href="https://technoskald.me/2022/04/11/why-i-like-into-the-odd/"/>
+        <updated>2022-04-12T00:17:49.000Z</updated>
+        <summary type="html"><![CDATA[What makes Into the Odd (and, by extension, Electric Bastionland) so great? Here are a few reasons.]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d6 No-Hands Character Concepts]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/d6-no-hands-character-concepts.html</id>
