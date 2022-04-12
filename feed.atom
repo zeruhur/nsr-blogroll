@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-12T08:21:22.582Z</id>
+    <id>urn:2022-04-12T16:22:48.358Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T08:21:22.582Z</updated>
+    <updated>2022-04-12T16:22:48.358Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MRD Campaign FINAL Play Report]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html"/>
+        <updated>2022-04-12T13:02:00.001Z</updated>
+        <summary type="html"><![CDATA[The final play reports for my >1yr long Maximum Recursion Depth campaign. I can't fully express just how happy I am with how this all resolved, and how grateful I am for my players. I've played in or run a handful of >1yr long campaigns so far, and this is only the second to come to a proper conclusion, and the first to do so satisfactorily. This campaign truly lived up to the ideals of what I had intended MRD to be, and did so in a way that I had not anticipated, driven by the actions of the Players and the decisions they made given the conceits I presented to them. We'll be following up with a new campaign where one of the Players will take over as GM with their own modified take on MRD, and I'll be running an MRD2 campaign with a new group IRL, but this feels like a milestone in the jou…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incursions]]></title>
+        <id>http://hamsterhoard.home.blog/?p=945</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/12/incursions/"/>
+        <updated>2022-04-12T12:20:01.000Z</updated>
+        <summary type="html"><![CDATA[The realms that make up the great expanse of the afterworlds are not independent of each other, as much as some might hope for it. They are singular, yes, but they don’t exist in adamantine bubbles (or, at least, most of them do not); planes can, and do, reach out and touch each other. This … Continue reading Incursions →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I like Into the Odd]]></title>
         <id>http://technoskald.me/?p=6378</id>
@@ -830,28 +850,6 @@ XP. But what if they could invest it into their character, their followers,
 their equipment or anything else?]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUNGEON!, STRATEGOS, AND D&D]]></title>
-        <id>https://alldeadgenerations.blogspot.com/2022/03/dungeon-strategos-and-d.html</id>
-        <link href="https://alldeadgenerations.blogspot.com/2022/03/dungeon-strategos-and-d.html"/>
-        <updated>2022-03-14T04:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Stumbling  Towards  D&D's Alternate, Alternate Combat System
-
-
- 
-
-
-
-The combat mechanics of Classic fantasy RPGs are a huge source of both debate and game design innovation. The first official changes to Dungeons & Dragons in “Supplement 1 - Greyhawk” are changes to combat mechanics (variable Hit Dice, including weapon damage and Hit Points by class) that form a central aspect of every subsequent edition of Dungeons & Dragons. Even now D&D's combat rules continue to evolve, increasing in complexity and offering ever more variability, steadily accreting to form the 100’s of pages of rules, customization options, feats, spells and mechanics that allow the current edition to function almost as a tactical game of fantasy superpowers and feat usage.
-
-
-
-
-I’m not going to catalog, debate, or mock…]]></summary>
-        <author>
-            <name>All Dead Generations</name>
         </author>
     </entry>
 </feed>
