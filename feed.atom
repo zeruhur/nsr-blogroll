@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T08:22:01.609Z</id>
+    <id>urn:2022-04-13T16:24:33.620Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T08:22:01.609Z</updated>
+    <updated>2022-04-13T16:24:33.620Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[townbuilding for Mausritter]]></title>
+        <id>https://www.hypertextcorner.com/micetown</id>
+        <link href="https://www.hypertextcorner.com/micetown"/>
+        <updated>2022-04-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modified concept art for Mouse Guard by Darek Zabrocki
+
+So your mice have suddenly come to power in a local settlement? Have they been granted rule by a noblemice? Have organised a clever coup? Well, now they have new problems of managing a township. This post is written to guide you through this tricky process.
+township turn
+When mice perform town managing duties, time is divided into township turns, which last about a week. At the start of each township turn, roll a derelict die which will inform what happens on that turn.
+Roll
+Effect
+Description
+
+
+
+
+1
+Encounter
+New characters arrive to the settlement. A merchant caravan, an attack by evil cats, or humans start meddling with the tree you dwell under.
+
+
+2
+Ruin
+Buildings and structures age and/or get damaged.
+
+
+3
+Weather
+Roll for weather (…]]></summary>
+        <author>
+            <name>townbuilding for Mausritter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joui: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=948</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/13/joui-foundation/"/>
+        <updated>2022-04-13T12:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Aqua above and aqua below, here in the endless slow flow fluid existence that is Joui; if “above” and “below” are words that mean a thing where the difference between water to drift and water to breathe is its density. Perhaps true below lies under the drifts of translucently jade greenery — like verdant fluid … Continue reading Joui: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taintedweald: Designer's Notes]]></title>
+        <id>https://zotiquest.zeruhur.space/cairn/2022/04/13/taintedweald/</id>
+        <link href="https://zotiquest.zeruhur.space/cairn/2022/04/13/taintedweald/"/>
+        <updated>2022-04-13T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Since last year I was toying myself with the idea to write a setting inspired by Nausicaä of the Valley of the Wind, Hayao Miyazaki’s masterpiece. The first attempt was last year to submit for InPlay #3 (then never issued, alas), but I was not able to meet the deadline.
+The idea stuck in my mind, for merrier times. Then other project came, fatherhood and everything connected to it.
+Until Yochai Gal launched the *Forest of Another Name” Cairn Jam last month. The original deadline was March 31st and I know it was totally impossible for me to meet that deadline. Then it has postponed to April 15th and I was able to start writing my submission in time.
+The result is Taintedweald, a mini-setting in a 24 pages zine. Let’s see it in detail!
+The title is a portmanteau because they sounds good and …]]></summary>
+        <author>
+            <name>RSS Feed Title</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - One Hundred Horses]]></title>
         <id>https://blog.d4caltrops.com/2022/04/d100-one-hundred-horses.html</id>
@@ -290,16 +348,6 @@ In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolation
         <link href="https://hamsterhoard.home.blog/2022/04/05/burelac-foundation/"/>
         <updated>2022-04-05T11:42:49.000Z</updated>
         <summary type="html"><![CDATA[What is more precious than the core of one’s self, solid and resolute, a stony cradle for all that came before and shall come after, tucked away from prying eyes? What emerges from such secret nurturings but the most precious of gifts, given freely, from one who can choose to make that gift? And so … Continue reading Burelac: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afterworlds]]></title>
-        <id>http://hamsterhoard.home.blog/?p=916</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/04/afterworlds/"/>
-        <updated>2022-04-04T12:18:18.000Z</updated>
-        <summary type="html"><![CDATA[How do you map an infinite variety of realms and planes, dimensions and space-time labyrinths? You don’t, really. But a certain metaphysical conception of how –- very broadly speaking! — they tend to sort themselves out does help a bit. Think of the worlds as a series of nested bubbles made up of drunken rings … Continue reading Afterworlds →]]></summary>
         <author>
             <name>taichara</name>
         </author>
