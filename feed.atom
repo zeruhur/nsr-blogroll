@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-13T16:24:33.620Z</id>
+    <id>urn:2022-04-14T01:22:56.929Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-13T16:24:33.620Z</updated>
+    <updated>2022-04-14T01:22:56.929Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -897,18 +897,6 @@ While I dislike the extreme linearity or narrative constraints of Paizo/modern W
 Maximum Recursion Depth on Exalted Funeral!]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level Up Everyone and Everything]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:613d1cbe927160661891602c</id>
-        <link href="https://www.prismaticwasteland.com/blog/level-up-everyone-and-everything"/>
-        <updated>2022-03-15T13:16:23.000Z</updated>
-        <summary type="html"><![CDATA[In most games, the player doesn’t have a choice about what to do with their 
-XP. But what if they could invest it into their character, their followers, 
-their equipment or anything else?]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
