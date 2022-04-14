@@ -85,7 +85,18 @@
       "title": "eskur.dev",
       "feedUrl": "https://eskur.dev/index.xml",
       "siteUrl": "https://eskur.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://eskur.dev/posts/blades-a-oneshot-framework/",
+          "author": null,
+          "description": "A detailed guide for how I run one-shots of Blades In The Dark",
+          "link": "https://eskur.dev/posts/blades-a-oneshot-framework/",
+          "publishedOn": "2022-04-13T00:00:00.000Z",
+          "wordCount": 2326,
+          "title": "Blades in the Dark: A One-Shot Framework",
+          "imageUrl": "https://eskur.dev/images/ogimage.png"
+        }
+      ]
     },
     {
       "title": "Hopeful Weird Wonder",
@@ -172,7 +183,7 @@
           "publishedOn": "2022-04-12T13:02:00.001Z",
           "wordCount": 5379,
           "title": "MRD Campaign FINAL Play Report",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew87a6iS5KeOoOLPLSZ0rAty8q3Cx6XyZv1NYVuUN0sM-z53N5SJbXt8jtkQ4maRxQYj1WOfR3v9c_DVo5lkIFKJJAeKzdckp8ja_2FBqIgxXJ6grOkk0pME1PtG1TZZKNl5eUcNcWZJ1zbM_ClgagMV_44hCoVgSAxVKs-CTdJ3TSPJcIcpEUqnEiKQHnUJXjA0X8y63DIRGREatLJw14cLa7osKkUYIiO=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew5fJ3u7S__574pEB6bYj56yPzODwtaIT9WU_9mCITa1cqr_TqgiEDiQty0Wh-0t9GV5S9KamczR9ZQlfYK7zaLWUOVTFwTYEtj2ICXJWRy1x7neFeRqHlEzhT4qrEmU2-231y8acCpNBhtl8UU1naZMXCFr3LZYSLWIjQ5K24P2_YnZIhRnhtQMyxcVo_8WULWXi8HYOvW2dhlm5bcziAIIvZq8zlwpjYP=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html",
@@ -182,7 +193,7 @@
           "publishedOn": "2022-04-07T11:54:00.003Z",
           "wordCount": 2454,
           "title": "Weird Mecha: A Metaphor for Embodied Cognition",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey0S_fOLSMDJq-hqFTFt3SK9M-VhYdOPAcCAsggHwLqbz0zSSecRNsG704k9RQI8R25mZlwX8xgDSyWMEoPuUIorVhe7YG6X3AEdgqwDcBUf4qMgJwXpuwLnayGX04zAjnIKgF3FBkegY9L8zv1faTWjpxldcrr5qqAgFmQP5VGolg=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez6TfmQd8QKGzmM59HdLfXoIFpFiBPWmGeF7ce9QvpEhh1k4DHkG1-27IGvNLWVa5FoxGS6D4BY7GBJJVimHoK-MSaTDHKI64YXTHYL6lY_8abTIcjFhFr98_-ZaGemJ2gEl0yffRWimUvwIag_CIXYcOCC8JjawSHoEP-FyqXLU6s=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html",
@@ -192,7 +203,7 @@
           "publishedOn": "2022-04-01T12:31:00.000Z",
           "wordCount": 2756,
           "title": "Worldbuilding with Pokemon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyhfOfzFqz65GAtxbpXdCVWMXuD7BnyQ-pa5x4u0NF3bbi17zARFWxZiG-zYxqGJXCqHc__Xfk9FUTBa7WK62wXhtQzFpDhbdgJyQwxTIPh4i8Q_m7KFHHWIUN5vowtTU_xxUH_mwrGS2U5lEXClMIL1WlqZquUY97bS-AEURZi-zLFJ7QVOE_LKKRf7JYXa9T1SEATJarkFCyDy153yLwFBcFE8nO0shzuF_jxg545Oc8YbUFH2aanke6PVwgsW6yh_CFc9LAYy2xjWp6rLKYvA8YaA2ykpxUTxdMSPG3gTZUKYHh9x-HY8t9Zt4xZHvDOtoOF=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExVlDx5SNC_xFgc0M8KQ8AKfUN_bF_MlUgqMKVr-W_bnvns8RcmpSout-Sukgqaf72GC5J-VBYV8Nm-fyOFpbOByWcd8_5rQOdGtfEZz_WU9LkF0ntWSkCCbUoSoK9tgLoo4QYP9RtOHaSIMe07eCzo5ndaMweXBOzR3S4lSebP5y0b4ZqMKtZbpKVZVO4KndNyfJujqPHyF6NTXHm0CBsrt77GUUD6qQnRmuzal2FeNJYRtB8ggjeTBAAO5zDBoS9X3r11m26yYlr24I_MfBifebgArFMzl4qGvoxVAQhc5h-UKrxlBLYXvCDqomJ59tXPXTXt=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/guardians-of-justice-not-review.html",
@@ -202,7 +213,7 @@
           "publishedOn": "2022-03-25T12:38:00.001Z",
           "wordCount": 2170,
           "title": "Guardians of Justice Not-Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwCdX96TXnFowJqQGZJHF5gRl8Nzj6MmrliME_R5D34PE6RHMrUdq1lQwOBsZ-7ZCHe-XXjLtskgLs-rFpIlB7sKl0efWqBB6GvlFI9duvVVQz8OdEJ5W7MLoq7EAwLLMTt5YMHrL0yvVoAj0x0fhTs8uPdGNlhSeLeKvGwTfZrruSnTLxqP_MkrNgkFDn9kweHwUv03jsYd1Xn54YT4Mlm0xwtLm7EXpE=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExWFXN-43YrUJMzd2B9T4NXMu-HwgAoy6WTbj725uyZDvI_lVjU-D5pd0AEdeYS-qFY3yH8XhdZayc6qvITdYw_cgmCr6Ip64XyelTAUT7Z0CMvgjVTf5n6boBevmpoiDUZlQvG1gnCBngPF53txQQWSJrxzKdle-ix93uW83Kgn_AgrH0OWhkXDV3AE8MW8tGKn1aIE2a9pcVmhX8KlX8-laHuLAOhTnM=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html",
@@ -222,7 +233,7 @@
           "publishedOn": "2022-03-16T11:55:00.003Z",
           "wordCount": 1826,
           "title": "BONUS: Maximum Recursion Depth Exalted Funeral Printing!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExaPQeY5MRatLZfvGENuYqAK01yb2jiJOqHFCEUWxERUoauu8ckPpWF1_x5wSANauwJnxn_AbQFlRwFYZm2Pd2Cavze2QWavnntjBue2tIIorAElAcqo-G3GA1q6ZpB3YLgST_SsaHq1gGcrqvkkEYFZMa1ZJWhUT8LYC2BY1YS0i4sx8H0hLZW8upnoAAHLA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exp41qdeFkiNklsep6eC7Rfw4dBcwOJmE20R2in7aVaguTy3rcJobuLscoT1wOSkbN-oKCSOLXoQ-HHyGd8B3EKAbgaWg-EFbXoLZQdn4uHVWzRXicylhhnViM8YmYjAThBQTjPvp8L0McOHcsRbs9JujMDVfvxVZRgIe9RzgNjSYyPMSNU71e6yk6Zr4PTeg=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -268,7 +279,7 @@
           "publishedOn": "2022-03-30T13:59:00.005Z",
           "wordCount": 1255,
           "title": "Achievements",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyY-iGnwlCxwemJQ6-H6baeLYMrj8nEWnH6JwN8FIKh3B2e3OuXn4JCJfFowBQamaDQNlGyMXWom3ajPrV33denhmOwti6yGPH2U81kbFc6wloaKXrJTT8Yq6h2jGtDoaHDU_buOzDQeRhObZQqJqZ_fAvrZGwsEPSMQf3rV1gO1zdK9b8Hm6Q=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew1L1trZOUCadgezNjjfqUQ5hJXYKW1cZb-C3jjUb-0biQzk6UwJHcaUpc70q0x_mhKGGRL-UApE43eFYBrQeZYm5dSaX-2cyD0lhjFNFCbaQARmVoMlI4J3Fej4rxN8Djx6lVisxbAHExWX1iCejp7CJWqMNKpWHeYZXW3KNuwu1DlL4bcPSE=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -398,7 +409,7 @@
           "publishedOn": "2022-03-30T13:59:00.005Z",
           "wordCount": 1255,
           "title": "Achievements",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyY-iGnwlCxwemJQ6-H6baeLYMrj8nEWnH6JwN8FIKh3B2e3OuXn4JCJfFowBQamaDQNlGyMXWom3ajPrV33denhmOwti6yGPH2U81kbFc6wloaKXrJTT8Yq6h2jGtDoaHDU_buOzDQeRhObZQqJqZ_fAvrZGwsEPSMQf3rV1gO1zdK9b8Hm6Q=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew1L1trZOUCadgezNjjfqUQ5hJXYKW1cZb-C3jjUb-0biQzk6UwJHcaUpc70q0x_mhKGGRL-UApE43eFYBrQeZYm5dSaX-2cyD0lhjFNFCbaQARmVoMlI4J3Fej4rxN8Djx6lVisxbAHExWX1iCejp7CJWqMNKpWHeYZXW3KNuwu1DlL4bcPSE=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -656,7 +667,7 @@
           "publishedOn": "2022-04-01T02:21:00.000Z",
           "wordCount": 705,
           "title": "The Big Black Snake",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew9Rm-ET1Hz_gg3AniBz0LWwSdhfyQSWPMFxM7JTg30QUoN85Zk4ItEvqXV1mTR_PnzlkhxPJK5I5JsyXotdeSUSpPRI8Ja_zxwCEwsbVPtqjFX_zWi-q8err3aph66Asru1OlagsA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzxaBHljfVGO2YUOT9BGPiFJl5CBJZK8MAKNTBwNSpOI3vFSMX-lFtJY7WE-Fx8aFSRo5hBoulHE-twEOJf92HfS-PDz02aK1YMgMYMtKQ0VqeKcFjTdQZHPcybjhsMG_dsW0D-Zc8=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -671,7 +682,7 @@
           "description": "In which the game ends before the adventure is finished…? WTF? We all like Mothership, each other’s contributions and were digging the adventure but due to personal issues all around, we had nearly a month between games. This adventure is intense; it is a thinker or as Judd called it, “a cerebral xeno-temple crawl.” It […]",
           "link": "https://githyankidiaspora.com/2022/04/08/sometimes-the-rockets-launch-and-sometimes-they-dont/",
           "publishedOn": "2022-04-09T00:48:20.000Z",
-          "wordCount": 602,
+          "wordCount": 599,
           "title": "Sometimes the rockets launch and sometimes they don’t.",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/mothership-alien-gods-twitter-pic-sessionless-title-card.png"
         },
@@ -681,7 +692,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 agrees to do a bloody chore for a Drow Matron for use of the Old Githyanki Gate that her House currently controls.",
           "link": "https://githyankidiaspora.com/2022/04/07/all-shadows-lead-to-gloomwrought-session-9-the-old-githyanki-gate/",
           "publishedOn": "2022-04-08T02:49:14.000Z",
-          "wordCount": 1876,
+          "wordCount": 1873,
           "title": "All Shadows Lead to Gloomwrought, Session 9, The Old Githyanki Gate",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-s9-the-old-githyanki-gate.png"
         },
@@ -691,7 +702,7 @@
           "description": "Thinking about a few skill rolls in our Thursday night Dungeons and Dragons game and the Dungeon Mastering techniques at hand...",
           "link": "https://githyankidiaspora.com/2022/04/01/all-shadows-lead-to-gloomwrought-moments-in-actual-play/",
           "publishedOn": "2022-04-01T20:28:37.000Z",
-          "wordCount": 1389,
+          "wordCount": 1386,
           "title": "All Shadows Lead to Gloomwrought, Moments in Actual Play…",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-moments-1.png"
         },
@@ -701,7 +712,7 @@
           "description": "The Sigil 6 deal with a bounty hunting team pulled from Mordenkainen's Tome of Foes in our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/03/31/all-shadows-lead-to-gloomwrought-session-8-bounty-hunters/",
           "publishedOn": "2022-04-01T03:00:18.000Z",
-          "wordCount": 1667,
+          "wordCount": 1664,
           "title": "All Shadows Lead to Gloomwrought, Session 8, Bounty Hunters",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s8-bounty-hunters.png"
         },
@@ -711,7 +722,7 @@
           "description": "Want to get excited about a game on a Monday morning? Usually, when I’m hearing about a fictional setting, be it a tabletop game, video-game, novel or talkie, when proper nouns and titles come up my eyes kind of glaze over. Not so with Rae’s stuff. From a picklist in The Twilight Throne and the […]",
           "link": "https://githyankidiaspora.com/2022/03/28/the-twilight-throne-and-the-house-of-ruin-and-more/",
           "publishedOn": "2022-03-28T11:25:16.000Z",
-          "wordCount": 702,
+          "wordCount": 699,
           "title": "The Twilight Throne and the House of Ruin (and more)",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/piclist-1.png"
         },
@@ -721,7 +732,7 @@
           "description": "In our Thursday Night Dungeons & Dragons campaign, the Sigil 6 saved a caravan from a zombie mob.",
           "link": "https://githyankidiaspora.com/2022/03/24/all-shadows-lead-to-gloomwrought-session-7-on-the-salt-road/",
           "publishedOn": "2022-03-25T03:05:46.000Z",
-          "wordCount": 1559,
+          "wordCount": 1556,
           "title": "All Shadows Lead to Gloomwrought, Session 7, On the Salt Road",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s7-on-the-salt-road.png"
         },
@@ -731,7 +742,7 @@
           "description": "Using Cawood Publishing's Monster of the Underworld to create encounters for our upcoming Thursday night Dungeons and Dragons game. Thinking about our upcoming Mothership campaign and a dragon-slaying D&Dish thing almost ready to be playtested.",
           "link": "https://githyankidiaspora.com/2022/03/19/friday-night-daydreams/",
           "publishedOn": "2022-03-19T09:11:35.000Z",
-          "wordCount": 1009,
+          "wordCount": 1006,
           "title": "Friday Night Daydreams",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/dragonslayers-for-jay-project-ampersand-1.png"
         },
@@ -741,7 +752,7 @@
           "description": "In which Context, Cool Shit & Consequences is used to prep for a Robert E. Howard's Conan RPG by Mophidius Entertainment.",
           "link": "https://githyankidiaspora.com/2022/03/16/conan-context-cool-shit-consequences/",
           "publishedOn": "2022-03-17T01:45:36.000Z",
-          "wordCount": 623,
+          "wordCount": 620,
           "title": "Conan, Context, Cool Shit & Consequences",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/image-from-ios.jpg?w=1200"
         }
