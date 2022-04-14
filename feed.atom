@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T08:21:45.244Z</id>
+    <id>urn:2022-04-14T16:26:10.153Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T08:21:45.244Z</updated>
+    <updated>2022-04-14T16:26:10.153Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kharat: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=951</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/14/kharat-foundation/"/>
+        <updated>2022-04-14T13:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Motion is life is the heat within is emotion is the heat without. Near-nonsense, perhaps, but it encapsulates all that Kharat is: its rolling plains of golden grasses, of melt-copper grain; the wild rapids of its rivers of roiling crimson fires, barely tamed by the whirl of flamewheel mills or endless flotillas of bright-sailed ashreed … Continue reading Kharat: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Marvelous Mushrooms & Tantalizing Toadstools]]></title>
+        <id>https://blog.d4caltrops.com/2022/04/d100-marvelous-mushrooms-tantalizing.html</id>
+        <link href="https://blog.d4caltrops.com/2022/04/d100-marvelous-mushrooms-tantalizing.html"/>
+        <updated>2022-04-14T13:27:00.003Z</updated>
+        <summary type="html"><![CDATA[Yesterday it was pointed out to me that I had been remiss with providing a Random Table for generating Mushrooms/Toadstools, which is indeed a tragedy considering how fond I am of sprinkling “fun” fungi as Resources and Hazards within my Wilderness Adventures. So, I aimed to rectify this oversight post-haste by moving this Table to the top of the dev pile (where in all fairness, it sprouted with almost uncanny swiftness).
+ These can be used in conjunction with my venerable Herb & Plant Generator, and although the Name-stems are intended to be used to generate new and unusual Local Common Names, you can just as easily read across if swiftness is required and treat this more like a standard d100 table. I often like a quick name for flavoring Foraging Results as “You found some Edible Mushrooms” is just so frightfully bland.
+ Use your best judgement to determine an appropriate randomizer if you find yourself in need of a “Number Appearing” (I'm rather fond of 2d6 with "Doubles Add and Roll Again" most of the time, but you could also randomize the die type to use with a quick d8: d4 through d100.) I prefer to heavily festoon some places in evocative fungi as a mood-enhancer, but a few of these are probably best when more precious and significantly rarer. If not expressly edible, and you find yourself in need of a nastier consequence for the foolhardy consumer, there is always my Terrible Toxins & Vile Venoms Table as well.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[townbuilding for Mausritter]]></title>
         <id>https://www.hypertextcorner.com/micetown</id>
@@ -348,16 +370,6 @@ In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolation
         <link href="https://hamsterhoard.home.blog/2022/04/06/cerulean-hell-manifold-palace/"/>
         <updated>2022-04-06T13:55:09.000Z</updated>
         <summary type="html"><![CDATA[A miraculous place, this. Wondrous, truly. Or, places. Some describe the Cerulean Hell as an endless rolling hillscape of spiraling terraces and copper-winged gazebos beneath a burning blue-flame expanse. Others tell tales of billowing gold-painted draperies of inhuman complexity concealing magnificent miniature gardens, the skies unseen, all a endless sprawling palace of dizzying mosaic and … Continue reading Cerulean Hell: Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burelac: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=919</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/05/burelac-foundation/"/>
-        <updated>2022-04-05T11:42:49.000Z</updated>
-        <summary type="html"><![CDATA[What is more precious than the core of one’s self, solid and resolute, a stony cradle for all that came before and shall come after, tucked away from prying eyes? What emerges from such secret nurturings but the most precious of gifts, given freely, from one who can choose to make that gift? And so … Continue reading Burelac: Foundation →]]></summary>
         <author>
             <name>taichara</name>
         </author>
