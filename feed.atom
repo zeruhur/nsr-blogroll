@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T01:16:54.780Z</id>
+    <id>urn:2022-04-15T08:21:37.490Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T01:16:54.780Z</updated>
+    <updated>2022-04-15T08:21:37.490Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 10, The Drow Job Prep]]></title>
+        <id>http://githyankidiaspora.com/?p=18997</id>
+        <link href="https://githyankidiaspora.com/2022/04/14/all-shadows-lead-to-gloomwrought-session-10-the-drow-job-prep/"/>
+        <updated>2022-04-15T03:18:24.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...Kuru finds trouble in a Drow kitchen and the Sigil 6 prepares for the job.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kharat: Foundation]]></title>
         <id>http://hamsterhoard.home.blog/?p=951</id>
