@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T16:26:10.153Z</id>
+    <id>urn:2022-04-15T01:16:54.780Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-14T16:26:10.153Z</updated>
+    <updated>2022-04-15T01:16:54.780Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,7 +36,7 @@
 
 So your mice have suddenly come to power in a local settlement? Have they been granted rule by a noblemice? Have organised a clever coup? Well, now they have new problems of managing a township. This post is written to guide you through this tricky process.
 township turn
-When mice perform town managing duties, time is divided into township turns, which last about a week. At the start of each township turn, roll a derelict die which will inform what happens on that turn.
+When mice perform town managing duties, time is divided into township turns, which last about a week. At the start of each township turn, roll a district die which will inform what happens on that turn.
 Roll
 Effect
 Description
@@ -906,19 +906,6 @@ While I dislike the extreme linearity or narrative constraints of Paizo/modern W
         <summary type="html"><![CDATA[In which Context, Cool Shit & Consequences is used to prep for a Robert E. Howard's Conan RPG by Mophidius Entertainment.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BONUS: Maximum Recursion Depth Exalted Funeral Printing!]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/bonus-maximum-recursion-depth-exalted.html"/>
-        <updated>2022-03-16T11:55:00.003Z</updated>
-        <summary type="html"><![CDATA[Maximum Recursion Depth is now available on Exalted Funeral! It should be available print+pdf later today (as of posting). I've been vocal about the fact that I'm a very digitally-oriented person, but I'm still looking forward to having a copy of MRD physically in my hands, and I know many other people do prefer print so I'm glad to have an offering for them. Also, Exalted Funeral is an awesome publisher and it's a real honor to be a part of their catalog. I hope that this exposes more people to MRD and my blog who I would not otherwise have crossed paths with.
-
-
-Maximum Recursion Depth on Exalted Funeral!]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
