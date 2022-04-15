@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T08:21:37.490Z</id>
+    <id>urn:2022-04-15T16:25:47.401Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T08:21:37.490Z</updated>
+    <updated>2022-04-15T16:25:47.401Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Luminous: Manifold Palace]]></title>
+        <id>http://hamsterhoard.home.blog/?p=954</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/15/luminous-manifold-palace/"/>
+        <updated>2022-04-15T12:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the void, traveller — a void lit by a softly pastel, softly golden, softly bloody numen that never relieves the velvet lack-of-colour of the plane’s black emptiness. But you are not alone, not at all, here within. You stand — as all things must — on bone dense as ivory, pale and tawny, … Continue reading Luminous: Manifold Palace →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 10, The Drow Job Prep]]></title>
         <id>http://githyankidiaspora.com/?p=18997</id>
@@ -372,16 +382,6 @@ Mecha are sometimes described as being a metaphor for the body- which makes sens
 In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolations of humans as units within greater superorganisms- Entropy Elancer existing partially in the Fourth Wall outside spacetime, Lycaon Strain a macroscopic distributed organism, and Hibernating Hyberia an encrypted c…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cerulean Hell: Manifold Palace]]></title>
-        <id>http://hamsterhoard.home.blog/?p=922</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/06/cerulean-hell-manifold-palace/"/>
-        <updated>2022-04-06T13:55:09.000Z</updated>
-        <summary type="html"><![CDATA[A miraculous place, this. Wondrous, truly. Or, places. Some describe the Cerulean Hell as an endless rolling hillscape of spiraling terraces and copper-winged gazebos beneath a burning blue-flame expanse. Others tell tales of billowing gold-painted draperies of inhuman complexity concealing magnificent miniature gardens, the skies unseen, all a endless sprawling palace of dizzying mosaic and … Continue reading Cerulean Hell: Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -906,16 +906,6 @@ While I dislike the extreme linearity or narrative constraints of Paizo/modern W
         <summary type="html"><![CDATA[Confession Time: I’ve always found myself to be very fond of Spell Components, even though tracking such things is often a bit too fiddly for the tastes of most tables. Rather than making them a necessary requirement to cast a given Spell these days, I find that they can still serve a purpose if used in conjunction with standard casting by boosting the effect, duration, range, or modifying other mutable parameters of an appropriate Spell. By making them desirable instead of mandatory, players seem to enjoy amassing and keeping track of them a little more. They also serve as a great hook for potential Adventure: If rumors swirl about a particularly powerful ingredient for augmenting Magical Might, some Wonder Workers will immediately start scheming towards its acquisition. Knowledge of thes…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conan, Context, Cool Shit & Consequences]]></title>
-        <id>http://githyankidiaspora.com/?p=18659</id>
-        <link href="https://githyankidiaspora.com/2022/03/16/conan-context-cool-shit-consequences/"/>
-        <updated>2022-03-17T01:45:36.000Z</updated>
-        <summary type="html"><![CDATA[In which Context, Cool Shit & Consequences is used to prep for a Robert E. Howard's Conan RPG by Mophidius Entertainment.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
