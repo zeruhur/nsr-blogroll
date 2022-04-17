@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T16:23:12.314Z</id>
+    <id>urn:2022-04-17T01:19:02.527Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-16T16:23:12.314Z</updated>
+    <updated>2022-04-17T01:19:02.527Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Modern Pocket Finds]]></title>
+        <id>https://blog.d4caltrops.com/2022/04/d100-modern-pocket-finds.html</id>
+        <link href="https://blog.d4caltrops.com/2022/04/d100-modern-pocket-finds.html"/>
+        <updated>2022-04-16T16:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Just a quick table that I was reminded of today going through my folders. I believe I whipped this up for another Referee in need quite some time ago, but after giving it another gander and thought it might be of use to others.
+ Kind of a contemporary counterpart to my Random Impedimenta. Might also be useful for post-apocalyptic games or ones set in slightly older historical periods, as there is a whiff of anachronism in some of these. These days most of my tables are geared toward Fantasy, but even in that context I’ll admit to sometimes sprinkling in the occasional item from this as an intriguing/puzzling out-of-place artifact or a teaspoon dosage of gonzo. I always endeavor to render the trinket via a description rather than name it though in these situations 😊]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makhru: Foundation]]></title>
         <id>http://hamsterhoard.home.blog/?p=957</id>
@@ -29,7 +40,7 @@
         <title type="html"><![CDATA[Fantasy Flight Dice with Galaxy Far Away (and other thoughts)]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/fantasy-flight-dice-with-galaxy-far.html</id>
         <link href="https://d66kobolds.blogspot.com/2022/04/fantasy-flight-dice-with-galaxy-far.html"/>
-        <updated>2022-04-15T19:22:00.003Z</updated>
+        <updated>2022-04-15T19:22:00.004Z</updated>
         <summary type="html"><![CDATA[For as often as I run my games diceless (or nearly so), I do really enjoy dice. I promise. 
 I started up a new local Galaxy Far Away campaign just over a week ago, and I realized I did not take a liking to the standard opposed 2d6 resolution that I originally penned for the game. Maybe it's because using d6 in Star Wars should belong with West End Games' timeless take on the genre, or maybe because I tend to find traditional opposed resolution less and less compelling these days. 
 I have grown stale on finding out if something happens or not. Instead, stuff always happens. The question is not "does it happen?" but "how?" and I'm finding that said qualitative result generation is much more interesting than pass/fail. I'm not reinventing the wheel here, as the whole "yes, and" or "yes, but" …]]></summary>
@@ -930,16 +941,6 @@ While I dislike the extreme linearity or narrative constraints of Paizo/modern W
         <summary type="html"><![CDATA[Using Cawood Publishing's Monster of the Underworld to create encounters for our upcoming Thursday night Dungeons and Dragons game. Thinking about our upcoming Mothership campaign and a dragon-slaying D&Dish thing almost ready to be playtested.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Monster Parts for Magical Reagents & Research]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-monster-parts-for-magical-reagents.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-monster-parts-for-magical-reagents.html"/>
-        <updated>2022-03-18T12:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Confession Time: I’ve always found myself to be very fond of Spell Components, even though tracking such things is often a bit too fiddly for the tastes of most tables. Rather than making them a necessary requirement to cast a given Spell these days, I find that they can still serve a purpose if used in conjunction with standard casting by boosting the effect, duration, range, or modifying other mutable parameters of an appropriate Spell. By making them desirable instead of mandatory, players seem to enjoy amassing and keeping track of them a little more. They also serve as a great hook for potential Adventure: If rumors swirl about a particularly powerful ingredient for augmenting Magical Might, some Wonder Workers will immediately start scheming towards its acquisition. Knowledge of thes…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
