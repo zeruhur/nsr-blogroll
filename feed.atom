@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T08:20:24.633Z</id>
+    <id>urn:2022-04-17T16:22:40.489Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T08:20:24.633Z</updated>
+    <updated>2022-04-17T16:22:40.489Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nadir:  Manifold Palace]]></title>
+        <id>http://hamsterhoard.home.blog/?p=960</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/17/nadir-manifold-palace/"/>
+        <updated>2022-04-17T12:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Everything is the maw slashed into existence. Existence is nothing except the maw, this endless chasm with no terminus; endlessly extending, splintering; endlessly long, endlessly plunging into the darkest depths, reaching endlessly upward with its bleakly striated walls towards the thin wan slit of pale-ghost light scavengers and exiles, bone-wings and darkcrawlers, hermits and exultants … Continue reading Nadir:  Manifold Palace →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Modern Pocket Finds]]></title>
         <id>https://blog.d4caltrops.com/2022/04/d100-modern-pocket-finds.html</id>
@@ -379,16 +389,6 @@ Craft. Create, tinker, repair, or operate.
 Stealth. Sneak, hide, perform sle…]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the Economics of souls, life, and the worlds beyond worlds]]></title>
-        <id>http://hamsterhoard.home.blog/?p=928</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/08/the-economics-of-souls-life-and-the-worlds-beyond-worlds/"/>
-        <updated>2022-04-08T12:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Naturally, the denizens of the realms beyond don’t wait for folks to shuffle off their mortal coil if they can help it. No, there’s quicker and more efficient methods to acquire the lucre that keeps the planes spinning, and it doesn’t even have to mean stealing it (though that’s also an option). After all, if … Continue reading the Economics of souls, life, and the worlds beyond worlds →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
