@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T08:22:12.410Z</id>
+    <id>urn:2022-04-18T16:25:56.756Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T08:22:12.410Z</updated>
+    <updated>2022-04-18T16:25:56.756Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Universal, System-Neutral Stats]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62508e764b70f661a351e7d1</id>
+        <link href="https://www.prismaticwasteland.com/blog/universal-system-neutral-stats"/>
+        <updated>2022-04-18T13:31:45.000Z</updated>
+        <summary type="html"><![CDATA[It isn’t much fun to convert monsters from system to system. The answer is 
+to not give non-diegetic stats for the monsters in your system-neutral 
+adventures.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hirelings]]></title>
+        <id>http://githyankidiaspora.com/?p=19079</id>
+        <link href="https://githyankidiaspora.com/2022/04/18/hirelings/"/>
+        <updated>2022-04-18T12:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Hirelings for Trophy Gold, Dungeons & Dragons or whatever tabletop role-playing game you use as your medium for delving into demon-haunted ruins with your friends.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizations in the planes beyond]]></title>
+        <id>http://hamsterhoard.home.blog/?p=963</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/18/organizations-in-the-planes-beyond/"/>
+        <updated>2022-04-18T12:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Oh, there’s uncountable scores of guilds and sects, factions and orders and sworn-kinships and organizations, cults and councils and fate knows what else out across the planes, no doubt about it. Some of them are notably, almost painfully local; some span many of the realms; some make it their goal to spread … Here and … Continue reading Organizations in the planes beyond →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art of Chrono War: A Hexcrawl Across Time, Space, and the Multiverse]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html"/>
+        <updated>2022-04-18T12:19:00.001Z</updated>
+        <summary type="html"><![CDATA[I get really excited about timey-wimey stuff, but then inevitably get frustrated when either I overcomplicate it or fail to explain it coherently or whatever, so I will try not to do that this time. This is not a redo of my previous multidimensional hexcrawl post which I'm still going to hyperlink but that is definitely a case where I overcomplicated an idea that actually isn't that complicated, and this is actually a completely different thing from that anyway, so don't bother reading that unless you like weird complicated shit. I liked the post even if basically nobody else did :(…
+
+
+This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs and the idea that I had suggested in the comments that frankly I felt like he was a little too dismissive of so now I'm coming …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadir:  Manifold Palace]]></title>
         <id>http://hamsterhoard.home.blog/?p=960</id>
@@ -333,16 +378,6 @@ In a previous post, I described all RPGs as the product of different kinds of �
         <link href="https://hamsterhoard.home.blog/2022/04/09/fidelity-manifold-palace/"/>
         <updated>2022-04-09T12:46:09.000Z</updated>
         <summary type="html"><![CDATA[A world of light. A world of glass — or something akin to glass, perfect in its transparency, brushed with the faintest of golden sheen, painfully precise in edge and angle, facet and pitch. Beneath one’s feet lie perfect pebbles of that glass, oval or lenticular or granular, truncated pyramids and slim symmetrical stars; above … Continue reading Fidelity: Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the Faded]]></title>
-        <id>http://hamsterhoard.home.blog/?p=932</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/09/the-faded/"/>
-        <updated>2022-04-09T12:40:11.000Z</updated>
-        <summary type="html"><![CDATA[So if all your soul has been traded away (or fallen off, or been eaten, or you tore it all out, or it was burned up, or any number of possibilities really), and that didn’t just end you (because perhaps a body just might keep moving without a soul), what else might happen? Nothing pleasant, … Continue reading the Faded →]]></summary>
         <author>
             <name>taichara</name>
         </author>
