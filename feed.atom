@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T16:22:40.489Z</id>
+    <id>urn:2022-04-18T01:38:54.704Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-17T16:22:40.489Z</updated>
+    <updated>2022-04-18T01:38:54.704Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -931,16 +931,6 @@ I appreciate the self awareness you demonstrate in questioning the extent to whi
 While I dislike the extreme linearity or narrative constraints of Paizo/modern WotC design and a lot of PbtA/FitD/storygames respectively, it's also an easy straw man/false binary that I can already ki…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday Night Daydreams]]></title>
-        <id>http://githyankidiaspora.com/?p=18672</id>
-        <link href="https://githyankidiaspora.com/2022/03/19/friday-night-daydreams/"/>
-        <updated>2022-03-19T09:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Using Cawood Publishing's Monster of the Underworld to create encounters for our upcoming Thursday night Dungeons and Dragons game. Thinking about our upcoming Mothership campaign and a dragon-slaying D&Dish thing almost ready to be playtested.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
