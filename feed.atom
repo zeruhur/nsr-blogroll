@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T08:21:35.891Z</id>
+    <id>urn:2022-04-19T16:25:45.023Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T08:21:35.891Z</updated>
+    <updated>2022-04-19T16:25:45.023Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Planes In A Pinch]]></title>
+        <id>http://hamsterhoard.home.blog/?p=977</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/19/planes-in-a-pinch/"/>
+        <updated>2022-04-19T12:22:33.000Z</updated>
+        <summary type="html"><![CDATA[You’re spinning up a new idea (or trying to), and you’re stuck. Your players just found a way to yeet themselves into a random plane. You are a player and you want some way out there place to call home. You can’t think of a new idea for a plane D: Curse that brain block! … Continue reading Planes In A Pinch →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Universal, System-Neutral Stats]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62508e764b70f661a351e7d1</id>
@@ -370,16 +380,6 @@ In a previous post, I described all RPGs as the product of different kinds of �
         <summary type="html"><![CDATA[The crew takes shore leave on Station 472 and considers changes to their future business plans. Also, bricks of human flesh.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidelity: Manifold Palace]]></title>
-        <id>http://hamsterhoard.home.blog/?p=936</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/09/fidelity-manifold-palace/"/>
-        <updated>2022-04-09T12:46:09.000Z</updated>
-        <summary type="html"><![CDATA[A world of light. A world of glass — or something akin to glass, perfect in its transparency, brushed with the faintest of golden sheen, painfully precise in edge and angle, facet and pitch. Beneath one’s feet lie perfect pebbles of that glass, oval or lenticular or granular, truncated pyramids and slim symmetrical stars; above … Continue reading Fidelity: Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -942,16 +942,6 @@ I've tried to credit everyone. This isn't exhaustive or anything, these are just
 This one goes out to all the thirsty lesbians reading this blog. If it's popular then I'll do more of these posts (…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 5]]></title>
-        <id>http://technoskald.me/?p=6335</id>
-        <link href="https://technoskald.me/2022/03/20/janus-mothership-campaign-session-5/"/>
-        <updated>2022-03-21T00:37:31.000Z</updated>
-        <summary type="html"><![CDATA[In this week's session, I took a small location from the Dissident Whispers book, added some content from Dead Planet and the third-party module Black Heart of Paradise, and generated one of my favorite sessions of Mothership yet.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
