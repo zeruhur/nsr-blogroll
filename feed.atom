@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T01:26:46.790Z</id>
+    <id>urn:2022-04-19T08:21:35.891Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T01:26:46.790Z</updated>
+    <updated>2022-04-19T08:21:35.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -952,20 +952,6 @@ This one goes out to all the thirsty lesbians reading this blog. If it's popular
         <summary type="html"><![CDATA[In this week's session, I took a small location from the Dissident Whispers book, added some content from Dead Planet and the third-party module Black Heart of Paradise, and generated one of my favorite sessions of Mothership yet.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Response to Patrick Stuart's Post About Flow Control]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/response-to-patrick-stuarts-post-about.html"/>
-        <updated>2022-03-20T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[This was originally intended as a comment on Patrick Stuart's blog post WHAT IS FLOW CONTROL?? (AND WHY SHOULD I CARE?) but my comment was too long so I'm just making it it's own post in response. You should definitely read that post first or this response won't make sense.
-
-I appreciate the self awareness you demonstrate in questioning the extent to which you actually prefer a greater sense of freedom even if it's made a lesser experience, and likewise differentiating between actual freedom and the sense of freedom. These are both critical, I think, to any kind of discussion on this topic.
-
-While I dislike the extreme linearity or narrative constraints of Paizo/modern WotC design and a lot of PbtA/FitD/storygames respectively, it's also an easy straw man/false binary that I can already ki…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
