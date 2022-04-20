@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T16:25:45.023Z</id>
+    <id>urn:2022-04-20T01:41:36.376Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T16:25:45.023Z</updated>
+    <updated>2022-04-20T01:41:36.376Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What am I listening to on April 19, 2022?]]></title>
+        <id>http://githyankidiaspora.com/?p=19143</id>
+        <link href="https://githyankidiaspora.com/2022/04/19/what-am-i-listening-to-on-april-19-2022/"/>
+        <updated>2022-04-19T18:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Third Floor Wars interviews Karen Twelves and Sean Nittner.
+
+Adventure Design with Bryce Lynch from Ten Foot Pole.
+
+What makes a great adventure? on Questining Beast]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Planes In A Pinch]]></title>
         <id>http://hamsterhoard.home.blog/?p=977</id>
@@ -900,48 +914,6 @@ In the game I play with the kids using RISUS, the orcs are Pig Men who are dirty
 I started thinking about this because in the game I play when we’re done early in class, the kid made it until the caves and decided to check out cave C. So I’ve been reading that entry lately, thinking about how I could run it for this 6 or 7 year old kid. And I tho…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Monster Special Attacks]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-monster-special-attacks.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-monster-special-attacks.html"/>
-        <updated>2022-03-21T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a quick table that has somehow managed to evade posting for some time now. This itemizes some of the Monster Special Attacks found within the B/X and OSE rulesets. I’ve found it useful in conjunction with a standard Stat Block (such as the classic “Just Use Bears”) for creating new and unexpected Monsters for the players to face off with. Reconciling these abilities can sometimes lead to interesting physical traits, which in turn can influence the description of the Creature 😊.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women Warriors]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/03/women-warriors.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/03/women-warriors.html"/>
-        <updated>2022-03-21T06:33:00.001Z</updated>
-        <summary type="html"><![CDATA[Credit: Malaysian artist Qistina Khalida, who
-you should all go check out immediately
-
-
-Female Fighters
-
-
-Lady Lancers
-
-
-Nonbinary Knights
-
-
-I have a ton of folders of collected artwork for D&D inspiration. I was just thinking to myself that they could make for a good post. Why not start here? 
-
-
-I hope you like women in armor, because I have many digital binders full of 'em. This collection skews towards European knight aesthetics because I'm a hack. Feel free to correct that in the comments by contributing more pics. 
-
-
-I've tried to credit everyone. This isn't exhaustive or anything, these are just the pieces I've come across over the years that I enjoyed enough to save.
-
-
-This one goes out to all the thirsty lesbians reading this blog. If it's popular then I'll do more of these posts (…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
