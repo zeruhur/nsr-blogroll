@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T08:24:06.039Z</id>
+    <id>urn:2022-04-20T16:27:08.860Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-20T08:24:06.039Z</updated>
+    <updated>2022-04-20T16:27:08.860Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quietus, the Iron Court: Manifold Palace]]></title>
+        <id>http://hamsterhoard.home.blog/?p=983</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/20/quietus-the-iron-court-manifold-palace/"/>
+        <updated>2022-04-20T13:23:17.000Z</updated>
+        <summary type="html"><![CDATA[There are realms which unfold beneath the great expanse of the skies, whatever those skies may be. There are planes of seemingly infinite void, with or without structure or object to mar them. The Iron Court is not one of these realms. No matter where, no matter how one passes into Quietus, one’s arrival is … Continue reading Quietus, the Iron Court: Manifold Palace →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make Combat Spicy]]></title>
         <id>https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html</id>
@@ -387,16 +397,6 @@ I was watching this GDC talk by Mick Gordon about how he created the music for D
 In a previous post, I described all RPGs as the product of different kinds of “creative constraints” upon play-pretend, which you might call the “purest form” of RPG. I listed various kinds of constraints, but this GDC talk made me think — what if I reorganized those constraints into four cha…]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gebul: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=939</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/10/gebul-foundation/"/>
-        <updated>2022-04-10T13:16:29.000Z</updated>
-        <summary type="html"><![CDATA[The soothing susurrus of sand; sand that drifts through knotted labyrinths of chambers strung like gemstones on tangled passages through dense and layered strata, and whirls across the smooth-swelling rolling plains and rising peaks of weathered stone like a murmur of dust beneath the million million glittering facets, the uncountable colours, of the jeweled dome … Continue reading Gebul: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -880,32 +880,6 @@ So this is a Mosaic Strict procedure that provides a structure for players to mo
 But then I think about how it might be more than that. The mechanics themselves aren’t much. You pick a type of relationship (line or circle) and progress through some scenes, negotiating what happens, and gaining and losing bond points as you go. Normally I avoid romantic relatio…]]></summary>
         <author>
             <name>Substitute Adventurer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexcrawl Dashboards]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/03/hexcrawl-dashboards.html"/>
-        <updated>2022-03-22T02:21:00.001Z</updated>
-        <summary type="html"><![CDATA[[Voiceover] You're just a GM who wants to run a hexcrawl! But has THIS happened to YOU?!
-...You have the module open!
-...And the map!
-...And the random encounter tables!
-...And a virtual dice roller!
-...And the monster manual!
-...And your notes!
-Soon, there's so many windows open that you don't know which is which! There's GOT to be a BETTER WAY!
-
-
-Introducing! The...
-
-Hexcrawl Dashboard
-I've put together a proof of concept for something I've been calling the Hexcrawl Dashboard: a patchwork of iFramed tools cobbled together onto a single site for ease of GM access. The gimmick is that you have a single page for your map, your encounters, your random encounters, your dungeons, your monster's stats - anything you need to reference during play.
-
-
-Click the image to check out the sample Hexcra…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
