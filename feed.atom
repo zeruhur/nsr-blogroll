@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-21T01:23:55.865Z</id>
+    <id>urn:2022-04-21T08:23:18.735Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T01:23:55.865Z</updated>
+    <updated>2022-04-21T08:23:18.735Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,7 +19,7 @@
         <title type="html"><![CDATA[How to Make Combat Spicy]]></title>
         <id>https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html"/>
-        <updated>2022-04-20T05:06:00.004Z</updated>
+        <updated>2022-04-20T05:06:00.005Z</updated>
         <summary type="html"><![CDATA[I have bigger, better articles in the works but I noticed my output has slowed down, so back into the vaults I go. I've dug up this list from many years ago and adapted it. This was inspired by a recent claim I made that there's such a thing as "system-agnostic combat encounter design" that you can and should learn, which many people were resistant to. Here was the original pitch I wrote for this:
 
 
@@ -844,25 +844,6 @@ more tactical depth.]]></summary>
  I prefer to assume competency with Adventurers. The characters are well aware that these locations full of Treasure that they’ve found themselves exploring are fraught with perilous dangers, even if the Players might be more cavalier in terms of their approach. In addition to threats from Monsters, Running out of Resources, Getting Lost, or even the Dungeon Itself, the…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordering the Chaos: Qualitative Harm and Encumbrance]]></title>
-        <id>https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html</id>
-        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/03/ordering-chaos-qualitative-harm-and.html"/>
-        <updated>2022-03-22T14:31:00.006Z</updated>
-        <summary type="html"><![CDATA[I am having a really hard time explaining people what I do when I run games. It is the next section I am trying to work on for FLoK, but even with the help of some folks who I have run games for, it is slow going. 
-To help the process along, I figured I would make some qualitative systems that sort of line up with how I tend to do things at the table. Mind you, this isn't what I actually consciously have in the back of my head while running, but I think using this will land you in a similar place. 
-
-To help understand where I am coming from it might be useful to keep in mind what my number one principle is when running games: Fluff = Crunch. Both for players, as well as for GMs.
-
-With that out of the way, here's some systems:
-
-Harm:
-Scuffs and Bruises
-These take a toll on you, making you l…]]></summary>
-        <author>
-            <name>Tabletop Curiosity Cabinet</name>
         </author>
     </entry>
 </feed>
