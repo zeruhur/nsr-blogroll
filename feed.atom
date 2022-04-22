@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T01:25:22.251Z</id>
+    <id>urn:2022-04-22T08:21:45.399Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T01:25:22.251Z</updated>
+    <updated>2022-04-22T08:21:45.399Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Returning to Krynn]]></title>
+        <id>https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html</id>
+        <link href="https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html"/>
+        <updated>2022-04-22T05:04:00.006Z</updated>
+        <summary type="html"><![CDATA[WotC just dropped news that they'll be bringing back the AD+D 2e settings of Spelljammer and Dragonlance. You can read all about that over at EnWorld if you're so inclined. 
+I never got into Spelljammer -- I missed a chance to pick up some of the old boxed sets for literal pennies, and I still kick myself for it -- but the concept still holds loads of intrinsic appeal to me. I don't feel like I've seen a satisfying treatment of naval play in a D+D framework yet, and I'm curious to see how WotC approaches it. (I suspect that their approach to voyages and space probably won't be one that quite scratches the yearnings I have, but seeing how they tackle it certainly isn't a bad thing.) 
+But Dragonlance? Dragonlance was one of my main entrypoints into D+D. I started off with the superlative Ret…]]></summary>
+        <author>
+            <name>Legacy of the Bieth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BONUS: Iconoclastic Flow Collaboration!]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/04/bonus-iconoclastic-flow-collaboration.html</id>
