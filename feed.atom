@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-22T08:21:45.399Z</id>
+    <id>urn:2022-04-22T16:26:44.765Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T08:21:45.399Z</updated>
+    <updated>2022-04-22T16:26:44.765Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[the Shadow]]></title>
+        <id>http://hamsterhoard.home.blog/?p=991</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/22/the-shadow/"/>
+        <updated>2022-04-22T13:04:10.000Z</updated>
+        <summary type="html"><![CDATA[It’s a calm, unassuming sort of plane at first, the Shadow is. Plenty of broad fields and lush water meadows, sprawling copses of luxuriant trees with game ready for one’s snare or arrow, nothing is burning or discorporating or transmogrifying before one’s eyes. But then – then the eternal creeping sunset registers, and the strange, … Continue reading the Shadow →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Returning to Krynn]]></title>
         <id>https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html</id>
@@ -345,16 +355,6 @@ Horses can be incredibly frustrating and thick-headed creatures, or remarkably p
         <summary type="html"><![CDATA[The final play reports for my >1yr long Maximum Recursion Depth campaign. I can't fully express just how happy I am with how this all resolved, and how grateful I am for my players. I've played in or run a handful of >1yr long campaigns so far, and this is only the second to come to a proper conclusion, and the first to do so satisfactorily. This campaign truly lived up to the ideals of what I had intended MRD to be, and did so in a way that I had not anticipated, driven by the actions of the Players and the decisions they made given the conceits I presented to them. We'll be following up with a new campaign where one of the Players will take over as GM with their own modified take on MRD, and I'll be running an MRD2 campaign with a new group IRL, but this feels like a milestone in the jou…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incursions]]></title>
-        <id>http://hamsterhoard.home.blog/?p=945</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/12/incursions/"/>
-        <updated>2022-04-12T12:20:01.000Z</updated>
-        <summary type="html"><![CDATA[The realms that make up the great expanse of the afterworlds are not independent of each other, as much as some might hope for it. They are singular, yes, but they don’t exist in adamantine bubbles (or, at least, most of them do not); planes can, and do, reach out and touch each other. This … Continue reading Incursions →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -866,28 +866,6 @@ This is a great place to take the adventurers if they are captured at any point.
 more tactical depth.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling luck]]></title>
-        <id>http://technoskald.me/?p=6348</id>
-        <link href="https://technoskald.me/2022/03/23/handling-luck/"/>
-        <updated>2022-03-24T03:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Luck rolls represent the GM choosing to be surprised rather than just deciding what happens. I look at how a few different games do this and talk about my currently preferred approach.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Hundred Clues & Tells for the Tersely Detailed Trap]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/a-hundred-clues-tells-for-tersely.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/a-hundred-clues-tells-for-tersely.html"/>
-        <updated>2022-03-23T23:21:00.000Z</updated>
-        <summary type="html"><![CDATA[See Also: d100 - This Secret Door Opens...
- So often in Modules and Published Adventures, Traps are tragically under-telegraphed. Oftentimes, they are at least properly indicated on the provided maps/grids with a “T” and we might see a terse description of their primary function/effect (often in the form or Recommended Saving Throws), but seldom are there any telltale indicators that can be used to foreshadow these dangers.
- I prefer to assume competency with Adventurers. The characters are well aware that these locations full of Treasure that they’ve found themselves exploring are fraught with perilous dangers, even if the Players might be more cavalier in terms of their approach. In addition to threats from Monsters, Running out of Resources, Getting Lost, or even the Dungeon Itself, the…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
