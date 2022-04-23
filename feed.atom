@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-23T01:17:33.290Z</id>
+    <id>urn:2022-04-23T08:20:05.322Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T01:17:33.290Z</updated>
+    <updated>2022-04-23T08:20:05.322Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -890,17 +890,6 @@ This is a great place to take the adventurers if they are captured at any point.
         <summary type="html"><![CDATA[In our Thursday Night Dungeons & Dragons campaign, the Sigil 6 saved a caravan from a zombie mob.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Get Knocked Down, But I Get Up Again]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:622a1f2aead858780734313b</id>
-        <link href="https://www.prismaticwasteland.com/blog/i-get-knocked-down-but-i-get-up-again"/>
-        <updated>2022-03-24T13:19:58.000Z</updated>
-        <summary type="html"><![CDATA[A few options for making healing from 0 hp feel more realistic and offer 
-more tactical depth.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
