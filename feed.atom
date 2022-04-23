@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-23T08:20:05.322Z</id>
+    <id>urn:2022-04-23T16:23:32.583Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T08:20:05.322Z</updated>
+    <updated>2022-04-23T16:23:32.583Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Star Wars Faction Write-Up, Inspired by a Board Game]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html"/>
+        <updated>2022-04-23T15:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Mood Music
+
+This, right here, is one of my all-time favorite board games, packed so full of chrome and drama that you can rewrite the Original Trilogy with a single play. This is not a post, however, about the board game, nor the similarly-styled and eponymous computer strategy game which came before it. This post is about how my friends and I played this video-game-turned-board-game in order to inspire the setting for our tabletop adventure game campaign. Layers. 
+The same new Galaxy Far Away campaign which I mentioned last time (including the example of real play therein) came about when I pitched "Star Wars D&D" to some guys I mentor on a regular basis. Both of them have played Rebellion against me many times, so one of them said "hey, what if we play again and whatever the outcome of t…]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trinkets, Trifles and Treasures]]></title>
+        <id>http://hamsterhoard.home.blog/?p=994</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/23/trinkets-trifles-and-treasures/"/>
+        <updated>2022-04-23T13:28:37.000Z</updated>
+        <summary type="html"><![CDATA[You can pick up all sorts of oddments as you wind your way around, across and through the worlds, really ~ d100 01 psychopomp’s lantern, a staff of black heartwood hung with lantern-cage andsoul-pyxes 02 double handful of solaurum and lilyglass clockworks, eternally moving andsoftly chiming 03 shard of ivory-like substance shot through with silvery … Continue reading Trinkets, Trifles and Treasures →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unicorn Meat - Review]]></title>
         <id>https://thecosmicorrery.blogspot.com/2022/04/unicorn-meat-review.html</id>
         <link href="https://thecosmicorrery.blogspot.com/2022/04/unicorn-meat-review.html"/>
-        <updated>2022-04-23T00:46:00.001Z</updated>
+        <updated>2022-04-23T00:46:00.005Z</updated>
         <summary type="html"><![CDATA[Dan D (of the venerable blag, Throne Of Salt) has recently released Unicorn Meat an adventure about a rundown unicorn farm in the backwoods taken over by ex-indentured, feral young girls, and other horrible thing. And it is fantastic.  
 
 
@@ -335,16 +358,6 @@ Weather
 Roll for weather (…]]></summary>
         <author>
             <name>townbuilding for Mausritter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joui: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=948</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/13/joui-foundation/"/>
-        <updated>2022-04-13T12:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Aqua above and aqua below, here in the endless slow flow fluid existence that is Joui; if “above” and “below” are words that mean a thing where the difference between water to drift and water to breathe is its density. Perhaps true below lies under the drifts of translucently jade greenery — like verdant fluid … Continue reading Joui: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -880,16 +893,6 @@ If you keep going to the left of the entrance, you reach the Banquet Area. It ha
 This is a great place to take the adventurers if they are captured at any point. The leader likes to hold court and to flaunt his power and wealth. This could be a good place for a hearing. It would be farcical and very silly. I think I should revisit the court hearing in Alice in Wonderland f…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 7, On the Salt Road]]></title>
-        <id>http://githyankidiaspora.com/?p=18699</id>
-        <link href="https://githyankidiaspora.com/2022/03/24/all-shadows-lead-to-gloomwrought-session-7-on-the-salt-road/"/>
-        <updated>2022-03-25T03:05:46.000Z</updated>
-        <summary type="html"><![CDATA[In our Thursday Night Dungeons & Dragons campaign, the Sigil 6 saved a caravan from a zombie mob.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
