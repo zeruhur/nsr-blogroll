@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-23T16:23:32.583Z</id>
+    <id>urn:2022-04-24T01:16:09.801Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T16:23:32.583Z</updated>
+    <updated>2022-04-24T01:16:09.801Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Star Wars Faction Write-Up, Inspired by a Board Game]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html</id>
         <link href="https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html"/>
-        <updated>2022-04-23T15:18:00.000Z</updated>
+        <updated>2022-04-23T15:18:00.002Z</updated>
         <summary type="html"><![CDATA[Mood Music
 
 This, right here, is one of my all-time favorite board games, packed so full of chrome and drama that you can rewrite the Original Trilogy with a single play. This is not a post, however, about the board game, nor the similarly-styled and eponymous computer strategy game which came before it. This post is about how my friends and I played this video-game-turned-board-game in order to inspire the setting for our tabletop adventure game campaign. Layers. 
@@ -853,46 +853,6 @@ II.
 500 years ago, when the kingdom of Gyldria was at the peak of its prosperity, the king's oracle pronounced a vision that the Golden Flame would soon be lost …]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Methods of Magical Item Identification]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-methods-of-magical-item.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-methods-of-magical-item.html"/>
-        <updated>2022-03-25T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Our rulesets for some versions of the game often appear to omit certain aspects when compared to their descendants. One item periodically perceived as “Missing” from OSE and B/X is a quick and convenient way to instantaneously identify the functions of recovered Magical Items.
- The methods outlined within the text seem to circumscribe this process to either Experimentation or saving up to pay the exorbitant prices of Sages, Seers, and other such Specialists (a lovely money-sink in itself). The “Retainer Test Subject” approach seldom seems appealing to players, since the “Guinea Pig” often clamors to keep it (and why should they not? They assumed the risk!). Later versions, obviously informed by experiences with how these options tended to play out, mostly do away with these methods altoget…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guardians of Justice Not-Review]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/03/guardians-of-justice-not-review.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/03/guardians-of-justice-not-review.html"/>
-        <updated>2022-03-25T12:38:00.001Z</updated>
-        <summary type="html"><![CDATA[I wanted to find more screenshots of the show to share but most of the screenshots I've seen fail to capture what makes this show so interesting, which is a shame, because it really is visually amazing. I will acknowledge that the acting is not always the best, you can tell it has a limited budget, and the writing is sometimes more corny than campy. I'm frontloading the negative, because that aside, it's a truly creative and brilliant show and I really appreciate it for what it is.
-
-
-This is superhero pastiche done right. On the surface of it, it feels very rooted in Justice League and Marvel/DC-style superhero tropes, as well as the full gamut of Watchmen, Dark Knight Returns, the 1980's, videogames, etc. Even so, as the sum of its parts, it feels unique, and that is in large part due to …]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kids on the Borderlands: The Orc Caves B+C — Part 2 (Rooms 9 + 10)]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-2.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/03/kids-on-borderlands-orc-caves-bc-part-2.html"/>
-        <updated>2022-03-25T12:05:00.004Z</updated>
-        <summary type="html"><![CDATA[The cave's we've been covering up 'till now.
-
-Room 9: The Banquet Area (This Is A Capital “L” Location)
-If you keep going to the left of the entrance, you reach the Banquet Area. It has a great fireplace on the south wall (which the map seems to give a little crawlspace behind for no explained reason) in which the fire is still burning, but just weakly. There are many benches and tables here, of which a big throne like chair is sitting in the north, in which the leader will hold court when needed. 
-
-
-This is a great place to take the adventurers if they are captured at any point. The leader likes to hold court and to flaunt his power and wealth. This could be a good place for a hearing. It would be farcical and very silly. I think I should revisit the court hearing in Alice in Wonderland f…]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
