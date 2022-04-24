@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T08:20:40.109Z</id>
+    <id>urn:2022-04-24T16:23:17.983Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T08:20:40.109Z</updated>
+    <updated>2022-04-24T16:23:17.983Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ushil: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1016</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/24/ushil-foundation/"/>
+        <updated>2022-04-24T12:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the White Winds, traveller: with its endless skies churning gently through all the shades of blue and twilight to the deepest violet-darkness and back again; with the namesakes of the plane, the white winds that etch elaborate scrolls and spirals and twisting knots into the masses of pearly cloud that form and drift, … Continue reading Ushil: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Star Wars Faction Write-Up, Inspired by a Board Game]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html</id>
@@ -302,16 +312,6 @@ But take heart! Not all sorceries need be showy ones, and the wonder these sorts
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...Kuru finds trouble in a Drow kitchen and the Sigil 6 prepares for the job.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kharat: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=951</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/14/kharat-foundation/"/>
-        <updated>2022-04-14T13:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Motion is life is the heat within is emotion is the heat without. Near-nonsense, perhaps, but it encapsulates all that Kharat is: its rolling plains of golden grasses, of melt-copper grain; the wild rapids of its rivers of roiling crimson fires, barely tamed by the whirl of flamewheel mills or endless flotillas of bright-sailed ashreed … Continue reading Kharat: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
