@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T16:23:17.983Z</id>
+    <id>urn:2022-04-25T01:19:51.560Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T16:23:17.983Z</updated>
+    <updated>2022-04-25T01:19:51.560Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -825,34 +825,6 @@ If you missed the live stream, click above to hear our conversation and check ou
 Tony is currently hosting a game jam on Itch called TogetherWeGo. There are some excellent designers participating and you should definitely check it out.]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting: The Gyldir Vale]]></title>
-        <id>https://quarterlingscorner.blogspot.com/2022/03/setting-gyldir-vale.html</id>
-        <link href="https://quarterlingscorner.blogspot.com/2022/03/setting-gyldir-vale.html"/>
-        <updated>2022-03-26T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Big hexes are 18 miles, little hexes are 6 miles.
-
-
-I.
-
-
-The Gyldir Vale is a temperate river valley enclosed by the sharp and rocky Red Range to the west; the ancient, forested Green Range to the east; and the magnificent, snow-capped White Range to the north.
-
-
-The valley's name is derived from the Golden Flame, the mysterious source of power with which Rotangur barbarians conquered this land from the high elves 1,000 years ago.
-
-
-The Common Church denounces the Golden Flame as the work of the Devil, but some whisper that the Flame was a gift of divine grace, granted to the Rotangur by the pagan gods of their northern lands.
-
-
-II.
-
-
-500 years ago, when the kingdom of Gyldria was at the peak of its prosperity, the king's oracle pronounced a vision that the Golden Flame would soon be lost …]]></summary>
-        <author>
-            <name>Quarterling’s Corner</name>
         </author>
     </entry>
 </feed>
