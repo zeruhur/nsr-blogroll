@@ -31,7 +31,18 @@
       "title": "Tabletop Curiosity Cabinet",
       "feedUrl": "https://tabletopcuriositycabinet.blogspot.com/feeds/posts/default",
       "siteUrl": "https://tabletopcuriositycabinet.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tabletopcuriositycabinet.blogspot.com/2022/04/how-i-run-complete-adventures-in-under.html",
+          "author": null,
+          "description": "Intro: Not enough time\n\nAlmost every day I am confronted with an annoying fact: I have more interests than I have time for. Add a job and a relationship to this and I have not nearly enough time to do all the things that interest me. In short: there is little time for me to run and prep tRPGs. \n\nThis has made me obsessed with efficiency, both when running games as well as when I design tRPG stuff. On the design end of things, Chris McDowall's minimalism has been really influential in this and his work is something I consider the gold standard to aim for myself. But it turns out that when running games I am already quite efficient with my time.\n\nThrough surveying my players for the FLOK playtest I learned that all of them seemed in agreement that I run my games fast. To give an example: I r…",
+          "link": "https://tabletopcuriositycabinet.blogspot.com/2022/04/how-i-run-complete-adventures-in-under.html",
+          "publishedOn": "2022-04-25T09:28:00.001Z",
+          "wordCount": null,
+          "title": "How I run: complete adventures in under 90 minutes",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Substitute Adventurer",
@@ -85,7 +96,7 @@
           "description": "Artist Credit: Kieran Yanner\n\nMy blog output has been slow this year. Partially this is because I've started several very long posts that are each taking a while to finish, but mostly it's because I spend most of my time working now and have very little time left each day to do anything. I wanted to come up with something a bit smaller that could work as a good blog post to get out before the end of the month that isn't one of those huge posts, but I struggled. Everything I came up with was too small. So why not just offer all of them at once?\nIn this post you'll find seven really small RPG-related things I'd like to share which are all completely unrelated to one another. I hope the comments are chaos. They include:\n\n\nAn idea I had for a particular take on the \"Grit vs Flesh\" mechanic\nA w…",
           "link": "https://knightattheopera.blogspot.com/2022/04/potpourri.html",
           "publishedOn": "2022-04-25T07:12:00.004Z",
-          "wordCount": 9709,
+          "wordCount": 9771,
           "title": "Potpourri",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1s0cDcIznlHncznR9DVrj6t23hqOnHhaBHd6gDTPgn8CIR3GvaNs53tQr-Fe2a25-Kp4LWYKhSHbU_Z4gVrtVY6VrnGSSmgQRek1hyPrvkiqRWga-4LLrE2PTC9d-PLX7hFmm96Y68-dt_RZK1uq17mb3lr7_zPdQ04K2b7QiAQ3uSS7t1ceS5sUw/w1200-h630-p-k-no-nu/equipement.jpg"
         },
@@ -95,7 +106,7 @@
           "description": "I have bigger, better articles in the works but I noticed my output has slowed down, so back into the vaults I go. I've dug up this list from many years ago and adapted it. This was inspired by a recent claim I made that there's such a thing as \"system-agnostic combat encounter design\" that you can and should learn, which many people were resistant to. Here was the original pitch I wrote for this:\n\n\nI've talked to many people who think that combat in 5E isn’t really fun. There are many arguments for this, some of which are perfectly valid and some of which just come down to subjectivity, but by far the most common argument is this: they say that because it removed so many mechanical elements from the process (e.g. flanking mechanics, using miniatures and grids by default, having to take fe…",
           "link": "https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html",
           "publishedOn": "2022-04-20T05:06:00.005Z",
-          "wordCount": 4132,
+          "wordCount": 4127,
           "title": "How to Make Combat Spicy",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC_R1cK4P6jiQp9un9HKHmFjSIkEfAzn5-wWVhSz6pZvltYqdjYS5AfhgycGzNqRXmcPlZ8tIY31isjlitIxOmZJACigISQZuOVMcLuQFqzO6FRoBr0r3eVayDZFo-FJxnFdd7DUqtms9oVmZVSad8-jxSIUA98b7jABUMJhsWL83Y-uZqIklGUSq4/w1200-h630-p-k-no-nu/20211221_232926.jpg"
         }
@@ -112,7 +123,7 @@
           "description": "A small story\nWhen I was 12, I was introduced to RPGs. I said \"Oh I will make one for Lord of the Rings.\" I went home and wrote it in a notebook. \nIt was terrible. \nFor the last 20 years, I have been chasing this white whale. Here is what I have learned:\nThere is no one, perfect game. There is only the perfect game for the campaign you want to run (some assembly required). \nIf you want to run a Tolkien game, there are a lot of resources to help you assemble the right game for you, both licensed and unlicensed. \nWhat's this post about?\nGiven this story and this blog I suspect no one is surprised that I have Opinions (TM) about Lord of the Rings games. \nHere is a blog post about licensed Tolkien games. \nWhat follows is a blog post about games that feel \"Tolkienesque\" but are not licensed. \nT…",
           "link": "https://riseupcomus.blogspot.com/2022/03/non-licensed-nottolkien-games.html",
           "publishedOn": "2022-03-27T19:45:00.005Z",
-          "wordCount": 3249,
+          "wordCount": 3252,
           "title": "Non-licensed not!Tolkien games",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc8agfT8zF5To2QuzGdBdSIPEjCy_j2BCj-CqHHoxC7va5tTLZKNqyttP9OqRTL852VJJ5cZvSf_FWno7CmnYwb50-VJBDkgLiXQDFRD7YgSL4Y6r31ehLQUC11ZKgH5dgV3oFWcvYCDXonqP98Zm2DelxwdVoGp3lJnEu4PXL6NUWPt1yOOCimAT80A/w1200-h630-p-k-no-nu/Race-bobbit.jpg"
         }
@@ -129,9 +140,9 @@
           "description": "I am involved in a collaborative blog! See the description from Screwhead's tweet below:\n\n\nIconoclastic Flow is a collaborative blog, with content from Max of Weird and Wonderful Worlds, Semiurge of Archons March On, Spwack of Slight Adjustments, Sibylla of  Devil Devil Devil, and Sofinho of Alone in the Labyrinth, as well as 4 lovely creatives from my real life!\n\n\nScrewhead being of the Was it Likely blog, who was doing brilliant FKR-ish stuff before FKR was even a thing.\n\n\nI've interviewed all of these bloggers before (see interview tag) and Devil Devil Devil is genuinely one of the most interest RPGs I've read in a while. The other friends of Screwhead I've also been getting to know a bit and they all seem cool as well.\n\n\nI've got one bog post there already drafted, but since Screwhead was the lead organizer, we felt he should be the one to kick things off, with:\n\n\n\nLords of Old; a GMless Competitive Social Deduction TTRPG of Gods in the Ruins of the Old World\n\n\n\n\n\nGiven how much I've bounced around on this blog between worldbuilding, game discussion, prose, game mechanics, coding stuff, interviews, weird experimental stuff like Weird & Wonderful Wavelengths, etc., I don't necessarily have a coherent idea of what will differentiate my posts there vs. here, and there may in fact not be any meaningful differentiation, it'll just be another place to read my stuff, so if you're already enjoying this blog, or any of the other creators involved in this collaboration, check it out.",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/bonus-iconoclastic-flow-collaboration.html",
           "publishedOn": "2022-04-21T13:19:00.002Z",
-          "wordCount": 2053,
+          "wordCount": 2073,
           "title": "BONUS: Iconoclastic Flow Collaboration!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwPB2YL4GSyVqdjDwIXabWFGYCmhoOn01NgI3hbNSgjdaMzsm0xrI0BxNNMHvWSWyZEGYi6GnaFyPtVVnJX4o3eepejvuJDFDKQhIK2qlmfCoufPAAqEXEkUKuRE-dVAdr4zg9pwchOu-zw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exaups1TsgwCmLNeYFLwDIPQQ0T-fWnYF3z0GqmqomFtQNZxiR6lGcsf11CUSfoY72A1-g7MQt8-U3pKlQ40S_sE9bNawQE9g_pI83aCsziK8w6y8OEVGqbwPWTeTKdHeI3JhMsGF4dWon8=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html",
@@ -139,9 +150,9 @@
           "description": "I get really excited about timey-wimey stuff, but then inevitably get frustrated when either I overcomplicate it or fail to explain it coherently or whatever, so I will try not to do that this time. This is not a redo of my previous multidimensional hexcrawl post which I'm still going to hyperlink but that is definitely a case where I overcomplicated an idea that actually isn't that complicated, and this is actually a completely different thing from that anyway, so don't bother reading that unless you like weird complicated shit. I liked the post even if basically nobody else did :(…\n\n\nThis post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs and the idea that I had suggested in the comments that frankly I felt like he was a little too dismissive of so now I'm coming …",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html",
           "publishedOn": "2022-04-18T12:19:00.001Z",
-          "wordCount": 3700,
+          "wordCount": 3720,
           "title": "The Art of Chrono War: A Hexcrawl Across Time, Space, and the Multiverse",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyGzO6PWFjB24aOL7DmNTEK14QoUB0j4cGw2rdzw0oGAdPl25f_m8gr_QDA_KM8LVwPkO1zSw0xV4ge4a1CwUuYws25oYTM4tZH6ewYjyD-i8QTnxs382n9KlZc0ituY3FkS_W3Wh52DvuAXK3sRC2Dky8=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwIxwWzvjtBb6umc1dcOQ68CSXAXhZxsRYe73U5yjC4eIS6D5OuulsLg07QePAzpLmptsHJc6SSHJmZxH2q9oIte0lgHQ7V3jqXdnBeL7QkUYD3ZBGnpYYH-0y8BuBE_ejkR8ZGHemy0Z1c9Vje8MIu9H4=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html",
@@ -149,9 +160,9 @@
           "description": "The final play reports for my >1yr long Maximum Recursion Depth campaign. I can't fully express just how happy I am with how this all resolved, and how grateful I am for my players. I've played in or run a handful of >1yr long campaigns so far, and this is only the second to come to a proper conclusion, and the first to do so satisfactorily. This campaign truly lived up to the ideals of what I had intended MRD to be, and did so in a way that I had not anticipated, driven by the actions of the Players and the decisions they made given the conceits I presented to them. We'll be following up with a new campaign where one of the Players will take over as GM with their own modified take on MRD, and I'll be running an MRD2 campaign with a new group IRL, but this feels like a milestone in the jou…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html",
           "publishedOn": "2022-04-12T13:02:00.001Z",
-          "wordCount": 5443,
+          "wordCount": 5463,
           "title": "MRD Campaign FINAL Play Report",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwyeRPEdEHtWIIuGYXv8qD5jKDpcYa-ofWcUA6KNtdMA80kagtL5E2YTG4jvBFMvh5SK8DQyaoQ9KyublLscazEd1KkEjsBTI82S1SgawcwzRcQ0NZXSRy847v2X0zDXGJXxMIR0XWP09f1HFoHEtxMltLcFXY6o7mlbT7kyVKXgRtIAYJvrohC3lO7xxlZ3mvWVVt6IHEF4sbI0iNmLa9W1teeXQb0BiFQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwzE5i8tVjAnNaUlalICEB8CNaTzvNJP0lhBuqdQOD4Ke4DQuxjty5Bp8gkSsN28rS1Rdyi09LVoZVqHW15YGK70A8u7vMYxoSTCzM9o_UwxW23RuWxlRemQy8aSkjLNC9LiWODarEXHRL__htkADtQYRpYkO_nmO2LMylRfTvp89n7aOKoeCcK9x0Mp1rGDkI_oKphVO3K6pUvozLs3hmxKKbAL5kwHZHI=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html",
@@ -159,9 +170,9 @@
           "description": "This is the second batch of tables/Mecha, see first post here and an explanation of how this word-based Mecha Gear system works here.\n\n\nMecha are sometimes described as being a metaphor for the body- which makes sense, they are humanoid giant robots, often unnecessarily anthropomorphized, and often used to tell stories about the adolescent experience or the brutality of war. I don't mean to suggest this is all that Mecha entail, but this alone can be explored in ways that I have rarely if ever seen.\n\n\nIn the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolations of humans as units within greater superorganisms- Entropy Elancer existing partially in the Fourth Wall outside spacetime, Lycaon Strain a macroscopic distributed organism, and Hibernating Hyberia an encrypted c…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html",
           "publishedOn": "2022-04-07T11:54:00.003Z",
-          "wordCount": 2516,
+          "wordCount": 2536,
           "title": "Weird Mecha: A Metaphor for Embodied Cognition",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exq6wIzElTHlRtYRoeuOZ8jsHeu-vbP_GSpb1oPvrTFvyGO7y8z4-46GNqs7Uusk3DNeIl4Z3eGPFvPLhfqoLlOO1hDV9KZFTFjUB6j8Q-sGPNJNzNb5qeOuIv1khI9J8rcTw6cjmMvYi6HZyGJNVuh4RgZG-P4SfQ-y8F_OLBKDIE=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Eyb0AZ_i-G0zTnpEzXOS-HA0zarYilj3uU2b8gBCmP1BpTBNnS_YiHXrlMnoyJbZBFBHJHcxn5dPd_mSJzzCy1vj7rXopse68s6ko8LBXlAzr6QrOoJeEnGAtq4BQBmPwI08RoaV5xwRGwn5D0yMOVSmhVRPsknXr68Jx6E4nnlkfk=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html",
@@ -169,9 +180,9 @@
           "description": "An earlier version of this post was first shared on The Cauldron. I've fallen behind a bit and digging into my backlog, but I do have a few upcoming blog posts in mind that are more directly RPG related.\n\n\n\n\n\n\nPokemon is obviously a huge decades-long phenomenon of a franchise requiring no introduction. Yet despite this fact, I am surprised by just how little impact it has had on fiction, how little regard is paid to the fact that it is a unique science fiction or fantasy sub-genre. My intention for this post is to describe what I think makes Pokemon unique as a sub-genre, and using that as a case example for how to go about thinking about works of fiction and how they might be extrapolated into new kinds of sub-genres, which can then be explored in tabletop RPG form.\n\n\nI am aware of the ra…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html",
           "publishedOn": "2022-04-01T12:31:00.000Z",
-          "wordCount": 2818,
+          "wordCount": 2838,
           "title": "Worldbuilding with Pokemon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew0Who1U7UmCSp5o06yRK2GLCCu227UyHNos8zCngQay3Cs6cszzhV4M7FAS8xEtVlaQpZrp8vQRpdznjdkyMGhixof6yjTzdOv3xOrmNlf0Pa0w8_PZo4mJDeqcenwemNTKyL9bRVKFBfJNvMxoZlFD8OdEJqfM2SqtdXWIBB4wkfzQsFv0eGF8krrtq-ozPzUREgFp9cOLp4QDKdBWwQVx4b2iKfOirpGYUrKAsJEgiJwcVWdNVhiHzb1Apqn3MEgcVwoNEEnxZwgP1qZInow_EgI09bAk9xSbILZwMZ5AbfdZnVyYeKEVsBn4LRhj2IvDgFv=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwfYu99W3HcIgxhuwnCq7nKOmIKfbNDWVBgYVaBU59QUfLYdYY_Ud8QxDeIyfc9KRZzv34Sfj_r_XcMgihzOOM4sUy6Jdfi3i_rUFMMMNMi9hZ9MSTdAylTt3S6TJM8zDJx9b88V6acVhm8V5NoLyd0lLDu4kDQ30Zw7Flexx-K_Uf2YRT89XfSNr-4kYySs-36HCeDzaevsB9ei3vOwgfW0XEwtdteiiQ3G8mTj2450xb9194qnEmW8Yw9s2-Ecr6MOBjZ73--HVqQ3NoTb6XJwG-3SMFhoh6FEZO8eEDHUhFnFcyzXsmtHue_tKKzCYTKm1uo=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -209,9 +220,9 @@
           "description": "WotC just dropped news that they'll be bringing back the AD+D 2e settings of Spelljammer and Dragonlance. You can read all about that over at EnWorld if you're so inclined. \nI never got into Spelljammer -- I missed a chance to pick up some of the old boxed sets for literal pennies, and I still kick myself for it -- but the concept still holds loads of intrinsic appeal to me. I don't feel like I've seen a satisfying treatment of naval play in a D+D framework yet, and I'm curious to see how WotC approaches it. (I suspect that their approach to voyages and space probably won't be one that quite scratches the yearnings I have, but seeing how they tackle it certainly isn't a bad thing.) \nBut Dragonlance? Dragonlance was one of my main entrypoints into D+D. I started off with the superlative Ret…",
           "link": "https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html",
           "publishedOn": "2022-04-22T05:04:00.006Z",
-          "wordCount": 3596,
+          "wordCount": 3606,
           "title": "Returning to Krynn",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyMG9_lQyj0JCO4e_ytSdEgqejsUx27oCJclfRtBgYgp85uCzLBv0I2-nD9jE1E5ldSm2MS2hUvQg6hXcABsGHV3M6SEGkIdKXwQrxOTpWXqKTAWw=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew5y1T7LIUWRtSJr9w7847CTzuvBXUmsNw0j9_fYEfTpk9WMPrv-byTwHxgIkEZUL34t9OUg3fA79bieY72UZKNSjjYQse9lHoP4nbydyrFfTgj_g=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -228,7 +239,7 @@
           "publishedOn": "2022-03-30T13:59:00.005Z",
           "wordCount": 1451,
           "title": "Achievements",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyJf5JpLXEnWwlIfR-793WbX6np6Ta9MTy2ji1-d-BKc5x0c6rtVvwc62sLBvAaI1VGNjJpJjDMRVN2Q92SPgdC_B_oDRV-1tstvufIfn9VONa0yH76pxnI6Ilg4aQBaJxHI4CXekj3XQgaqXxsoPEYPzQ62KCb5HYpg49dpADAB-WGD1MRbAs=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExVHUXFHKUL-Jam_wa_ZUH9eYLzI_2C6AhjyBAUz7Pe8zHxSTKno5uZ1nGj749wkkJAfz6cv5H3W_IGPgyp4qKmmS5C-aF9Z44KCC-i8QTp65IGAFAxp5qcAaAKmCiOt5dbmS8lZVjqp8SSZJ3XROIriW9voBou1UbxwK3sip5qQAYSoZ7TYDc=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -238,12 +249,22 @@
       "siteUrl": "https://hamsterhoard.home.blog",
       "articles": [
         {
+          "id": "http://hamsterhoard.home.blog/?p=1019",
+          "author": "taichara",
+          "description": "Sand. All around is sand, golden and drifting, broken up by white-gleaming ziggurats and their sprawling cities picked out in azure and jade, by fallen tawny ruins, by precious expanses of pale green growth ringed around pools of sweet water dark as the eternal night above with its rippling sky-vault and great electrum stars. The … Continue reading Valiance: Manifold Palace →",
+          "link": "https://hamsterhoard.home.blog/2022/04/25/valiance-manifold-palace/",
+          "publishedOn": "2022-04-25T11:49:14.000Z",
+          "wordCount": 688,
+          "title": "Valiance: Manifold Palace",
+          "imageUrl": "https://hamsterhoardhome.files.wordpress.com/2019/10/cropped-desertjewel001.png?w=200"
+        },
+        {
           "id": "http://hamsterhoard.home.blog/?p=1016",
           "author": "taichara",
           "description": "Welcome to the White Winds, traveller: with its endless skies churning gently through all the shades of blue and twilight to the deepest violet-darkness and back again; with the namesakes of the plane, the white winds that etch elaborate scrolls and spirals and twisting knots into the masses of pearly cloud that form and drift, … Continue reading Ushil: Foundation →",
           "link": "https://hamsterhoard.home.blog/2022/04/24/ushil-foundation/",
           "publishedOn": "2022-04-24T12:34:30.000Z",
-          "wordCount": 696,
+          "wordCount": 700,
           "title": "Ushil: Foundation",
           "imageUrl": "https://hamsterhoardhome.files.wordpress.com/2019/10/cropped-desertjewel001.png?w=200"
         },
@@ -326,16 +347,6 @@
           "wordCount": 689,
           "title": "Makhru: Foundation",
           "imageUrl": "https://hamsterhoardhome.files.wordpress.com/2019/10/cropped-desertjewel001.png?w=200"
-        },
-        {
-          "id": "http://hamsterhoard.home.blog/?p=954",
-          "author": "taichara",
-          "description": "Welcome to the void, traveller — a void lit by a softly pastel, softly golden, softly bloody numen that never relieves the velvet lack-of-colour of the plane’s black emptiness. But you are not alone, not at all, here within. You stand — as all things must — on bone dense as ivory, pale and tawny, … Continue reading Luminous: Manifold Palace →",
-          "link": "https://hamsterhoard.home.blog/2022/04/15/luminous-manifold-palace/",
-          "publishedOn": "2022-04-15T12:24:20.000Z",
-          "wordCount": 762,
-          "title": "Luminous: Manifold Palace",
-          "imageUrl": "https://hamsterhoardhome.files.wordpress.com/2019/10/cropped-desertjewel001.png?w=200"
         }
       ]
     },
@@ -358,7 +369,7 @@
           "publishedOn": "2022-03-30T13:59:00.005Z",
           "wordCount": 1451,
           "title": "Achievements",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyJf5JpLXEnWwlIfR-793WbX6np6Ta9MTy2ji1-d-BKc5x0c6rtVvwc62sLBvAaI1VGNjJpJjDMRVN2Q92SPgdC_B_oDRV-1tstvufIfn9VONa0yH76pxnI6Ilg4aQBaJxHI4CXekj3XQgaqXxsoPEYPzQ62KCb5HYpg49dpADAB-WGD1MRbAs=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExVHUXFHKUL-Jam_wa_ZUH9eYLzI_2C6AhjyBAUz7Pe8zHxSTKno5uZ1nGj749wkkJAfz6cv5H3W_IGPgyp4qKmmS5C-aF9Z44KCC-i8QTp65IGAFAxp5qcAaAKmCiOt5dbmS8lZVjqp8SSZJ3XROIriW9voBou1UbxwK3sip5qQAYSoZ7TYDc=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -586,7 +597,7 @@
           "publishedOn": "2022-04-01T02:21:00.000Z",
           "wordCount": 714,
           "title": "The Big Black Snake",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExCQBSbNHV0hdVDY7BPOmXrEHjstvwGj3TGIpQefXeaPNOlTx09QxQUqMDPKfHC1_--JBEFCasyunH-Sr2YqXIAUFUgYHLPap65TGOrleLkg6M2utNO0vfs1INBsNMMmiLHpymvwlQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExUFk6qPk0ULB3nNlrhTALriiTSfNqiAV4L6io7FhyQUL6MWiJO7aGKXbGT74i7XLcKAqsCe5hvJQJw5sjBcKXUe1E6Vunyp1DGecQwXN4JWsdZkQ3CT_VAVsWW5sGcrjwoDJgTzWk=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -601,7 +612,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...the Treasure-Hunters delve into the Roots of Old Kalduhr.",
           "link": "https://githyankidiaspora.com/2022/04/22/2-down-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-04-22T19:53:21.000Z",
-          "wordCount": 1253,
+          "wordCount": 1249,
           "title": "2 – Down, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/roots-of-old-kalduhr-twitter-pic-2.png"
         },
@@ -611,7 +622,7 @@
           "description": "Third Floor Wars interviews Karen Twelves and Sean Nittner.\n\nAdventure Design with Bryce Lynch from Ten Foot Pole.\n\nWhat makes a great adventure? on Questining Beast",
           "link": "https://githyankidiaspora.com/2022/04/19/what-am-i-listening-to-on-april-19-2022/",
           "publishedOn": "2022-04-19T18:56:47.000Z",
-          "wordCount": 477,
+          "wordCount": 473,
           "title": "What am I listening to on April 19, 2022?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/thired-floor-wars.jpg"
         },
@@ -621,7 +632,7 @@
           "description": "Hirelings for Trophy Gold, Dungeons & Dragons or whatever tabletop role-playing game you use as your medium for delving into demon-haunted ruins with your friends.",
           "link": "https://githyankidiaspora.com/2022/04/18/hirelings/",
           "publishedOn": "2022-04-18T12:39:30.000Z",
-          "wordCount": 961,
+          "wordCount": 957,
           "title": "Hirelings",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/hirelings-chatwyn-and-sprunt-2.png?w=1200"
         },
@@ -631,7 +642,7 @@
           "description": "In which the treasure-hunters venture into the ancient Deep Kalduhr in order to find treasure...",
           "link": "https://githyankidiaspora.com/2022/04/15/1-into-the-forest-trophy-gold-the-roots-of-old-kalduhr/",
           "publishedOn": "2022-04-15T20:42:10.000Z",
-          "wordCount": 1249,
+          "wordCount": 1245,
           "title": "1 – Into the Forest, Trophy Gold: The Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/roots-of-old-kalduhr-twitter-pic-1.png"
         },
@@ -641,7 +652,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...Kuru finds trouble in a Drow kitchen and the Sigil 6 prepares for the job.",
           "link": "https://githyankidiaspora.com/2022/04/14/all-shadows-lead-to-gloomwrought-session-10-the-drow-job-prep/",
           "publishedOn": "2022-04-15T03:18:24.000Z",
-          "wordCount": 857,
+          "wordCount": 853,
           "title": "All Shadows Lead to Gloomwrought, Session 10, The Drow Job Prep",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-s10-drow-job-prep.png"
         },
@@ -651,7 +662,7 @@
           "description": "In which the game ends before the adventure is finished…? WTF? We all like Mothership, each other’s contributions and were digging the adventure but due to personal issues all around, we had nearly a month between games. This adventure is intense; it is a thinker or as Judd called it, “a cerebral xeno-temple crawl.” It […]",
           "link": "https://githyankidiaspora.com/2022/04/08/sometimes-the-rockets-launch-and-sometimes-they-dont/",
           "publishedOn": "2022-04-09T00:48:20.000Z",
-          "wordCount": 619,
+          "wordCount": 615,
           "title": "Sometimes the rockets launch and sometimes they don’t.",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/02/mothership-alien-gods-twitter-pic-sessionless-title-card.png"
         },
@@ -661,7 +672,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 agrees to do a bloody chore for a Drow Matron for use of the Old Githyanki Gate that her House currently controls.",
           "link": "https://githyankidiaspora.com/2022/04/07/all-shadows-lead-to-gloomwrought-session-9-the-old-githyanki-gate/",
           "publishedOn": "2022-04-08T02:49:14.000Z",
-          "wordCount": 1881,
+          "wordCount": 1877,
           "title": "All Shadows Lead to Gloomwrought, Session 9, The Old Githyanki Gate",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-s9-the-old-githyanki-gate.png"
         },
@@ -671,7 +682,7 @@
           "description": "Thinking about a few skill rolls in our Thursday night Dungeons and Dragons game and the Dungeon Mastering techniques at hand...",
           "link": "https://githyankidiaspora.com/2022/04/01/all-shadows-lead-to-gloomwrought-moments-in-actual-play/",
           "publishedOn": "2022-04-01T20:28:37.000Z",
-          "wordCount": 1394,
+          "wordCount": 1390,
           "title": "All Shadows Lead to Gloomwrought, Moments in Actual Play…",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-moments-1.png"
         },
@@ -681,7 +692,7 @@
           "description": "The Sigil 6 deal with a bounty hunting team pulled from Mordenkainen's Tome of Foes in our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/03/31/all-shadows-lead-to-gloomwrought-session-8-bounty-hunters/",
           "publishedOn": "2022-04-01T03:00:18.000Z",
-          "wordCount": 1672,
+          "wordCount": 1668,
           "title": "All Shadows Lead to Gloomwrought, Session 8, Bounty Hunters",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/all-shadows-lead-to-gloomwrought-twitter-pic-s8-bounty-hunters.png"
         },
@@ -691,7 +702,7 @@
           "description": "Want to get excited about a game on a Monday morning? Usually, when I’m hearing about a fictional setting, be it a tabletop game, video-game, novel or talkie, when proper nouns and titles come up my eyes kind of glaze over. Not so with Rae’s stuff. From a picklist in The Twilight Throne and the […]",
           "link": "https://githyankidiaspora.com/2022/03/28/the-twilight-throne-and-the-house-of-ruin-and-more/",
           "publishedOn": "2022-03-28T11:25:16.000Z",
-          "wordCount": 707,
+          "wordCount": 703,
           "title": "The Twilight Throne and the House of Ruin (and more)",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/03/piclist-1.png"
         }
@@ -725,8 +736,8 @@
           "author": null,
           "description": "Mood Music\n\nThis, right here, is one of my all-time favorite board games, packed so full of chrome and drama that you can rewrite the Original Trilogy with a single play. This is not a post, however, about the board game, nor the similarly-styled and eponymous computer strategy game which came before it. This post is about how my friends and I played this video-game-turned-board-game in order to inspire the setting for our tabletop adventure game campaign. Layers. \nThe same new Galaxy Far Away campaign which I mentioned last time (including the example of real play therein) came about when I pitched \"Star Wars D&D\" to some guys I mentor on a regular basis. Both of them have played Rebellion against me many times, so one of them said \"hey, what if we play again and whatever the outcome of t…",
           "link": "https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html",
-          "publishedOn": "2022-04-23T15:18:00.002Z",
-          "wordCount": 2661,
+          "publishedOn": "2022-04-23T15:18:00.003Z",
+          "wordCount": 2657,
           "title": "Star Wars Faction Write-Up, Inspired by a Board Game",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2JxICsLMJpJd0BT3d1oRduil_ulShQNdL3VOm3I69qGqXpml5Cjx6iewMuT7sp2KhtLfNO3V_jhQSVsb1Pe6KKsNKxapSfNYfOdOHO72hOsH42klJWfHWqv8KWqk_j6S2XX90TZXXS0JEZW4ptoRwmodh1GE6oiUOpA2ow3MvG3c2PKI7WkLoxgPkmA/w1200-h630-p-k-no-nu/star-wars-rebellion-box.jpg"
         },
@@ -736,7 +747,7 @@
           "description": "For as often as I run my games diceless (or nearly so), I do really enjoy dice. I promise. \nI started up a new local Galaxy Far Away campaign just over a week ago, and I realized I did not take a liking to the standard opposed 2d6 resolution that I originally penned for the game. Maybe it's because using d6 in Star Wars should belong with West End Games' timeless take on the genre, or maybe because I tend to find traditional opposed resolution less and less compelling these days. \nI have grown stale on finding out if something happens or not. Instead, stuff always happens. The question is not \"does it happen?\" but \"how?\" and I'm finding that said qualitative result generation is much more interesting than pass/fail. I'm not reinventing the wheel here, as the whole \"yes, and\" or \"yes, but\" …",
           "link": "https://d66kobolds.blogspot.com/2022/04/fantasy-flight-dice-with-galaxy-far.html",
           "publishedOn": "2022-04-15T19:22:00.004Z",
-          "wordCount": 2411,
+          "wordCount": 2406,
           "title": "Fantasy Flight Dice with Galaxy Far Away (and other thoughts)",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4xW7YB5MfQBvLbU5vqcwa7Yzk8KIbF3uxvl8xgGrOXvbIBRJoByrvDQKbCjoqqcACKQ4Biq84PZsUbkL_V7oRy9Bxh2PjIGqSiy-jyPOFQBE9msbWY0LWmbteMhqRyVtm7ppWdZiqop_8uvCv2QsX3rt4gx3mnhumm9BEuxtVUFQFZykR_3mJ2EGkA/w1200-h630-p-k-no-nu/download.jpg"
         },
@@ -746,7 +757,7 @@
           "description": "It's that time again--secret jackalope! Magos of the Mind#1349 wants \"Beyond Humanoid: or guidance for playing something without hands I guess. Can be something like the \"Really Good Dog\"* glog class or something more original/alien.\"\nWe take it for granted that we have two average human hands. You can eat a sandwich, fold your clothes, and stare at your smartphone for much more time than is necessary with typical hands. Take those away, and you get all sorts of curious different conceptions of everyday ambulation and motor control. \nSo what do you do without hands? Are you like Zacian, from Generation VIII Pokemon, who is a superpowered dog that holds a straight-up legendary sword in its mouth? That is, admittedly, quite rad.\n\n\n\n\n1. You have four legs but your mouth and jaws are very stro…",
           "link": "https://d66kobolds.blogspot.com/2022/04/d6-no-hands-character-concepts.html",
           "publishedOn": "2022-04-11T15:12:00.004Z",
-          "wordCount": 932,
+          "wordCount": 927,
           "title": "d6 No-Hands Character Concepts",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDnsN6aojcXPLMYS_RXcNPVeb1kU_qznqFkv-pGMFXo7M5mLbziV1OtAOOmgpzKlNMcIsg4GFEk60mYuxw0hUVxJ-Fq48JEYSbwNmGy3rT0jqioRMtgrha1zaWnPsKAL4c4FW0IktRJVTZCXLb3E7h6yhKQvSIL8k5cIgZCPYcuMohQMeabSeo0PQDQ/w1200-h630-p-k-no-nu/Zacian%20by%20tomycase.jpg"
         }
