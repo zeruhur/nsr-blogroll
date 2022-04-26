@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T01:39:46.316Z</id>
+    <id>urn:2022-04-26T08:21:53.843Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T01:39:46.316Z</updated>
+    <updated>2022-04-26T08:21:53.843Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -810,26 +810,6 @@ The Other White Meat: Eat a sentient enemy…]]></summary>
  Forest Farragoes by ktrey]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-licensed not!Tolkien games]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/03/non-licensed-nottolkien-games.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/03/non-licensed-nottolkien-games.html"/>
-        <updated>2022-03-27T19:45:00.005Z</updated>
-        <summary type="html"><![CDATA[A small story
-When I was 12, I was introduced to RPGs. I said "Oh I will make one for Lord of the Rings." I went home and wrote it in a notebook. 
-It was terrible. 
-For the last 20 years, I have been chasing this white whale. Here is what I have learned:
-There is no one, perfect game. There is only the perfect game for the campaign you want to run (some assembly required). 
-If you want to run a Tolkien game, there are a lot of resources to help you assemble the right game for you, both licensed and unlicensed. 
-What's this post about?
-Given this story and this blog I suspect no one is surprised that I have Opinions (TM) about Lord of the Rings games. 
-Here is a blog post about licensed Tolkien games. 
-What follows is a blog post about games that feel "Tolkienesque" but are not licensed. 
-T…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
