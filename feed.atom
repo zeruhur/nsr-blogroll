@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T08:21:53.843Z</id>
+    <id>urn:2022-04-26T16:25:40.604Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T08:21:53.843Z</updated>
+    <updated>2022-04-26T16:25:40.604Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Worldbuilding as a Team Sport]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:625f03a6e1e7a5759fe651ee</id>
+        <link href="https://www.prismaticwasteland.com/blog/worldbuilding-as-a-team-sport"/>
+        <updated>2022-04-26T13:14:59.000Z</updated>
+        <summary type="html"><![CDATA[A procedure for building a starting scenario (and the seeds for building a 
+world) for both referees and players at the start of a new campaign.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undead Dreams]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2019/06/draft-undead-dreams.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2019/06/draft-undead-dreams.html"/>
+        <updated>2022-04-26T12:31:00.010Z</updated>
+        <summary type="html"><![CDATA[The idea is loosely inspired by Vampire Hunter D, specifically Volume 5. What is an undead dream? This post was originally drafted in like 2019 and I was never sure what to do with it. I've had some similar ideas lately, I intend to explore some version of this further in the near future.
+
+
+
+They say that when you die, your brain floods with DMT, the chemical of dreams. Your perception of time slows and you relive your life as synapses die and memories pop into being one last time. Memories are fuzzy and imperfect things, and in your psychedelic dreamscape your life plays out a little bit differently. Then, your dreamscape self dies, and it floods with DMT, and so recursively, at the moment of your death, you dream and live your entire multiverse of selves.
+These recursive multiversal selves exist in a metaphysical space, a space of souls, where the soul-self opens the gate of the pineal gland and enters the collective unconscious.
+And what are undead, if not liminal beings, a physical, synaptic consciousness at the gate, lacking a soul, the apparatus to join the collective unconscious? Zombies don't hunger for brains, they hunger for souls. But no matter how hard they try, no matter how many brains they consume, they'll never be able to digest, to integrate, the soul. Weep for the pitiful hungry zombie. Vampires, lich lords, and other intelligent undead sleep, but without a soul, what do they dream?
+They do not relive their lives, but the lives of those whose brains they've eaten, blood they've drank, bodies they've necromantically revived; damaged and mutated, the undigested souls linger within, propagating through a dark multiverse of astral un-life, the reciprocation of undeath, a limbo dimension of null that exists, cruelly, to balance the physical inequality of energy that undeath introduces into the universe. The undead dream the purgatory of the living.
+
+
+
+
+Also, I made my first post on the collaborative blog Iconoclastic Flow!
+Iconoclastic Rant: I am sick of being asked "but how would that work?"]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilusa, City Of Chains]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1022</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/26/wilusa-city-of-chains/"/>
+        <updated>2022-04-26T12:29:51.000Z</updated>
+        <summary type="html"><![CDATA[The City of Chains exists everywhere and nowhere, they say — an endlessly unfurling urban maze of black-and-jewels, ancient stone and stranger metals, built upon deeper labyrinths still while the great chains arc and coil far overhead across the glassy dome of the strangely coloured sky. Few come to Wilusa deliberately, at least at first. … Continue reading Wilusa, City Of Chains →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valiance: Manifold Palace]]></title>
         <id>http://hamsterhoard.home.blog/?p=1019</id>
@@ -291,16 +335,6 @@ This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs�
  Kind of a contemporary counterpart to my Random Impedimenta. Might also be useful for post-apocalyptic games or ones set in slightly older historical periods, as there is a whiff of anachronism in some of these. These days most of my tables are geared toward Fantasy, but even in that context I’ll admit to sometimes sprinkling in the occasional item from this as an intriguing/puzzling out-of-place artifact or a teaspoon dosage of gonzo. I always endeavor to render the trinket via a description rather than name it though in these situations 😊]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makhru: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=957</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/16/makhru-foundation/"/>
-        <updated>2022-04-16T12:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Blue-black roiling stormclouds as far as the eye can see. The thunder that roars in your veins and speeds up your pulse. The inky billows that hide neighbour, companion, enemy, danger, safety, all from one’s searching gaze. And the winds that scream unceasingly, bringing savagery to the bruise-dark cloudbanks and lashing all in reach like … Continue reading Makhru: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
@@ -799,17 +833,6 @@ The Other White Meat: Eat a sentient enemy…]]></summary>
         <summary type="html"><![CDATA[Want to get excited about a game on a Monday morning? Usually, when I’m hearing about a fictional setting, be it a tabletop game, video-game, novel or talkie, when proper nouns and titles come up my eyes kind of glaze over. Not so with Rae’s stuff. From a picklist in The Twilight Throne and the […]]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Game Jam] Forest Farragoes]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/game-jam-forest-farragoes.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/game-jam-forest-farragoes.html"/>
-        <updated>2022-03-28T01:10:00.001Z</updated>
-        <summary type="html"><![CDATA[My often neglected itch.io page stirs with a new submission, brought about by the Cairn Forest Jam.
- Forest Farragoes by ktrey]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
