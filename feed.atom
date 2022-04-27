@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-26T16:25:40.604Z</id>
+    <id>urn:2022-04-27T01:39:31.772Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-26T16:25:40.604Z</updated>
+    <updated>2022-04-27T01:39:31.772Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pointcrawls and Tight-Packed Sandboxes]]></title>
+        <id>http://deeperintothedungeon.wordpress.com/?p=2595</id>
+        <link href="https://deeperintothedungeon.wordpress.com/2022/04/27/pointcrawls-and-tight-packed-sandboxes/"/>
+        <updated>2022-04-26T23:02:31.000Z</updated>
+        <summary type="html"><![CDATA[I have been prepping and running a sandbox open table of Whitehack 3e. (I will write my thoughts on Whitehack one day in a post.) The characters usually begin the session in a base camp, and they choose where to venture. A classic experience, nothing special. But I have chosen a small map of 3×4 … Continue reading Pointcrawls and Tight-Packed Sandboxes]]></summary>
+        <author>
+            <name>LordPersi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worldbuilding as a Team Sport]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:625f03a6e1e7a5759fe651ee</id>
@@ -823,16 +833,6 @@ Things to Eat
 The Other White Meat: Eat a sentient enemy…]]></summary>
         <author>
             <name>Slight Adjustments</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Twilight Throne and the House of Ruin (and more)]]></title>
-        <id>http://githyankidiaspora.com/?p=18810</id>
-        <link href="https://githyankidiaspora.com/2022/03/28/the-twilight-throne-and-the-house-of-ruin-and-more/"/>
-        <updated>2022-03-28T11:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Want to get excited about a game on a Monday morning? Usually, when I’m hearing about a fictional setting, be it a tabletop game, video-game, novel or talkie, when proper nouns and titles come up my eyes kind of glaze over. Not so with Rae’s stuff. From a picklist in The Twilight Throne and the […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
