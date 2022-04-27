@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-27T08:21:53.087Z</id>
+    <id>urn:2022-04-27T16:25:44.805Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T08:21:53.087Z</updated>
+    <updated>2022-04-27T16:25:44.805Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Xenos Philios]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1026</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/27/xenos-philios/"/>
+        <updated>2022-04-27T13:40:24.000Z</updated>
+        <summary type="html"><![CDATA[That’s right, doing terrible things with other languages now to fit letters — How about a few interesting folks to meet on your travels? Love and friendship not, alas, guaranteed; but it’s not impossible ~ 01. Linet Woodwalker Born and raised in Rowan’s Cross, a sprawling broch complex in the Shadow, Linet sports both the … Continue reading Xenos Philios →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pointcrawls and Tight-Packed Sandboxes]]></title>
         <id>http://deeperintothedungeon.wordpress.com/?p=2595</id>
@@ -324,16 +334,6 @@ adventures.]]></summary>
 This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs and the idea that I had suggested in the comments that frankly I felt like he was a little too dismissive of so now I'm coming …]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadir:  Manifold Palace]]></title>
-        <id>http://hamsterhoard.home.blog/?p=960</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/17/nadir-manifold-palace/"/>
-        <updated>2022-04-17T12:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Everything is the maw slashed into existence. Existence is nothing except the maw, this endless chasm with no terminus; endlessly extending, splintering; endlessly long, endlessly plunging into the darkest depths, reaching endlessly upward with its bleakly striated walls towards the thin wan slit of pale-ghost light scavengers and exiles, bone-wings and darkcrawlers, hermits and exultants … Continue reading Nadir:  Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
