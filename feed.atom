@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T08:21:55.013Z</id>
+    <id>urn:2022-04-28T16:27:16.558Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T08:21:55.013Z</updated>
+    <updated>2022-04-28T16:27:16.558Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yroon: Foundation]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1032</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/28/yroon-foundation/"/>
+        <updated>2022-04-28T13:51:34.000Z</updated>
+        <summary type="html"><![CDATA[There are mysteries in the deeps; mysteries and secrets and lost things, and the spinning tales and of unfathomable beings to be found nowhere else but in the fathomless deep. And then, there are also those that prefer to keep themselves amongst those lost and secret things — The darkness of water conceals all: the … Continue reading Yroon: Foundation →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worldbuilding without canon]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/04/worldbuilding-without-canon.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/04/worldbuilding-without-canon.html"/>
+        <updated>2022-04-28T12:02:00.002Z</updated>
+        <summary type="html"><![CDATA["There is no canon."
+This, I feel, is the best way to deal with worldbuilding in tRPGs. Rather than fight against the given fact that people will alter your work based on the preferences and needs of their tables, you can learn to embrace it and actively make settings that do not have a canon, or at least very little canon. There are a number of ways I have seen folks embrace this idea: from sharing unfinished projects and incomplete thoughts to publishing material that deliberately leaves gaps that need to be filled in during prep or at the table. 
+
+Luka Rejec is the one I found that first called this sort of writing anti-canon, but Chris McDowall makes references to similar thoughts (and I consider Electric Bastionland to be the pinacle of this sort of anti-canon worldbuilding), and Arno…]]></summary>
+        <author>
+            <name>Tabletop Curiosity Cabinet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xenos Philios]]></title>
         <id>http://hamsterhoard.home.blog/?p=1026</id>
@@ -311,16 +334,6 @@ adventures.]]></summary>
         <summary type="html"><![CDATA[Hirelings for Trophy Gold, Dungeons & Dragons or whatever tabletop role-playing game you use as your medium for delving into demon-haunted ruins with your friends.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizations in the planes beyond]]></title>
-        <id>http://hamsterhoard.home.blog/?p=963</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/18/organizations-in-the-planes-beyond/"/>
-        <updated>2022-04-18T12:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Oh, there’s uncountable scores of guilds and sects, factions and orders and sworn-kinships and organizations, cults and councils and fate knows what else out across the planes, no doubt about it. Some of them are notably, almost painfully local; some span many of the realms; some make it their goal to spread … Here and … Continue reading Organizations in the planes beyond →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
     <entry>
