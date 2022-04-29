@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T08:24:04.279Z</id>
+    <id>urn:2022-04-29T16:26:12.650Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T08:24:04.279Z</updated>
+    <updated>2022-04-29T16:26:12.650Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Three Statlines for All NPCs]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html"/>
+        <updated>2022-04-29T13:18:00.001Z</updated>
+        <summary type="html"><![CDATA[Jack made it clear that you can just use bears. 
+I utilize this all the time in general handwave fashion, but when I specifically run Into the Odd/Weird North/Cairn/Monolith etc, I've landed on a three-tier measure of NPC power so as to better represent varying tactical levels of possible encounters. It's not rocket science, and it's not perfect, but it's what I do and it's been nigh-on effortless for me for years now. 
+There are three NPC statlines, and that's it. Ever.
+
+
+Obligatory image because blogpost. Also because Stepan Alekseev. Artstation.
+
+
+[1] = mundane power level NPCs: villagers, skellingtons, imps, coyotes, hired guns.
+[2] = impressive power level NPCs: knights, trolls, velociraptors, actual bears, commandos.
+[3] = boss power level NPCs: liches, hell pigs, dragons, t-rexes, p…]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z’shi (Foundation)]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1035</id>
+        <link href="https://hamsterhoard.home.blog/2022/04/29/zshi-foundation/"/>
+        <updated>2022-04-29T11:43:44.000Z</updated>
+        <summary type="html"><![CDATA[A world of endless towers, this. Towers of purest precious ice, delicate and ethereal, a colourless beauty to steal one’s breath. A realm of shining latticework minarets, of smoothly bulbous spires and clockwork obelisks, of ever-shifting, ever-growing, ever-branching towers upon towers that build themselves upwards — ever upwards — and onwards, forever towards the glittering … Continue reading Z’shi (Foundation) →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 11, The Execution of the Drow Job]]></title>
         <id>http://githyankidiaspora.com/?p=19179</id>
@@ -315,16 +345,6 @@ What makes a great adventure? on Questining Beast]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Planes In A Pinch]]></title>
-        <id>http://hamsterhoard.home.blog/?p=977</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/19/planes-in-a-pinch/"/>
-        <updated>2022-04-19T12:22:33.000Z</updated>
-        <summary type="html"><![CDATA[You’re spinning up a new idea (or trying to), and you’re stuck. Your players just found a way to yeet themselves into a random plane. You are a player and you want some way out there place to call home. You can’t think of a new idea for a plane D: Curse that brain block! … Continue reading Planes In A Pinch →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Universal, System-Neutral Stats]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62508e764b70f661a351e7d1</id>
         <link href="https://www.prismaticwasteland.com/blog/universal-system-neutral-stats"/>
@@ -519,7 +539,7 @@ Horses can be incredibly frustrating and thick-headed creatures, or remarkably p
         <title type="html"><![CDATA[d6 No-Hands Character Concepts]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/d6-no-hands-character-concepts.html</id>
         <link href="https://d66kobolds.blogspot.com/2022/04/d6-no-hands-character-concepts.html"/>
-        <updated>2022-04-11T15:12:00.004Z</updated>
+        <updated>2022-04-11T15:12:00.005Z</updated>
         <summary type="html"><![CDATA[It's that time again--secret jackalope! Magos of the Mind#1349 wants "Beyond Humanoid: or guidance for playing something without hands I guess. Can be something like the "Really Good Dog"* glog class or something more original/alien."
 We take it for granted that we have two average human hands. You can eat a sandwich, fold your clothes, and stare at your smartphone for much more time than is necessary with typical hands. Take those away, and you get all sorts of curious different conceptions of everyday ambulation and motor control. 
 So what do you do without hands? Are you like Zacian, from Generation VIII Pokemon, who is a superpowered dog that holds a straight-up legendary sword in its mouth? That is, admittedly, quite rad.
