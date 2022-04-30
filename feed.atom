@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T08:20:51.083Z</id>
+    <id>urn:2022-04-30T16:23:16.474Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T08:20:51.083Z</updated>
+    <updated>2022-04-30T16:23:16.474Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -791,51 +791,6 @@ Pokemon is obviously a huge decades-long phenomenon of a franchise requiring no 
 I am aware of the ra…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 8, Bounty Hunters]]></title>
-        <id>http://githyankidiaspora.com/?p=18847</id>
-        <link href="https://githyankidiaspora.com/2022/03/31/all-shadows-lead-to-gloomwrought-session-8-bounty-hunters/"/>
-        <updated>2022-04-01T03:00:18.000Z</updated>
-        <summary type="html"><![CDATA[The Sigil 6 deal with a bounty hunting team pulled from Mordenkainen's Tome of Foes in our Thursday night Dungeons and Dragons game.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Black Snake]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/03/the-big-black-snake.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/03/the-big-black-snake.html"/>
-        <updated>2022-04-01T02:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A pipeline, hundreds of miles long, slithering across the landscape. Every creaking gasket of its many-jointed body leaks toxic sludge upon the earth. The ground churns, the plants wither, and the waters are poisoned with its passing. 
-
-
-Its head is a mass of megaphones and televisions, bulldozer blades and backhoe scoops. Alternatingly chewing a path and whispering honeyed songs of 'job growth' and 'cheap gas' to merchants and statesmen, easing its passage. 
-
-
-Minions, like melted riot police, oily black as tar, spawn from its leaking gaskets and move out in oozing phalanxes to beat back those that would stop the snakes progress. 
-
-
-It will slither ever forward unless slain. Beware its children who nest in the bowls of refinery sprawl.
-
-
-Big Black Snake 
-10 HD, AC as plate, Save vs Churning Digging Equipment (head) or Crushing Coils (body)
-
-Wants to slither onward, poisoning the land.
-Spawns Tar Minions to protect itself.
-Enlists the aid of the powerful with honeyed promises.
-
-Tar Minions 
-1 HD, AC as Ooze, 1d6 atck (club), 3d10+ appearing (work in blocks)
-
-Like melted, oily riot police.
-Unwaveringly protect the snake.
-Use shield wall and encirclement tactics.
-Dangerously flammable.]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
