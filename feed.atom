@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T01:40:57.592Z</id>
+    <id>urn:2022-04-30T08:20:51.083Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T01:40:57.592Z</updated>
+    <updated>2022-04-30T08:20:51.083Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -191,7 +191,7 @@ Through surveying my players for the FLOK playtest I learned that all of them se
         <title type="html"><![CDATA[Potpourri]]></title>
         <id>https://knightattheopera.blogspot.com/2022/04/potpourri.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/04/potpourri.html"/>
-        <updated>2022-04-25T07:12:00.005Z</updated>
+        <updated>2022-04-25T07:12:00.007Z</updated>
         <summary type="html"><![CDATA[Artist Credit: Kieran Yanner
 
 My blog output has been slow this year. Partially this is because I've started several very long posts that are each taking a while to finish, but mostly it's because I spend most of my time working now and have very little time left each day to do anything. I wanted to come up with something a bit smaller that could work as a good blog post to get out before the end of the month that isn't one of those huge posts, but I struggled. Everything I came up with was too small. So why not just offer all of them at once?
