@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T16:26:12.650Z</id>
+    <id>urn:2022-04-30T01:40:57.592Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T16:26:12.650Z</updated>
+    <updated>2022-04-30T01:40:57.592Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Books I've Done Gone And Read]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html"/>
+        <updated>2022-04-30T01:10:00.003Z</updated>
+        <summary type="html"><![CDATA[Being, as is previously stated, a list of books I've done gone and read and my miscellaneous thoughts upon them. 
+
+
+The Three Musketeers (Alexander Dumas)
+
+
+I'd attempted to read this several times before and succeeded in finishing this time. There's a perverse tragic hilarity to the story, most of the characters are often fairly awful people but are nonetheless entertaining. The whole thing meanders about, speeding up in places and rushing along before cooling and wandering once more. This varied between enjoyable and annoying for me, depending on how I felt about the particular chapter.
+
+
+Milady is perhaps the best character, she radiates palpable fury, the first time we actually get a close look at her and hear her speak in the text she dashes a fan to pieces in rage. I'm not sure if an…]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 – Out from the Roots, Trophy Gold: Roots of Old Kalduhr]]></title>
+        <id>http://githyankidiaspora.com/?p=19168</id>
+        <link href="https://githyankidiaspora.com/2022/04/29/3-out-from-the-roots-trophy-gold-roots-of-old-kalduhr/"/>
+        <updated>2022-04-29T20:57:44.000Z</updated>
+        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...creepy doll constructs with a silver bell for a hand, a child-blob and the looming threat of the pit...]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Statlines for All NPCs]]></title>
         <id>https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html</id>
@@ -807,17 +836,6 @@ Use shield wall and encirclement tactics.
 Dangerously flammable.]]></summary>
         <author>
             <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Uses for a (Dead) Dragon]]></title>
-        <id>https://blog.d4caltrops.com/2022/03/d100-uses-for-dead-dragon.html</id>
-        <link href="https://blog.d4caltrops.com/2022/03/d100-uses-for-dead-dragon.html"/>
-        <updated>2022-03-31T13:21:00.001Z</updated>
-        <summary type="html"><![CDATA[Deserving of their own century of entries (after this table), these marvelous Monsters hold pride of place in the very triumvirate title of the game (sharing it with Dungeons and the dreadful Ampersands). In addition to their often quite generous hoards, it seems that players always seem to gravitate towards eking every potential use out of their remains. Perhaps it’s their Inherently Magical Nature that inspires this, or mythological traditions such as Sigurd inadvertently gaining the Language of Birds whilst roasting Fafnir’s Heart in the Völsunga saga. Whatever the underlying reason, in addition to stuffing their empty sacks with all that glitters, I’m often ghoulishly quizzed on “What parts can we use, and what can they be used for?” 
- Naturally, not every Dragon is anatomically identi…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
