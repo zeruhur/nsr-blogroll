@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-30T16:23:16.474Z</id>
+    <id>urn:2022-05-01T01:55:25.954Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T16:23:16.474Z</updated>
+    <updated>2022-05-01T01:55:25.954Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Try Professional GMing? Sure.]]></title>
+        <id>http://githyankidiaspora.com/?p=19277</id>
+        <link href="https://githyankidiaspora.com/2022/04/30/try-professional-gming-sure/"/>
+        <updated>2022-05-01T01:27:55.000Z</updated>
+        <summary type="html"><![CDATA[I’m giving paid GMing a try on the Start Playing site. Please click here if you have gamed with me and you’d like to leave a review of my GMing. Click here if you’d like to see what games I have coming up or if you’d like to register for a paid game. Right now […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Books I've Done Gone And Read]]></title>
         <id>https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html</id>
@@ -771,26 +781,6 @@ How to marry these two things? The two approaches seem irreconcilable...
         <summary type="html"><![CDATA[Thinking about a few skill rolls in our Thursday night Dungeons and Dragons game and the Dungeon Mastering techniques at hand...]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worldbuilding with Pokemon]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/worldbuilding-with-pokemon.html"/>
-        <updated>2022-04-01T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[An earlier version of this post was first shared on The Cauldron. I've fallen behind a bit and digging into my backlog, but I do have a few upcoming blog posts in mind that are more directly RPG related.
-
-
-
-
-
-
-Pokemon is obviously a huge decades-long phenomenon of a franchise requiring no introduction. Yet despite this fact, I am surprised by just how little impact it has had on fiction, how little regard is paid to the fact that it is a unique science fiction or fantasy sub-genre. My intention for this post is to describe what I think makes Pokemon unique as a sub-genre, and using that as a case example for how to go about thinking about works of fiction and how they might be extrapolated into new kinds of sub-genres, which can then be explored in tabletop RPG form.
-
-
-I am aware of the ra…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
