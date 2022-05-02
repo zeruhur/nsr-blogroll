@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T08:23:26.132Z</id>
+    <id>urn:2022-05-02T16:27:54.805Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T08:23:26.132Z</updated>
+    <updated>2022-05-02T16:27:54.805Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Scroll Substitutions or Strange Spell Stores]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-scroll-substitutions-or-strange.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-scroll-substitutions-or-strange.html"/>
+        <updated>2022-05-02T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Dramatically unfurling that rolled up piece of parchment or paper to intone the Magic Words ensnared in sigils on the surface is a very lovely and iconic mental image for me. But sometimes I like to house these “single-serving Spells” in other, less traditional actions and items. These might be especially useful for Magical Traditions that encode their dweomers in ways that are not dependent on literacy or pulped wood, or just atypical treasures placed for a slight change of pace.
+ Standard Scroll rules would apply for these. I would personally still stick with my favorite Creation Rules from Holmes (100 gp and 1 week per Spell Level, halve time or cost with the appropriate Reagents/Ingredients).
+ Here’s a Hundred alternatives to consider in the place of that voluted vellum. Perhaps every caster learns a different method from their Mentor, as a sort of signature? These might also mesh nicely with my One Hundred Spellbook Surrogates & Ritual Research table.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Week’s Pay Games]]></title>
         <id>http://githyankidiaspora.com/?p=19309</id>
