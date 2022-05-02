@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T01:27:53.655Z</id>
+    <id>urn:2022-05-02T08:23:26.132Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T01:27:53.655Z</updated>
+    <updated>2022-05-02T08:23:26.132Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Week’s Pay Games]]></title>
+        <id>http://githyankidiaspora.com/?p=19309</id>
+        <link href="https://githyankidiaspora.com/2022/05/02/this-weeks-pay-games/"/>
+        <updated>2022-05-02T06:50:39.000Z</updated>
+        <summary type="html"><![CDATA[For as long as I’m giving this pay-to-play thing a go, I’ll be posting what I’m running in the coming week Sunday night/Monday morning. These will be clearly labelled, so if this kind of thing vexes you, it is easily ignorable. For my first two pay-to-play games I chose two games right in my wheelhouse […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DM’s Academy question about originality]]></title>
         <id>http://githyankidiaspora.com/?p=19265</id>
@@ -794,26 +804,6 @@ In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolation
 I arrived, barely on time on Saturday, with some options in my backpack, which turned out to be nice, because of all the people that had said they would come, only four people were there, including the organizer. The guy running first edition needed 6 people for his game…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Doubling Devil]]></title>
-        <id>https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html</id>
-        <link href="https://quarterlingscorner.blogspot.com/2022/04/the-doubling-devil.html"/>
-        <updated>2022-04-02T20:10:00.007Z</updated>
-        <summary type="html"><![CDATA[I.
-
-I've been working for a while now on a new game. Confusingly, I'm calling it G&G (Goblets & Grues), which is what my failed project from over a year ago was also called.
-
-What can I say? I really like the name. This is just a short post about a new mechanic I just added to the draft rules that I'm really excited to try out.
-
-So, the idea of this new G&G is to combine a focus on exploration and problem solving with a light emphasis on tactical combat. I miss 5E and how the differentiation of roles in combat makes every player feel important.
-How to marry these two things? The two approaches seem irreconcilable...
-
-"Combat as war" gameplay positions the uncertainty of combat as something to be mitigated or avoided entirely.
-"Combat as sport" gameplay positions the uncertainty of combat a…]]></summary>
-        <author>
-            <name>Quarterling’s Corner</name>
         </author>
     </entry>
 </feed>
