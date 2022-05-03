@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T01:42:58.945Z</id>
+    <id>urn:2022-05-03T08:21:53.537Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T01:42:58.945Z</updated>
+    <updated>2022-05-03T08:21:53.537Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hidden Grove of the Deep Druids: an adventure I drew for]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html"/>
+        <updated>2022-05-03T07:04:00.003Z</updated>
+        <summary type="html"><![CDATA[Longtime reader Harald Maassen just released a really tight dungeon adventure called "Hidden Grove of the Deep Druids," which I contributed artwork for!
+
+It's available as a Pay What You Want download on the Dungeon Master's Guild. Worry not though. It's a decently system-flexible adventure good for all medieval-ish fantasy dungeoncrawlers. If you are 5E player, it provides some lite mechanical support to run the adventure in a more old-school way.
+
+
+The premise? "Evil druid cult." An ever-elusive archetype but one that I think Harald has nailed here. If you've never used druids as villains, you should really give it a whirl.
+
+
+It's a medium-sized dungeon that's non-linear, has lots and lots of dangers (especially weird fungi), and has clean and helpful formatting. It'll make a fine addition to anyone's collection of solid, vanilla-yet-tasty dungeons to slot into their game.]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hirelings 2: The Creepy Lot]]></title>
+        <id>http://githyankidiaspora.com/?p=19327</id>
+        <link href="https://githyankidiaspora.com/2022/05/03/hirelings-2-the-creepy-lot/"/>
+        <updated>2022-05-03T04:08:23.000Z</updated>
+        <summary type="html"><![CDATA[More folk for your Treasure-hunters, Barrow-delvers and Tomb-thieves to hire when they need more hands on deck. In case this first lot wasn't enough.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More: Campaign First Play Report (+ Design Notes)!]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html</id>
