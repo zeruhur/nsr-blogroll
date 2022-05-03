@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T16:27:54.805Z</id>
+    <id>urn:2022-05-03T01:42:58.945Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T16:27:54.805Z</updated>
+    <updated>2022-05-03T01:42:58.945Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More: Campaign First Play Report (+ Design Notes)!]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html"/>
+        <updated>2022-05-02T23:19:00.001Z</updated>
+        <summary type="html"><![CDATA[New Game New Campaign! I will still be playing in a new MRD1 Campaign with the previous group online, being GMed by one of the Players of that campaign, but I'm also running an MRD2 Campaign IRL with a mix of IRL friends and people I've met through the RPG community online (who are now also IRL friends).
+
+
+I'm not 100% committed to this name, but I'm tentatively thinking it will be:
+
+
+Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More
+
+
+Very open to discussion on that.
+
+
+Anyway, first session was off to a really good start; with what is a partially new system/setting, and a new group, and one of the players having never RPed before, you never know how it will go, but I think we're gelling pretty much immediately. We spent most of the time finishing character cr…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Scroll Substitutions or Strange Spell Stores]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-scroll-substitutions-or-strange.html</id>
