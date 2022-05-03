@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T08:21:53.537Z</id>
+    <id>urn:2022-05-03T16:28:45.039Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T08:21:53.537Z</updated>
+    <updated>2022-05-03T16:28:45.039Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Mercurial Mentors & Weird Wizards]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-mercurial-mentors-weird-wizards.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-mercurial-mentors-weird-wizards.html"/>
+        <updated>2022-05-03T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a rather lovely bit of implied world building secreted away in the Spell Acquisition process for Magic Users in B/X and OSE. Whilst I also permit transcription from Scrolls and captured Spell Books as an alternative arcane augmentation avenue, by default the only two options for expanding a Medium’s occult repertoire are Research (touched on previous posts here and here) and a mention of Mentors.
+ Sadly, these Thaumatological Tutors do not really receive any substantial detail, so this table aims to address this oversight. The Sorcerous Instructor can be determined alongside the Starting Spell the Magic-User begins play with, or one can simply combine results to mint new Mentors. Starting with a Name and a distinguishing Trait provides a little bit of background, may raise interes…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hidden Grove of the Deep Druids: an adventure I drew for]]></title>
         <id>https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html</id>
