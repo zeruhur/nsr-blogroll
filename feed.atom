@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T16:28:45.039Z</id>
+    <id>urn:2022-05-04T01:27:50.050Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T16:28:45.039Z</updated>
+    <updated>2022-05-04T01:27:50.050Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -866,17 +866,6 @@ Mecha are sometimes described as being a metaphor for the body- which makes sens
 In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolations of humans as units within greater superorganisms- Entropy Elancer existing partially in the Fourth Wall outside spacetime, Lycaon Strain a macroscopic distributed organism, and Hibernating Hyberia an encrypted c…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing with adults in Antwerp]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/04/playing-with-adults-in-antwerp.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/04/playing-with-adults-in-antwerp.html"/>
-        <updated>2022-04-04T07:50:00.006Z</updated>
-        <summary type="html"><![CDATA[So on the 2nd of April there was a little gaming day organized in Antwerp. Antwerp is close by enough that I could easily come for one of the games. For the shift that I was in, there would be three games that would be played, an 1st Edition AD&D game, a home-brew game and Starfinder. I had signed up for Starfinder. The day before I heard that Starfinder was cancelled as the GM had contracted Covid. I said that there was no problem, I would come and either join one of the other games or quickly do some kind of improv game.
-I arrived, barely on time on Saturday, with some options in my backpack, which turned out to be nice, because of all the people that had said they would come, only four people were there, including the organizer. The guy running first edition needed 6 people for his game…]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
