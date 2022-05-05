@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-04T16:28:12.884Z</id>
+    <id>urn:2022-05-05T01:24:40.892Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T16:28:12.884Z</updated>
+    <updated>2022-05-05T01:24:40.892Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NSR, FKR, APT, XYZ…]]></title>
+        <id>http://technoskald.me/?p=6397</id>
+        <link href="https://technoskald.me/2022/05/04/nsr-fkr-apt-xyz/"/>
+        <updated>2022-05-04T17:58:10.000Z</updated>
+        <summary type="html"><![CDATA[A quick set of thoughts on naming, focused on NSR and FKR and other abbreviations.]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Mercurial Mentors & Weird Wizards]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-mercurial-mentors-weird-wizards.html</id>
