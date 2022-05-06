@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-05T16:25:07.533Z</id>
+    <id>urn:2022-05-06T01:16:14.712Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-05T16:25:07.533Z</updated>
+    <updated>2022-05-06T01:16:14.712Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Haven Happenstances]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-haven-happenstances.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-haven-happenstances.html"/>
+        <updated>2022-05-05T23:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are one Hundred Haven Happenings or Settlement Events for dressing up any downtime in towns and villages (or even decorating Domain Play, which could certainly use a little more love).
+Some are good, others bad, and still others in-between. These might eventually get a more rigorous treatment as a series of d36 tables to interface with my normal way of handling such things (Reaction Roll), but capturing the ideas immediately is always vital so they don’t get whisked away 😊.
+ See also: These Village-Folk Are... and These City Dwellers Are... as well as One Hundred Buildings and Business.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSR, FKR, APT, XYZ…]]></title>
         <id>http://technoskald.me/?p=6397</id>
@@ -13,6 +25,16 @@
         <summary type="html"><![CDATA[A quick set of thoughts on naming, focused on NSR and FKR and other abbreviations.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New New School Revolution]]></title>
+        <id>https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution</id>
+        <link href="https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution"/>
+        <updated>2022-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The New New School Revolution]]></summary>
+        <author>
+            <name>New School Revolution</name>
         </author>
     </entry>
     <entry>
