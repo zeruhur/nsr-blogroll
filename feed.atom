@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T16:27:18.993Z</id>
+    <id>urn:2022-05-07T01:16:53.377Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T16:27:18.993Z</updated>
+    <updated>2022-05-07T01:16:53.377Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[4 – Buzz, Trophy Gold: Roots of Old Kalduhr]]></title>
+        <id>http://githyankidiaspora.com/?p=19367</id>
+        <link href="https://githyankidiaspora.com/2022/05/06/4-buzz-trophy-gold-roots-of-old-kalduhr/"/>
+        <updated>2022-05-06T20:58:34.000Z</updated>
+        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...The group got back from their first foray into the Roots of Old Kalduhr, set up a household and took a side-job. We began A Heart Hums in the Darkness, an incursion written by Michael Van Vleet.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 12, Back in Sigil]]></title>
+        <id>http://githyankidiaspora.com/?p=19358</id>
+        <link href="https://githyankidiaspora.com/2022/05/06/all-shadows-lead-to-gloomwrought-session-12-back-in-sigil/"/>
+        <updated>2022-05-06T20:22:20.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game... the Sigil 6 get Kuru back, make a Wish and get back to Sigil.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Haven Happenstances]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-haven-happenstances.html</id>
@@ -882,22 +902,6 @@ Stealth. Sneak, hide, perform sle…]]></summary>
 Naturally, one should assume that any standard effects and procedures associated with being doused in Dragon Breath should apply. These are merely adjuncts. Coupled with my prior post on Monster Special Attacks, I suppose this could also be used for foes of a less draconic nature should this be your bag.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Mecha: A Metaphor for Embodied Cognition]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/weird-mecha-metaphor-for-embodied.html"/>
-        <updated>2022-04-07T11:54:00.003Z</updated>
-        <summary type="html"><![CDATA[This is the second batch of tables/Mecha, see first post here and an explanation of how this word-based Mecha Gear system works here.
-
-
-Mecha are sometimes described as being a metaphor for the body- which makes sense, they are humanoid giant robots, often unnecessarily anthropomorphized, and often used to tell stories about the adolescent experience or the brutality of war. I don't mean to suggest this is all that Mecha entail, but this alone can be explored in ways that I have rarely if ever seen.
-
-
-In the first post, the Golem (the MRD2 term for Mecha) were mostly extrapolations of humans as units within greater superorganisms- Entropy Elancer existing partially in the Fourth Wall outside spacetime, Lycaon Strain a macroscopic distributed organism, and Hibernating Hyberia an encrypted c…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
