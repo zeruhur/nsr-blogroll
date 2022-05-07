@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T08:21:47.498Z</id>
+    <id>urn:2022-05-07T16:23:36.488Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T08:21:47.498Z</updated>
+    <updated>2022-05-07T16:23:36.488Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -880,16 +880,6 @@ Craft. Create, tinker, repair, or operate.
 Stealth. Sneak, hide, perform sle…]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 9, The Old Githyanki Gate]]></title>
-        <id>http://githyankidiaspora.com/?p=18937</id>
-        <link href="https://githyankidiaspora.com/2022/04/07/all-shadows-lead-to-gloomwrought-session-9-the-old-githyanki-gate/"/>
-        <updated>2022-04-08T02:49:14.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 agrees to do a bloody chore for a Drow Matron for use of the Old Githyanki Gate that her House currently controls.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
