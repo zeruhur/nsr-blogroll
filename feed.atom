@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T01:16:53.377Z</id>
+    <id>urn:2022-05-07T08:21:47.498Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T01:16:53.377Z</updated>
+    <updated>2022-05-07T08:21:47.498Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -890,18 +890,6 @@ Stealth. Sneak, hide, perform sle…]]></summary>
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 agrees to do a bloody chore for a Drow Matron for use of the Old Githyanki Gate that her House currently controls.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Breath Weapons for Dragons of a Different Color]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-breath-weapons-for-dragons-of.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-breath-weapons-for-dragons-of.html"/>
-        <updated>2022-04-07T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[How conveniently color-coded those standard Dragons are! Telegraphing their offensive and offensive capabilities so! This can sometimes demystify these majestic Monsters a bit, so here’s a table that might provide some additional inspiration to surprise and bewilder by eschewing that predictability. Should you need an unusual shade for their scales to shimmer see the perchance generator below.
-  
-Naturally, one should assume that any standard effects and procedures associated with being doused in Dragon Breath should apply. These are merely adjuncts. Coupled with my prior post on Monster Special Attacks, I suppose this could also be used for foes of a less draconic nature should this be your bag.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
