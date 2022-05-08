@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T16:23:36.488Z</id>
+    <id>urn:2022-05-08T01:23:11.170Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T16:23:36.488Z</updated>
+    <updated>2022-05-08T01:23:11.170Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Swords, Sails, & Sorcery]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/05/swords-sails-sorcery.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/05/swords-sails-sorcery.html"/>
+        <updated>2022-05-07T18:04:00.002Z</updated>
+        <summary type="html"><![CDATA[Sword and sorcery adventure upon the seas! Fafhrd and the Grey Mouser in the lands of Earthsea, with the colorful devonian wildlife of Ponyo.
+
+
+Beneath the waves the ocean teems with prehistoric sea life. Devonian fish, coelacanths, sharks, pliosaurs, ammonites, trilobites. Giant leviathans, mosasaurs, and whales too. 
+
+
+The strange isles range from coral atolls, to sweltering jungle mountains, to cold boreal rocks. Sunken cities abounded. Ruins hide themselves above and below water. 
+
+
+
+
+
+
+1d10 Strange Places
+
+The sunken city of Ub, where you can peer down through the turquoise waters to see fish languidly swim ancient streets, some spires still pierce the waves allowing for descent into air pockets.
+Smoldering volcanic peaks belching fumes that trail across the horizon, said to houses te…]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 – Buzz, Trophy Gold: Roots of Old Kalduhr]]></title>
         <id>http://githyankidiaspora.com/?p=19367</id>
