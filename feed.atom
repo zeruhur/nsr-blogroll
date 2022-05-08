@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T08:21:18.202Z</id>
+    <id>urn:2022-05-08T16:23:39.497Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-08T08:21:18.202Z</updated>
+    <updated>2022-05-08T16:23:39.497Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -862,50 +862,6 @@ In a previous post, I described all RPGs as the product of different kinds of �
         <summary type="html"><![CDATA[The crew takes shore leave on Station 472 and considers changes to their future business plans. Also, bricks of human flesh.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Magical Mishaps & Calamitous Curses]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-magical-mishaps-calamitous-curses.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-magical-mishaps-calamitous-curses.html"/>
-        <updated>2022-04-09T01:52:00.002Z</updated>
-        <summary type="html"><![CDATA[Yet another table that had been languishing on the dev pile for far too long! Here we have One Hundred Magical Mishaps or Calamitous Curses to inflict upon the table. Since some games don’t have a “Roll To Cast” system in place, these could also be repurposed for all manner of other unfortunate Eldritch Events. Potion Miscibility is popular, but they may also prove useful for Failed Experiments, Scrambled Scrolls, or Grimoires Protected from Prying Eyes. Some of them make mighty fine Horrible Hexes as well, much more memorable and meaningful than a mechanical malus (that players have a remarkable tendency to conveniently forget to apply!)
- Grafting on additional risk to Spell Casting is something I’ve done in the past. However, I feel it works a bit better if it’s accompanied by a correspondingly tempting reward. One that I particularly enjoyed was allowing a thrill-seeking Magic User to choose to roll a Saving Throw versus Spells after Casting, on a success the Spell is retained and they may cast it again. On a failure, the Spell is lost as with normal Vancian magics. On a 1, a Magical Mishap occurs. One can tweak the frequency of these fantastic failures to taste, or potentially even penalize the Save by the level of the Spell or number of prior retentions attempts in a given time-period. When Magic becomes predictable and repeatable, it can sometimes veer toward banality, so this at least tries to maintain a bit of that delicious wonder should one go down this route.    
-A small amount of effort was put into “tuning” this table a bit, so that smaller die sizes have less “consequential” impacts, so feel free to escalate these however you see fit. What happens with a d6 should be a little less severe than something rolled higher on a d30, with the more disastrous consequences generally occurring only on upper ends of the d100. Durations are occasionally included, but feel free to season those to taste, and as with all misfortunes some just might be possible to undo through additional Adventure.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes the rockets launch and sometimes they don’t.]]></title>
-        <id>http://githyankidiaspora.com/?p=18152</id>
-        <link href="https://githyankidiaspora.com/2022/04/08/sometimes-the-rockets-launch-and-sometimes-they-dont/"/>
-        <updated>2022-04-09T00:48:20.000Z</updated>
-        <summary type="html"><![CDATA[In which the game ends before the adventure is finished…? WTF? We all like Mothership, each other’s contributions and were digging the adventure but due to personal issues all around, we had nearly a month between games. This adventure is intense; it is a thinker or as Judd called it, “a cerebral xeno-temple crawl.” It […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled WB:FMAG Hack]]></title>
-        <id>https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html</id>
-        <link href="https://quarterlingscorner.blogspot.com/2022/04/untitled-wbfmag-hack.html"/>
-        <updated>2022-04-08T22:34:00.001Z</updated>
-        <summary type="html"><![CDATA[I wrote this little White Box: FMAG hack over the course of the past few hours. I like how Spwack posts little hacks straight to their blog, so I figured I'd try something similar.
-I basically just stripped down how Worlds Without Number does ability checks and simplified attacking to one roll. The non-standard attributes, combat order, and Difficult Movement rules come from my big WIP, Goblets & Grues.
-I might try using this to run OSE adventures and the like, who knows.
-
-
-Character Creation
-Roll 3d6 for your six attributes:
-
-Strength. Climb, swim, jump, push, pull, lift.
-Dexterity. Keep your balance, perform simple acrobatic stunts.
-Charisma. Persuade ambivalent NPCs, put on a charming or convincing performance.
-Craft. Create, tinker, repair, or operate.
-Stealth. Sneak, hide, perform sle…]]></summary>
-        <author>
-            <name>Quarterling’s Corner</name>
         </author>
     </entry>
 </feed>
