@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T08:23:03.793Z</id>
+    <id>urn:2022-05-09T16:27:57.103Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T08:23:03.793Z</updated>
+    <updated>2022-05-09T16:27:57.103Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MRD2 Campaign PR 2: This Time With Golem]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html"/>
+        <updated>2022-05-09T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Second session, first in the Golem! I was a bit worried about this one because we're still getting in the groove and I didn't have much time to prep, but once again I felt really good about it.
+
+
+MRD2 Campaign Setup
+First Session PR
+
+
+Also for whatever reason Blogger HTML is all screwed up in this post and despite my best efforts the formatting is a mess. Or maybe it's just on my device? I dunno, such is life.
+
+
+RECAP
+The Team are Nazarites, individuals contracted by The Corporation to serve various needs across Earth, the Space Settlements, and the metaphysical depths of Tehom. They are empowered by a Wyrm Shamir symbiont provided by The Corporation granting them metaphysical abilities, as well as a Golem, a mecha, or a magnification of something more abstract.
+
+
+
+
+In this Campaign, they …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tolkien-Style Maps]]></title>
         <id>https://riseupcomus.blogspot.com/2022/05/tolkien-style-maps.html</id>
@@ -873,16 +899,6 @@ I was watching this GDC talk by Mick Gordon about how he created the music for D
 In a previous post, I described all RPGs as the product of different kinds of “creative constraints” upon play-pretend, which you might call the “purest form” of RPG. I listed various kinds of constraints, but this GDC talk made me think — what if I reorganized those constraints into four cha…]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Janus” Mothership Campaign – Session 6]]></title>
-        <id>http://technoskald.me/?p=6365</id>
-        <link href="https://technoskald.me/2022/04/09/janus-mothership-campaign-session-6/"/>
-        <updated>2022-04-09T22:15:21.000Z</updated>
-        <summary type="html"><![CDATA[The crew takes shore leave on Station 472 and considers changes to their future business plans. Also, bricks of human flesh.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
