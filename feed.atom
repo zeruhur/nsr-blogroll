@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T16:27:57.103Z</id>
+    <id>urn:2022-05-10T01:12:24.433Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T16:27:57.103Z</updated>
+    <updated>2022-05-10T01:12:24.433Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[As far as I know, there isn't an "RPG Circlejerk" subreddit, so I have to post this image here instead. Yes, I know this is probably just bait, but...]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html"/>
+        <updated>2022-05-09T20:45:00.009Z</updated>
+        <summary type="html"><![CDATA[-Dwiz]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Events for Camping or Overland Rests & Repose]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-events-for-camping-or-overland.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-events-for-camping-or-overland.html"/>
+        <updated>2022-05-09T17:03:00.001Z</updated>
+        <summary type="html"><![CDATA[My recent post on Haven Happenings spawned a sibling of sorts in the form of this table to cover something a little similar, but instead geared more toward those Times when Overland Travel comes to a stop (Camping, Resting, etc.). Over the weekend, I had the fortune of starting a fire and socializing with some friends outdoors. Quite a bit of food for thought and inspiration in that experience.
+ I’ve tried to shy away from dictating too much by way of Terrains or directly engaging Procedures with these (Encounters can still be handled through your standard preferred mechanisms after all), but some have probably stealthily crept in. Definitely a chance I might revisit this with more specificity down the road for some Seasonality/Environmental tailoring. I also tried to vary things up a little bit: Some with weal, others woe, but usually rather inconsequential or minor in nature (this might dovetail with later Tables that use a Reaction Roll I do love those bell curves after all, or even by Overloading some existing rolls). A few of my favorites are the more Neutral Campfire Story ones where Players get asked about things. Entries more focused in this direction might need to end up on their own little table eventually now that I think about it, because I love how those types of Questions interface with character development in play. 😊]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MRD2 Campaign PR 2: This Time With Golem]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html</id>
