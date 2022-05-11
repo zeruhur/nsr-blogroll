@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-10T16:28:55.408Z</id>
+    <id>urn:2022-05-11T01:42:37.654Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T16:28:55.408Z</updated>
+    <updated>2022-05-11T01:42:37.654Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -885,27 +885,6 @@ So what do you do without hands? Are you like Zacian, from Generation VIII Pokem
  Here are a hundred ideas for dressing up those defensive spells. This is solely intended to serve as a dollop of fluff and flavor of course...Unless?]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[130 Weird Treasures From Across The Spheres]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/04/130-weird-treasures-from-across-spheres.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/04/130-weird-treasures-from-across-spheres.html"/>
-        <updated>2022-04-11T13:35:00.001Z</updated>
-        <summary type="html"><![CDATA[An emperor's tea set that transforms into porcelain swans
-Arachnid woven tapestry, bulky, but eye-wateringly sublime
-Stack of golden arm rings forged from the war trophies of conquering lord
-Elegant carriage dubbed the silver phantom, it once propelled itself but no longer
-A river spirit trapped within a jeweled goblet, water cannot touch you
-Twin rings of beetle-esq design, whisper a message to it and it will fly away to find its partner
-Powdered quadracorn horn from the farthest burning savannas, cures impotency
-Immaculate suit of bone armour, parasitically fuels itself off the weavers lifeblood
-Packages of excellent, smooth, fine smelling soap
-Gem studded broad-belt of office stolen from some petty prince
-Skeleton warrior seeds, in neat little pouch
-Cultiver of a rare singing orchid, it…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
