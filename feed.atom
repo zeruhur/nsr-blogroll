@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T08:24:46.472Z</id>
+    <id>urn:2022-05-11T16:27:06.949Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T08:24:46.472Z</updated>
+    <updated>2022-05-11T16:27:06.949Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -845,16 +845,6 @@ Horses can be incredibly frustrating and thick-headed creatures, or remarkably p
         <summary type="html"><![CDATA[The final play reports for my >1yr long Maximum Recursion Depth campaign. I can't fully express just how happy I am with how this all resolved, and how grateful I am for my players. I've played in or run a handful of >1yr long campaigns so far, and this is only the second to come to a proper conclusion, and the first to do so satisfactorily. This campaign truly lived up to the ideals of what I had intended MRD to be, and did so in a way that I had not anticipated, driven by the actions of the Players and the decisions they made given the conceits I presented to them. We'll be following up with a new campaign where one of the Players will take over as GM with their own modified take on MRD, and I'll be running an MRD2 campaign with a new group IRL, but this feels like a milestone in the jou…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I like Into the Odd]]></title>
-        <id>http://technoskald.me/?p=6378</id>
-        <link href="https://technoskald.me/2022/04/11/why-i-like-into-the-odd/"/>
-        <updated>2022-04-12T00:17:49.000Z</updated>
-        <summary type="html"><![CDATA[What makes Into the Odd (and, by extension, Electric Bastionland) so great? Here are a few reasons.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
