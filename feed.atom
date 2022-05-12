@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T01:27:10.869Z</id>
+    <id>urn:2022-05-12T08:23:13.139Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T01:27:10.869Z</updated>
+    <updated>2022-05-12T08:23:13.139Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -834,17 +834,6 @@ The title is a portmanteau because they sounds good and …]]></summary>
         <summary type="html"><![CDATA[A detailed guide for how I run one-shots of Blades In The Dark]]></summary>
         <author>
             <name>eskur.dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - One Hundred Horses]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-one-hundred-horses.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-one-hundred-horses.html"/>
-        <updated>2022-04-12T19:17:00.002Z</updated>
-        <summary type="html"><![CDATA[Growing up around Horses, how I use them in these games might be one of my vernacular tells. One of those little things that I always seem to do, despite what the system might say. When I was younger, I had the privilege of spending some of my Summers with these animals, grooming, riding, but mostly I remember mucking out intolerably mephitic and sweltering Stables for extra pocket money (some of which even went to Roleplaying Game Books!).
-Horses can be incredibly frustrating and thick-headed creatures, or remarkably patient and even helpful. Some are tender and kind, others are just plain mean to anything that walks on two feet or four. Getting to gradually know them over time, you soon learn little peculiarities and peccadillos that might not be obvious at first glance. Each one ends up…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
