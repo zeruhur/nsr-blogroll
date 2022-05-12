@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-11T16:27:06.949Z</id>
+    <id>urn:2022-05-12T01:27:10.869Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T16:27:06.949Z</updated>
+    <updated>2022-05-12T01:27:10.869Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hunt Rolls in Trophy Gold – part perception roll, part random encounter roll]]></title>
+        <id>http://githyankidiaspora.com/?p=19380</id>
+        <link href="https://githyankidiaspora.com/2022/05/11/hunt-rolls-in-trophy-gold-part-perception-roll-part-random-encounter-roll/"/>
+        <updated>2022-05-11T17:57:55.000Z</updated>
+        <summary type="html"><![CDATA[I was explaining what Hunt rolls did in Trophy Gold and described them as part perception roll, part random encounter roll but they offer a little more than that.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quicker Combat for Boot Hill]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:626711d7b5a42c720cb549ac</id>
@@ -835,16 +845,6 @@ The title is a portmanteau because they sounds good and …]]></summary>
 Horses can be incredibly frustrating and thick-headed creatures, or remarkably patient and even helpful. Some are tender and kind, others are just plain mean to anything that walks on two feet or four. Getting to gradually know them over time, you soon learn little peculiarities and peccadillos that might not be obvious at first glance. Each one ends up…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD Campaign FINAL Play Report]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/mrd-campaign-final-play-report.html"/>
-        <updated>2022-04-12T13:02:00.001Z</updated>
-        <summary type="html"><![CDATA[The final play reports for my >1yr long Maximum Recursion Depth campaign. I can't fully express just how happy I am with how this all resolved, and how grateful I am for my players. I've played in or run a handful of >1yr long campaigns so far, and this is only the second to come to a proper conclusion, and the first to do so satisfactorily. This campaign truly lived up to the ideals of what I had intended MRD to be, and did so in a way that I had not anticipated, driven by the actions of the Players and the decisions they made given the conceits I presented to them. We'll be following up with a new campaign where one of the Players will take over as GM with their own modified take on MRD, and I'll be running an MRD2 campaign with a new group IRL, but this feels like a milestone in the jou…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
