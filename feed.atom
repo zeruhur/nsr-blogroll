@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T01:43:47.978Z</id>
+    <id>urn:2022-05-13T08:21:33.026Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T01:43:47.978Z</updated>
+    <updated>2022-05-13T08:21:33.026Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Victory of Strahd, a mini-campaign for hire]]></title>
+        <id>http://githyankidiaspora.com/?p=19420</id>
+        <link href="https://githyankidiaspora.com/2022/05/13/victory-of-strahd-a-mini-campaign-for-hire/"/>
+        <updated>2022-05-13T04:55:50.000Z</updated>
+        <summary type="html"><![CDATA[You tried to kill Strahd and you failed. Now he has broken his prison and is free. Chase him across the Shadowfell, where the adventure might lead us into Gloomwrought, Sigil into the Hells or the Far Realms. We will venture beyond the Curse of Strahd and together we will find out if you can prevent the curse from becoming a plague.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Table Talk: My Process for Random Tables]]></title>
         <id>https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html</id>
@@ -801,40 +811,6 @@ But take heart! Not all sorceries need be showy ones, and the wonder these sorts
  Use your best judgement to determine an appropriate randomizer if you find yourself in need of a “Number Appearing” (I'm rather fond of 2d6 with "Doubles Add and Roll Again" most of the time, but you could also randomize the die type to use with a quick d8: d4 through d100.) I prefer to heavily festoon some places in evocative fungi as a mood-enhancer, but a few of these are probably best when more precious and significantly rarer. If not expressly edible, and you find yourself in need of a nastier consequence for the foolhardy consumer, there is always my Terrible Toxins & Vile Venoms Table as well.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[townbuilding for Mausritter]]></title>
-        <id>https://www.hypertextcorner.com/micetown</id>
-        <link href="https://www.hypertextcorner.com/micetown"/>
-        <updated>2022-04-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Modified concept art for Mouse Guard by Darek Zabrocki
-
-So your mice have suddenly come to power in a local settlement? Have they been granted rule by a noblemice? Have organised a clever coup? Well, now they have new problems of managing a township. This post is written to guide you through this tricky process.
-township turn
-When mice perform town managing duties, time is divided into township turns, which last about a week. At the start of each township turn, roll a district die which will inform what happens on that turn.
-Roll
-Effect
-Description
-
-
-
-
-1
-Encounter
-New characters arrive to the settlement. A merchant caravan, an attack by evil cats, or humans start meddling with the tree you dwell under.
-
-
-2
-Ruin
-Buildings and structures age and/or get damaged.
-
-
-3
-Weather
-Roll for weather (…]]></summary>
-        <author>
-            <name>townbuilding for Mausritter</name>
         </author>
     </entry>
 </feed>
