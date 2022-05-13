@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-12T16:28:10.762Z</id>
+    <id>urn:2022-05-13T01:43:47.978Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T16:28:10.762Z</updated>
+    <updated>2022-05-13T01:43:47.978Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Table Talk: My Process for Random Tables]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html"/>
+        <updated>2022-05-12T22:51:00.003Z</updated>
+        <summary type="html"><![CDATA[Sometimes I am asked about my method for generating all these Random Tables and how they come together, so I have decided to put together a post that attempts to explain how I create these. It is a hurried, haphazard, and peculiarly tailored technique I’m afraid, and most certainly not an optimal workflow, but it seems to work for me, and hopefully there might be a useful or at least interesting tidbit for other Referees within these steps.
+   
+Constantly Cultivate Creative Inspiration
+ For me personally, it shows up in the strangest of places. There is not much by way of tangible advice I can offer that speaks to sparking this part of another’s imagination really, suffice to say that you want to always pay attention to things around you/what you consume. Give a little thought to how you m…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions to ask each D&D Class]]></title>
+        <id>http://githyankidiaspora.com/?p=19390</id>
+        <link href="https://githyankidiaspora.com/2022/05/12/questions-to-ask-each-dd-class/"/>
+        <updated>2022-05-12T17:29:14.000Z</updated>
+        <summary type="html"><![CDATA[As Apocalypse World made plain - ask provocative questions and use the answers, my friends.
+
+Questions to ask each D&D class.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hunt Rolls in Trophy Gold – part perception roll, part random encounter roll]]></title>
         <id>http://githyankidiaspora.com/?p=19380</id>
@@ -187,10 +212,10 @@ Some are good, others bad, and still others in-between. These might eventually g
         <title type="html"><![CDATA[Hidden Grove of the Deep Druids: an adventure I drew for]]></title>
         <id>https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html"/>
-        <updated>2022-05-03T07:04:00.003Z</updated>
+        <updated>2022-05-03T07:04:00.004Z</updated>
         <summary type="html"><![CDATA[Longtime reader Harald Maassen just released a really tight dungeon adventure called "Hidden Grove of the Deep Druids," which I contributed artwork for!
 
-It's available as a Pay What You Want download on the Dungeon Master's Guild. Worry not though. It's a decently system-flexible adventure good for all medieval-ish fantasy dungeoncrawlers. If you are 5E player, it provides some lite mechanical support to run the adventure in a more old-school way.
+It's available as a Pay What You Want download on the Dungeon Master's Guild. Worry not though. It's a decently system-flexible adventure good for all medieval-ish fantasy dungeoncrawlers. If you are a 5E player, it provides some lite mechanical support to run the adventure in a more old-school way.
 
 
 The premise? "Evil druid cult." An ever-elusive archetype but one that I think Harald has nailed here. If you've never used druids as villains, you should really give it a whirl.
@@ -810,20 +835,6 @@ Weather
 Roll for weather (…]]></summary>
         <author>
             <name>townbuilding for Mausritter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taintedweald: Designer's Notes]]></title>
-        <id>https://zotiquest.zeruhur.space/cairn/2022/04/13/taintedweald/</id>
-        <link href="https://zotiquest.zeruhur.space/cairn/2022/04/13/taintedweald/"/>
-        <updated>2022-04-13T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Since last year I was toying myself with the idea to write a setting inspired by Nausicaä of the Valley of the Wind, Hayao Miyazaki’s masterpiece. The first attempt was last year to submit for InPlay #3 (then never issued, alas), but I was not able to meet the deadline.
-The idea stuck in my mind, for merrier times. Then other project came, fatherhood and everything connected to it.
-Until Yochai Gal launched the *Forest of Another Name” Cairn Jam last month. The original deadline was March 31st and I know it was totally impossible for me to meet that deadline. Then it has postponed to April 15th and I was able to start writing my submission in time.
-The result is Taintedweald, a mini-setting in a 24 pages zine. Let’s see it in detail!
-The title is a portmanteau because they sounds good and …]]></summary>
-        <author>
-            <name>RSS Feed Title</name>
         </author>
     </entry>
 </feed>
