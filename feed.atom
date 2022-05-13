@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T08:21:33.026Z</id>
+    <id>urn:2022-05-13T16:28:24.642Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T08:21:33.026Z</updated>
+    <updated>2022-05-13T16:28:24.642Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 (x 4) - Bynames, Sobriquets, and Epithets]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-x-4-bynames-sobriquets-and-epithets.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-x-4-bynames-sobriquets-and-epithets.html"/>
+        <updated>2022-05-13T13:28:00.008Z</updated>
+        <summary type="html"><![CDATA[We’ve all been there: in dire need of a memorable Name during play to hastily christen an NPC to make them more meaningful, or requiring one as we make our preparations for the next session. Spontaneous Namecraft is a tad tricky though. When Naming things, should I have the luxury, I do tend to try to speak it aloud a few times, just to ensure that it flows off the tongue without too much stumbling and can’t be inadvertently mispronounced into something silly or humorous (a very common conundrum in my games that can be a bit derailing). While onomastics are intensely interesting to me, I’m usually a little more concerned with having something immediately accessible to solve the problem.
+ Specifically, I find myself often in need of Names for Gods/Deities/Tutelary Spirits and such for How I…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victory of Strahd, a mini-campaign for hire]]></title>
         <id>http://githyankidiaspora.com/?p=19420</id>
