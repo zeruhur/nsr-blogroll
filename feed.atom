@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-13T16:28:24.642Z</id>
+    <id>urn:2022-05-14T01:47:07.131Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-13T16:28:24.642Z</updated>
+    <updated>2022-05-14T01:47:07.131Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -810,18 +810,6 @@ But take heart! Not all sorceries need be showy ones, and the wonder these sorts
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...Kuru finds trouble in a Drow kitchen and the Sigil 6 prepares for the job.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Marvelous Mushrooms & Tantalizing Toadstools]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-marvelous-mushrooms-tantalizing.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-marvelous-mushrooms-tantalizing.html"/>
-        <updated>2022-04-14T13:27:00.003Z</updated>
-        <summary type="html"><![CDATA[Yesterday it was pointed out to me that I had been remiss with providing a Random Table for generating Mushrooms/Toadstools, which is indeed a tragedy considering how fond I am of sprinkling “fun” fungi as Resources and Hazards within my Wilderness Adventures. So, I aimed to rectify this oversight post-haste by moving this Table to the top of the dev pile (where in all fairness, it sprouted with almost uncanny swiftness).
- These can be used in conjunction with my venerable Herb & Plant Generator, and although the Name-stems are intended to be used to generate new and unusual Local Common Names, you can just as easily read across if swiftness is required and treat this more like a standard d100 table. I often like a quick name for flavoring Foraging Results as “You found some Edible Mushrooms” is just so frightfully bland.
- Use your best judgement to determine an appropriate randomizer if you find yourself in need of a “Number Appearing” (I'm rather fond of 2d6 with "Doubles Add and Roll Again" most of the time, but you could also randomize the die type to use with a quick d8: d4 through d100.) I prefer to heavily festoon some places in evocative fungi as a mood-enhancer, but a few of these are probably best when more precious and significantly rarer. If not expressly edible, and you find yourself in need of a nastier consequence for the foolhardy consumer, there is always my Terrible Toxins & Vile Venoms Table as well.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
