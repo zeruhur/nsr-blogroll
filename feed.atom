@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-14T08:21:44.415Z</id>
+    <id>urn:2022-05-14T16:23:56.837Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-14T08:21:44.415Z</updated>
+    <updated>2022-05-14T16:23:56.837Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -800,16 +800,6 @@ I have grown stale on finding out if something happens or not. Instead, stuff al
 But take heart! Not all sorceries need be showy ones, and the wonder these sorts of “special effects” can evoke can sometimes add more than they subtract from play if we are just a little scrupulous in how they function. When I use these, I like to make sure that there are a few rupestrian rulings communicat…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 10, The Drow Job Prep]]></title>
-        <id>http://githyankidiaspora.com/?p=18997</id>
-        <link href="https://githyankidiaspora.com/2022/04/14/all-shadows-lead-to-gloomwrought-session-10-the-drow-job-prep/"/>
-        <updated>2022-04-15T03:18:24.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...Kuru finds trouble in a Drow kitchen and the Sigil 6 prepares for the job.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
