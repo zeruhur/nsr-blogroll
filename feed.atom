@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T08:21:36.930Z</id>
+    <id>urn:2022-05-15T16:24:52.841Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T08:21:36.930Z</updated>
+    <updated>2022-05-15T16:24:52.841Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 0 – All the Pieces Matter]]></title>
+        <id>http://githyankidiaspora.com/?p=19467</id>
+        <link href="https://githyankidiaspora.com/2022/05/15/dread-domain-detectives-illustrated-session-0-all-the-pieces-matter/"/>
+        <updated>2022-05-15T11:09:17.000Z</updated>
+        <summary type="html"><![CDATA[The Sons of Kryos get together to play an investigative Dungeons and Dragons game set in Ravenloft's domain of Lamordia.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signalboost: TTRPGs for Reproductive Rights Bundle]]></title>
+        <id>http://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/</id>
+        <link href="https://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/"/>
+        <updated>2022-05-15T09:29:08.000Z</updated>
+        <summary type="html"><![CDATA[https://itch.io/b/1375/ttrpgs-for-reproductive-rights  All proceeds from this bundle will be donated to Planned Parenthood and NNAF (National Network of Abortion Funds)  so that much-needed funds will be distributed on both national and local levels and across race, gender, and economic status.  Signalboost: TTRPGs for Reproductive Rights Bundle]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 (x 4) - Bynames, Sobriquets, and Epithets]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-x-4-bynames-sobriquets-and-epithets.html</id>
@@ -766,16 +786,6 @@ This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs�
  Kind of a contemporary counterpart to my Random Impedimenta. Might also be useful for post-apocalyptic games or ones set in slightly older historical periods, as there is a whiff of anachronism in some of these. These days most of my tables are geared toward Fantasy, but even in that context I’ll admit to sometimes sprinkling in the occasional item from this as an intriguing/puzzling out-of-place artifact or a teaspoon dosage of gonzo. I always endeavor to render the trinket via a description rather than name it though in these situations 😊]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 – Into the Forest, Trophy Gold: The Roots of Old Kalduhr]]></title>
-        <id>http://githyankidiaspora.com/?p=19009</id>
-        <link href="https://githyankidiaspora.com/2022/04/15/1-into-the-forest-trophy-gold-the-roots-of-old-kalduhr/"/>
-        <updated>2022-04-15T20:42:10.000Z</updated>
-        <summary type="html"><![CDATA[In which the treasure-hunters venture into the ancient Deep Kalduhr in order to find treasure...]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
