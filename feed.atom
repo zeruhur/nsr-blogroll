@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T01:44:24.641Z</id>
+    <id>urn:2022-05-15T08:21:36.930Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T01:44:24.641Z</updated>
+    <updated>2022-05-15T08:21:36.930Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -776,30 +776,6 @@ This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs�
         <summary type="html"><![CDATA[In which the treasure-hunters venture into the ancient Deep Kalduhr in order to find treasure...]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantasy Flight Dice with Galaxy Far Away (and other thoughts)]]></title>
-        <id>https://d66kobolds.blogspot.com/2022/04/fantasy-flight-dice-with-galaxy-far.html</id>
-        <link href="https://d66kobolds.blogspot.com/2022/04/fantasy-flight-dice-with-galaxy-far.html"/>
-        <updated>2022-04-15T19:22:00.004Z</updated>
-        <summary type="html"><![CDATA[For as often as I run my games diceless (or nearly so), I do really enjoy dice. I promise. 
-I started up a new local Galaxy Far Away campaign just over a week ago, and I realized I did not take a liking to the standard opposed 2d6 resolution that I originally penned for the game. Maybe it's because using d6 in Star Wars should belong with West End Games' timeless take on the genre, or maybe because I tend to find traditional opposed resolution less and less compelling these days. 
-I have grown stale on finding out if something happens or not. Instead, stuff always happens. The question is not "does it happen?" but "how?" and I'm finding that said qualitative result generation is much more interesting than pass/fail. I'm not reinventing the wheel here, as the whole "yes, and" or "yes, but" …]]></summary>
-        <author>
-            <name>d66 Classless Kobolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Convenient Cantrips or Minor Magics]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-convenient-cantrips-or-minor-magics.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-convenient-cantrips-or-minor-magics.html"/>
-        <updated>2022-04-15T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Now and again, I come across Referees considering Cantrips as a way of adding a little bit more Magic to their Spellcasters. These are a sometimes-contentious subject because some implementations result in these abilities interfering with or obviating interesting parts of play such as Resource Management. Another common issue sometimes has to do more with Setting conceits, and how they can sometimes transmogrify something treasured or rare into a thing much more mundane or humdrum.
-   
-But take heart! Not all sorceries need be showy ones, and the wonder these sorts of “special effects” can evoke can sometimes add more than they subtract from play if we are just a little scrupulous in how they function. When I use these, I like to make sure that there are a few rupestrian rulings communicat…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
