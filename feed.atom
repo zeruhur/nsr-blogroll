@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T16:24:52.841Z</id>
+    <id>urn:2022-05-16T01:20:59.840Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-15T16:24:52.841Z</updated>
+    <updated>2022-05-16T01:20:59.840Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Slushpost Mark 6.]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/05/slushpost-mark-6.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/05/slushpost-mark-6.html"/>
+        <updated>2022-05-15T23:13:00.000Z</updated>
+        <summary type="html"><![CDATA[More scraps and scribbles. 
+
+In an ancient levant world there is a demon of plaster and whitewash, it demands MORE limestone MORE hardwoods MORE charcoal to feed its lust for plaster, it shall never be satisfied with its eternal deforestation until the whole region is ecologically devastated.
+Familial ties are a major thing, considering making lieutenants and various other functionaries siblings and cousins to their boss. 
+A cocky young nobleman has whipped up a frenzied gang to go and kidnap (voluntarily) his future wife from her family.
+A posse of flea-knights riding about on an animal, hop to a new host and command them to act as their noble steed/page.
+A necromancer's cavaliers riding upon slavering ghoul-back, horse pistols and sabres in hand.
+Spirits care not for casualty, spirits ar…]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Connections & Coincidences for Character Convergence]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-connections-coincidences-for.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-connections-coincidences-for.html"/>
+        <updated>2022-05-15T20:00:00.001Z</updated>
+        <summary type="html"><![CDATA[There is usually a part of Character Generation where it might be useful to determine how the Player Characters know each other. Some tables are completely comfortable with hand-waving or abstracting this or letting those Relationships bloom during play but when that time comes, it can be helpful to have some ideas.
+ I like to focus on the Teamwork aspects of these games quite a bit, so forging a few bonds between the members of the Party can really go a long way to help emphasize this. A bit of Shared History, in the form of an amusing or intriguing anecdote about how they met is a delightful place to begin.
+ I’m certainly not the first to attempt a table approach for this, and I managed to resist the urge to peek at another table that I’ve used occasionally in the past: the excellent 100…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I run: 'Overpowered' abilities]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/05/how-i-run-overpowered-abilities.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/05/how-i-run-overpowered-abilities.html"/>
+        <updated>2022-05-15T19:07:00.002Z</updated>
+        <summary type="html"><![CDATA[Intro: Overpowered Abilities
+A staple of my recent design is to work with absolutes whenever possible. This is because to me, these are a lot easier to track. Examples of these are 'mortal steel cannot penetrate dragon scales' or 'fairy dust allows you to fly until you touch the ground'. 
+In the game I run for my students I had cultists use a glowing red orb that hypnotises whomever looks at it and makes them obey the commands issued by whomever holds the orb. The cultists used this to abduct an entire town, but after my players saved the townsfolk the orb didn't cease to exist so naturally my players looted it. 
+In the same adventure the players used that orb to hypnotise a giant octopus which they had ticked off. They sealed it in a magic jar and know that if they throw the jar at someth…]]></summary>
+        <author>
+            <name>Tabletop Curiosity Cabinet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs of Travel, and the Path]]></title>
+        <id>https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html</id>
+        <link href="https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html"/>
+        <updated>2022-05-15T17:42:00.002Z</updated>
+        <summary type="html"><![CDATA[Road, Ivan Shishkin
+
+
+
+
+The Road goes ever on and on,
+
+Down from the door where it began.
+
+Now far ahead the Road has gone,
+
+And I must follow, if I can.
+
+
+I have been on a journey. I have walked the road, first one foot and then the other. Through chilling wind and snow, down many errant trails, and o'er the most treacherous peaks I have taken my way. And though my destination still awaits me many, many miles down the track, I am here. On the path that is every path and no path, the grand river delta of earth and stone and root that branched out from my front door the day I took my first step. I cannot return to that home. None of us can. But there are homely places on the path, and a home at the end of every branch. I am not ready to rest my weary feet. I will keep walking.
+
+
+Packing is …]]></summary>
+        <author>
+            <name>Glass Bird Games</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 0 – All the Pieces Matter]]></title>
         <id>http://githyankidiaspora.com/?p=19467</id>
