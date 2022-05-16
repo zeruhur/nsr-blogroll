@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-16T01:20:59.840Z</id>
+    <id>urn:2022-05-16T08:24:52.162Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T01:20:59.840Z</updated>
+    <updated>2022-05-16T08:24:52.162Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sigil 6 Questions]]></title>
+        <id>http://githyankidiaspora.com/?p=19522</id>
+        <link href="https://githyankidiaspora.com/2022/05/15/sigil-6-questions/"/>
+        <updated>2022-05-16T03:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Why D&D? And more questions about the Planescape campaign we play on Thursday nights with the Sigil 6 team.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slushpost Mark 6.]]></title>
         <id>https://thecosmicorrery.blogspot.com/2022/05/slushpost-mark-6.html</id>
@@ -51,7 +61,7 @@ In the same adventure the players used that orb to hypnotise a giant octopus whi
         <title type="html"><![CDATA[Songs of Travel, and the Path]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html</id>
         <link href="https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html"/>
-        <updated>2022-05-15T17:42:00.002Z</updated>
+        <updated>2022-05-15T17:42:00.003Z</updated>
         <summary type="html"><![CDATA[Road, Ivan Shishkin
 
 
@@ -844,17 +854,6 @@ adventures.]]></summary>
 This post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs and the idea that I had suggested in the comments that frankly I felt like he was a little too dismissive of so now I'm coming …]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Modern Pocket Finds]]></title>
-        <id>https://blog.d4caltrops.com/2022/04/d100-modern-pocket-finds.html</id>
-        <link href="https://blog.d4caltrops.com/2022/04/d100-modern-pocket-finds.html"/>
-        <updated>2022-04-16T16:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Just a quick table that I was reminded of today going through my folders. I believe I whipped this up for another Referee in need quite some time ago, but after giving it another gander and thought it might be of use to others.
- Kind of a contemporary counterpart to my Random Impedimenta. Might also be useful for post-apocalyptic games or ones set in slightly older historical periods, as there is a whiff of anachronism in some of these. These days most of my tables are geared toward Fantasy, but even in that context I’ll admit to sometimes sprinkling in the occasional item from this as an intriguing/puzzling out-of-place artifact or a teaspoon dosage of gonzo. I always endeavor to render the trinket via a description rather than name it though in these situations 😊]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
