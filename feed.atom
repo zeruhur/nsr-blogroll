@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-17T01:23:28.206Z</id>
+    <id>urn:2022-05-17T08:23:57.232Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T01:23:28.206Z</updated>
+    <updated>2022-05-17T08:23:57.232Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The NSR and definitions]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/05/the-nsr-and-definitions.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/05/the-nsr-and-definitions.html"/>
+        <updated>2022-05-17T03:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Choose your alignment — which quadrant(s) do you care about defining?
+
+I.
+We had yet another debate on labels and definitions today. I’m sick of everything I write in these conversations getting lost, so I’m dumping it all in a blog post. Everything from here on out is directly taken from messages I wrote on the Discord, with some links added here and there.
+II.
+I think Retired Adventurer had it right when he called them "cultures of play." The OSR, the NSR, they aren't movements — people have such a terrible sense these days of what it means for a group of people to be organized. They are cultures, in the sense that designer Greg Costikyan uses the word.
+In Uncertainty, Costikyan defines culture as "the transmission of knowledge within a group" and explains that, while some animals have s…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fight! Iczer-1 Not-Review]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/05/fight-iczer-1-not-review.html</id>
