@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T01:15:46.298Z</id>
+    <id>urn:2022-05-18T08:22:15.184Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T01:15:46.299Z</updated>
+    <updated>2022-05-18T08:22:15.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -865,18 +865,6 @@ Adventure Design with Bryce Lynch from Ten Foot Pole.
 What makes a great adventure? on Questining Beast]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal, System-Neutral Stats]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62508e764b70f661a351e7d1</id>
-        <link href="https://www.prismaticwasteland.com/blog/universal-system-neutral-stats"/>
-        <updated>2022-04-18T13:31:45.000Z</updated>
-        <summary type="html"><![CDATA[It isn’t much fun to convert monsters from system to system. The answer is 
-to not give non-diegetic stats for the monsters in your system-neutral 
-adventures.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
