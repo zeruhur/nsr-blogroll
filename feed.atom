@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T08:22:15.184Z</id>
+    <id>urn:2022-05-18T16:26:42.994Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T08:22:15.184Z</updated>
+    <updated>2022-05-18T16:26:42.994Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most Precious Beauty]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1038</id>
+        <link href="https://hamsterhoard.home.blog/2022/05/18/most-precious-beauty/"/>
+        <updated>2022-05-18T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Twinkling and glimmering, shimmering and shining; atop a massy pile of golden coin, perhaps, or the brilliant crowning glory of the head that wears that heavy burden. Or perhaps that gleaming gem came prized from between a dragonlord’s lyre-curved horns; or drawn from the throat of a frozen phoenix; or … Whether gathered from a … Continue reading Most Precious Beauty →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tabletop is Theatre, Videogames are Film]]></title>
         <id>https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html"/>
-        <updated>2022-05-18T00:05:00.002Z</updated>
+        <updated>2022-05-18T00:05:00.006Z</updated>
         <summary type="html"><![CDATA[Theatre and film are intimately linked mediums of artistic expression. They use many of the same core ingredients (visual, sound and dialogue, time, performance) and even employ most of the same optional conventions (experienced in a single sitting lasting a couple hours, uses non-diegetic music, usually presents the action in its own space and told in roughly real-time for most or all scenes, etc.). Obviously there are exceptions where one medium is used to do something quite different, such as documentary for film or an interactive murder mystery dinner theatre for the stage. But they are closely related media, with film arguably descended directly from theatre. Early film even copied most of theatre's conventions, such as all the action taking place on a "stage" viewed from a single, fi…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
@@ -826,16 +836,6 @@ Given how much I've bounced around on this blog between worldbuilding, game disc
         <link href="https://hamsterhoard.home.blog/2022/04/21/rahure-foundation/"/>
         <updated>2022-04-21T12:58:15.000Z</updated>
         <summary type="html"><![CDATA[Warmth, banked against future need in the face of the cold, inside or out. Quiet contemplation, waiting to be stoked to white-hot readiness at a moment’s notice. Flame, contained, in the flow of syrupy rivers, rumbling orange and sizzling gold; in the banks of steady-glowing embers breaking through black-ashen hill-crests; in the deeply ruby carbuncle … Continue reading Rahure: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quietus, the Iron Court: Manifold Palace]]></title>
-        <id>http://hamsterhoard.home.blog/?p=983</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/20/quietus-the-iron-court-manifold-palace/"/>
-        <updated>2022-04-20T13:23:17.000Z</updated>
-        <summary type="html"><![CDATA[There are realms which unfold beneath the great expanse of the skies, whatever those skies may be. There are planes of seemingly infinite void, with or without structure or object to mar them. The Iron Court is not one of these realms. No matter where, no matter how one passes into Quietus, one’s arrival is … Continue reading Quietus, the Iron Court: Manifold Palace →]]></summary>
         <author>
             <name>taichara</name>
         </author>
