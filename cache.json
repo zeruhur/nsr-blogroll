@@ -28,9 +28,9 @@
           "description": "Intro: Overpowered Abilities\nA staple of my recent design is to work with absolutes whenever possible. This is because to me, these are a lot easier to track. Examples of these are 'mortal steel cannot penetrate dragon scales' or 'fairy dust allows you to fly until you touch the ground'. \nIn the game I run for my students I had cultists use a glowing red orb that hypnotises whomever looks at it and makes them obey the commands issued by whomever holds the orb. The cultists used this to abduct an entire town, but after my players saved the townsfolk the orb didn't cease to exist so naturally my players looted it. \nIn the same adventure the players used that orb to hypnotise a giant octopus which they had ticked off. They sealed it in a magic jar and know that if they throw the jar at someth…",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/05/how-i-run-overpowered-abilities.html",
           "publishedOn": "2022-05-15T19:07:00.002Z",
-          "wordCount": 2251,
+          "wordCount": null,
           "title": "How I run: 'Overpowered' abilities",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT01yEcfIJKIMLrQm9h4g2ro9W84s4DzUEyV_kFycfZkHlq8c1opT9od3_4b8shLSVy1LzLDljT8v3gixD3coC1g1s0zeBa7Dl86y4yDg5bqr4Rs-0D0RSlt7JJISh37H1-pqQKwZmvQo_cpCbBt-mUN4X2N_-KwE1l1YrPAhTL3X6G8RyH0WKN9xk/w1200-h630-p-k-no-nu/Knight.png"
+          "imageUrl": null
         },
         {
           "id": "https://tabletopcuriositycabinet.blogspot.com/2022/04/worldbuilding-without-canon.html",
@@ -38,9 +38,9 @@
           "description": "\"There is no canon.\"\nThis, I feel, is the best way to deal with worldbuilding in tRPGs. Rather than fight against the given fact that people will alter your work based on the preferences and needs of their tables, you can learn to embrace it and actively make settings that do not have a canon, or at least very little canon. There are a number of ways I have seen folks embrace this idea: from sharing unfinished projects and incomplete thoughts to publishing material that deliberately leaves gaps that need to be filled in during prep or at the table. \n\nLuka Rejec is the one I found that first called this sort of writing anti-canon, but Chris McDowall makes references to similar thoughts (and I consider Electric Bastionland to be the pinacle of this sort of anti-canon worldbuilding), and Arno…",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/04/worldbuilding-without-canon.html",
           "publishedOn": "2022-04-28T12:02:00.002Z",
-          "wordCount": null,
+          "wordCount": 3033,
           "title": "Worldbuilding without canon",
-          "imageUrl": null
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzOauMimIMg6voBA1Bm4h0b4ud3-F8ImxghZBdAe71AcDY3Lb8IdVkDw2xRxL5WLPi6w2CcNsVdGLp00uE1SsehM1ujjAV4dPmC28aLcHPOKQmfckYeOLQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://tabletopcuriositycabinet.blogspot.com/2022/04/how-i-run-complete-adventures-in-under.html",
@@ -90,12 +90,22 @@
       "siteUrl": "https://knightattheopera.blogspot.com/",
       "articles": [
         {
+          "id": "https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html",
+          "author": null,
+          "description": "Theatre and film are intimately linked mediums of artistic expression. They use many of the same core ingredients (visual, sound and dialogue, time, performance) and even employ most of the same optional conventions (experienced in a single sitting lasting a couple hours, uses non-diegetic music, usually presents the action in its own space and told in roughly real-time for most or all scenes, etc.). Obviously there are exceptions where one medium is used to do something quite different, such as documentary for film or an interactive murder mystery dinner theatre for the stage. But they are closely related media, with film arguably descended directly from theatre. Early film even copied most of theatre's conventions, such as all the action taking place on a \"stage\" viewed from a single, fi…",
+          "link": "https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html",
+          "publishedOn": "2022-05-18T00:05:00.002Z",
+          "wordCount": 6047,
+          "title": "Tabletop is Theatre, Videogames are Film",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwVU7OClLL3srvwPnrg5iz5JI7zm45ZY3OoyuPrY657TfGq4_eiVnkvLMw_4QuYYiPqykhL93nbr0WSKRZzRFoUy9vxtkmNz_IP0_rruwZooxiJ1yFbRGhllDbOgqx6S4PbR7T-oX93fHRUaFcPfhz1wybvanIcimyMNymbKW9h7tVibOygVDDyTE/w1200-h630-p-k-no-nu/05_custom.jpg"
+        },
+        {
           "id": "https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html",
           "author": null,
           "description": "-Dwiz",
           "link": "https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html",
           "publishedOn": "2022-05-09T20:45:00.009Z",
-          "wordCount": 536,
+          "wordCount": 544,
           "title": "As far as I know, there isn't an \"RPG Circlejerk\" subreddit, so I have to post this image here instead. Yes, I know this is probably just bait, but...",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6X7dyLmHdXR4eht6iLWQYGQx_9V88cURa5JPMXLJ3i6ZpJ7yEoKa-0L3uJ03p7P31gpsbMggxFSaeUh0dpHXP6ZWcZPObQAt-fG_nNbWscVEDZkEaunqMVClkdeieL9hc7aOJVdfQW2msoyeJURg8e6Ut0BYGPdTwJ4cEy1mCJlfv1RlwdH9gGuz8/w1200-h630-p-k-no-nu/Circlejerk.png"
         },
@@ -105,7 +115,7 @@
           "description": "Longtime reader Harald Maassen just released a really tight dungeon adventure called \"Hidden Grove of the Deep Druids,\" which I contributed artwork for!\n\nIt's available as a Pay What You Want download on the Dungeon Master's Guild. Worry not though. It's a decently system-flexible adventure good for all medieval-ish fantasy dungeoncrawlers. If you are a 5E player, it provides some lite mechanical support to run the adventure in a more old-school way.\n\n\nThe premise? \"Evil druid cult.\" An ever-elusive archetype but one that I think Harald has nailed here. If you've never used druids as villains, you should really give it a whirl.\n\n\nIt's a medium-sized dungeon that's non-linear, has lots and lots of dangers (especially weird fungi), and has clean and helpful formatting. It'll make a fine addition to anyone's collection of solid, vanilla-yet-tasty dungeons to slot into their game.",
           "link": "https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html",
           "publishedOn": "2022-05-03T07:04:00.004Z",
-          "wordCount": 692,
+          "wordCount": 698,
           "title": "Hidden Grove of the Deep Druids: an adventure I drew for",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil7wyTLB6z_hqUCv9j15FM1hbRvXIDfB-rN40cTvsgvOkBlZD-ClNW7u8-l8REuFfpU_pL8bQywUCn9Wzq_xVZTt4_lwi8AOg2KIXy8vB5lqPy0t-cXSesNyOV70owKWsihTwf10kpU7sZl1KlJcwqZaDja1E4v6JywhqwoJVPnpogpSsvBeqsnsTf/w1200-h630-p-k-no-nu/Cover%20Third%20Edit.jpg"
         },
@@ -142,7 +152,7 @@
           "description": "Warren at I Cast Light said this and got my brain going this weekend:\n\"Related: I would love to see the OD&D Outdoor Survival map become more a defacto map that everyone iterates on. Outdoor Survival map provides that richer environment. Also easier to provide your own spin on a recipe when the base is worked out like a chocolate chip cookie recipe.\"\nSo I sat down and I made this version of the Outdoor Survival map for a Secret Project I am working on:\n\n\nClick for full sized version.\n\n\nIf you're unfamiliar with the Outdoor Survival map, here's a quick history from a blogpost I wrote for the (now sadly defunct) OSR Elfgame website:\n\n\n\"The origins of Dungeons & Dragons (D&D) lie in medieval wargaming. When Gygax and Arneson were building out the earliest RPG paradigms, they used whatever the…",
           "link": "https://riseupcomus.blogspot.com/2022/05/tolkien-style-maps.html",
           "publishedOn": "2022-05-09T02:17:00.002Z",
-          "wordCount": 1402,
+          "wordCount": 1381,
           "title": "Tolkien-Style Maps",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDNTK64GlrAzP4-1tzOK6L9O_twlgyXrEQYat7nvJ2yjzU4dt5pngti_vNbpGdWO5JSHRxBsTn9WZC-6kvv9qtuF2BL_MaD11VReVn9MCLw9-eHu_aywo1JtorgnhixormqepH-ZzgB08TnUBTbDDJEcq_JXesS5xXsS0ERERmiAiGcjY4noNsh3TXDA/w1200-h630-p-k-no-nu/OurdoorSurvival-Tolkienian.png"
         }
@@ -161,7 +171,7 @@
           "publishedOn": "2022-05-16T12:18:00.003Z",
           "wordCount": 2823,
           "title": "Fight! Iczer-1 Not-Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez4wRts4zUyNuTbRsnRnwPo9sfmjQwfSnTHcZiVOLYUjAB0akfKhBSbn8nbUgxKfekTNthKYCXaM28UQuPpehzQuVFN94ss9lP3ztZChTj7nNpHYv01OLDG2QzZNBa8LcHjoJZGig=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwgxIw1v8fBPeBK2OizwuMO_JtHeKYJ-mLYOuyu8WhhNZiGTc3cTeW8ZkXw7N2JX9d_jOKwNa7RJfGWsUMxERC3gzhHPYeZNpzlwBovdVgw22PsbQ8YYV2pG_ga55m73OiitHvn1g=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html",
@@ -171,7 +181,7 @@
           "publishedOn": "2022-05-09T12:01:00.000Z",
           "wordCount": 5293,
           "title": "MRD2 Campaign PR 2: This Time With Golem",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exf_lNEOmojVWPYP7bvYjEnQ3TLbmh9iW9jjV-auDkxnbDXx03rOxZgu4RvaPXWTl3XLkyEInAfiXx8ebW08ljfXr2mms8Hz0Bp1ekM4PrNyctPfO6jEWjPi2QPi9SJk4fNIO09CFoSknDz-aBcDJbbu2AGqBeRrnHwHzYKQXmxsA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyckiHpX7JVPmiwI7ElzKe6h3SMXzQW9u37jYmot758u_k8i0h4N1P4INtWBi26jZhG0EMhdfmljKEf5orl_KRfC9qQyCpzyXef8X5UBozzK2ki66UksQNsQP5ifFqqYARv4dIytZBhOwaSRHsu7TbEjgfTyeaFD-cUz1RTRxAcbQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html",
@@ -181,7 +191,7 @@
           "publishedOn": "2022-05-02T23:19:00.001Z",
           "wordCount": 4860,
           "title": "Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More: Campaign First Play Report (+ Design Notes)!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey4g3CFO4jmO7DmHUdGr7dGnbg6VWvgtq7jx0Q3ATLTsRJ1xZ0x9oqEa8rT9MWAbgwceSK_gDdTjJRs5oLNmcufRhp33PlIvJcSPNxyslT42H6Sixyql16UGd4o_vN9ntOCYgRDSzQeGfwON9WCxHuB4KPg1g=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/ABLy4EzZzRuUCNcVHqNCBPUsp2hJ9OAJYW49lpTweyDnBnZtf6l6UOUu2IxiCdnu8kHEaGVfehHIW2HhZZ0pTPFZc0wcKfFgLDaDSajIjscDgQSegyxLmqyfTw2-ikSM-KWf3iUuOC57CH7EM7QP1WnYMEohiBjf2w=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2019/06/draft-undead-dreams.html",
@@ -201,17 +211,7 @@
           "publishedOn": "2022-04-21T13:19:00.002Z",
           "wordCount": 2102,
           "title": "BONUS: Iconoclastic Flow Collaboration!",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzaneKgDBz1mtSSQ2uu40NZ6kxTeM0T3LcR__BVjl9C3_r2xJYfZaqoy5LPZqL04B2GVvrzb-AGMoibnqivgxiknf0T5eWB5pyBb6svq5GtzJA3-ljFFvEB2kdeKmJyNHui687M6UraKxii=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html",
-          "author": null,
-          "description": "I get really excited about timey-wimey stuff, but then inevitably get frustrated when either I overcomplicate it or fail to explain it coherently or whatever, so I will try not to do that this time. This is not a redo of my previous multidimensional hexcrawl post which I'm still going to hyperlink but that is definitely a case where I overcomplicated an idea that actually isn't that complicated, and this is actually a completely different thing from that anyway, so don't bother reading that unless you like weird complicated shit. I liked the post even if basically nobody else did :(…\n\n\nThis post is partially inspired by Skerples' post OSR: Time Travel Tips for GMs and the idea that I had suggested in the comments that frankly I felt like he was a little too dismissive of so now I'm coming …",
-          "link": "https://weirdwonderfulworlds.blogspot.com/2022/04/the-art-of-chrono-war-hexcrawl-across.html",
-          "publishedOn": "2022-04-18T12:19:00.001Z",
-          "wordCount": 3747,
-          "title": "The Art of Chrono War: A Hexcrawl Across Time, Space, and the Multiverse",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew5BVsR2D8YXQEpnZ4_Wvoks1Rus2-0iOCPme_BSRFA6BkoAhoI8BejH-tdvTSUNfgRR4E1pEmuz62ad-TuTvLv2dojN43Zp-7yOA2zK6CYexcJVkUnQPXzFaGbsD4ah9yo9Qzu87gqz6i1zEk1MjSmMvw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ewr-gG0at9DnHgePwTapBP5FJPx-BEcfvB1Y6eVtK-LSBJOXFQVPCE8u-jNMQOewGeQXrcJO6uaW1ADyzyQvaCXgSANXH0E-NCiNAU8wZCm0pxSHZqiLPamagroDZaBL1eduOhj0XtvhmU_=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -240,7 +240,7 @@
           "publishedOn": "2022-04-22T05:04:00.006Z",
           "wordCount": 3683,
           "title": "Returning to Krynn",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExoTCFQBmjLNkJZehsRSvDJNGZg1Ihw0bLekaFPGzKW0p-JdwBXPLSMZe1yie_m_SqvRAe9cASzQ1epQHfyKvlwvjMwESb6mvrKIrChpWD8FGmEeQ=w1200-h630-n-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exes_0apoZE5WJnm-Czw5JgwVdOj6kKLD3kWrkVAM_f53aQ9VA-s8-SxXpqwJfZOK8X6b11hKg6_YQWoB1dPulOCFMEjgyVx_hjzm8C5rhL9aC0EA=w1200-h630-n-k-no-nu"
         }
       ]
     },
@@ -556,7 +556,7 @@
           "publishedOn": "2022-05-15T23:13:00.000Z",
           "wordCount": 1618,
           "title": "Slushpost Mark 6.",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey_o32TzKfZ8Dcop62fiBejLCDEPex2n6MyX31WX_LkyLSX-egqj5bspcdzQCCJxnesJyIC64IxLHyYJuiye62tk78EYLPIkNKFrrEghzbwiys0=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyS7unH5PwE9qCEl9cIaWpf_dH3SVXNTK7eaCqAguerSRx1bQ2uFJwsa6GyCS56sKRNUnYb2deXyGJ-YxZbScC27zPBY0KironoF8G8eXxxLAA8=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/05/swords-sails-sorcery.html",
@@ -566,7 +566,7 @@
           "publishedOn": "2022-05-07T18:04:00.002Z",
           "wordCount": 1037,
           "title": "Swords, Sails, & Sorcery",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex-Lev1b898EdZ2Xw0XJCKiRrdkflamqBdTRWHbYzGbUiUsMh395vBA9OZMEI6LKeNFcPefxD3CypOao14UUb0fhd4fHVL2cpuGLfczXb1U0kTBxkozUuC_B3oQvDYIdMyIS3AYB9Y2Adqrli2wSNzH590dYtmOWUd6ZJnfOrk9Wmxm4Pk4Emou_BQi338UmeJO4GlfRRB9IHPvvf-HoldVGglxOt_zWUq0c_3RpKgRSPZBbvS0-uX6uNUUBoqnWVHbcnDFHriPM4D1j_R_R2YdYkQsUhaALRVgneUyF3rjXq1lM-Cl1D5BHns3Go34bIdoWnTaI6ER2AH3wM-3S4SiNry1DawiA4HQ66Gf4_mOktPvHeWf_sYkdv3RJvWenYkJlLXQqsHrhx0lf8BGMBoyDXxxfkrhNYZFZgYFTWWl-6qcjkIN1TP8qa5iIMmgY21h2ntAwNi5UsDcJTUsmlotASXL8XRXbcZxViaaDe_vrzIczGXXwpJJIx-BLHQ8BO_3srzfsXeto3tiwi1jSrWIPjxx0h2DdfEMyVDW75bqEGPDzc2qC45U4BnUk5s97JmJagDwGBfc5DKLKiQpBC93FK0H4MmtJ37KMf2G68TvSImffG7PaXT30SWTSFIsrYu0vWv0Din87FdjKSgnHrHg120UaZBM0NeNJbkP7bv2vO1qAPxPT8Fs-3Hs2XoGHlP_rSKLAidii6W11zUNP8vUjjl_gVl5SKH5NbkQt-GvKQZgDVwlXMXpbfeN1WWj4y6USzvS85eQhkrb2DIAgzQ4L8SfXCT2=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3-testonly.googleusercontent.com/blogger_img_proxy/ABLy4ExHTtXX5IA7dYjO2rj4ftNxQPza3eCn8FWpDT4zcUv3jSvyuP7WiXHGiTcpMqmZcUoXb4jPnfsgg7VSrwZOMYKZcDzvdffB1cfp5RoFNqRc7WTCDZ4ti40oGskY5yV_1z7FyCdnMU6W1lXMNTKdZ5o7Uj7zKJD_jRmGX2d5o1jcvMi8VqpVyqBNznF70jyU7ZJxPIhuy4s_mtZ483IfwULRSHD3tzR7ZB3Gl8tJJGOvyWJ7I4IaABC8_ShyP0gSVcUMs8oUA0FNlsNKUNg9xHl4Et979z1uaL0c-23RlOVW48znAy01-k6XjfCzB5FHVl_kv5CVfrPLA2F5Qb9onAuBbJn7awkwqDt-5M-IAuwiJ3ZDrInCYQprljkK70b9WFZvOJPpF4SWemTMVtGWYiznzr3iO0uWw8hG7CUJnZBeFyZGwP2aQexOXY5GpY1Qdm70TGiKgFpbcAcPtFWonvE09Fv2SykcGIfGq_0tQRydUTTTaXi137CuLGRFkHPlDz6eMVvQAOB8oksT8fhMt5hYAYTlSTz-AS5G0t50vZefE4oxUlpv3NW7MG-ejCM8lrWmelVnH9QvGAl76Bx6fUqFru4vaBBN7rRAKbvJXH_cSCrlBzDtECH8FUHH7hwjWNE265pfswkYBqspykZ-SJjfqERrBStYzIkQPt3Tq90y_IEyn2-dWXGEijyNLkpVygqTPjvjCYz25yO-_xlYRxmUY9fxatoHWE0XCuX8WLcbcWLFVredREYlOmy0djUEpcyMvLPS2rPqdWZdEb1No9LHB4GpLemE=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html",
@@ -601,7 +601,7 @@
           "description": "Why D&D? And more questions about the Planescape campaign we play on Thursday nights with the Sigil 6 team.",
           "link": "https://githyankidiaspora.com/2022/05/15/sigil-6-questions/",
           "publishedOn": "2022-05-16T03:30:46.000Z",
-          "wordCount": 1340,
+          "wordCount": 1339,
           "title": "Sigil 6 Questions",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/01/the-sigil-6-oet-gritty-twitter-pic-3.png"
         },
@@ -611,7 +611,7 @@
           "description": "The Sons of Kryos get together to play an investigative Dungeons and Dragons game set in Ravenloft's domain of Lamordia.",
           "link": "https://githyankidiaspora.com/2022/05/15/dread-domain-detectives-illustrated-session-0-all-the-pieces-matter/",
           "publishedOn": "2022-05-15T11:09:17.000Z",
-          "wordCount": 1496,
+          "wordCount": 1495,
           "title": "Dread Domain Detectives Illustrated, Session 0 – All the Pieces Matter",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/dread-domain-detectives-illustrated.png"
         },
@@ -621,7 +621,7 @@
           "description": "https://itch.io/b/1375/ttrpgs-for-reproductive-rights  All proceeds from this bundle will be donated to Planned Parenthood and NNAF (National Network of Abortion Funds)  so that much-needed funds will be distributed on both national and local levels and across race, gender, and economic status.  Signalboost: TTRPGs for Reproductive Rights Bundle",
           "link": "https://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/",
           "publishedOn": "2022-05-15T09:29:08.000Z",
-          "wordCount": 457,
+          "wordCount": 456,
           "title": "Signalboost: TTRPGs for Reproductive Rights Bundle",
           "imageUrl": "https://bankuei.files.wordpress.com/2022/05/tnbct_.png"
         },
@@ -631,7 +631,7 @@
           "description": "You tried to kill Strahd and you failed. Now he has broken his prison and is free. Chase him across the Shadowfell, where the adventure might lead us into Gloomwrought, Sigil into the Hells or the Far Realms. We will venture beyond the Curse of Strahd and together we will find out if you can prevent the curse from becoming a plague.",
           "link": "https://githyankidiaspora.com/2022/05/13/victory-of-strahd-a-mini-campaign-for-hire/",
           "publishedOn": "2022-05-13T04:55:50.000Z",
-          "wordCount": 645,
+          "wordCount": 644,
           "title": "Victory of Strahd, a mini-campaign for hire",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/victory-of-strahd.jpg"
         },
@@ -641,7 +641,7 @@
           "description": "As Apocalypse World made plain - ask provocative questions and use the answers, my friends.\n\nQuestions to ask each D&D class.",
           "link": "https://githyankidiaspora.com/2022/05/12/questions-to-ask-each-dd-class/",
           "publishedOn": "2022-05-12T17:29:14.000Z",
-          "wordCount": 1019,
+          "wordCount": 1018,
           "title": "Questions to ask each D&D Class",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/01/ourorboros-point.png"
         },
@@ -651,7 +651,7 @@
           "description": "I was explaining what Hunt rolls did in Trophy Gold and described them as part perception roll, part random encounter roll but they offer a little more than that.",
           "link": "https://githyankidiaspora.com/2022/05/11/hunt-rolls-in-trophy-gold-part-perception-roll-part-random-encounter-roll/",
           "publishedOn": "2022-05-11T17:57:55.000Z",
-          "wordCount": 948,
+          "wordCount": 947,
           "title": "Hunt Rolls in Trophy Gold – part perception roll, part random encounter roll",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/trophy-gold-twitter-pic-stag.png"
         },
@@ -661,7 +661,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...The group got back from their first foray into the Roots of Old Kalduhr, set up a household and took a side-job. We began A Heart Hums in the Darkness, an incursion written by Michael Van Vleet.",
           "link": "https://githyankidiaspora.com/2022/05/06/4-buzz-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-05-06T20:58:34.000Z",
-          "wordCount": 1176,
+          "wordCount": 1175,
           "title": "4 – Buzz, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/roots-of-old-kalduhr-twitter-pic-1.png"
         },
@@ -671,7 +671,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game... the Sigil 6 get Kuru back, make a Wish and get back to Sigil.",
           "link": "https://githyankidiaspora.com/2022/05/06/all-shadows-lead-to-gloomwrought-session-12-back-in-sigil/",
           "publishedOn": "2022-05-06T20:22:20.000Z",
-          "wordCount": 1033,
+          "wordCount": 1032,
           "title": "All Shadows Lead to Gloomwrought, Session 12, Back in Sigil",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/all-shadows-lead-to-gloomwrought-twitter-pic-s12-back-in-sigil.png"
         },
@@ -681,7 +681,7 @@
           "description": "More folk for your Treasure-hunters, Barrow-delvers and Tomb-thieves to hire when they need more hands on deck. In case this first lot wasn't enough.",
           "link": "https://githyankidiaspora.com/2022/05/03/hirelings-2-the-creepy-lot/",
           "publishedOn": "2022-05-03T04:08:23.000Z",
-          "wordCount": 547,
+          "wordCount": 546,
           "title": "Hirelings 2: The Creepy Lot",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/hirelings-the-herd.png"
         },
@@ -691,7 +691,7 @@
           "description": "For as long as I’m giving this pay-to-play thing a go, I’ll be posting what I’m running in the coming week Sunday night/Monday morning. These will be clearly labelled, so if this kind of thing vexes you, it is easily ignorable. For my first two pay-to-play games I chose two games right in my wheelhouse […]",
           "link": "https://githyankidiaspora.com/2022/05/02/this-weeks-pay-games/",
           "publishedOn": "2022-05-02T06:50:39.000Z",
-          "wordCount": 666,
+          "wordCount": 665,
           "title": "This Week’s Pay Games",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/trophy-gold-twitter-pic-stag.png"
         },
@@ -701,7 +701,7 @@
           "description": "In which originality in one's RPG campaign design is discussed.\n\ntl;dr Fuck originality.\n\nOP\nSo I'm working on some history for my world and I get this great idea. My players are finding these objects of unidentifiable ancient magic, and I wasn't sure what they were for yet. Then I thought well they're solving these draconic riddles to reach the objects, maybe they're like seals placed a thousand years ago by a dragon cult to seal evil dragons away in the earth! Cool! Dammit, that's basically Skyrim. Still doing it.\n\nWhat do you do when you realize your idea is too close to a book/movie/game? Roll with it? Scrap it?\n\nResponse:\n\n\n\n\nFuck originality.\n\nIt will become original through the amazingly imaginative things your friends do in response to it all and the game and your decisions in the moment as the dice add their element.\n\nDon't sweat it. Unleash your friends on it.",
           "link": "https://githyankidiaspora.com/2022/05/01/dms-academy-question-about-originality/",
           "publishedOn": "2022-05-01T19:49:54.000Z",
-          "wordCount": 978,
+          "wordCount": 977,
           "title": "DM’s Academy question about originality",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/originality-reddit.png"
         },
@@ -711,7 +711,7 @@
           "description": "I’m giving paid GMing a try on the Start Playing site. Please click here if you have gamed with me and you’d like to leave a review of my GMing. Click here if you’d like to see what games I have coming up or if you’d like to register for a paid game. Right now […]",
           "link": "https://githyankidiaspora.com/2022/04/30/try-professional-gming-sure/",
           "publishedOn": "2022-05-01T01:27:55.000Z",
-          "wordCount": 507,
+          "wordCount": 506,
           "title": "Try Professional GMing? Sure.",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2021/12/wodu-subject-divider.png"
         },
@@ -721,7 +721,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...creepy doll constructs with a silver bell for a hand, a child-blob and the looming threat of the pit...",
           "link": "https://githyankidiaspora.com/2022/04/29/3-out-from-the-roots-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-04-29T20:57:44.000Z",
-          "wordCount": 1711,
+          "wordCount": 1710,
           "title": "3 – Out from the Roots, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/roots-of-old-kalduhr-twitter-pic-1.png"
         },
@@ -731,7 +731,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...blood is spilled at a spirited Doors of Fate table and Kuru disappears with an Aboleth.",
           "link": "https://githyankidiaspora.com/2022/04/28/all-shadows-lead-to-gloomwrought-session-11-the-execution-of-the-drow-job/",
           "publishedOn": "2022-04-29T03:08:20.000Z",
-          "wordCount": 1157,
+          "wordCount": 1156,
           "title": "All Shadows Lead to Gloomwrought, Session 11, The Execution of the Drow Job",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/all-shadows-lead-to-gloomwrought-twitter-pic-s11-the-execution-of-the-drow-job.png"
         },
@@ -741,7 +741,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...the Treasure-Hunters delve into the Roots of Old Kalduhr.",
           "link": "https://githyankidiaspora.com/2022/04/22/2-down-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-04-22T19:53:21.000Z",
-          "wordCount": 1313,
+          "wordCount": 1312,
           "title": "2 – Down, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/roots-of-old-kalduhr-twitter-pic-2.png"
         },
@@ -751,19 +751,9 @@
           "description": "Third Floor Wars interviews Karen Twelves and Sean Nittner.\n\nAdventure Design with Bryce Lynch from Ten Foot Pole.\n\nWhat makes a great adventure? on Questining Beast",
           "link": "https://githyankidiaspora.com/2022/04/19/what-am-i-listening-to-on-april-19-2022/",
           "publishedOn": "2022-04-19T18:56:47.000Z",
-          "wordCount": 482,
+          "wordCount": 481,
           "title": "What am I listening to on April 19, 2022?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/thired-floor-wars.jpg"
-        },
-        {
-          "id": "http://githyankidiaspora.com/?p=19079",
-          "author": "juddthelibrarian",
-          "description": "Hirelings for Trophy Gold, Dungeons & Dragons or whatever tabletop role-playing game you use as your medium for delving into demon-haunted ruins with your friends.",
-          "link": "https://githyankidiaspora.com/2022/04/18/hirelings/",
-          "publishedOn": "2022-04-18T12:39:30.000Z",
-          "wordCount": 991,
-          "title": "Hirelings",
-          "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/04/hirelings-chatwyn-and-sprunt-2.png?w=1200"
         }
       ]
     },
@@ -807,7 +797,7 @@
           "description": "Jack made it clear that you can just use bears. \nI utilize this all the time in general handwave fashion, but when I specifically run Into the Odd/Weird North/Cairn/Monolith etc, I've landed on a three-tier measure of NPC power so as to better represent varying tactical levels of possible encounters. It's not rocket science, and it's not perfect, but it's what I do and it's been nigh-on effortless for me for years now. \nThere are three NPC statlines, and that's it. Ever.\n\n\nObligatory image because blogpost. Also because Stepan Alekseev. Artstation.\n\n\n[1] = mundane power level NPCs: villagers, skellingtons, imps, coyotes, hired guns.\n[2] = impressive power level NPCs: knights, trolls, velociraptors, actual bears, commandos.\n[3] = boss power level NPCs: liches, hell pigs, dragons, t-rexes, p…",
           "link": "https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html",
           "publishedOn": "2022-04-29T13:18:00.001Z",
-          "wordCount": 1149,
+          "wordCount": 1148,
           "title": "Three Statlines for All NPCs",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGBBOx7fZckrwX5xAmMEpOVhhNP2_MPzqsFCEkgnY0V7bM3Zypnx-v4_puifh6ypUjQxFRxaZawbSmfao5sYMX0DkoElaSqyiK4p1ltuJaGIxDI752aw8wQ5JAyZiSlWI9ty_1uPgn0Eo7dHlhDK0AmoFb6YvuJsCceZ_V1cYySljudOBn9GgHcEJmWw/w1200-h630-p-k-no-nu/stepan-alekseev-02s.jpg"
         },
@@ -817,7 +807,7 @@
           "description": "Mood Music\n\nThis, right here, is one of my all-time favorite board games, packed so full of chrome and drama that you can rewrite the Original Trilogy with a single play. This is not a post, however, about the board game, nor the similarly-styled and eponymous computer strategy game which came before it. This post is about how my friends and I played this video-game-turned-board-game in order to inspire the setting for our tabletop adventure game campaign. Layers. \nThe same new Galaxy Far Away campaign which I mentioned last time (including the example of real play therein) came about when I pitched \"Star Wars D&D\" to some guys I mentor on a regular basis. Both of them have played Rebellion against me many times, so one of them said \"hey, what if we play again and whatever the outcome of t…",
           "link": "https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html",
           "publishedOn": "2022-04-23T15:18:00.003Z",
-          "wordCount": 2683,
+          "wordCount": 2682,
           "title": "Star Wars Faction Write-Up, Inspired by a Board Game",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2JxICsLMJpJd0BT3d1oRduil_ulShQNdL3VOm3I69qGqXpml5Cjx6iewMuT7sp2KhtLfNO3V_jhQSVsb1Pe6KKsNKxapSfNYfOdOHO72hOsH42klJWfHWqv8KWqk_j6S2XX90TZXXS0JEZW4ptoRwmodh1GE6oiUOpA2ow3MvG3c2PKI7WkLoxgPkmA/w1200-h630-p-k-no-nu/star-wars-rebellion-box.jpg"
         }
