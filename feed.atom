@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T01:41:17.627Z</id>
+    <id>urn:2022-05-19T08:23:47.747Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T01:41:17.627Z</updated>
+    <updated>2022-05-19T08:23:47.747Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Next 24 Hours in Gaming]]></title>
+        <id>http://githyankidiaspora.com/?p=19594</id>
+        <link href="https://githyankidiaspora.com/2022/05/18/the-next-24-hours-in-gaming/"/>
+        <updated>2022-05-19T03:43:22.000Z</updated>
+        <summary type="html"><![CDATA[It is going to be a busy couple of days. Here’s what’s coming… Tomorrow morning I’m meeting with Jeff and Storn to play some D&D. I’ve had this idea for an investigative guild in the Domains of Dread and it’ll be fun to test it out with them. Link to Session 0 here. If your […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Precious Beauty]]></title>
         <id>http://hamsterhoard.home.blog/?p=1038</id>
@@ -851,20 +861,6 @@ Given how much I've bounced around on this blog between worldbuilding, game disc
 I've talked to many people who think that combat in 5E isn’t really fun. There are many arguments for this, some of which are perfectly valid and some of which just come down to subjectivity, but by far the most common argument is this: they say that because it removed so many mechanical elements from the process (e.g. flanking mechanics, using miniatures and grids by default, having to take fe…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What am I listening to on April 19, 2022?]]></title>
-        <id>http://githyankidiaspora.com/?p=19143</id>
-        <link href="https://githyankidiaspora.com/2022/04/19/what-am-i-listening-to-on-april-19-2022/"/>
-        <updated>2022-04-19T18:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Third Floor Wars interviews Karen Twelves and Sean Nittner.
-
-Adventure Design with Bryce Lynch from Ten Foot Pole.
-
-What makes a great adventure? on Questining Beast]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
