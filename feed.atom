@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T08:23:47.747Z</id>
+    <id>urn:2022-05-19T16:45:16.661Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T08:23:47.747Z</updated>
+    <updated>2022-05-19T16:45:16.662Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[The Next 24 Hours in Gaming]]></title>
-        <id>http://githyankidiaspora.com/?p=19594</id>
-        <link href="https://githyankidiaspora.com/2022/05/18/the-next-24-hours-in-gaming/"/>
-        <updated>2022-05-19T03:43:22.000Z</updated>
-        <summary type="html"><![CDATA[It is going to be a busy couple of days. Here’s what’s coming… Tomorrow morning I’m meeting with Jeff and Storn to play some D&D. I’ve had this idea for an investigative guild in the Domains of Dread and it’ll be fun to test it out with them. Link to Session 0 here. If your […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Most Precious Beauty]]></title>
         <id>http://hamsterhoard.home.blog/?p=1038</id>
