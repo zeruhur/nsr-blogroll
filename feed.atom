@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-19T16:45:16.661Z</id>
+    <id>urn:2022-05-20T01:26:28.897Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T16:45:16.662Z</updated>
+    <updated>2022-05-20T01:26:28.897Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -838,19 +838,6 @@ Given how much I've bounced around on this blog between worldbuilding, game disc
         <summary type="html"><![CDATA[Warmth, banked against future need in the face of the cold, inside or out. Quiet contemplation, waiting to be stoked to white-hot readiness at a moment’s notice. Flame, contained, in the flow of syrupy rivers, rumbling orange and sizzling gold; in the banks of steady-glowing embers breaking through black-ashen hill-crests; in the deeply ruby carbuncle … Continue reading Rahure: Foundation →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Combat Spicy]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/04/how-to-make-combat-spicy.html"/>
-        <updated>2022-04-20T05:06:00.005Z</updated>
-        <summary type="html"><![CDATA[I have bigger, better articles in the works but I noticed my output has slowed down, so back into the vaults I go. I've dug up this list from many years ago and adapted it. This was inspired by a recent claim I made that there's such a thing as "system-agnostic combat encounter design" that you can and should learn, which many people were resistant to. Here was the original pitch I wrote for this:
-
-
-I've talked to many people who think that combat in 5E isn’t really fun. There are many arguments for this, some of which are perfectly valid and some of which just come down to subjectivity, but by far the most common argument is this: they say that because it removed so many mechanical elements from the process (e.g. flanking mechanics, using miniatures and grids by default, having to take fe…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
