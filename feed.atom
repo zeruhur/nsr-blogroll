@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T08:23:53.759Z</id>
+    <id>urn:2022-05-20T16:25:51.659Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T08:23:53.759Z</updated>
+    <updated>2022-05-20T16:25:51.659Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inspirational Sources]]></title>
+        <id>https://newschoolrevolution.com/2022/05/20/inspirational-sources</id>
+        <link href="https://newschoolrevolution.com/2022/05/20/inspirational-sources"/>
+        <updated>2022-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inspirational Sources By request, I put together a list of reading material that directly influenced the writing and design of Cairn, as well as my upcoming setting/adventure Beyond The Pale.]]></summary>
+        <author>
+            <name>New School Revolution</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most Precious Beauty]]></title>
         <id>http://hamsterhoard.home.blog/?p=1038</id>
