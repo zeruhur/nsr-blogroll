@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T16:25:51.659Z</id>
+    <id>urn:2022-05-21T01:10:54.474Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T16:25:51.659Z</updated>
+    <updated>2022-05-21T01:10:54.474Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -838,16 +838,6 @@ Lords of Old; a GMless Competitive Social Deduction TTRPG of Gods in the Ruins o
 Given how much I've bounced around on this blog between worldbuilding, game discussion, prose, game mechanics, coding stuff, interviews, weird experimental stuff like Weird & Wonderful Wavelengths, etc., I don't necessarily have a coherent idea of what will differentiate my posts there vs. here, and there may in fact not be any meaningful differentiation, it'll just be another place to read my stuff, so if you're already enjoying this blog, or any of the other creators involved in this collaboration, check it out.]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rahure: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=988</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/21/rahure-foundation/"/>
-        <updated>2022-04-21T12:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Warmth, banked against future need in the face of the cold, inside or out. Quiet contemplation, waiting to be stoked to white-hot readiness at a moment’s notice. Flame, contained, in the flow of syrupy rivers, rumbling orange and sizzling gold; in the banks of steady-glowing embers breaking through black-ashen hill-crests; in the deeply ruby carbuncle … Continue reading Rahure: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
