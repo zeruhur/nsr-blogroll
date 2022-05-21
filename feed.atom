@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T01:10:54.474Z</id>
+    <id>urn:2022-05-21T08:22:05.580Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-21T01:10:54.474Z</updated>
+    <updated>2022-05-21T08:22:05.580Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -806,38 +806,6 @@ I never got into Spelljammer -- I missed a chance to pick up some of the old box
 But Dragonlance? Dragonlance was one of my main entrypoints into D+D. I started off with the superlative Ret…]]></summary>
         <author>
             <name>Legacy of the Bieth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BONUS: Iconoclastic Flow Collaboration!]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/04/bonus-iconoclastic-flow-collaboration.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/04/bonus-iconoclastic-flow-collaboration.html"/>
-        <updated>2022-04-21T13:19:00.002Z</updated>
-        <summary type="html"><![CDATA[I am involved in a collaborative blog! See the description from Screwhead's tweet below:
-
-
-Iconoclastic Flow is a collaborative blog, with content from Max of Weird and Wonderful Worlds, Semiurge of Archons March On, Spwack of Slight Adjustments, Sibylla of  Devil Devil Devil, and Sofinho of Alone in the Labyrinth, as well as 4 lovely creatives from my real life!
-
-
-Screwhead being of the Was it Likely blog, who was doing brilliant FKR-ish stuff before FKR was even a thing.
-
-
-I've interviewed all of these bloggers before (see interview tag) and Devil Devil Devil is genuinely one of the most interest RPGs I've read in a while. The other friends of Screwhead I've also been getting to know a bit and they all seem cool as well.
-
-
-I've got one bog post there already drafted, but since Screwhead was the lead organizer, we felt he should be the one to kick things off, with:
-
-
-
-Lords of Old; a GMless Competitive Social Deduction TTRPG of Gods in the Ruins of the Old World
-
-
-
-
-
-Given how much I've bounced around on this blog between worldbuilding, game discussion, prose, game mechanics, coding stuff, interviews, weird experimental stuff like Weird & Wonderful Wavelengths, etc., I don't necessarily have a coherent idea of what will differentiate my posts there vs. here, and there may in fact not be any meaningful differentiation, it'll just be another place to read my stuff, so if you're already enjoying this blog, or any of the other creators involved in this collaboration, check it out.]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
