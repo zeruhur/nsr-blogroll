@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T16:23:52.723Z</id>
+    <id>urn:2022-05-22T01:22:49.837Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-21T16:23:52.723Z</updated>
+    <updated>2022-05-22T01:22:49.837Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -784,28 +784,6 @@ The vaguely late 19th century setting also interplays quite well with the aforem
         <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...the Treasure-Hunters delve into the Roots of Old Kalduhr.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[the Shadow]]></title>
-        <id>http://hamsterhoard.home.blog/?p=991</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/22/the-shadow/"/>
-        <updated>2022-04-22T13:04:10.000Z</updated>
-        <summary type="html"><![CDATA[It’s a calm, unassuming sort of plane at first, the Shadow is. Plenty of broad fields and lush water meadows, sprawling copses of luxuriant trees with game ready for one’s snare or arrow, nothing is burning or discorporating or transmogrifying before one’s eyes. But then – then the eternal creeping sunset registers, and the strange, … Continue reading the Shadow →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Returning to Krynn]]></title>
-        <id>https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html</id>
-        <link href="https://lotbieth.blogspot.com/2022/04/returning-to-krynn.html"/>
-        <updated>2022-04-22T05:04:00.006Z</updated>
-        <summary type="html"><![CDATA[WotC just dropped news that they'll be bringing back the AD+D 2e settings of Spelljammer and Dragonlance. You can read all about that over at EnWorld if you're so inclined. 
-I never got into Spelljammer -- I missed a chance to pick up some of the old boxed sets for literal pennies, and I still kick myself for it -- but the concept still holds loads of intrinsic appeal to me. I don't feel like I've seen a satisfying treatment of naval play in a D+D framework yet, and I'm curious to see how WotC approaches it. (I suspect that their approach to voyages and space probably won't be one that quite scratches the yearnings I have, but seeing how they tackle it certainly isn't a bad thing.) 
-But Dragonlance? Dragonlance was one of my main entrypoints into D+D. I started off with the superlative Ret…]]></summary>
-        <author>
-            <name>Legacy of the Bieth</name>
         </author>
     </entry>
 </feed>
