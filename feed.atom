@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T01:22:49.837Z</id>
+    <id>urn:2022-05-22T08:21:13.185Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T01:22:49.837Z</updated>
+    <updated>2022-05-22T08:21:13.185Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -774,16 +774,6 @@ There is a very deep sense of….. coziness? Is not the right word, humanity per
 The vaguely late 19th century setting also interplays quite well with the aforementioned familiarity (I do not think the module…]]></summary>
         <author>
             <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 – Down, Trophy Gold: Roots of Old Kalduhr]]></title>
-        <id>http://githyankidiaspora.com/?p=19070</id>
-        <link href="https://githyankidiaspora.com/2022/04/22/2-down-trophy-gold-roots-of-old-kalduhr/"/>
-        <updated>2022-04-22T19:53:21.000Z</updated>
-        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...the Treasure-Hunters delve into the Roots of Old Kalduhr.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
