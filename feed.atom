@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-22T08:21:13.185Z</id>
+    <id>urn:2022-05-22T16:24:11.308Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T08:21:13.185Z</updated>
+    <updated>2022-05-22T16:24:11.308Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 – Deadly Diseases & Alarming Ailments]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-deadly-diseases-alarming-ailments.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-deadly-diseases-alarming-ailments.html"/>
+        <updated>2022-05-22T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Most Referee’s might be familiar with the dreaded Mummy Rot, or that pesky 1-in-20 chance of a disease-ridden Rat Bite. Odious Otyughs carry their own un-named strains, and even some of the various Moulds and Fungi that flourish within those dank Dungeons inflict a variety of debilitating respiratory effects.
+ So, this is a table about Generating Diseases, giving them Names for Settings that might benefit from less generic germs. As I was working on it, I decided that rather than fixate on the Effects, it would potentially be more useful to incorporate Rumors of Cures/Treatments that might be available for a given sickness. Obtaining this information might be the first step on the road to recovery. Much like how I prefer to manage Poisons, putting Death from this sort of misadventure on a …]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inspirational Sources]]></title>
         <id>https://newschoolrevolution.com/2022/05/20/inspirational-sources</id>
@@ -749,31 +760,6 @@ The same new Galaxy Far Away campaign which I mentioned last time (including th
         <summary type="html"><![CDATA[You can pick up all sorts of oddments as you wind your way around, across and through the worlds, really ~ d100 01 psychopomp’s lantern, a staff of black heartwood hung with lantern-cage andsoul-pyxes 02 double handful of solaurum and lilyglass clockworks, eternally moving andsoftly chiming 03 shard of ivory-like substance shot through with silvery … Continue reading Trinkets, Trifles and Treasures →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unicorn Meat - Review]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/04/unicorn-meat-review.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/04/unicorn-meat-review.html"/>
-        <updated>2022-04-23T00:46:00.005Z</updated>
-        <summary type="html"><![CDATA[Dan D (of the venerable blag, Throne Of Salt) has recently released Unicorn Meat an adventure about a rundown unicorn farm in the backwoods taken over by ex-indentured, feral young girls, and other horrible thing. And it is fantastic.  
-
-
-***
-
-
-The safety section <3
-
-
-***
-
-
-There is a very deep sense of….. coziness? Is not the right word, humanity perhaps. Familiarity? Closeness? Despite the horrid situation. The characters in the module carry a large part of this. So does the setting, something about the muggy backwoods crawling with terrible monsters rings a note within. It all feels horrible in a deeply human and sympathetic way as well as alien and terrible.
-
-
-The vaguely late 19th century setting also interplays quite well with the aforementioned familiarity (I do not think the module…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
