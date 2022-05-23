@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T01:22:35.048Z</id>
+    <id>urn:2022-05-23T08:22:59.780Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T01:22:35.048Z</updated>
+    <updated>2022-05-23T08:22:59.780Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -735,29 +735,6 @@ A w…]]></summary>
         <link href="https://hamsterhoard.home.blog/2022/04/24/ushil-foundation/"/>
         <updated>2022-04-24T12:34:30.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the White Winds, traveller: with its endless skies churning gently through all the shades of blue and twilight to the deepest violet-darkness and back again; with the namesakes of the plane, the white winds that etch elaborate scrolls and spirals and twisting knots into the masses of pearly cloud that form and drift, … Continue reading Ushil: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Wars Faction Write-Up, Inspired by a Board Game]]></title>
-        <id>https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html</id>
-        <link href="https://d66kobolds.blogspot.com/2022/04/star-wars-faction-write-up-inspired-by.html"/>
-        <updated>2022-04-23T15:18:00.003Z</updated>
-        <summary type="html"><![CDATA[Mood Music
-
-This, right here, is one of my all-time favorite board games, packed so full of chrome and drama that you can rewrite the Original Trilogy with a single play. This is not a post, however, about the board game, nor the similarly-styled and eponymous computer strategy game which came before it. This post is about how my friends and I played this video-game-turned-board-game in order to inspire the setting for our tabletop adventure game campaign. Layers. 
-The same new Galaxy Far Away campaign which I mentioned last time (including the example of real play therein) came about when I pitched "Star Wars D&D" to some guys I mentor on a regular basis. Both of them have played Rebellion against me many times, so one of them said "hey, what if we play again and whatever the outcome of t…]]></summary>
-        <author>
-            <name>d66 Classless Kobolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trinkets, Trifles and Treasures]]></title>
-        <id>http://hamsterhoard.home.blog/?p=994</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/23/trinkets-trifles-and-treasures/"/>
-        <updated>2022-04-23T13:28:37.000Z</updated>
-        <summary type="html"><![CDATA[You can pick up all sorts of oddments as you wind your way around, across and through the worlds, really ~ d100 01 psychopomp’s lantern, a staff of black heartwood hung with lantern-cage andsoul-pyxes 02 double handful of solaurum and lilyglass clockworks, eternally moving andsoftly chiming 03 shard of ivory-like substance shot through with silvery … Continue reading Trinkets, Trifles and Treasures →]]></summary>
         <author>
             <name>taichara</name>
         </author>
