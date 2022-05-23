@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T08:22:59.780Z</id>
+    <id>urn:2022-05-23T16:25:30.206Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T08:22:59.780Z</updated>
+    <updated>2022-05-23T16:25:30.206Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Weird Mecha: An Exercise in Nihilism]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html"/>
+        <updated>2022-05-23T12:05:00.002Z</updated>
+        <summary type="html"><![CDATA[I've enjoyed creating these Weird Mecha / Golem for MRD2. Two of the PCs in my MRD2 Campaign are using them (Chemysterious Cascader and Lycaon Strain), and one of them showed up as an enemy in a cliffhanger in the previous session. Those two are arguably more concrete than some of the other ones, which is ok, but I do really want to test the viability of abstract "Mecha" and exploring those possibilities both subtextually and in terms of how they open up the game in new ways.
+
+
+The two current posts include tables for superorganism mecha and embodied cognition mecha. In this post, I'll create a few mecha combining both of these tables. 
+
+
+TL;DR Creating weird "Mecha" (including more symbolic extrapolations of the body like superorganisms and cognition) where combinations of words are used …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 – Deadly Diseases & Alarming Ailments]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-deadly-diseases-alarming-ailments.html</id>
