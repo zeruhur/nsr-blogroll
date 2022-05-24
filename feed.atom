@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T16:25:30.206Z</id>
+    <id>urn:2022-05-24T01:39:55.715Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T16:25:30.206Z</updated>
+    <updated>2022-05-24T01:39:55.715Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Two days and many realizations]]></title>
+        <id>https://quarterlingscorner.blogspot.com/2022/05/two-days-and-many-realizations.html</id>
+        <link href="https://quarterlingscorner.blogspot.com/2022/05/two-days-and-many-realizations.html"/>
+        <updated>2022-05-23T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Read to the end of the post to figure out what this is from.
+
+I.
+I've had a cascade of realizations over the past 48 hours and I feel like if I don't write them all down somewhere they're all going to fly out of my head. I have no idea whether this will be useful to anyone, but at least I'll be able to link it to people if they ask me "hey what ever happened to that G&G thing you were making."
+This is my second post about the failure of a big project called Goblets & Grues, although the last project under that name was only partially related. (There's a small part of me that's embarassed to write again about my failures, but the rest of me knows that if things are especially hard for me to learn, that just means I'll learn it better.
+The spark for this new G&G came in July 2021, when I cam…]]></summary>
+        <author>
+            <name>Quarterling’s Corner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 – Why Is This Door Stuck?]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-why-is-this-door-stuck.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-why-is-this-door-stuck.html"/>
+        <updated>2022-05-23T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Doors are so often stubbornly Stuck in Dungeons. What is it about those places that makes it so hard to hire a decent Doormaker? Having tried to hang a Door exactly once in my life and making a major mess of it, I suppose I sympathize.
+ Naturally, it’s seldom down to the artisans involved. With a more Mythic Underworld approach, in some of these frightening places every Door might require some Forcing for delvers and interlopers (while they are whisper quiet and open readily for Monsters of course). The Dungeon knows Her children and permits them to travel throughout freely as one of Her Dark Gifts. This creates a remarkably interesting pacing mechanism and can lead to tenser exploration. I tend to let a few of them swing freely, but still try to sprinkle in a few “Stuck” ones here and the…]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weird Mecha: An Exercise in Nihilism]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html</id>
@@ -154,7 +180,7 @@ In the same adventure the players used that orb to hypnotise a giant octopus whi
         <title type="html"><![CDATA[Songs of Travel, and the Path]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html</id>
         <link href="https://glassbirdgames.blogspot.com/2022/05/songs-of-travel-and-path.html"/>
-        <updated>2022-05-15T17:42:00.007Z</updated>
+        <updated>2022-05-15T17:42:00.010Z</updated>
         <summary type="html"><![CDATA[Road, Ivan Shishkin
 
 
@@ -743,16 +769,6 @@ An idea I had for a particular take on the "Grit vs Flesh" mechanic
 A w…]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ushil: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1016</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/24/ushil-foundation/"/>
-        <updated>2022-04-24T12:34:30.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the White Winds, traveller: with its endless skies churning gently through all the shades of blue and twilight to the deepest violet-darkness and back again; with the namesakes of the plane, the white winds that etch elaborate scrolls and spirals and twisting knots into the masses of pearly cloud that form and drift, … Continue reading Ushil: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
