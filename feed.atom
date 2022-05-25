@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T16:26:50.161Z</id>
+    <id>urn:2022-05-25T01:38:44.816Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T16:26:50.161Z</updated>
+    <updated>2022-05-25T01:38:44.816Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -726,49 +726,6 @@ Iconoclastic Rant: I am sick of being asked "but how would that work?"]]></summa
         <summary type="html"><![CDATA[The City of Chains exists everywhere and nowhere, they say — an endlessly unfurling urban maze of black-and-jewels, ancient stone and stranger metals, built upon deeper labyrinths still while the great chains arc and coil far overhead across the glassy dome of the strangely coloured sky. Few come to Wilusa deliberately, at least at first. … Continue reading Wilusa, City Of Chains →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valiance: Manifold Palace]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1019</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/25/valiance-manifold-palace/"/>
-        <updated>2022-04-25T11:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Sand. All around is sand, golden and drifting, broken up by white-gleaming ziggurats and their sprawling cities picked out in azure and jade, by fallen tawny ruins, by precious expanses of pale green growth ringed around pools of sweet water dark as the eternal night above with its rippling sky-vault and great electrum stars. The … Continue reading Valiance: Manifold Palace →]]></summary>
-        <author>
-            <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I run: complete adventures in under 90 minutes]]></title>
-        <id>https://tabletopcuriositycabinet.blogspot.com/2022/04/how-i-run-complete-adventures-in-under.html</id>
-        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/04/how-i-run-complete-adventures-in-under.html"/>
-        <updated>2022-04-25T09:28:00.001Z</updated>
-        <summary type="html"><![CDATA[Intro: Not enough time
-
-Almost every day I am confronted with an annoying fact: I have more interests than I have time for. Add a job and a relationship to this and I have not nearly enough time to do all the things that interest me. In short: there is little time for me to run and prep tRPGs. 
-
-This has made me obsessed with efficiency, both when running games as well as when I design tRPG stuff. On the design end of things, Chris McDowall's minimalism has been really influential in this and his work is something I consider the gold standard to aim for myself. But it turns out that when running games I am already quite efficient with my time.
-
-Through surveying my players for the FLOK playtest I learned that all of them seemed in agreement that I run my games fast. To give an example: I r…]]></summary>
-        <author>
-            <name>Tabletop Curiosity Cabinet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potpourri]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/04/potpourri.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/04/potpourri.html"/>
-        <updated>2022-04-25T07:12:00.009Z</updated>
-        <summary type="html"><![CDATA[Artist Credit: Kieran Yanner
-
-My blog output has been slow this year. Partially this is because I've started several very long posts that are each taking a while to finish, but mostly it's because I spend most of my time working now and have very little time left each day to do anything. I wanted to come up with something a bit smaller that could work as a good blog post to get out before the end of the month that isn't one of those huge posts, but I struggled. Everything I came up with was too small. So why not just offer all of them at once?
-In this post you'll find seven really small RPG-related things I'd like to share which are all completely unrelated to one another. I hope the comments are chaos. They include:
-
-
-An idea I had for a particular take on the "Grit vs Flesh" mechanic
-A w…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
