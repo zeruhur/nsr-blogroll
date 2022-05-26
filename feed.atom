@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T16:27:13.554Z</id>
+    <id>urn:2022-05-26T01:39:57.756Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T16:27:13.554Z</updated>
+    <updated>2022-05-26T01:39:57.756Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -682,50 +682,6 @@ Luka Rejec is the one I found that first called this sort of writing anti-canon,
         <summary type="html"><![CDATA[I have been prepping and running a sandbox open table of Whitehack 3e. (I will write my thoughts on Whitehack one day in a post.) The characters usually begin the session in a base camp, and they choose where to venture. A classic experience, nothing special. But I have chosen a small map of 3×4 … Continue reading Pointcrawls and Tight-Packed Sandboxes]]></summary>
         <author>
             <name>LordPersi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worldbuilding as a Team Sport]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:625f03a6e1e7a5759fe651ee</id>
-        <link href="https://www.prismaticwasteland.com/blog/worldbuilding-as-a-team-sport"/>
-        <updated>2022-04-26T13:14:59.000Z</updated>
-        <summary type="html"><![CDATA[A procedure for building a starting scenario (and the seeds for building a 
-world) for both referees and players at the start of a new campaign.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undead Dreams]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2019/06/draft-undead-dreams.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2019/06/draft-undead-dreams.html"/>
-        <updated>2022-04-26T12:31:00.010Z</updated>
-        <summary type="html"><![CDATA[The idea is loosely inspired by Vampire Hunter D, specifically Volume 5. What is an undead dream? This post was originally drafted in like 2019 and I was never sure what to do with it. I've had some similar ideas lately, I intend to explore some version of this further in the near future.
-
-
-
-They say that when you die, your brain floods with DMT, the chemical of dreams. Your perception of time slows and you relive your life as synapses die and memories pop into being one last time. Memories are fuzzy and imperfect things, and in your psychedelic dreamscape your life plays out a little bit differently. Then, your dreamscape self dies, and it floods with DMT, and so recursively, at the moment of your death, you dream and live your entire multiverse of selves.
-These recursive multiversal selves exist in a metaphysical space, a space of souls, where the soul-self opens the gate of the pineal gland and enters the collective unconscious.
-And what are undead, if not liminal beings, a physical, synaptic consciousness at the gate, lacking a soul, the apparatus to join the collective unconscious? Zombies don't hunger for brains, they hunger for souls. But no matter how hard they try, no matter how many brains they consume, they'll never be able to digest, to integrate, the soul. Weep for the pitiful hungry zombie. Vampires, lich lords, and other intelligent undead sleep, but without a soul, what do they dream?
-They do not relive their lives, but the lives of those whose brains they've eaten, blood they've drank, bodies they've necromantically revived; damaged and mutated, the undigested souls linger within, propagating through a dark multiverse of astral un-life, the reciprocation of undeath, a limbo dimension of null that exists, cruelly, to balance the physical inequality of energy that undeath introduces into the universe. The undead dream the purgatory of the living.
-
-
-
-
-Also, I made my first post on the collaborative blog Iconoclastic Flow!
-Iconoclastic Rant: I am sick of being asked "but how would that work?"]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wilusa, City Of Chains]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1022</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/26/wilusa-city-of-chains/"/>
-        <updated>2022-04-26T12:29:51.000Z</updated>
-        <summary type="html"><![CDATA[The City of Chains exists everywhere and nowhere, they say — an endlessly unfurling urban maze of black-and-jewels, ancient stone and stranger metals, built upon deeper labyrinths still while the great chains arc and coil far overhead across the glassy dome of the strangely coloured sky. Few come to Wilusa deliberately, at least at first. … Continue reading Wilusa, City Of Chains →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
