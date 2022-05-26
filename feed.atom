@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T08:24:34.161Z</id>
+    <id>urn:2022-05-26T16:26:59.948Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-26T08:24:34.161Z</updated>
+    <updated>2022-05-26T16:26:59.948Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -672,16 +672,6 @@ Luka Rejec is the one I found that first called this sort of writing anti-canon,
         <summary type="html"><![CDATA[That’s right, doing terrible things with other languages now to fit letters — How about a few interesting folks to meet on your travels? Love and friendship not, alas, guaranteed; but it’s not impossible ~ 01. Linet Woodwalker Born and raised in Rowan’s Cross, a sprawling broch complex in the Shadow, Linet sports both the … Continue reading Xenos Philios →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pointcrawls and Tight-Packed Sandboxes]]></title>
-        <id>http://deeperintothedungeon.wordpress.com/?p=2595</id>
-        <link href="https://deeperintothedungeon.wordpress.com/2022/04/27/pointcrawls-and-tight-packed-sandboxes/"/>
-        <updated>2022-04-26T23:02:31.000Z</updated>
-        <summary type="html"><![CDATA[I have been prepping and running a sandbox open table of Whitehack 3e. (I will write my thoughts on Whitehack one day in a post.) The characters usually begin the session in a base camp, and they choose where to venture. A classic experience, nothing special. But I have chosen a small map of 3×4 … Continue reading Pointcrawls and Tight-Packed Sandboxes]]></summary>
-        <author>
-            <name>LordPersi</name>
         </author>
     </entry>
 </feed>
