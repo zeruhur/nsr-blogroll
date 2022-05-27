@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-26T16:26:59.948Z</id>
+    <id>urn:2022-05-27T01:23:15.475Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-26T16:26:59.948Z</updated>
+    <updated>2022-05-27T01:23:15.475Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 – Magical Cloaks & Capes]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-magical-cloaks-capes.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-magical-cloaks-capes.html"/>
+        <updated>2022-05-26T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly necessary for the necks of dashing Heroes or concealing nefarious Ne’er-do-wells, the ubiquitous Cloak receives some specific attention in the Magic Item tables of most versions of these games. Some of these garments quite interesting and intriguing (those fashioned from what I assume to be Displacing Beast Hide, the one “Of The Bat”, etc.) but the most common seem to just simply possess only protective properties or were woven by delicate Elfin hands to predictable effect.
+ Since my Magic Item posts appear to be pretty popular, I decided to give these accessories a little more attention.
+ See also: Magic Blades, Magic Shields, Magic Bows, Magic Footwear for more Random Tables along these lines.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 1 – Motives Were Mingled]]></title>
+        <id>http://githyankidiaspora.com/?p=19552</id>
+        <link href="https://githyankidiaspora.com/2022/05/26/dread-domain-detectives-illustrated-session-1-motives-were-mingled/"/>
+        <updated>2022-05-26T18:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Ripped from the pages of Van Richten's Guide to Ravenloft, Talis and Viktor investigate crimes throughout Ludendorf in cold Lamordia in our Dungeons and Dragons game.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two days and many realizations]]></title>
         <id>https://quarterlingscorner.blogspot.com/2022/05/two-days-and-many-realizations.html</id>
