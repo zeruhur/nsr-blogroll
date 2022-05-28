@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T01:24:58.248Z</id>
+    <id>urn:2022-05-28T08:23:30.518Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T01:24:58.248Z</updated>
+    <updated>2022-05-28T08:23:30.518Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -681,16 +681,6 @@ Obligatory image because blogpost. Also because Stepan Alekseev. Artstation.
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...blood is spilled at a spirited Doors of Fate table and Kuru disappears with an Aboleth.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yroon: Foundation]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1032</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/28/yroon-foundation/"/>
-        <updated>2022-04-28T13:51:34.000Z</updated>
-        <summary type="html"><![CDATA[There are mysteries in the deeps; mysteries and secrets and lost things, and the spinning tales and of unfathomable beings to be found nowhere else but in the fathomless deep. And then, there are also those that prefer to keep themselves amongst those lost and secret things — The darkness of water conceals all: the … Continue reading Yroon: Foundation →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
