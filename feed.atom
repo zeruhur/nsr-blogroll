@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T08:23:30.518Z</id>
+    <id>urn:2022-05-28T16:26:09.559Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T08:23:30.518Z</updated>
+    <updated>2022-05-28T16:26:09.560Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -671,16 +671,6 @@ Obligatory image because blogpost. Also because Stepan Alekseev. Artstation.
         <summary type="html"><![CDATA[A world of endless towers, this. Towers of purest precious ice, delicate and ethereal, a colourless beauty to steal one’s breath. A realm of shining latticework minarets, of smoothly bulbous spires and clockwork obelisks, of ever-shifting, ever-growing, ever-branching towers upon towers that build themselves upwards — ever upwards — and onwards, forever towards the glittering … Continue reading Z’shi (Foundation) →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Shadows Lead to Gloomwrought, Session 11, The Execution of the Drow Job]]></title>
-        <id>http://githyankidiaspora.com/?p=19179</id>
-        <link href="https://githyankidiaspora.com/2022/04/28/all-shadows-lead-to-gloomwrought-session-11-the-execution-of-the-drow-job/"/>
-        <updated>2022-04-29T03:08:20.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...blood is spilled at a spirited Doors of Fate table and Kuru disappears with an Aboleth.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
