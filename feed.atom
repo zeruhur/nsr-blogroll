@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T08:22:06.869Z</id>
+    <id>urn:2022-05-29T16:24:05.120Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T08:22:06.869Z</updated>
+    <updated>2022-05-29T16:24:05.120Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -610,35 +610,6 @@ I don't know if this is a thing that I will have time to test out anytime soon, 
         <link href="https://githyankidiaspora.com/2022/04/30/try-professional-gming-sure/"/>
         <updated>2022-05-01T01:27:55.000Z</updated>
         <summary type="html"><![CDATA[I’m giving paid GMing a try on the Start Playing site. Please click here if you have gamed with me and you’d like to leave a review of my GMing. Click here if you’d like to see what games I have coming up or if you’d like to register for a paid game. Right now […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Books I've Done Gone And Read]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/04/books-ive-done-gone-and-read.html"/>
-        <updated>2022-04-30T01:10:00.003Z</updated>
-        <summary type="html"><![CDATA[Being, as is previously stated, a list of books I've done gone and read and my miscellaneous thoughts upon them. 
-
-
-The Three Musketeers (Alexander Dumas)
-
-
-I'd attempted to read this several times before and succeeded in finishing this time. There's a perverse tragic hilarity to the story, most of the characters are often fairly awful people but are nonetheless entertaining. The whole thing meanders about, speeding up in places and rushing along before cooling and wandering once more. This varied between enjoyable and annoying for me, depending on how I felt about the particular chapter.
-
-
-Milady is perhaps the best character, she radiates palpable fury, the first time we actually get a close look at her and hear her speak in the text she dashes a fan to pieces in rage. I'm not sure if an…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 – Out from the Roots, Trophy Gold: Roots of Old Kalduhr]]></title>
-        <id>http://githyankidiaspora.com/?p=19168</id>
-        <link href="https://githyankidiaspora.com/2022/04/29/3-out-from-the-roots-trophy-gold-roots-of-old-kalduhr/"/>
-        <updated>2022-04-29T20:57:44.000Z</updated>
-        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...creepy doll constructs with a silver bell for a hand, a child-blob and the looming threat of the pit...]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
