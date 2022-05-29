@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T16:26:09.559Z</id>
+    <id>urn:2022-05-29T01:41:17.349Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-28T16:26:09.560Z</updated>
+    <updated>2022-05-29T01:41:17.350Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -641,36 +641,6 @@ Milady is perhaps the best character, she radiates palpable fury, the first time
         <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...creepy doll constructs with a silver bell for a hand, a child-blob and the looming threat of the pit...]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Statlines for All NPCs]]></title>
-        <id>https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html</id>
-        <link href="https://d66kobolds.blogspot.com/2022/04/three-statlines-for-all-npcs.html"/>
-        <updated>2022-04-29T13:18:00.001Z</updated>
-        <summary type="html"><![CDATA[Jack made it clear that you can just use bears. 
-I utilize this all the time in general handwave fashion, but when I specifically run Into the Odd/Weird North/Cairn/Monolith etc, I've landed on a three-tier measure of NPC power so as to better represent varying tactical levels of possible encounters. It's not rocket science, and it's not perfect, but it's what I do and it's been nigh-on effortless for me for years now. 
-There are three NPC statlines, and that's it. Ever.
-
-
-Obligatory image because blogpost. Also because Stepan Alekseev. Artstation.
-
-
-[1] = mundane power level NPCs: villagers, skellingtons, imps, coyotes, hired guns.
-[2] = impressive power level NPCs: knights, trolls, velociraptors, actual bears, commandos.
-[3] = boss power level NPCs: liches, hell pigs, dragons, t-rexes, p…]]></summary>
-        <author>
-            <name>d66 Classless Kobolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z’shi (Foundation)]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1035</id>
-        <link href="https://hamsterhoard.home.blog/2022/04/29/zshi-foundation/"/>
-        <updated>2022-04-29T11:43:44.000Z</updated>
-        <summary type="html"><![CDATA[A world of endless towers, this. Towers of purest precious ice, delicate and ethereal, a colourless beauty to steal one’s breath. A realm of shining latticework minarets, of smoothly bulbous spires and clockwork obelisks, of ever-shifting, ever-growing, ever-branching towers upon towers that build themselves upwards — ever upwards — and onwards, forever towards the glittering … Continue reading Z’shi (Foundation) →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
