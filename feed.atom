@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T08:25:08.818Z</id>
+    <id>urn:2022-05-30T16:25:58.465Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T08:25:08.818Z</updated>
+    <updated>2022-05-30T16:25:58.465Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inventory Worldbuilding : Shellfolk Rambler]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html"/>
+        <updated>2022-05-30T14:36:00.001Z</updated>
+        <summary type="html"><![CDATA[Shellfolk Rambler
+For every youth there comes a time to go rambling on a long tour of the stars, some keep it small; just the local hives, others hop ship-to-ship with the strange shell-less foreigners to odd worlds. Everyone comes home eventually, with stories a-plenty to tell of their adventures.
+
+Symbiote shell-suit (crustacean-esq, vacuum-rated, maneuvering jets, alive)
+Mushroom-cricket pemmican (wrapped in bio-plastic, leftovers fed to suit)
+Dagger-axe, short hafted
+Rigging knife
+Cable coil, weighted end (lassoing)
+Fertilizer brick (compressed phosphates & nitrates wrapped in cheap gold foil)
+Leg-braces
+Membrane tent (with airlock)
+Shell-paint, turquoise (vacuum-rated)
+Story-songs : The Many Quest-Rovings of Yohann the Wake
+Longshoremen's tattoo, carved (Belphagor docks)
+Unfolding tableau, gold & aluminum etching of hive-mates & ancestors 
+Pitons (handful)]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troika emerges from a pile of games]]></title>
+        <id>http://githyankidiaspora.com/?p=19707</id>
+        <link href="https://githyankidiaspora.com/2022/05/30/troika-emerges-from-a-pile-of-games/"/>
+        <updated>2022-05-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In which we make Troika characters and agree to meet up next Friday to play them.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What about the adorable side of the OSR?]]></title>
         <id>http://githyankidiaspora.com/?p=19697</id>
@@ -602,16 +637,6 @@ The Faces and Places from Fate create instant NPC's to place on the map (if they
 I don't know if this is a thing that I will have time to test out anytime soon, but I hope to try it out soon-ish.]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try Professional GMing? Sure.]]></title>
-        <id>http://githyankidiaspora.com/?p=19277</id>
-        <link href="https://githyankidiaspora.com/2022/04/30/try-professional-gming-sure/"/>
-        <updated>2022-05-01T01:27:55.000Z</updated>
-        <summary type="html"><![CDATA[I’m giving paid GMing a try on the Start Playing site. Please click here if you have gamed with me and you’d like to leave a review of my GMing. Click here if you’d like to see what games I have coming up or if you’d like to register for a paid game. Right now […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
