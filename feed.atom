@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T01:28:24.624Z</id>
+    <id>urn:2022-05-31T08:26:48.336Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T01:28:24.624Z</updated>
+    <updated>2022-05-31T08:26:48.336Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -626,49 +626,6 @@ Anyway, first session was off to a really good start; with what is a partially n
         <summary type="html"><![CDATA[For as long as I’m giving this pay-to-play thing a go, I’ll be posting what I’m running in the coming week Sunday night/Monday morning. These will be clearly labelled, so if this kind of thing vexes you, it is easily ignorable. For my first two pay-to-play games I chose two games right in my wheelhouse […]]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DM’s Academy question about originality]]></title>
-        <id>http://githyankidiaspora.com/?p=19265</id>
-        <link href="https://githyankidiaspora.com/2022/05/01/dms-academy-question-about-originality/"/>
-        <updated>2022-05-01T19:49:54.000Z</updated>
-        <summary type="html"><![CDATA[In which originality in one's RPG campaign design is discussed.
-
-tl;dr Fuck originality.
-
-OP
-So I'm working on some history for my world and I get this great idea. My players are finding these objects of unidentifiable ancient magic, and I wasn't sure what they were for yet. Then I thought well they're solving these draconic riddles to reach the objects, maybe they're like seals placed a thousand years ago by a dragon cult to seal evil dragons away in the earth! Cool! Dammit, that's basically Skyrim. Still doing it.
-
-What do you do when you realize your idea is too close to a book/movie/game? Roll with it? Scrap it?
-
-Response:
-
-
-
-
-Fuck originality.
-
-It will become original through the amazingly imaginative things your friends do in response to it all and the game and your decisions in the moment as the dice add their element.
-
-Don't sweat it. Unleash your friends on it.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixing Story Telling and (Post) OSR - FATE's Session 0 x Electric Bastionland's Borough Creation]]></title>
-        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/05/mixing-story-telling-and-post-osr-fates.html</id>
-        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/05/mixing-story-telling-and-post-osr-fates.html"/>
-        <updated>2022-05-01T16:20:00.002Z</updated>
-        <summary type="html"><![CDATA[I had a thought today. 
-Let's treat is as pasta and throw it to the digital wall to see if it sticks.
-Recently on the Cauldron forums there were some thoughts and wishes for divides between different communities of play to be crossed somehow. Combine this with me thinking recently that it would be fun to play Electric Bastionland with a system that suits my story-telling sensibilities a bit more. I was thinking RISUS, since that's my go to, but then I got to thinking about FATE Core's Session 0.
-You see, not only do you create your own character in FATE Core if played, RAW, but you also work together to decide which setting, genre, theme's, etc. there would be in this game. And that's where I was thinking that it would be fun to take electric Bastionland's Borough creation (or the other types of maps) and make it a communal thing. I've attempted making it communal in the beginning of this year with the kids, but using end of class time is a bit short, so that failed. But with this I can revisit it. Everyone could take turns adding routes, choosing the type of road it is, etc. Besides that, keep the two aspects for the game itself: Current Issues and Impending Issues. These can fuel and/or be fueled by whatever is created already, be it faces and places or something like that.
-The Faces and Places from Fate create instant NPC's to place on the map (if they are on the map) or to tie to the greater world. The Spark Tables and the Backgrounds of Electric Bastionland cans till be rolled on or used as inspiration for creating our starting situation.
-I don't know if this is a thing that I will have time to test out anytime soon, but I hope to try it out soon-ish.]]></summary>
-        <author>
-            <name>The Bearded Belgian's Playground</name>
         </author>
     </entry>
 </feed>
