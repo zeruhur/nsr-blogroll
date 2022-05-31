@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T08:26:48.336Z</id>
+    <id>urn:2022-05-31T16:28:17.603Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T08:26:48.336Z</updated>
+    <updated>2022-05-31T16:28:17.604Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d66 Wondrous Drafts]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1047</id>
+        <link href="https://hamsterhoard.home.blog/2022/05/31/d66-wondrous-drafts/"/>
+        <updated>2022-05-31T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a potion? A strange and curious fluid to pour on your skin or down your throat? Then look no further ~ d66 Name Traits Properties 11. Calcific Warding Elixir Thin; chalky, milky white, definitely not meant to be drunk Poured on the thresholds of a chamber or — if pressed — scattered across … Continue reading d66 Wondrous Drafts →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be specific about unwritten rules]]></title>
+        <id>http://technoskald.me/?p=6407</id>
+        <link href="https://technoskald.me/2022/05/31/be-specific-about-unwritten-rules/"/>
+        <updated>2022-05-31T13:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Lots of discussion happening today around games that are missing rules or worlds. That’s a bit simplified, so here are the posts I’m thinking about: Negative Space “F**k-You” Design As a note to the latter: I don’t really love the way the author implies such a strong sense of emotional negativity, but this does resonate … Continue reading Be specific about unwritten rules →]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Why This Hireling Decided To Join]]></title>
         <id>https://blog.d4caltrops.com/2022/05/d100-why-this-hireling-decided-to-join.html</id>
