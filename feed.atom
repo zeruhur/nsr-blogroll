@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T16:25:58.465Z</id>
+    <id>urn:2022-05-31T01:28:24.624Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T16:25:58.465Z</updated>
+    <updated>2022-05-31T01:28:24.624Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Why This Hireling Decided To Join]]></title>
+        <id>https://blog.d4caltrops.com/2022/05/d100-why-this-hireling-decided-to-join.html</id>
+        <link href="https://blog.d4caltrops.com/2022/05/d100-why-this-hireling-decided-to-join.html"/>
+        <updated>2022-05-30T22:18:00.004Z</updated>
+        <summary type="html"><![CDATA[Padding out a Party with Hired Help to assist with Treasure Schlepping or having some additional Free Hands to help Light your way can be an incredibly fun addition to these games. Here’s a Hundred Reasons why someone would potentially risk life and limb to join up with a band of Adventurers on what may just be a very temporary/terminal basis.
+ My preference is always to avoid portraying my Hirelings as automatons, and they aren’t really intended to be used by the Players as fodder or trap springers. That’s a sure-fire way to earn a very bad reputation back in Town and definitely will dry up the pool of prospects. That is, if it doesn’t anger their kin/friends, or engender an additional complication...hmm...that reminds me of another small table I put together recently:
+
+These are people, …]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getter Robo Armageddon Not-Review]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html"/>
+        <updated>2022-05-30T18:20:00.001Z</updated>
+        <summary type="html"><![CDATA[I'm moving in a couple of days, not very far, but still stressful, so in my procrastination on packing and prepping, here's another not-review of an obscure-ish Mecha anime.
+
+
+
+
+
+Getter Robo Armageddon came out in the very late 90's, but like with Iczer-One, it has this beautiful hand-drawn art style that you just don't see anymore, which I've always really loved. This would have been the very tail-end of that style of animation.
+
+
+My understanding is that the original Getter Robo, along with Mazinger Z*, were the two original and still most archetypal "Super Robot" Mecha anime, but Getter Robo Armageddon is more like a sequel or spiritual sequel to the original series, set after a Getter-related apocalyptic event. I haven't seen or read the original manga/anime so can't say for sure but t…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inventory Worldbuilding : Shellfolk Rambler]]></title>
         <id>https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html</id>
