@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T08:27:16.233Z</id>
+    <id>urn:2022-06-01T16:27:24.808Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T08:27:16.233Z</updated>
+    <updated>2022-06-01T16:27:24.809Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On RPG Play-sytles, Part 3: Classic Playstyle versus Trad Playstyle versus OSR?]]></title>
+        <id>https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html</id>
+        <link href="https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html"/>
+        <updated>2022-06-01T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[In April 2021, a fruitful essay appeared called "Six Cultures of Play," by blogger Retired Adventurer, receiving a lot of deserved attention. It seems to have established some terms for further and ongoing discussion since then.In this entry I address the distinction construed there between the earliest two "cultures of play" and how they differ from what is known as the OSR (Old-School Revival).]]></summary>
+        <author>
+            <name>Tom Van Winkle's Return to Gaming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kranev Investigative Guild: a group patron for one’s Ravenloft campaign]]></title>
+        <id>http://githyankidiaspora.com/?p=19652</id>
+        <link href="https://githyankidiaspora.com/2022/06/01/kranev-investigative-guild/"/>
+        <updated>2022-06-01T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The Kranev Investigative Guild is a group patron, as seen in Tasha's Cauldron of Everything perfect for us with one's Van Richten's Guide to Ravenloft in one's Dungeons and Dragons games.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d66 Wondrous Drafts]]></title>
         <id>http://hamsterhoard.home.blog/?p=1047</id>
@@ -592,38 +612,6 @@ The premise? "Evil druid cult." An ever-elusive archetype but one that I think H
 It's a medium-sized dungeon that's non-linear, has lots and lots of dangers (especially weird fungi), and has clean and helpful formatting. It'll make a fine addition to anyone's collection of solid, vanilla-yet-tasty dungeons to slot into their game.]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hirelings 2: The Creepy Lot]]></title>
-        <id>http://githyankidiaspora.com/?p=19327</id>
-        <link href="https://githyankidiaspora.com/2022/05/03/hirelings-2-the-creepy-lot/"/>
-        <updated>2022-05-03T04:08:23.000Z</updated>
-        <summary type="html"><![CDATA[More folk for your Treasure-hunters, Barrow-delvers and Tomb-thieves to hire when they need more hands on deck. In case this first lot wasn't enough.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More: Campaign First Play Report (+ Design Notes)!]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/maximum-recursion-depth-2-or-sometimes.html"/>
-        <updated>2022-05-02T23:19:00.001Z</updated>
-        <summary type="html"><![CDATA[New Game New Campaign! I will still be playing in a new MRD1 Campaign with the previous group online, being GMed by one of the Players of that campaign, but I'm also running an MRD2 Campaign IRL with a mix of IRL friends and people I've met through the RPG community online (who are now also IRL friends).
-
-
-I'm not 100% committed to this name, but I'm tentatively thinking it will be:
-
-
-Maximum Recursion Depth 2, or Sometimes Less is More and Sometimes More is More
-
-
-Very open to discussion on that.
-
-
-Anyway, first session was off to a really good start; with what is a partially new system/setting, and a new group, and one of the players having never RPed before, you never know how it will go, but I think we're gelling pretty much immediately. We spent most of the time finishing character cr…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
