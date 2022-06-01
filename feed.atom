@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T16:28:17.603Z</id>
+    <id>urn:2022-06-01T01:51:09.472Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T16:28:17.604Z</updated>
+    <updated>2022-06-01T01:51:09.472Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -624,28 +624,6 @@ Very open to discussion on that.
 Anyway, first session was off to a really good start; with what is a partially new system/setting, and a new group, and one of the players having never RPed before, you never know how it will go, but I think we're gelling pretty much immediately. We spent most of the time finishing character cr…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Scroll Substitutions or Strange Spell Stores]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-scroll-substitutions-or-strange.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-scroll-substitutions-or-strange.html"/>
-        <updated>2022-05-02T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Dramatically unfurling that rolled up piece of parchment or paper to intone the Magic Words ensnared in sigils on the surface is a very lovely and iconic mental image for me. But sometimes I like to house these “single-serving Spells” in other, less traditional actions and items. These might be especially useful for Magical Traditions that encode their dweomers in ways that are not dependent on literacy or pulped wood, or just atypical treasures placed for a slight change of pace.
- Standard Scroll rules would apply for these. I would personally still stick with my favorite Creation Rules from Holmes (100 gp and 1 week per Spell Level, halve time or cost with the appropriate Reagents/Ingredients).
- Here’s a Hundred alternatives to consider in the place of that voluted vellum. Perhaps every caster learns a different method from their Mentor, as a sort of signature? These might also mesh nicely with my One Hundred Spellbook Surrogates & Ritual Research table.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week’s Pay Games]]></title>
-        <id>http://githyankidiaspora.com/?p=19309</id>
-        <link href="https://githyankidiaspora.com/2022/05/02/this-weeks-pay-games/"/>
-        <updated>2022-05-02T06:50:39.000Z</updated>
-        <summary type="html"><![CDATA[For as long as I’m giving this pay-to-play thing a go, I’ll be posting what I’m running in the coming week Sunday night/Monday morning. These will be clearly labelled, so if this kind of thing vexes you, it is easily ignorable. For my first two pay-to-play games I chose two games right in my wheelhouse […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
