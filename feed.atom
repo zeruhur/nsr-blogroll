@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T08:24:41.194Z</id>
+    <id>urn:2022-06-02T16:28:09.811Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-02T08:24:41.194Z</updated>
+    <updated>2022-06-02T16:28:09.811Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -587,16 +587,6 @@ Some are good, others bad, and still others in-between. These might eventually g
         <summary type="html"><![CDATA[A quick set of thoughts on naming, focused on NSR and FKR and other abbreviations.]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New New School Revolution]]></title>
-        <id>https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution</id>
-        <link href="https://newschoolrevolution.com/2022/05/04/the-new-new-school-revolution"/>
-        <updated>2022-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The New New School Revolution]]></summary>
-        <author>
-            <name>New School Revolution</name>
         </author>
     </entry>
 </feed>
