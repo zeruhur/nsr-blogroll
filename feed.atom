@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T16:27:24.808Z</id>
+    <id>urn:2022-06-02T01:38:39.786Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T16:27:24.809Z</updated>
+    <updated>2022-06-02T01:38:39.786Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[15 (more) cheap tricks]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html"/>
+        <updated>2022-06-01T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[One of my fave GLoG blogs - Whose Measure God Could Not Take - did a fun meme about listing cheap tricks that GMs can use to make their game better. You can see the original and the resulting links to other cheap tricks here.
+Here are 15 more cheap tricks.
+1. Give your players an INC map. Seriously. Choosing the routes gives players an interesting decision point and discovering the room contents is fun. Saying "Wait, you said TWO exits on the north wall? I gotta redraw" is less fun.
+1a. You can still have secret rooms. Seeing the "gaps" on the map and finding the door will make players feel smart.
+2. Unless you're learning the game for the first time, don't pause the game to look up rules. Make the call the players want you to make, then get a rules lawyer to look it up while you continue …]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On RPG Play-sytles, Part 3: Classic Playstyle versus Trad Playstyle versus OSR?]]></title>
         <id>https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html</id>
         <link href="https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html"/>
-        <updated>2022-06-01T15:57:00.000Z</updated>
+        <updated>2022-06-01T15:57:00.001Z</updated>
         <summary type="html"><![CDATA[In April 2021, a fruitful essay appeared called "Six Cultures of Play," by blogger Retired Adventurer, receiving a lot of deserved attention. It seems to have established some terms for further and ongoing discussion since then.In this entry I address the distinction construed there between the earliest two "cultures of play" and how they differ from what is known as the OSR (Old-School Revival).]]></summary>
         <author>
             <name>Tom Van Winkle's Return to Gaming</name>
@@ -583,35 +597,6 @@ Some are good, others bad, and still others in-between. These might eventually g
         <summary type="html"><![CDATA[The New New School Revolution]]></summary>
         <author>
             <name>New School Revolution</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Mercurial Mentors & Weird Wizards]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-mercurial-mentors-weird-wizards.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-mercurial-mentors-weird-wizards.html"/>
-        <updated>2022-05-03T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a rather lovely bit of implied world building secreted away in the Spell Acquisition process for Magic Users in B/X and OSE. Whilst I also permit transcription from Scrolls and captured Spell Books as an alternative arcane augmentation avenue, by default the only two options for expanding a Medium’s occult repertoire are Research (touched on previous posts here and here) and a mention of Mentors.
- Sadly, these Thaumatological Tutors do not really receive any substantial detail, so this table aims to address this oversight. The Sorcerous Instructor can be determined alongside the Starting Spell the Magic-User begins play with, or one can simply combine results to mint new Mentors. Starting with a Name and a distinguishing Trait provides a little bit of background, may raise interes…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden Grove of the Deep Druids: an adventure I drew for]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/05/hidden-grove-of-deep-druids-adventure-i.html"/>
-        <updated>2022-05-03T07:04:00.004Z</updated>
-        <summary type="html"><![CDATA[Longtime reader Harald Maassen just released a really tight dungeon adventure called "Hidden Grove of the Deep Druids," which I contributed artwork for!
-
-It's available as a Pay What You Want download on the Dungeon Master's Guild. Worry not though. It's a decently system-flexible adventure good for all medieval-ish fantasy dungeoncrawlers. If you are a 5E player, it provides some lite mechanical support to run the adventure in a more old-school way.
-
-
-The premise? "Evil druid cult." An ever-elusive archetype but one that I think Harald has nailed here. If you've never used druids as villains, you should really give it a whirl.
-
-
-It's a medium-sized dungeon that's non-linear, has lots and lots of dangers (especially weird fungi), and has clean and helpful formatting. It'll make a fine addition to anyone's collection of solid, vanilla-yet-tasty dungeons to slot into their game.]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
