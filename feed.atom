@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T01:15:46.245Z</id>
+    <id>urn:2022-06-03T08:20:42.811Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T01:15:46.245Z</updated>
+    <updated>2022-06-03T08:20:42.811Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Imbalances in the Outlands, Session 2, A Balanced Deal with a Heaping Side of Lore]]></title>
+        <id>http://githyankidiaspora.com/?p=17683</id>
+        <link href="https://githyankidiaspora.com/2022/06/02/thursday-night-ap-template-imbalances-in-the-outlands-session-2-a-balanced-deal-with-a-heaping-side-of-lore/"/>
+        <updated>2022-06-03T02:15:41.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 2 – Awaken Thrilling Horror]]></title>
+        <id>http://githyankidiaspora.com/?p=19782</id>
+        <link href="https://githyankidiaspora.com/2022/06/02/dread-domain-detectives-illustrated-session-2-awaken-thrilling-horror/"/>
+        <updated>2022-06-03T01:41:29.000Z</updated>
+        <summary type="html"><![CDATA[This week in our Dungeons and Dragons game set in Ravenloft. When we lost left our stalwart investigators, they were about to meet up near the apartment where Killian and Valentia were having their dalliance. A mysterious blue man in a black suit with black horns atop his head, was also waiting nearby, though he hadn't noticed them yet.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 (more) cheap tricks]]></title>
         <id>https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html</id>
@@ -577,16 +597,6 @@ Some are good, others bad, and still others in-between. These might eventually g
  See also: These Village-Folk Are... and These City Dwellers Are... as well as One Hundred Buildings and Business.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSR, FKR, APT, XYZ…]]></title>
-        <id>http://technoskald.me/?p=6397</id>
-        <link href="https://technoskald.me/2022/05/04/nsr-fkr-apt-xyz/"/>
-        <updated>2022-05-04T17:58:10.000Z</updated>
-        <summary type="html"><![CDATA[A quick set of thoughts on naming, focused on NSR and FKR and other abbreviations.]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
