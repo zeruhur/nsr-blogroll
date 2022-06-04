@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T01:18:00.392Z</id>
+    <id>urn:2022-06-04T08:20:09.776Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T01:18:00.392Z</updated>
+    <updated>2022-06-04T08:20:09.776Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Someplace cool,” with Troika! Numinous Edition]]></title>
+        <id>http://githyankidiaspora.com/?p=19893</id>
+        <link href="https://githyankidiaspora.com/2022/06/04/someplace-cool-with-troika-numinous-edition/"/>
+        <updated>2022-06-04T04:40:39.000Z</updated>
+        <summary type="html"><![CDATA[A Necromancer, a Nunslinger and a Temple Knight of Telak the Swordbringer walk into a dungeon… We had made characters and agreed to play the following Friday. I knew how I wanted to prepare but didn’t get to it until the Friday afternoon before the game. I had read the rules but couldn’t quite picture […]]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Flaws & Foibles for More Fickle Magic]]></title>
         <id>https://blog.d4caltrops.com/2022/06/d100-flaws-foibles-for-more-fickle-magic.html</id>
