@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T08:20:09.776Z</id>
+    <id>urn:2022-06-04T16:21:41.131Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T08:20:09.776Z</updated>
+    <updated>2022-06-04T16:21:41.132Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -672,18 +672,6 @@ Smoldering volcanic peaks belching fumes that trail across the horizon, said to 
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game... the Sigil 6 get Kuru back, make a Wish and get back to Sigil.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Haven Happenstances]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-haven-happenstances.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-haven-happenstances.html"/>
-        <updated>2022-05-05T23:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are one Hundred Haven Happenings or Settlement Events for dressing up any downtime in towns and villages (or even decorating Domain Play, which could certainly use a little more love).
-Some are good, others bad, and still others in-between. These might eventually get a more rigorous treatment as a series of d36 tables to interface with my normal way of handling such things (Reaction Roll), but capturing the ideas immediately is always vital so they don’t get whisked away 😊.
- See also: These Village-Folk Are... and These City Dwellers Are... as well as One Hundred Buildings and Business.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
