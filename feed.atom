@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T16:23:51.640Z</id>
+    <id>urn:2022-06-04T01:18:00.392Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T16:23:51.640Z</updated>
+    <updated>2022-06-04T01:18:00.392Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Flaws & Foibles for More Fickle Magic]]></title>
+        <id>https://blog.d4caltrops.com/2022/06/d100-flaws-foibles-for-more-fickle-magic.html</id>
+        <link href="https://blog.d4caltrops.com/2022/06/d100-flaws-foibles-for-more-fickle-magic.html"/>
+        <updated>2022-06-04T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Drawbacks and Complications for Magic are something I’m fairly fond of using in my games. A useful item, with an inconvenient defect is more memorable, just as a Cursed item with just enough usefulness to hang onto can also be more fun than metagame conceits that keep it in player hands. 
+   
+It is always appealing to me when one of these snags ends up being a boon with the proper creative application. Just like how my Unconventional Potions and some of my other Magic Item posts end up embellishing these creations with features that might just be a perfect key for a lock yet unknown, some of these entries might end up working in a similar fashion. 
+   
+Here is a list of a hundred of these sorts of impediments and imperfections. You could even use them to garb Spells themselves, Familiars, Magic Item Creation, or other wonderous things with a little bit of creative adjustment.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Minute Dungeon : Amphitheater Of Ghost & Brigand]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html"/>
+        <updated>2022-06-03T20:00:00.005Z</updated>
+        <summary type="html"><![CDATA[Per the methodology from Priestess of Spiders.
+
+Idea : A haunted and overgrown amphitheater complex used as a hideout by brigands
+
+
+Hook : Rescue the son of a merchant whose being held for ransom
+
+
+Encounters :
+
+
+A. 1d6 brigands, flaunting cockades and toting knives and pistols, on patrol. Swaggering and joking among each other, not really expecting anything. 
+
+
+B. 1d4 ghosts, singing and muttering their lines, will ask you to join in a play, if satisfied they will gift you a silver gilded thespian mask, if refused they will conjure up a miniature tempest.
+
+
+C. The brigand prince, dressed in plundered finery, mediating a dispute between two brigands over the proper ownership of a bejeweled goblet, a duel looks to be in order. 
+
+
+Key :
+
+
+Trap/Hazards 
+
+
+A web of strings hung with bells across the easiest approach into the amphitheater, if disturbed the ringing will alert 1d6 brigands who will come to investigate. 
+
+
+A makeshift fire-pit surrounded by 1d8 snoring brigands who roll and shift uneasily in their sleep. A very large and obvious iron key ring hangs on the far wall.
+
+
+"Empty"
+
+
+The stage, wooden boards sagging and pierced through with growing trees in places, looking up you can see the whole of the encircling bleachers.
+
+
+Old musty prop closets, digging around unearths two intact silk robes and a tarnished silver amulet. 
+
+
+A gnarled tree growing out of the stands, its roots split apart the stones allowing one to easily drop down into an old dusty under-passage. 
+
+
+Special 
+
+
+The acoustics when standing in the seats are perfect to amplify any sounds three-fold and let you displace it as though a ventriloquist anywhere in the structure. 
+
+
+Non-Player Character
+
+
+Umberto, an amateur con artist the brigands mistook for a noble and are holding captive. He has made friends with the ghosts who occasionally visit him to put on miniature dramas, though they are reluctant to help him escape.]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imbalances in the Outlands, Session 2, A Balanced Deal with a Heaping Side of Lore]]></title>
         <id>http://githyankidiaspora.com/?p=17683</id>
