@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T16:21:41.131Z</id>
+    <id>urn:2022-06-05T01:38:19.000Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-04T16:21:41.132Z</updated>
+    <updated>2022-06-05T01:38:19.000Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spinoff solo blog]]></title>
+        <id>http://technoskald.me/?p=6417</id>
+        <link href="https://technoskald.me/2022/06/04/spinoff-solo-blog/"/>
+        <updated>2022-06-04T22:36:31.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been playing a lot more solo sessions, and I didn’t want to clog this place up. Plus, I just wanted to experiment with something different. So in April, my spinoff blog Solo Skald launched. So far, I’ve played campaigns of Blades in the Dark as well as Scum & Villainy, a solo adventure with … Continue reading Spinoff solo blog →]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Someplace cool,” with Troika! Numinous Edition]]></title>
         <id>http://githyankidiaspora.com/?p=19893</id>
