@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T08:22:39.442Z</id>
+    <id>urn:2022-06-07T16:26:21.933Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T08:22:39.442Z</updated>
+    <updated>2022-06-07T16:26:21.933Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -686,27 +686,6 @@ The Team are Nazarites, individuals contracted by The Corporation to serve vario
 In this Campaign, they …]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tolkien-Style Maps]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/05/tolkien-style-maps.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/05/tolkien-style-maps.html"/>
-        <updated>2022-05-09T02:17:00.002Z</updated>
-        <summary type="html"><![CDATA[Warren at I Cast Light said this and got my brain going this weekend:
-"Related: I would love to see the OD&D Outdoor Survival map become more a defacto map that everyone iterates on. Outdoor Survival map provides that richer environment. Also easier to provide your own spin on a recipe when the base is worked out like a chocolate chip cookie recipe."
-So I sat down and I made this version of the Outdoor Survival map for a Secret Project I am working on:
-
-
-Click for full sized version.
-
-
-If you're unfamiliar with the Outdoor Survival map, here's a quick history from a blogpost I wrote for the (now sadly defunct) OSR Elfgame website:
-
-
-"The origins of Dungeons & Dragons (D&D) lie in medieval wargaming. When Gygax and Arneson were building out the earliest RPG paradigms, they used whatever the…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
