@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T16:26:21.933Z</id>
+    <id>urn:2022-06-08T01:23:33.947Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T16:26:21.933Z</updated>
+    <updated>2022-06-08T01:23:33.948Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -660,32 +660,6 @@ single roll to make a combat system that is quick and deadly.]]></summary>
  I’ve tried to shy away from dictating too much by way of Terrains or directly engaging Procedures with these (Encounters can still be handled through your standard preferred mechanisms after all), but some have probably stealthily crept in. Definitely a chance I might revisit this with more specificity down the road for some Seasonality/Environmental tailoring. I also tried to vary things up a little bit: Some with weal, others woe, but usually rather inconsequential or minor in nature (this might dovetail with later Tables that use a Reaction Roll I do love those bell curves after all, or even by Overloading some existing rolls). A few of my favorites are the more Neutral Campfire Story ones where Players get asked about things. Entries more focused in this direction might need to end up on their own little table eventually now that I think about it, because I love how those types of Questions interface with character development in play. 😊]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD2 Campaign PR 2: This Time With Golem]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/mrd2-campaign-pr-2-this-time-with-golem.html"/>
-        <updated>2022-05-09T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Second session, first in the Golem! I was a bit worried about this one because we're still getting in the groove and I didn't have much time to prep, but once again I felt really good about it.
-
-
-MRD2 Campaign Setup
-First Session PR
-
-
-Also for whatever reason Blogger HTML is all screwed up in this post and despite my best efforts the formatting is a mess. Or maybe it's just on my device? I dunno, such is life.
-
-
-RECAP
-The Team are Nazarites, individuals contracted by The Corporation to serve various needs across Earth, the Space Settlements, and the metaphysical depths of Tehom. They are empowered by a Wyrm Shamir symbiont provided by The Corporation granting them metaphysical abilities, as well as a Golem, a mecha, or a magnification of something more abstract.
-
-
-
-
-In this Campaign, they …]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
