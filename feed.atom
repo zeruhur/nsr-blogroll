@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T08:24:19.219Z</id>
+    <id>urn:2022-06-08T16:23:21.732Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T08:24:19.219Z</updated>
+    <updated>2022-06-08T16:23:21.732Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -639,16 +639,6 @@ Questions to ask each D&D class.]]></summary>
 single roll to make a combat system that is quick and deadly.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As far as I know, there isn't an "RPG Circlejerk" subreddit, so I have to post this image here instead. Yes, I know this is probably just bait, but...]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/05/as-far-as-i-know-there-isnt-rpg.html"/>
-        <updated>2022-05-09T20:45:00.009Z</updated>
-        <summary type="html"><![CDATA[-Dwiz]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
