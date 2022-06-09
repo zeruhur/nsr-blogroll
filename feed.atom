@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-09T08:25:06.874Z</id>
+    <id>urn:2022-06-09T16:23:30.952Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T08:25:06.874Z</updated>
+    <updated>2022-06-09T16:23:30.952Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tempus, Fudge It]]></title>
+        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:625cb6acf7aef559cbc40b6e</id>
+        <link href="https://www.prismaticwasteland.com/blog/tempus-fudge-it"/>
+        <updated>2022-06-09T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Include time-tracking directly in your game’s procedures, and you will 
+never have to fiddle with a calendar for your campaign every again.]]></summary>
+        <author>
+            <name>W. F. Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Atypical Scrolls of Protection & Assorted Aegides]]></title>
         <id>https://blog.d4caltrops.com/2022/06/d100-atypical-scrolls-of-protection.html</id>
