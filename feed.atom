@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T16:23:21.732Z</id>
+    <id>urn:2022-06-09T01:24:04.548Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T16:23:21.732Z</updated>
+    <updated>2022-06-09T01:24:04.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -628,17 +628,6 @@ Questions to ask each D&D class.]]></summary>
         <summary type="html"><![CDATA[I was explaining what Hunt rolls did in Trophy Gold and described them as part perception roll, part random encounter roll but they offer a little more than that.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quicker Combat for Boot Hill]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:626711d7b5a42c720cb549ac</id>
-        <link href="https://www.prismaticwasteland.com/blog/quicker-combat-for-boot-hill"/>
-        <updated>2022-05-10T12:52:08.000Z</updated>
-        <summary type="html"><![CDATA[I boil down the complicated shooting system in original Boot Hill to a 
-single roll to make a combat system that is quick and deadly.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
