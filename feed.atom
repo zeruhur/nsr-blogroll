@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T01:28:59.283Z</id>
+    <id>urn:2022-06-10T08:21:22.151Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T01:28:59.283Z</updated>
+    <updated>2022-06-10T08:21:22.151Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Imbalance in the Outlands, Session 3, The Vampire, the Lich and the Raven Queen]]></title>
+        <id>http://githyankidiaspora.com/?p=19960</id>
+        <link href="https://githyankidiaspora.com/2022/06/09/imbalance-in-the-outlands-session-3-the-vampire-the-lich-and-the-raven-queen/"/>
+        <updated>2022-06-10T02:33:52.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 talk to a vampire to better understand Innistrad and a lich to better understand Orcus.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making a Well of Worlds]]></title>
         <id>http://githyankidiaspora.com/?p=19948</id>
@@ -637,16 +647,6 @@ Constantly Cultivate Creative Inspiration
         <summary type="html"><![CDATA[As Apocalypse World made plain - ask provocative questions and use the answers, my friends.
 
 Questions to ask each D&D class.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunt Rolls in Trophy Gold – part perception roll, part random encounter roll]]></title>
-        <id>http://githyankidiaspora.com/?p=19380</id>
-        <link href="https://githyankidiaspora.com/2022/05/11/hunt-rolls-in-trophy-gold-part-perception-roll-part-random-encounter-roll/"/>
-        <updated>2022-05-11T17:57:55.000Z</updated>
-        <summary type="html"><![CDATA[I was explaining what Hunt rolls did in Trophy Gold and described them as part perception roll, part random encounter roll but they offer a little more than that.]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
