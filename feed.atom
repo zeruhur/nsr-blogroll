@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T01:21:50.554Z</id>
+    <id>urn:2022-06-11T08:20:08.028Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T01:21:50.554Z</updated>
+    <updated>2022-06-11T08:20:08.028Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 – Sweet, Trophy Gold: Roots of Old Kalduhr]]></title>
+        <id>http://githyankidiaspora.com/?p=19441</id>
+        <link href="https://githyankidiaspora.com/2022/06/11/5-sweet-trophy-gold-roots-of-old-kalduhr/"/>
+        <updated>2022-06-11T05:25:58.000Z</updated>
+        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...the group continued playing the incursion, A Heart Hums in the Darkness by Michael Van Vleet.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glamour-Weaver - Freeform Illusion Magic]]></title>
         <id>https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html</id>
@@ -693,18 +703,6 @@ Constantly Cultivate Creative Inspiration
  For me personally, it shows up in the strangest of places. There is not much by way of tangible advice I can offer that speaks to sparking this part of another’s imagination really, suffice to say that you want to always pay attention to things around you/what you consume. Give a little thought to how you m…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions to ask each D&D Class]]></title>
-        <id>http://githyankidiaspora.com/?p=19390</id>
-        <link href="https://githyankidiaspora.com/2022/05/12/questions-to-ask-each-dd-class/"/>
-        <updated>2022-05-12T17:29:14.000Z</updated>
-        <summary type="html"><![CDATA[As Apocalypse World made plain - ask provocative questions and use the answers, my friends.
-
-Questions to ask each D&D class.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
