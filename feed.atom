@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T08:20:08.028Z</id>
+    <id>urn:2022-06-11T16:21:40.187Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T08:20:08.028Z</updated>
+    <updated>2022-06-11T16:21:40.187Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -690,19 +690,6 @@ Packing is …]]></summary>
         <summary type="html"><![CDATA[You tried to kill Strahd and you failed. Now he has broken his prison and is free. Chase him across the Shadowfell, where the adventure might lead us into Gloomwrought, Sigil into the Hells or the Far Realms. We will venture beyond the Curse of Strahd and together we will find out if you can prevent the curse from becoming a plague.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Table Talk: My Process for Random Tables]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/table-talk-my-process-for-random-tables.html"/>
-        <updated>2022-05-12T22:51:00.003Z</updated>
-        <summary type="html"><![CDATA[Sometimes I am asked about my method for generating all these Random Tables and how they come together, so I have decided to put together a post that attempts to explain how I create these. It is a hurried, haphazard, and peculiarly tailored technique I’m afraid, and most certainly not an optimal workflow, but it seems to work for me, and hopefully there might be a useful or at least interesting tidbit for other Referees within these steps.
-   
-Constantly Cultivate Creative Inspiration
- For me personally, it shows up in the strangest of places. There is not much by way of tangible advice I can offer that speaks to sparking this part of another’s imagination really, suffice to say that you want to always pay attention to things around you/what you consume. Give a little thought to how you m…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
