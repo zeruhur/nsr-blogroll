@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T16:21:40.187Z</id>
+    <id>urn:2022-06-12T01:42:24.388Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-11T16:21:40.187Z</updated>
+    <updated>2022-06-12T01:42:24.388Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -35,7 +35,7 @@ Weave Glamour: A glamour…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sojourner]]></title>
+        <title type="html"><![CDATA[Sojourner: Lifepath]]></title>
         <id>https://www.hypertextcorner.com/sojourner</id>
         <link href="https://www.hypertextcorner.com/sojourner"/>
         <updated>2022-06-10T14:00:00.000Z</updated>
@@ -68,7 +68,7 @@ Debt
 Lifepath
 Roll d6 for your family’s house and your starting reputat…]]></summary>
         <author>
-            <name>Sojourner</name>
+            <name>Sojourner: Lifepath</name>
         </author>
     </entry>
     <entry>
@@ -667,27 +667,6 @@ Packing is …]]></summary>
         <link href="https://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/"/>
         <updated>2022-05-15T09:29:08.000Z</updated>
         <summary type="html"><![CDATA[https://itch.io/b/1375/ttrpgs-for-reproductive-rights  All proceeds from this bundle will be donated to Planned Parenthood and NNAF (National Network of Abortion Funds)  so that much-needed funds will be distributed on both national and local levels and across race, gender, and economic status.  Signalboost: TTRPGs for Reproductive Rights Bundle]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 (x 4) - Bynames, Sobriquets, and Epithets]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-x-4-bynames-sobriquets-and-epithets.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-x-4-bynames-sobriquets-and-epithets.html"/>
-        <updated>2022-05-13T13:28:00.008Z</updated>
-        <summary type="html"><![CDATA[We’ve all been there: in dire need of a memorable Name during play to hastily christen an NPC to make them more meaningful, or requiring one as we make our preparations for the next session. Spontaneous Namecraft is a tad tricky though. When Naming things, should I have the luxury, I do tend to try to speak it aloud a few times, just to ensure that it flows off the tongue without too much stumbling and can’t be inadvertently mispronounced into something silly or humorous (a very common conundrum in my games that can be a bit derailing). While onomastics are intensely interesting to me, I’m usually a little more concerned with having something immediately accessible to solve the problem.
- Specifically, I find myself often in need of Names for Gods/Deities/Tutelary Spirits and such for How I…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Victory of Strahd, a mini-campaign for hire]]></title>
-        <id>http://githyankidiaspora.com/?p=19420</id>
-        <link href="https://githyankidiaspora.com/2022/05/13/victory-of-strahd-a-mini-campaign-for-hire/"/>
-        <updated>2022-05-13T04:55:50.000Z</updated>
-        <summary type="html"><![CDATA[You tried to kill Strahd and you failed. Now he has broken his prison and is free. Chase him across the Shadowfell, where the adventure might lead us into Gloomwrought, Sigil into the Hells or the Far Realms. We will venture beyond the Curse of Strahd and together we will find out if you can prevent the curse from becoming a plague.]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
