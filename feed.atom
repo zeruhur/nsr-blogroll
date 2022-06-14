@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T16:25:07.938Z</id>
+    <id>urn:2022-06-14T01:49:02.043Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-13T16:25:07.938Z</updated>
+    <updated>2022-06-14T01:49:02.043Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[d100 - Introductions for Newly Minted PCs In Media Res]]></title>
+        <title type="html"><![CDATA[New Kinds of Magic]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/new-kinds-of-magic.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/new-kinds-of-magic.html"/>
+        <updated>2022-06-13T21:28:00.001Z</updated>
+        <summary type="html"><![CDATA[No, this isn't about Vancian vs. such-and-such. I guess it's more like different schools of magic like Illusion, Evocation, etc., but it's not bound to those classifications either. It's just meant to get you to think about weird abstract things, and what magic can mean, and how different principles of science and philosophy and cognition and perception operate.
+
+
+My character in Mike of Sheep & Sorcery's Weirdways Campaign (previously discussed in this post) also more recently gained powers relating to the first entry, so that's cool.
+
+
+There aren't that many of these because I've been busy and tired lately and trying to prioritize shorter high quality posts over forcing out longer ones, but I'm happy with these.
+
+
+
+
+Cool art to draw the eye, to break up the page, to give you a reason to …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Introductions for Newly Minted PCs In Medias Res]]></title>
         <id>https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html</id>
         <link href="https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html"/>
-        <updated>2022-06-13T15:08:00.000Z</updated>
+        <updated>2022-06-13T15:08:00.001Z</updated>
         <summary type="html"><![CDATA[Sometimes one finds oneself in a situation where there is an immediate need to Introduce a new PC to a Party whilst the adventure is currently in progress. Their character falls, and after the comforting clatter of dice, they have made a new one: But by what means do they get ushered into play?
  Here is a table that might supply a skosh of inspiration or at least some “starting points” for these sticky situations where there’s need for a Sudden Entrance, Stage Left. Like most of my tables, it might need a bit of strategic tailoring to the specific situation and taste. Remember the Trick behind all those seemingly stray Capital Letters: Capitalized Words can always be freely substituted/specified/adjusted to fit.
  I’m afraid that most of these might impinge on Player Agency a bit, but I’ve always felt that a player character’s Prologue was fairer game for such things, and it’s a small price to pay for being able to leap back into the action I suppose. I’ve tried to shy away from some of the ones I’ve seen used that put the Character or Player in some of the more uncomfortable spots, and leaning into a bit of mystery and unanswered questions to flesh out in play is never a bad thing in my book. One could even just have them roll (or even select!) an entry that strikes them as that final step of creating their new character. A bit of brief, hopefully  actionable backstory never hurt anyone, and who knows where it could lead? 😊
@@ -687,26 +708,6 @@ I have been on a journey. I have walked the road, first one foot and then the ot
 Packing is …]]></summary>
         <author>
             <name>Glass Bird Games</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 0 – All the Pieces Matter]]></title>
-        <id>http://githyankidiaspora.com/?p=19467</id>
-        <link href="https://githyankidiaspora.com/2022/05/15/dread-domain-detectives-illustrated-session-0-all-the-pieces-matter/"/>
-        <updated>2022-05-15T11:09:17.000Z</updated>
-        <summary type="html"><![CDATA[The Sons of Kryos get together to play an investigative Dungeons and Dragons game set in Ravenloft's domain of Lamordia.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signalboost: TTRPGs for Reproductive Rights Bundle]]></title>
-        <id>http://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/</id>
-        <link href="https://githyankidiaspora.com/2022/05/15/signalboost-ttrpgs-for-reproductive-rights-bundle/"/>
-        <updated>2022-05-15T09:29:08.000Z</updated>
-        <summary type="html"><![CDATA[https://itch.io/b/1375/ttrpgs-for-reproductive-rights  All proceeds from this bundle will be donated to Planned Parenthood and NNAF (National Network of Abortion Funds)  so that much-needed funds will be distributed on both national and local levels and across race, gender, and economic status.  Signalboost: TTRPGs for Reproductive Rights Bundle]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
