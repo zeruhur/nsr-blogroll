@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T08:22:55.719Z</id>
+    <id>urn:2022-06-14T16:26:42.894Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T08:22:55.719Z</updated>
+    <updated>2022-06-14T16:26:42.894Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -639,33 +639,6 @@ As is the case with most of the other not-reviews, I'm not giving you a plot syn
 Iczer-One seems like one of those anime that has been lost to time, and I do get why, but I also think it's a shame, because it's pretty cool. It's only three 30ish min episodes, or there's an OVA that's basically just the three episodes, I think maybe with some scenes rearranged. Tbh I'd recomme…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sigil 6 Questions]]></title>
-        <id>http://githyankidiaspora.com/?p=19522</id>
-        <link href="https://githyankidiaspora.com/2022/05/15/sigil-6-questions/"/>
-        <updated>2022-05-16T03:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Why D&D? And more questions about the Planescape campaign we play on Thursday nights with the Sigil 6 team.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slushpost Mark 6.]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/05/slushpost-mark-6.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/05/slushpost-mark-6.html"/>
-        <updated>2022-05-15T23:13:00.000Z</updated>
-        <summary type="html"><![CDATA[More scraps and scribbles. 
-
-In an ancient levant world there is a demon of plaster and whitewash, it demands MORE limestone MORE hardwoods MORE charcoal to feed its lust for plaster, it shall never be satisfied with its eternal deforestation until the whole region is ecologically devastated.
-Familial ties are a major thing, considering making lieutenants and various other functionaries siblings and cousins to their boss. 
-A cocky young nobleman has whipped up a frenzied gang to go and kidnap (voluntarily) his future wife from her family.
-A posse of flea-knights riding about on an animal, hop to a new host and command them to act as their noble steed/page.
-A necromancer's cavaliers riding upon slavering ghoul-back, horse pistols and sabres in hand.
-Spirits care not for casualty, spirits ar…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
