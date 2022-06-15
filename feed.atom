@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T16:26:42.894Z</id>
+    <id>urn:2022-06-15T01:29:11.587Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T16:26:42.894Z</updated>
+    <updated>2022-06-15T01:29:11.587Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Micro hack of Mothership]]></title>
+        <id>http://technoskald.me/?p=6425</id>
+        <link href="https://technoskald.me/2022/06/14/micro-hack-of-mothership/"/>
+        <updated>2022-06-14T18:13:57.000Z</updated>
+        <summary type="html"><![CDATA[During a discussion in the Mothership Discord about reskinning the game for other settings, I came up with the following little hack. If anything, it’s just a small set of house rules for creating classless characters and maybe simplifying the stats and saves. Please feel free to comment any feedback. It’s completely untested, just a … Continue reading Micro hack of Mothership →]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 – My Magic Cannot...]]></title>
+        <id>https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html</id>
+        <link href="https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html"/>
+        <updated>2022-06-14T16:44:00.001Z</updated>
+        <summary type="html"><![CDATA[An interesting conversation on Twitter about ways to make Magic weilded by Magic-Users a little less reliable for a more distinctive and wonderous feel (somewhat like the Taboo System I use for Clerics) got me thinking, and before I knew it I had the makings of a Table. I had some semi-similar things (like my recent Flaws & Foibles or perhaps my Magical Mishaps & Calamitous Curses), but nothing that quite fit the bill.
+Personifying the Magic made it a little easier to produce some of these entries, feel free to season that bit to taste. I’m not quite sure how I’d use them (Maybe in exchange for more Casting Ability? Perhaps every Magic User specializes or has their own personal connections?) but I’d probably try to make them meaningful in terms of interpretation.
+ Sure seems like several of the recent tables have been a bit Caster-centric. I really need to polish up a few more of my Fighter-friendly tables at some point 😊.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick and Ugly Troika Setting Hack]]></title>
         <id>http://githyankidiaspora.com/?p=20066</id>
@@ -619,26 +641,6 @@ I think Retired Adventurer had it right when he called them "cultures of play." 
 In Uncertainty, Costikyan defines culture as "the transmission of knowledge within a group" and explains that, while some animals have s…]]></summary>
         <author>
             <name>Quarterling’s Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fight! Iczer-1 Not-Review]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/fight-iczer-1-not-review.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/fight-iczer-1-not-review.html"/>
-        <updated>2022-05-16T12:18:00.003Z</updated>
-        <summary type="html"><![CDATA[I've previously discussed being a big fan of the Super Robot Wars videogames, and especially since MRD2 is partially Mecha-focused, I've been trying to expose myself to more obscure, or at least less popular in the US, Mecha anime and manga, especially those which have been featured in SRW. I saw this one among a list somewhere, and for whatever reason it called to me.
-
-
-As is the case with most of the other not-reviews, I'm not giving you a plot synopsis really, just my general impressions.
-
-
-
-
-
-
-Iczer-One seems like one of those anime that has been lost to time, and I do get why, but I also think it's a shame, because it's pretty cool. It's only three 30ish min episodes, or there's an OVA that's basically just the three episodes, I think maybe with some scenes rearranged. Tbh I'd recomme…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>

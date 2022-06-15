@@ -6,12 +6,22 @@
       "siteUrl": "https://technoskald.me",
       "articles": [
         {
+          "id": "http://technoskald.me/?p=6425",
+          "author": "Kyle Maxwell",
+          "description": "During a discussion in the Mothership Discord about reskinning the game for other settings, I came up with the following little hack. If anything, it’s just a small set of house rules for creating classless characters and maybe simplifying the stats and saves. Please feel free to comment any feedback. It’s completely untested, just a … Continue reading Micro hack of Mothership →",
+          "link": "https://technoskald.me/2022/06/14/micro-hack-of-mothership/",
+          "publishedOn": "2022-06-14T18:13:57.000Z",
+          "wordCount": 712,
+          "title": "Micro hack of Mothership",
+          "imageUrl": "https://skaldforge.files.wordpress.com/2022/06/ufo-14850780376tb.jpg"
+        },
+        {
           "id": "http://technoskald.me/?p=6417",
           "author": "Kyle Maxwell",
           "description": "I’ve been playing a lot more solo sessions, and I didn’t want to clog this place up. Plus, I just wanted to experiment with something different. So in April, my spinoff blog Solo Skald launched. So far, I’ve played campaigns of Blades in the Dark as well as Scum & Villainy, a solo adventure with … Continue reading Spinoff solo blog →",
           "link": "https://technoskald.me/2022/06/04/spinoff-solo-blog/",
           "publishedOn": "2022-06-04T22:36:31.000Z",
-          "wordCount": 710,
+          "wordCount": 715,
           "title": "Spinoff solo blog",
           "imageUrl": "https://skaldforge.files.wordpress.com/2022/06/pexels-photo-169978.jpeg"
         },
@@ -74,7 +84,7 @@
           "description": "Theatre and film are intimately linked mediums of artistic expression. They use many of the same core ingredients (visual, sound and dialogue, time, performance) and even employ most of the same optional conventions (experienced in a single sitting lasting a couple hours, uses non-diegetic music, usually presents the action in its own space and told in roughly real-time for most or all scenes, etc.). Obviously there are exceptions where one medium is used to do something quite different, such as documentary for film or an interactive murder mystery dinner theatre for the stage. But they are closely related media, with film arguably descended directly from theatre. Early film even copied most of theatre's conventions, such as all the action taking place on a \"stage\" viewed from a single, fi…",
           "link": "https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html",
           "publishedOn": "2022-05-18T00:05:00.006Z",
-          "wordCount": 6175,
+          "wordCount": 6163,
           "title": "Tabletop is Theatre, Videogames are Film",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwVU7OClLL3srvwPnrg5iz5JI7zm45ZY3OoyuPrY657TfGq4_eiVnkvLMw_4QuYYiPqykhL93nbr0WSKRZzRFoUy9vxtkmNz_IP0_rruwZooxiJ1yFbRGhllDbOgqx6S4PbR7T-oX93fHRUaFcPfhz1wybvanIcimyMNymbKW9h7tVibOygVDDyTE/w1200-h630-p-k-no-nu/05_custom.jpg"
         }
@@ -91,7 +101,7 @@
           "description": "If you want to play a gnome illusionist or a bard whose songs take shape or a hard-light construct who crash landed into your fantasy setting, you can use this class. \nGlamour-Weaver\nSaves and Levels: As a thief\nProficiencies: As a magic-user\nRunes: At level 1, gain three random runes. Every level thereafter, gain one random rune. \nWith a week of downtime and 1,000 silver in magical materials (mithril inks, obsidian mirrors, lights reflected from distant stars), you may attempt to research a specific rune. At the end of the week, Save vs Wands. If successful, you learn the rune you were researching. If you fail, you do not learn the rune and your research is wasted.\n\n\nNote: Runes map 1-to-1 with the English alphabet equivalent. Runes are just cooler than \"letters.\"\nWeave Glamour: A glamour…",
           "link": "https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html",
           "publishedOn": "2022-06-10T14:47:00.008Z",
-          "wordCount": 1456,
+          "wordCount": 1438,
           "title": "Glamour-Weaver - Freeform Illusion Magic",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Y9iLWvBS5fCM6vKXbO2jZ4SvbZyZw_pIp-l8RyVyY4Edceno8oAO6A1e6GW1AhfEG_Ruv7pQRUo2s2Kdzja4ws2r1pm6LKw-M8asrgjIlODPXGx2r8oeSWT0Gs75mOwG2Vh3V3SgmQmzDEadTnHea0wkmAIdodu6X1skOlbS2Nq8OuyTJgN3obS2FQ/w1200-h630-p-k-no-nu/Elder_futhark.png"
         },
@@ -101,7 +111,7 @@
           "description": "One of my fave GLoG blogs - Whose Measure God Could Not Take - did a fun meme about listing cheap tricks that GMs can use to make their game better. You can see the original and the resulting links to other cheap tricks here.\nHere are 15 more cheap tricks.\n1. Give your players an INC map. Seriously. Choosing the routes gives players an interesting decision point and discovering the room contents is fun. Saying \"Wait, you said TWO exits on the north wall? I gotta redraw\" is less fun.\n1a. You can still have secret rooms. Seeing the \"gaps\" on the map and finding the door will make players feel smart.\n2. Unless you're learning the game for the first time, don't pause the game to look up rules. Make the call the players want you to make, then get a rules lawyer to look it up while you continue …",
           "link": "https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html",
           "publishedOn": "2022-06-01T23:06:00.000Z",
-          "wordCount": 1680,
+          "wordCount": 1662,
           "title": "15 (more) cheap tricks",
           "imageUrl": null
         }
@@ -118,9 +128,9 @@
           "description": "No, this isn't about Vancian vs. such-and-such. I guess it's more like different schools of magic like Illusion, Evocation, etc., but it's not bound to those classifications either. It's just meant to get you to think about weird abstract things, and what magic can mean, and how different principles of science and philosophy and cognition and perception operate.\n\n\nMy character in Mike of Sheep & Sorcery's Weirdways Campaign (previously discussed in this post) also more recently gained powers relating to the first entry, so that's cool.\n\n\nThere aren't that many of these because I've been busy and tired lately and trying to prioritize shorter high quality posts over forcing out longer ones, but I'm happy with these.\n\n\n\n\nCool art to draw the eye, to break up the page, to give you a reason to …",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/06/new-kinds-of-magic.html",
           "publishedOn": "2022-06-13T21:28:00.001Z",
-          "wordCount": 2409,
+          "wordCount": 2461,
           "title": "New Kinds of Magic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyZXZHPVEVOpKSeLAffojQR9CjppGFH8fbYVy_SFymDFslK-FW-JNfIY8FliqZ-AWghHDdDv_VWQho3AWsUtLv_h3-IijQdr8FiU-boTyGg_RKbax6_31TP6D5xkjsa7SSTo-b4VniFZN4C-5hI4p-5H_OEUZb6cDLxMSC9ILFVSz1nlukh4dqkOeA-xQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzQxjKu67wtDcUjXn6yk38OUocFsJ2q1DFV9yfpanVsesKYuSiNw7rT2gTDfim8JClgXFbGIV-RNUnVaajdrnaX3ExpyutGMBIypPAjQxMSZPECcbIZ3DzwNa7lf5mT3nUrRreexawQQBmeFkrlA_WPi2mRyngNGMMqHh3n6A1K1PjsZT85Vb0rKCWTZQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/06/5-minute-challenge-anew-incursion.html",
@@ -128,9 +138,9 @@
           "description": "Library of Attnam has started doing Quarter Hour of Writing (QHW) Challenges in the vein of my old 5 Minute Challenges. I like the idea of bumping it up to 15min, but I also have not quite 15min before I need to start work, and I try to post on at least a weekly basis, and as Save vs. TPK said recently I'm trying to be more comfortable with shorter posts.\n\n\nI'll use one of Attnam's prompts, and in this case I rolled Incursion, so that's what we're doing.\n\n\nAnd... GO!\n\nA spectrum of light perpendicular to light as we know it, intersecting at green, breaches the electromagnetic barrier.\nReality is in fact a dream, and for the first time, you experience oneiric wakefulness.\nThe universe is an Ouroboros. As it comes closer to consuming itself, entropic unraveling exponentiates.\nBreaching the wall of life and death like puncturing choking cellophane, a pleasant and disturbing compression.\nTransduced consciousness into soundwaves and decomposed along frequency-power axes via Fourier Transform.\n\nThese were adequate. Until next time...",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/06/5-minute-challenge-anew-incursion.html",
           "publishedOn": "2022-06-06T12:52:00.001Z",
-          "wordCount": 2139,
+          "wordCount": 2109,
           "title": "5 Minute Challenge Anew: Incursion",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzTwKTpGI4_VEBxRlDdeIpFwVw0h59KOZMkxh6xB4R2hKQ_axeoGL5bjUa4kl8vhcSvBPpm7b95nN18JOMxfw74j2WRKImnMD5jEDHR64NajpJiKdCWihZWUqsZ0SdtNH0QhB-uA9iTHH6z6JtfCdTM840t-PU1JqQwMWujZ6zIYSY4XHz2qHaxtSE-Ts2_ct2Rbzvi0tPUvF2aWWD1Qtw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ewp8taAf632foJNSuilP8JQw2tMkD2wARaWrLIM8vzKrM3RLRtYzqswDLygs6TVYmCk72ZoQwlJnGJvG1USjt1LgMc2ppK5t9Tiok5b7ucwC9pcdyArtwUCqlHtH0t3Fr2bXlstF-3x8i0p10K4HIIaa6Ah4OykCsLn4e9iwIjbmUShyRQbYqIyp4N-7vyn5g3iKkrx7h42t5YsCnNT_Zg=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html",
@@ -138,9 +148,9 @@
           "description": "I'm moving in a couple of days, not very far, but still stressful, so in my procrastination on packing and prepping, here's another not-review of an obscure-ish Mecha anime.\n\n\n\n\n\nGetter Robo Armageddon came out in the very late 90's, but like with Iczer-One, it has this beautiful hand-drawn art style that you just don't see anymore, which I've always really loved. This would have been the very tail-end of that style of animation.\n\n\nMy understanding is that the original Getter Robo, along with Mazinger Z*, were the two original and still most archetypal \"Super Robot\" Mecha anime, but Getter Robo Armageddon is more like a sequel or spiritual sequel to the original series, set after a Getter-related apocalyptic event. I haven't seen or read the original manga/anime so can't say for sure but t…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html",
           "publishedOn": "2022-05-30T18:20:00.001Z",
-          "wordCount": 2341,
+          "wordCount": 2311,
           "title": "Getter Robo Armageddon Not-Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExFcEyfJeUOuZyJpLw-keENgElvUx_TOacOkKXdLi0fde3uskbWsx0NcZV0v7zB8auvm7buiWb4cAN2DUB6CjxXwdhUmr7kWzAPXzIAkcSMmbZhV5uOGgio9A5vUCwZPRa3BgimGxXCAIEDy3q7lTE=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzdQzm85INMYRI2tfVDmu-Eti5ISK2bZlyTLUrzSWZmvm6xJnqPm7rRhn77qsF4qIPsSnUO-kF9UwPnsa2OWz412E1usx0YT88Zg5w9KKhVs16sLzKE8lvPSkQVgfXlvqMBMt6D7Sa04j0Wl4aNiNk=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html",
@@ -148,19 +158,9 @@
           "description": "I've enjoyed creating these Weird Mecha / Golem for MRD2. Two of the PCs in my MRD2 Campaign are using them (Chemysterious Cascader and Lycaon Strain), and one of them showed up as an enemy in a cliffhanger in the previous session. Those two are arguably more concrete than some of the other ones, which is ok, but I do really want to test the viability of abstract \"Mecha\" and exploring those possibilities both subtextually and in terms of how they open up the game in new ways.\n\n\nThe two current posts include tables for superorganism mecha and embodied cognition mecha. In this post, I'll create a few mecha combining both of these tables. \n\n\nTL;DR Creating weird \"Mecha\" (including more symbolic extrapolations of the body like superorganisms and cognition) where combinations of words are used …",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html",
           "publishedOn": "2022-05-23T12:05:00.002Z",
-          "wordCount": 3053,
+          "wordCount": 3023,
           "title": "Weird Mecha: An Exercise in Nihilism",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey7bGKr9qnq_wDeAlHEpukY5KDxfQLoKhPHrEEeXEOl-a9bXjcn2X4mFceIzNebynjvZSuzpzFgox1-jTKJ3q0sleDZCNfWhdMjQmkool0ErWEdUBBq4HdNCLPg2lVgNpkv7YbT5MJ5IzzQe86omZc22TJV6yS_iUOK1qnj8_Q0-rTeMPVH8oyqYypSQ9xRbPDW4UfupLEs_ucw7Aqdi8IikshakwsflwKdfMwX6uaV5NwOpEMlQfMzM9RiCUOQFgeswA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/fight-iczer-1-not-review.html",
-          "author": null,
-          "description": "I've previously discussed being a big fan of the Super Robot Wars videogames, and especially since MRD2 is partially Mecha-focused, I've been trying to expose myself to more obscure, or at least less popular in the US, Mecha anime and manga, especially those which have been featured in SRW. I saw this one among a list somewhere, and for whatever reason it called to me.\n\n\nAs is the case with most of the other not-reviews, I'm not giving you a plot synopsis really, just my general impressions.\n\n\n\n\n\n\nIczer-One seems like one of those anime that has been lost to time, and I do get why, but I also think it's a shame, because it's pretty cool. It's only three 30ish min episodes, or there's an OVA that's basically just the three episodes, I think maybe with some scenes rearranged. Tbh I'd recomme…",
-          "link": "https://weirdwonderfulworlds.blogspot.com/2022/05/fight-iczer-1-not-review.html",
-          "publishedOn": "2022-05-16T12:18:00.003Z",
-          "wordCount": 2806,
-          "title": "Fight! Iczer-1 Not-Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyL9AJ_F5vEMw9nQBAwED2q_xFka9mkMfa1sZbzGfgeNdh2NYg1odOLz_HBAlTbJuxhgGDGrtgr8ntJ6K3AA4wZWsanl2Rsj8rf_AcC39TIAEfyFh6kjIPLGP2AhOqSWQ-tbrej_w=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ew6B9bo0R16GWxdRUdKX6o4ofN7f68niX9W7xMGwGUiLLfoFXKLT-nbrQimhg1CrKGHT2JHX0UJ69YqvwwyFOHdBtTAVRfm5VCT69Imzyeg15y03oqxsJSxiKqptmDAjNw1x9VeZZzQa6fRyqD9WUhqoj9NARh2sF97OiobbkQ1n9DbV45451cWSc_6NfQ9YFT64swodIeWD5CyY9p_fi_E1HnHom45t9u8Zn34C_TY0326HsPme1yT8aCdVdndMLliAQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -306,12 +306,22 @@
       "siteUrl": "https://blog.d4caltrops.com/",
       "articles": [
         {
+          "id": "https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html",
+          "author": null,
+          "description": "An interesting conversation on Twitter about ways to make Magic weilded by Magic-Users a little less reliable for a more distinctive and wonderous feel (somewhat like the Taboo System I use for Clerics) got me thinking, and before I knew it I had the makings of a Table. I had some semi-similar things (like my recent Flaws & Foibles or perhaps my Magical Mishaps & Calamitous Curses), but nothing that quite fit the bill.\nPersonifying the Magic made it a little easier to produce some of these entries, feel free to season that bit to taste. I’m not quite sure how I’d use them (Maybe in exchange for more Casting Ability? Perhaps every Magic User specializes or has their own personal connections?) but I’d probably try to make them meaningful in terms of interpretation.\n Sure seems like several of the recent tables have been a bit Caster-centric. I really need to polish up a few more of my Fighter-friendly tables at some point 😊.",
+          "link": "https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html",
+          "publishedOn": "2022-06-14T16:44:00.001Z",
+          "wordCount": 1063,
+          "title": "d100 – My Magic Cannot...",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKEut96u7MJ6LRI8RV6Kw-PIsiWt3zJc2UYek0qZnl9R-9J9ytGTjCLZFu-9iJfOICmoyj_8ruGMtLsSyTQZZwzfvu1za7rRVAWz0KJl18b23cJYlPqAIjpkaQs2ELd4cHFPW_vTisSPDcBg3-jIQOsDqA1rPuqJlAEYNxpRX9v6HkA2NdY6MZ53L/w1200-h630-p-k-no-nu/Magic%20Cannot%20Post.jpg"
+        },
+        {
           "id": "https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html",
           "author": null,
           "description": "Sometimes one finds oneself in a situation where there is an immediate need to Introduce a new PC to a Party whilst the adventure is currently in progress. Their character falls, and after the comforting clatter of dice, they have made a new one: But by what means do they get ushered into play?\n Here is a table that might supply a skosh of inspiration or at least some “starting points” for these sticky situations where there’s need for a Sudden Entrance, Stage Left. Like most of my tables, it might need a bit of strategic tailoring to the specific situation and taste. Remember the Trick behind all those seemingly stray Capital Letters: Capitalized Words can always be freely substituted/specified/adjusted to fit.\n I’m afraid that most of these might impinge on Player Agency a bit, but I’ve always felt that a player character’s Prologue was fairer game for such things, and it’s a small price to pay for being able to leap back into the action I suppose. I’ve tried to shy away from some of the ones I’ve seen used that put the Character or Player in some of the more uncomfortable spots, and leaning into a bit of mystery and unanswered questions to flesh out in play is never a bad thing in my book. One could even just have them roll (or even select!) an entry that strikes them as that final step of creating their new character. A bit of brief, hopefully  actionable backstory never hurt anyone, and who knows where it could lead? 😊\n Several of these entries are ones I’ve found myself having to use in the past, some even served as Session/Campaign Starters in their own right or Premises for One-Shot Games, so I’m sure there might be a bit of additional hidden utility in this table if one approaches it from other angles.",
           "link": "https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html",
           "publishedOn": "2022-06-13T15:08:00.001Z",
-          "wordCount": 1284,
+          "wordCount": 1291,
           "title": "d100 - Introductions for Newly Minted PCs In Medias Res",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_1skg0xfyvHVaN4y4I-MXNJjTDhyqypdsvrsPIw7C8vkDeQtJQxY83UEOM0d7P3BqPEwa_zAKDMlHJq07iTJDfK36FenBckIjkVQbDj--wBwCCKWEnwib8Lv6wfN9EY6y9a3nWO32tqxWJVLReExqRqsVfxPPDFZD_kAFxOAZh0n5T-0eyOarmmVw/w1200-h630-p-k-no-nu/Introducing%20Post.jpg"
         },
@@ -321,7 +331,7 @@
           "description": "Those Scrolls of Protection are a type of Magic Item that fills me with fond memories. Being usable by anyone (provided they can read them aloud), they really scratch a particular itch for me: They provide the ability to put Magic and Wonder in the hands of Classes that don’t normally have the capability to tangibly access this aspect of play. An athaumic Fighter, unfurling that fluttering page of parchment to have that chance to harness some Magic occasionally is a very fun thing. I also enjoy how they generally serve as timely “bacon-savers” of the highest degree: They are an excellent example of a specific Tool, that when used in the proper circumstances, can really make a world of difference.\n Sadly, the standard safeguards provided, while eminently useful, are still somewhat limited i…",
           "link": "https://blog.d4caltrops.com/2022/06/d100-atypical-scrolls-of-protection.html",
           "publishedOn": "2022-06-06T13:46:00.000Z",
-          "wordCount": 1265,
+          "wordCount": 1270,
           "title": "d100 - Atypical Scrolls of Protection & Assorted Aegides",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj73DhYD49vWMKghOooUUrvFCJMtnP2RCIxO16DNYNX1jEb-WMmZKeL_5HeHJLYIv7L4MwSHMro_uRXkxKRUVZgmyiI7Scl8SvYXKN76IrJWpWeqIYLlJRIFsu-OeFF62YqD0GtukCLt3_Gjxxqcgwxf8zNY_lGgsmdCyetW3qgRM8yRGZ3AiElXZVJ/w1200-h630-p-k-no-nu/protection%20scrolls.jpg"
         },
@@ -331,7 +341,7 @@
           "description": "Drawbacks and Complications for Magic are something I’m fairly fond of using in my games. A useful item, with an inconvenient defect is more memorable, just as a Cursed item with just enough usefulness to hang onto can also be more fun than metagame conceits that keep it in player hands. \n   \nIt is always appealing to me when one of these snags ends up being a boon with the proper creative application. Just like how my Unconventional Potions and some of my other Magic Item posts end up embellishing these creations with features that might just be a perfect key for a lock yet unknown, some of these entries might end up working in a similar fashion. \n   \nHere is a list of a hundred of these sorts of impediments and imperfections. You could even use them to garb Spells themselves, Familiars, Magic Item Creation, or other wonderous things with a little bit of creative adjustment.",
           "link": "https://blog.d4caltrops.com/2022/06/d100-flaws-foibles-for-more-fickle-magic.html",
           "publishedOn": "2022-06-04T00:06:00.000Z",
-          "wordCount": 1036,
+          "wordCount": 1041,
           "title": "d100 - Flaws & Foibles for More Fickle Magic",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-U_GCDdK8mjyDUgTJjfFBHvOUu6kEpR16R5Y-JJ6PfeZDb5bPkqQ5CnZjhJbNwYEQTl1SS04m-7FlOc5vVMLhx3mFabGuoVmD8I8PmLbzc1nr_F4ECK0PqwUOdKG1XmB2CO6-818Q-e4kqeNHdwydvl8wU7dSPM5AHBpBk0BkNOorLlKZZ-VFBC7j/w1200-h630-p-k-no-nu/magic%20item%20complications.png"
         },
@@ -400,9 +410,9 @@
           "description": "Once again, per the methodology from Priestess of Spiders.\n\nIdea : The aviary burial crypt of an ancient demon meant to be kept locked away \n\n\nHook : Wizard's paying you to crack open this tomb and bring back its contents\n\n\nEncounters :\n\n\nA. 1d8 devil peacocks with flaming eyes and golden tail feathers, prowling about crooning praises of their lord. \n\n\nB. 2d4 tomb guardians wrapped in scripture-inscribed cloth, lugging copper-swords, bellowing warnings at interlopers. Detest the peacocks, pity the skeletons.\n\n\nC. 1d4 golden skeletons aimlessly whispering, grasp at the living in hopes of dragging them back to their slumbering master and having their flesh restored in reward. \n\n\nKey :\n\n\nTrap/Hazards \n\n\nA long hall with lead seal inscribed into the floor and ceiling, both glow sickly, steppin…",
           "link": "https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-crypt-of-bird-demon.html",
           "publishedOn": "2022-06-06T02:09:00.004Z",
-          "wordCount": 937,
+          "wordCount": 925,
           "title": "30 Minute Dungeon : Crypt Of The Bird Demon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex6W4z74CK2RVYZeFtMAPfGcYm78Z45fYBnMKddFOsXgFdRqM7HFE3mdygGHx6dycL3DFWm9cQNCk03zHfFY4UrYVwTnoIbFI0BUg3yqYMu7yY04GZfsrZ4wP9248thRZCfEyfssDIqaRrY=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwKt0NZ0Ajo7-G-WveDKG1bQDEJocRqquu2HcR941KMtnNFembQg5H76DiFTN6rTs2xxB7nynwiU06MCHYwSvz_m8i_N8bdmJPjQWJsxfbJdtKYhSiN93h9QBT7EsEYTsAs29DD0VE-kRst=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html",
@@ -410,9 +420,9 @@
           "description": "Per the methodology from Priestess of Spiders.\n\nIdea : A haunted and overgrown amphitheater complex used as a hideout by brigands\n\n\nHook : Rescue the son of a merchant whose being held for ransom\n\n\nEncounters :\n\n\nA. 1d6 brigands, flaunting cockades and toting knives and pistols, on patrol. Swaggering and joking among each other, not really expecting anything. \n\n\nB. 1d4 ghosts, singing and muttering their lines, will ask you to join in a play, if satisfied they will gift you a silver gilded thespian mask, if refused they will conjure up a miniature tempest.\n\n\nC. The brigand prince, dressed in plundered finery, mediating a dispute between two brigands over the proper ownership of a bejeweled goblet, a duel looks to be in order. \n\n\nKey :\n\n\nTrap/Hazards \n\n\nA web of strings hung with bells across the easiest approach into the amphitheater, if disturbed the ringing will alert 1d6 brigands who will come to investigate. \n\n\nA makeshift fire-pit surrounded by 1d8 snoring brigands who roll and shift uneasily in their sleep. A very large and obvious iron key ring hangs on the far wall.\n\n\n\"Empty\"\n\n\nThe stage, wooden boards sagging and pierced through with growing trees in places, looking up you can see the whole of the encircling bleachers.\n\n\nOld musty prop closets, digging around unearths two intact silk robes and a tarnished silver amulet. \n\n\nA gnarled tree growing out of the stands, its roots split apart the stones allowing one to easily drop down into an old dusty under-passage. \n\n\nSpecial \n\n\nThe acoustics when standing in the seats are perfect to amplify any sounds three-fold and let you displace it as though a ventriloquist anywhere in the structure. \n\n\nNon-Player Character\n\n\nUmberto, an amateur con artist the brigands mistook for a noble and are holding captive. He has made friends with the ghosts who occasionally visit him to put on miniature dramas, though they are reluctant to help him escape.",
           "link": "https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html",
           "publishedOn": "2022-06-03T20:00:00.005Z",
-          "wordCount": 899,
+          "wordCount": 887,
           "title": "30 Minute Dungeon : Amphitheater Of Ghost & Brigand",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EztjxYTMJBDzTYFh-HqrHXfxj_bbWSu9uz72fezAJ2-foFTSUfVWhFx1O9qDkSOwWPjdI2GNz5lszcfL-EYvNmp2TH0zkJkKykCtPnELr_UZBq9LpLg7Rhw-LnoPCvyKjq2jJhIRqKdrN7sr5Wa_9gMMyvc8zNNdMZSBxPS6IXE_Hs=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EykaR3S2Whz9lTYeL2pXdYlVRqfAWvj9r06yMaDMmYU4oCpHLB6mvlb1ip6D_EGILREy2v5QbZxi4gxwixUghQXrD-Yxgxif0gvq1KmQAaa-COPl7mBD_6b4r64k7vmxWz-nEacvVDXaoWVq8fomwehQCPhMpFne6-xvLVqiaHtI5k=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html",
@@ -420,7 +430,7 @@
           "description": "Shellfolk Rambler\nFor every youth there comes a time to go rambling on a long tour of the stars, some keep it small; just the local hives, others hop ship-to-ship with the strange shell-less foreigners to odd worlds. Everyone comes home eventually, with stories a-plenty to tell of their adventures.\n\nSymbiote shell-suit (crustacean-esq, vacuum-rated, maneuvering jets, alive)\nMushroom-cricket pemmican (wrapped in bio-plastic, leftovers fed to suit)\nDagger-axe, short hafted\nRigging knife\nCable coil, weighted end (lassoing)\nFertilizer brick (compressed phosphates & nitrates wrapped in cheap gold foil)\nLeg-braces\nMembrane tent (with airlock)\nShell-paint, turquoise (vacuum-rated)\nStory-songs : The Many Quest-Rovings of Yohann the Wake\nLongshoremen's tattoo, carved (Belphagor docks)\nUnfolding tableau, gold & aluminum etching of hive-mates & ancestors \nPitons (handful)",
           "link": "https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html",
           "publishedOn": "2022-05-30T14:36:00.001Z",
-          "wordCount": 688,
+          "wordCount": 676,
           "title": "Inventory Worldbuilding : Shellfolk Rambler",
           "imageUrl": null
         }
@@ -437,7 +447,7 @@
           "description": "Making your own Troika setting using Pathfinder or D&D inspirations.",
           "link": "https://githyankidiaspora.com/2022/06/14/quick-and-ugly-troika-setting-hack/",
           "publishedOn": "2022-06-14T04:21:04.000Z",
-          "wordCount": 826,
+          "wordCount": 832,
           "title": "Quick and Ugly Troika Setting Hack",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/d66-blank-table.png?w=849"
         },
@@ -447,7 +457,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...the group continued playing the incursion, A Heart Hums in the Darkness by Michael Van Vleet.",
           "link": "https://githyankidiaspora.com/2022/06/11/5-sweet-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-06-11T05:25:58.000Z",
-          "wordCount": 1332,
+          "wordCount": 1341,
           "title": "5 – Sweet, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/a-heart-hums-in-the-darkness.png"
         },
@@ -457,7 +467,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 talk to a vampire to better understand Innistrad and a lich to better understand Orcus.",
           "link": "https://githyankidiaspora.com/2022/06/09/imbalance-in-the-outlands-session-3-the-vampire-the-lich-and-the-raven-queen/",
           "publishedOn": "2022-06-10T02:33:52.000Z",
-          "wordCount": 949,
+          "wordCount": 958,
           "title": "Imbalance in the Outlands, Session 3, The Vampire, the Lich and the Raven Queen",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -467,7 +477,7 @@
           "description": "Making a Well of Worlds using ideas from Apocalypse World for our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/06/09/making-a-well-of-worlds/",
           "publishedOn": "2022-06-09T22:32:08.000Z",
-          "wordCount": 529,
+          "wordCount": 538,
           "title": "Making a Well of Worlds",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/valentin-lacoste-jnsje8dmro0-unsplash.jpg"
         },
@@ -477,7 +487,7 @@
           "description": "A Necromancer, a Nunslinger and a Temple Knight of Telak the Swordbringer walk into a dungeon… We had made characters and agreed to play the following Friday. I knew how I wanted to prepare but didn’t get to it until the Friday afternoon before the game. I had read the rules but couldn’t quite picture […]",
           "link": "https://githyankidiaspora.com/2022/06/04/someplace-cool-with-troika-numinous-edition/",
           "publishedOn": "2022-06-04T04:40:39.000Z",
-          "wordCount": 1211,
+          "wordCount": 1220,
           "title": "“Someplace cool,” with Troika! Numinous Edition",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/someplace-cool-with-troika.png"
         },
@@ -487,7 +497,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...",
           "link": "https://githyankidiaspora.com/2022/06/02/thursday-night-ap-template-imbalances-in-the-outlands-session-2-a-balanced-deal-with-a-heaping-side-of-lore/",
           "publishedOn": "2022-06-03T02:15:41.000Z",
-          "wordCount": 1128,
+          "wordCount": 1137,
           "title": "Imbalances in the Outlands, Session 2, A Balanced Deal with a Heaping Side of Lore",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -497,7 +507,7 @@
           "description": "This week in our Dungeons and Dragons game set in Ravenloft. When we lost left our stalwart investigators, they were about to meet up near the apartment where Killian and Valentia were having their dalliance. A mysterious blue man in a black suit with black horns atop his head, was also waiting nearby, though he hadn't noticed them yet.",
           "link": "https://githyankidiaspora.com/2022/06/02/dread-domain-detectives-illustrated-session-2-awaken-thrilling-horror/",
           "publishedOn": "2022-06-03T01:41:29.000Z",
-          "wordCount": 1481,
+          "wordCount": 1490,
           "title": "Dread Domain Detectives Illustrated, Session 2 – Awaken Thrilling Horror",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/dddi-twitter-title-pic-s2.png"
         },
@@ -507,7 +517,7 @@
           "description": "The Kranev Investigative Guild is a group patron, as seen in Tasha's Cauldron of Everything perfect for us with one's Van Richten's Guide to Ravenloft in one's Dungeons and Dragons games.",
           "link": "https://githyankidiaspora.com/2022/06/01/kranev-investigative-guild/",
           "publishedOn": "2022-06-01T10:07:00.000Z",
-          "wordCount": 963,
+          "wordCount": 972,
           "title": "Kranev Investigative Guild: a group patron for one’s Ravenloft campaign",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/kranev-ig-twitter-pic-with-satchel.png"
         },
@@ -517,7 +527,7 @@
           "description": "In which we make Troika characters and agree to meet up next Friday to play them.",
           "link": "https://githyankidiaspora.com/2022/05/30/troika-emerges-from-a-pile-of-games/",
           "publishedOn": "2022-05-30T10:00:00.000Z",
-          "wordCount": 1217,
+          "wordCount": 1226,
           "title": "Troika emerges from a pile of games",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/pile-of-books-twitter-pic.png"
         },
@@ -527,7 +537,7 @@
           "description": "In which I link to two adorable OSR-related links.",
           "link": "https://githyankidiaspora.com/2022/05/27/what-about-the-adorable-side-of-the-osr/",
           "publishedOn": "2022-05-27T17:36:16.000Z",
-          "wordCount": 486,
+          "wordCount": 495,
           "title": "What about the adorable side of the OSR?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/ttrpg-collection-banner-2.png"
         },
@@ -537,7 +547,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...In which the Sigil 6 help Garl Glittergold with a druidic cult that was stealing acorns from his oak trees in the Golden Hills of Bytopia.",
           "link": "https://githyankidiaspora.com/2022/05/26/imbalances-in-the-outlands-session-1-acorn-problem-in-bytopia/",
           "publishedOn": "2022-05-27T02:35:50.000Z",
-          "wordCount": 2205,
+          "wordCount": 2214,
           "title": "Imbalances in the Outlands, Session 1, Acorn Problem in Bytopia",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -547,7 +557,7 @@
           "description": "Ripped from the pages of Van Richten's Guide to Ravenloft, Talis and Viktor investigate crimes throughout Ludendorf in cold Lamordia in our Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/05/26/dread-domain-detectives-illustrated-session-1-motives-were-mingled/",
           "publishedOn": "2022-05-26T18:07:23.000Z",
-          "wordCount": 1256,
+          "wordCount": 1265,
           "title": "Dread Domain Detectives Illustrated, Session 1 – Motives Were Mingled",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/ddi-basic-s1.png"
         }
