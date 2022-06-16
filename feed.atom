@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T08:24:53.182Z</id>
+    <id>urn:2022-06-16T16:26:43.950Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T08:24:53.182Z</updated>
+    <updated>2022-06-16T16:26:43.950Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -642,16 +642,6 @@ TL;DR Creating weird "Mecha" (including more symbolic extrapolations of the body
         <summary type="html"><![CDATA[Twinkling and glimmering, shimmering and shining; atop a massy pile of golden coin, perhaps, or the brilliant crowning glory of the head that wears that heavy burden. Or perhaps that gleaming gem came prized from between a dragonlord’s lyre-curved horns; or drawn from the throat of a frozen phoenix; or … Whether gathered from a … Continue reading Most Precious Beauty →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabletop is Theatre, Videogames are Film]]></title>
-        <id>https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html</id>
-        <link href="https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html"/>
-        <updated>2022-05-18T00:05:00.006Z</updated>
-        <summary type="html"><![CDATA[Theatre and film are intimately linked mediums of artistic expression. They use many of the same core ingredients (visual, sound and dialogue, time, performance) and even employ most of the same optional conventions (experienced in a single sitting lasting a couple hours, uses non-diegetic music, usually presents the action in its own space and told in roughly real-time for most or all scenes, etc.). Obviously there are exceptions where one medium is used to do something quite different, such as documentary for film or an interactive murder mystery dinner theatre for the stage. But they are closely related media, with film arguably descended directly from theatre. Early film even copied most of theatre's conventions, such as all the action taking place on a "stage" viewed from a single, fi…]]></summary>
-        <author>
-            <name>A Knight at the Opera</name>
         </author>
     </entry>
 </feed>
