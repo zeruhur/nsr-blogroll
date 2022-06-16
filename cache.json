@@ -94,7 +94,7 @@
           "description": "Theatre and film are intimately linked mediums of artistic expression. They use many of the same core ingredients (visual, sound and dialogue, time, performance) and even employ most of the same optional conventions (experienced in a single sitting lasting a couple hours, uses non-diegetic music, usually presents the action in its own space and told in roughly real-time for most or all scenes, etc.). Obviously there are exceptions where one medium is used to do something quite different, such as documentary for film or an interactive murder mystery dinner theatre for the stage. But they are closely related media, with film arguably descended directly from theatre. Early film even copied most of theatre's conventions, such as all the action taking place on a \"stage\" viewed from a single, fi…",
           "link": "https://knightattheopera.blogspot.com/2022/05/tabletop-is-theatre-videogames-are-film.html",
           "publishedOn": "2022-05-18T00:05:00.006Z",
-          "wordCount": 6169,
+          "wordCount": 6167,
           "title": "Tabletop is Theatre, Videogames are Film",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwVU7OClLL3srvwPnrg5iz5JI7zm45ZY3OoyuPrY657TfGq4_eiVnkvLMw_4QuYYiPqykhL93nbr0WSKRZzRFoUy9vxtkmNz_IP0_rruwZooxiJ1yFbRGhllDbOgqx6S4PbR7T-oX93fHRUaFcPfhz1wybvanIcimyMNymbKW9h7tVibOygVDDyTE/w1200-h630-p-k-no-nu/05_custom.jpg"
         }
@@ -106,12 +106,22 @@
       "siteUrl": "https://riseupcomus.blogspot.com/",
       "articles": [
         {
+          "id": "https://riseupcomus.blogspot.com/2022/06/dark-souls-esque-worldbuilding.html",
+          "author": null,
+          "description": "When I was a kid, I checked out The World of Robert Jordan's The Wheel of Time from the library over and over and pored over it. I loved it. I wanted to get deep in the lore, learn about the world, memorize the names of the creatures and the spells.\nMy tolerance for this stuff is pretty different now. \nSeveral writers have well articulated my current position: no lore, no homework.\nBut how? How can I pretend to be an elf in my elf game without doing any work up front? How can I be on the same page as other players? As the GM? How do I navigate inconsistencies and incongruities, and \"Actually, you wouldn't say that because elves are strict vegetarians/allergic to iron/don't ride horses.\" \nGames are about decision making but it's hard to make informed decisions about a niche subject. \n\n\nDark…",
+          "link": "https://riseupcomus.blogspot.com/2022/06/dark-souls-esque-worldbuilding.html",
+          "publishedOn": "2022-06-16T02:10:00.002Z",
+          "wordCount": 4266,
+          "title": "Dark Souls-esque Worldbuilding",
+          "imageUrl": null
+        },
+        {
           "id": "https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html",
           "author": null,
           "description": "If you want to play a gnome illusionist or a bard whose songs take shape or a hard-light construct who crash landed into your fantasy setting, you can use this class. \nGlamour-Weaver\nSaves and Levels: As a thief\nProficiencies: As a magic-user\nRunes: At level 1, gain three random runes. Every level thereafter, gain one random rune. \nWith a week of downtime and 1,000 silver in magical materials (mithril inks, obsidian mirrors, lights reflected from distant stars), you may attempt to research a specific rune. At the end of the week, Save vs Wands. If successful, you learn the rune you were researching. If you fail, you do not learn the rune and your research is wasted.\n\n\nNote: Runes map 1-to-1 with the English alphabet equivalent. Runes are just cooler than \"letters.\"\nWeave Glamour: A glamour…",
           "link": "https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html",
           "publishedOn": "2022-06-10T14:47:00.008Z",
-          "wordCount": 1439,
+          "wordCount": 1444,
           "title": "Glamour-Weaver - Freeform Illusion Magic",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Y9iLWvBS5fCM6vKXbO2jZ4SvbZyZw_pIp-l8RyVyY4Edceno8oAO6A1e6GW1AhfEG_Ruv7pQRUo2s2Kdzja4ws2r1pm6LKw-M8asrgjIlODPXGx2r8oeSWT0Gs75mOwG2Vh3V3SgmQmzDEadTnHea0wkmAIdodu6X1skOlbS2Nq8OuyTJgN3obS2FQ/w1200-h630-p-k-no-nu/Elder_futhark.png"
         },
@@ -121,7 +131,7 @@
           "description": "One of my fave GLoG blogs - Whose Measure God Could Not Take - did a fun meme about listing cheap tricks that GMs can use to make their game better. You can see the original and the resulting links to other cheap tricks here.\nHere are 15 more cheap tricks.\n1. Give your players an INC map. Seriously. Choosing the routes gives players an interesting decision point and discovering the room contents is fun. Saying \"Wait, you said TWO exits on the north wall? I gotta redraw\" is less fun.\n1a. You can still have secret rooms. Seeing the \"gaps\" on the map and finding the door will make players feel smart.\n2. Unless you're learning the game for the first time, don't pause the game to look up rules. Make the call the players want you to make, then get a rules lawyer to look it up while you continue …",
           "link": "https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html",
           "publishedOn": "2022-06-01T23:06:00.000Z",
-          "wordCount": 1663,
+          "wordCount": 1666,
           "title": "15 (more) cheap tricks",
           "imageUrl": null
         }
@@ -140,7 +150,7 @@
           "publishedOn": "2022-06-13T21:28:00.001Z",
           "wordCount": 2613,
           "title": "New Kinds of Magic",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzlOe-e6jXpg-sNVU0OWxX-vlGvDq8OKu0T3n8p5No9OHZ_TVrO3XECmpop7r-N6Xoq1t44QeQJrmlQtFHsvaRGwS0gZsmq5LEhxnrkFh9QN1zBToS1QRdeQhenUddxO8noYjYabBUaOxzkQ5OJpBV8SUoua837WwFRclYpYK_ffis5km3NwJoxNlti8g=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExpkLWQIgiW3IET4NQ29Fz7Kkap5HcV0-WfDs6iWN6ZZu2bmD26jkpKSaeOrtIeMo2uG9I_9bKmrMnAJSyeIAU1Cpifsw0_7Gx2H_OlvtF6WiBnBssbF4q7nfSsoJ_mYyIyF1TmmWgk9tmrFVRS9qyklJMfcIdYBug2gIQN4sUoQSjmBn2IrJJwKoOEtQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/06/5-minute-challenge-anew-incursion.html",
@@ -150,7 +160,7 @@
           "publishedOn": "2022-06-06T12:52:00.001Z",
           "wordCount": 2113,
           "title": "5 Minute Challenge Anew: Incursion",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey5Jc3XBCjpJwQHT9_6srQLOhiJWd5283pnUHpHDXHtQOq4frPCG-IcajG08EMXyX0PWIGWmpNBNyKb62Wfld-Sg6r5qflnKPflMv_AFst3R3yhyOWAt-Z43Q8BPrZPfzVXO_ASeCK046BVzx4d7cTive_3BIPYEYz86N_ugUOzbe0cA0BNF-m82zdtJ5vg1NWjUjASMYTmdp5jjwe3EvU=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Eze17BU99XdEEywegaL3za-FaJQ4yZ4LTS_nw_zs6JEFfqeLNW0czOh6yN-apgCy9YkUj1s8Q7bsyeGOMAkKOHBo9Fmc1hC2m4VAub4Sy15Evdknc0vUH2ousOFTCovlfukhysMNaiXet2KbfikuvchyPjx4IAbRjtfMHOLr_rg_i8Nlmr8d2T9UEnT8kHnqWWcxBLNAsy0Pq-clPCSbIs=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html",
@@ -160,7 +170,7 @@
           "publishedOn": "2022-05-30T18:20:00.001Z",
           "wordCount": 2315,
           "title": "Getter Robo Armageddon Not-Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExBimBYQ_mKvgJZDzWghee6Pr675DD0LMXj-gP615mnyonkNolv_iuojH9E25IoINo-XJIZrDuemAmcibymKf7zIKrTRpfnL1WVCLs9lfQwjjWyBcyi7Gl4RCYPEyRbNs_QuoJ4cP-TfCWPFT0PrKY=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzdrKnUsRVDfOLRzOmsH6IdmoDhbHFSC2JmcyXbrP8noAzTxWjApxtoC4ggUVsfjL4DesNxhhSqSRBRKPH5eIrVE9E94xioRMvQ5yU8zM2TK9AegiSkstrD3-PH2qEzrjFzycfUyOQsikq8u6eqZ3A=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html",
@@ -170,7 +180,7 @@
           "publishedOn": "2022-05-23T12:05:00.002Z",
           "wordCount": 3027,
           "title": "Weird Mecha: An Exercise in Nihilism",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez_uI7uMN2crxRs-OOJpzW2XpNTMyLfku2oTp2Zq0_sGVeT5ky_JXbog6KghEIJFWynBul9zrACHcL_4VUSuLng_wDodhGIwOqqbzto_RGVbM2hQBi4QMiVzCNzIclfEHKDMdK0luRkd78WLLExNaYg5ioJrxPt9q83OU24rGPNjNDyc6Z18ok8Remylta6nfzIonB00ZNVpIjjCu9aPukts6fyZ1lydoUozfbqTwPspv1U68F1-SjwG9w_iJgN5Ejrhg=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExMFwjJuXRb7fpUdP2ULiPJtsiwCgTF5ra6pjFmAFM1-ZAtqEVlF1BX3ji3ng5lMDyQH57TDs4j0wKQfSzYz_TYBzwLz6sJrL_zDKr405zVTPGyoL6Hyv3VzDgO6aQFCi0lAA91pqwl3shLPpQ6UPFtBTA2GVVzQInhfiYjdjHOS0lEz_-6w_G2qPYWjV0E7uhnN9IAg2zTARz5GdaD5_6CJqsBdAOwovoVrl5pT3KECHzBXHYGeFbbnp4e_spAnWU2YQ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -412,7 +422,7 @@
           "publishedOn": "2022-06-06T02:09:00.004Z",
           "wordCount": 924,
           "title": "30 Minute Dungeon : Crypt Of The Bird Demon",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey_5_4HJ-FdedDmml_UtNIkTjl-lDNIRrqC4VKb7wcLxZ134-gifB4ac3hUP25o33YY4fZ-oI6tn_0C-D9v9OHvCaWuzPjH6aKraSlzqOKWc5fdzRYpVYD6MaexFY0bO0WOPOKNIsSJKhLT=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezq6tu_miCAcZ7vuPVW8ZaN4vKMXDs4UGZd18ASMyD4sg7MYaX2JyjyaSIJBP-ad7p_nkH2E46zbdazWQid_6hUx2TNyAHmSLzUGC3d87nxb2Qe6n7Y6PtXbYXUsaDzdnreDVP4X9MdT4OB=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html",
@@ -447,7 +457,7 @@
           "description": "Making your own Troika setting using Pathfinder or D&D inspirations.",
           "link": "https://githyankidiaspora.com/2022/06/14/quick-and-ugly-troika-setting-hack/",
           "publishedOn": "2022-06-14T04:21:04.000Z",
-          "wordCount": 842,
+          "wordCount": 833,
           "title": "Quick and Ugly Troika Setting Hack",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/d66-blank-table.png?w=849"
         },
@@ -457,7 +467,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold...the group continued playing the incursion, A Heart Hums in the Darkness by Michael Van Vleet.",
           "link": "https://githyankidiaspora.com/2022/06/11/5-sweet-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-06-11T05:25:58.000Z",
-          "wordCount": 1351,
+          "wordCount": 1342,
           "title": "5 – Sweet, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/a-heart-hums-in-the-darkness.png"
         },
@@ -467,7 +477,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 talk to a vampire to better understand Innistrad and a lich to better understand Orcus.",
           "link": "https://githyankidiaspora.com/2022/06/09/imbalance-in-the-outlands-session-3-the-vampire-the-lich-and-the-raven-queen/",
           "publishedOn": "2022-06-10T02:33:52.000Z",
-          "wordCount": 968,
+          "wordCount": 959,
           "title": "Imbalance in the Outlands, Session 3, The Vampire, the Lich and the Raven Queen",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -477,7 +487,7 @@
           "description": "Making a Well of Worlds using ideas from Apocalypse World for our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/06/09/making-a-well-of-worlds/",
           "publishedOn": "2022-06-09T22:32:08.000Z",
-          "wordCount": 548,
+          "wordCount": 539,
           "title": "Making a Well of Worlds",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/valentin-lacoste-jnsje8dmro0-unsplash.jpg"
         },
@@ -487,7 +497,7 @@
           "description": "A Necromancer, a Nunslinger and a Temple Knight of Telak the Swordbringer walk into a dungeon… We had made characters and agreed to play the following Friday. I knew how I wanted to prepare but didn’t get to it until the Friday afternoon before the game. I had read the rules but couldn’t quite picture […]",
           "link": "https://githyankidiaspora.com/2022/06/04/someplace-cool-with-troika-numinous-edition/",
           "publishedOn": "2022-06-04T04:40:39.000Z",
-          "wordCount": 1230,
+          "wordCount": 1221,
           "title": "“Someplace cool,” with Troika! Numinous Edition",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/someplace-cool-with-troika.png"
         },
@@ -497,7 +507,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...",
           "link": "https://githyankidiaspora.com/2022/06/02/thursday-night-ap-template-imbalances-in-the-outlands-session-2-a-balanced-deal-with-a-heaping-side-of-lore/",
           "publishedOn": "2022-06-03T02:15:41.000Z",
-          "wordCount": 1147,
+          "wordCount": 1138,
           "title": "Imbalances in the Outlands, Session 2, A Balanced Deal with a Heaping Side of Lore",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -507,7 +517,7 @@
           "description": "This week in our Dungeons and Dragons game set in Ravenloft. When we lost left our stalwart investigators, they were about to meet up near the apartment where Killian and Valentia were having their dalliance. A mysterious blue man in a black suit with black horns atop his head, was also waiting nearby, though he hadn't noticed them yet.",
           "link": "https://githyankidiaspora.com/2022/06/02/dread-domain-detectives-illustrated-session-2-awaken-thrilling-horror/",
           "publishedOn": "2022-06-03T01:41:29.000Z",
-          "wordCount": 1500,
+          "wordCount": 1491,
           "title": "Dread Domain Detectives Illustrated, Session 2 – Awaken Thrilling Horror",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/dddi-twitter-title-pic-s2.png"
         },
@@ -517,7 +527,7 @@
           "description": "The Kranev Investigative Guild is a group patron, as seen in Tasha's Cauldron of Everything perfect for us with one's Van Richten's Guide to Ravenloft in one's Dungeons and Dragons games.",
           "link": "https://githyankidiaspora.com/2022/06/01/kranev-investigative-guild/",
           "publishedOn": "2022-06-01T10:07:00.000Z",
-          "wordCount": 982,
+          "wordCount": 973,
           "title": "Kranev Investigative Guild: a group patron for one’s Ravenloft campaign",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/kranev-ig-twitter-pic-with-satchel.png"
         },
@@ -527,7 +537,7 @@
           "description": "In which we make Troika characters and agree to meet up next Friday to play them.",
           "link": "https://githyankidiaspora.com/2022/05/30/troika-emerges-from-a-pile-of-games/",
           "publishedOn": "2022-05-30T10:00:00.000Z",
-          "wordCount": 1236,
+          "wordCount": 1227,
           "title": "Troika emerges from a pile of games",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/pile-of-books-twitter-pic.png"
         },
@@ -537,7 +547,7 @@
           "description": "In which I link to two adorable OSR-related links.",
           "link": "https://githyankidiaspora.com/2022/05/27/what-about-the-adorable-side-of-the-osr/",
           "publishedOn": "2022-05-27T17:36:16.000Z",
-          "wordCount": 505,
+          "wordCount": 496,
           "title": "What about the adorable side of the OSR?",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/ttrpg-collection-banner-2.png"
         },
@@ -547,7 +557,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...In which the Sigil 6 help Garl Glittergold with a druidic cult that was stealing acorns from his oak trees in the Golden Hills of Bytopia.",
           "link": "https://githyankidiaspora.com/2022/05/26/imbalances-in-the-outlands-session-1-acorn-problem-in-bytopia/",
           "publishedOn": "2022-05-27T02:35:50.000Z",
-          "wordCount": 2224,
+          "wordCount": 2215,
           "title": "Imbalances in the Outlands, Session 1, Acorn Problem in Bytopia",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/imbalances-in-the-outlands-twitter-pic-2.png"
         },
@@ -557,7 +567,7 @@
           "description": "Ripped from the pages of Van Richten's Guide to Ravenloft, Talis and Viktor investigate crimes throughout Ludendorf in cold Lamordia in our Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/05/26/dread-domain-detectives-illustrated-session-1-motives-were-mingled/",
           "publishedOn": "2022-05-26T18:07:23.000Z",
-          "wordCount": 1275,
+          "wordCount": 1266,
           "title": "Dread Domain Detectives Illustrated, Session 1 – Motives Were Mingled",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/05/ddi-basic-s1.png"
         }

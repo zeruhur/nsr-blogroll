@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T01:27:06.239Z</id>
+    <id>urn:2022-06-16T08:24:53.182Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T01:27:06.239Z</updated>
+    <updated>2022-06-16T08:24:53.182Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls-esque Worldbuilding]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/06/dark-souls-esque-worldbuilding.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/06/dark-souls-esque-worldbuilding.html"/>
+        <updated>2022-06-16T02:10:00.002Z</updated>
+        <summary type="html"><![CDATA[When I was a kid, I checked out The World of Robert Jordan's The Wheel of Time from the library over and over and pored over it. I loved it. I wanted to get deep in the lore, learn about the world, memorize the names of the creatures and the spells.
+My tolerance for this stuff is pretty different now. 
+Several writers have well articulated my current position: no lore, no homework.
+But how? How can I pretend to be an elf in my elf game without doing any work up front? How can I be on the same page as other players? As the GM? How do I navigate inconsistencies and incongruities, and "Actually, you wouldn't say that because elves are strict vegetarians/allergic to iron/don't ride horses." 
+Games are about decision making but it's hard to make informed decisions about a niche subject. 
+
+
+Dark…]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cumbersome Star Wars Combat]]></title>
         <id>http://technoskald.me/?p=6432</id>
