@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-15T16:23:29.555Z</id>
+    <id>urn:2022-06-16T01:27:06.239Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-15T16:23:29.555Z</updated>
+    <updated>2022-06-16T01:27:06.239Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cumbersome Star Wars Combat]]></title>
+        <id>http://technoskald.me/?p=6432</id>
+        <link href="https://technoskald.me/2022/06/15/cumbersome-star-wars-combat/"/>
+        <updated>2022-06-15T18:00:30.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been playing the original Star Wars RPG (WEG 1987) in a solo game and damn if combat isn’t cumbersome. Lots of rolling and comparison and adding numbers up, as trad games like this commonly require. First, you roll your skill (e.g. “Blaster”) to attack against a target number defined by range. If the defender … Continue reading Cumbersome Star Wars Combat →]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Micro hack of Mothership]]></title>
         <id>http://technoskald.me/?p=6425</id>
