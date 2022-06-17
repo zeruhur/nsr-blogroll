@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T01:23:09.809Z</id>
+    <id>urn:2022-06-17T08:23:01.711Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T01:23:09.809Z</updated>
+    <updated>2022-06-17T08:23:01.711Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gloomwrought: City of Midnight, Session 1, Locate Object]]></title>
+        <id>http://githyankidiaspora.com/?p=20123</id>
+        <link href="https://githyankidiaspora.com/2022/06/16/gloomwrought-city-of-midnight-session-1-locate-object/"/>
+        <updated>2022-06-17T02:37:45.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 arrive in Gloomwrought, hunting Rahadin who is now a crimelord, leading a posse of vampires.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worlds of Classic Traveller]]></title>
         <id>https://www.hypertextcorner.com/worlds</id>
@@ -674,16 +684,6 @@ TL;DR Creating weird "Mecha" (including more symbolic extrapolations of the body
         <summary type="html"><![CDATA[Inspirational Sources By request, I put together a list of reading material that directly influenced the writing and design of Cairn, as well as my upcoming setting/adventure Beyond The Pale.]]></summary>
         <author>
             <name>New School Revolution</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Precious Beauty]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1038</id>
-        <link href="https://hamsterhoard.home.blog/2022/05/18/most-precious-beauty/"/>
-        <updated>2022-05-18T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Twinkling and glimmering, shimmering and shining; atop a massy pile of golden coin, perhaps, or the brilliant crowning glory of the head that wears that heavy burden. Or perhaps that gleaming gem came prized from between a dragonlord’s lyre-curved horns; or drawn from the throat of a frozen phoenix; or … Whether gathered from a … Continue reading Most Precious Beauty →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
