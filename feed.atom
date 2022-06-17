@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T08:23:01.711Z</id>
+    <id>urn:2022-06-17T16:30:25.498Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T08:23:01.711Z</updated>
+    <updated>2022-06-17T16:30:25.498Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,9 +24,9 @@
 
 Worlds chapter from Classic Traveller Book 03. Modernised and edited with annotations. All values have been preserved to be compatible with the original.
 Star Mapping
-The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map. Give it a name. Label spinward and coreward directions.
+The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map (Hexographer is a solid digital option). You should have around 40 worlds total, which is plenty for a campaign. Give the subsector a name. Label spinward and coreward directions.
 World occurrence: Roll d6 for each hex, results of 4, 5, or 6 indicate a world is present.
-The average distance between two stars in our galaxy is about 5 light years, so Traveller gets quite close to that. What is interesting is that there is actually on avera…]]></summary>
+The average distance between two stars in our g…]]></summary>
         <author>
             <name>Worlds of Classic Traveller</name>
         </author>
@@ -35,7 +35,7 @@ The average distance between two stars in our galaxy is about 5 light years, so 
         <title type="html"><![CDATA[The Sprouted Stump: Thematic Musical Tables]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/06/the-sprouted-stump-thematic-musical.html</id>
         <link href="https://glassbirdgames.blogspot.com/2022/06/the-sprouted-stump-thematic-musical.html"/>
-        <updated>2022-06-16T22:31:00.004Z</updated>
+        <updated>2022-06-16T22:31:00.018Z</updated>
         <summary type="html"><![CDATA[In Crimea, Ivan Shishkin
 When I was very young there was a stretch when I was absolutely obsessed with Prokofiev's Peter and the Wolf. For those unfamiliar, the piece is a narrated children's story accompanied by an orchestra, with each character represented with a specific instrument and theme. I loved it, and would listen to it over and over again until I had every bit memorized. Not so much every word, or even the specifics of the story, but every turn of the music was etched into my imagination. The characters spoke to me not through their literal actions, but through the way they were portrayed by the orchestra. Soon I was imagining entirely new stories, new configurations of characters and their interactions based on the way their themes were woven together as the narration rattled o…]]></summary>
         <author>
