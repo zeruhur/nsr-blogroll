@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T16:30:25.498Z</id>
+    <id>urn:2022-06-18T01:27:49.336Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T16:30:25.498Z</updated>
+    <updated>2022-06-18T01:27:49.336Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,7 +25,7 @@
 Worlds chapter from Classic Traveller Book 03. Modernised and edited with annotations. All values have been preserved to be compatible with the original.
 Star Mapping
 The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map (Hexographer is a solid digital option). You should have around 40 worlds total, which is plenty for a campaign. Give the subsector a name. Label spinward and coreward directions.
-World occurrence: Roll d6 for each hex, results of 4, 5, or 6 indicate a world is present.
+World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world is present.
 The average distance between two stars in our g…]]></summary>
         <author>
             <name>Worlds of Classic Traveller</name>
