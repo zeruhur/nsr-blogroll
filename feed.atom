@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T08:20:51.200Z</id>
+    <id>urn:2022-06-18T16:22:28.524Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T08:20:51.200Z</updated>
+    <updated>2022-06-18T16:22:28.524Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -674,16 +674,6 @@ TL;DR Creating weird "Mecha" (including more symbolic extrapolations of the body
  So, this is a table about Generating Diseases, giving them Names for Settings that might benefit from less generic germs. As I was working on it, I decided that rather than fixate on the Effects, it would potentially be more useful to incorporate Rumors of Cures/Treatments that might be available for a given sickness. Obtaining this information might be the first step on the road to recovery. Much like how I prefer to manage Poisons, putting Death from this sort of misadventure on a …]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspirational Sources]]></title>
-        <id>https://newschoolrevolution.com/2022/05/20/inspirational-sources</id>
-        <link href="https://newschoolrevolution.com/2022/05/20/inspirational-sources"/>
-        <updated>2022-05-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inspirational Sources By request, I put together a list of reading material that directly influenced the writing and design of Cairn, as well as my upcoming setting/adventure Beyond The Pale.]]></summary>
-        <author>
-            <name>New School Revolution</name>
         </author>
     </entry>
 </feed>
