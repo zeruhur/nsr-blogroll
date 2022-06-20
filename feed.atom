@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T08:24:33.158Z</id>
+    <id>urn:2022-06-20T16:27:49.052Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T08:24:33.158Z</updated>
+    <updated>2022-06-20T16:27:49.052Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MRD2 PR 3: You Weren't Supposed to See That Yet]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-pr-3-you-werent-supposed-to-see.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-pr-3-you-werent-supposed-to-see.html"/>
+        <updated>2022-06-20T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Previous PRs and general MRD2 context
+The Corporation
+
+RegeXperience: “Live for the RegeXperience”. Childishly edgy experimental entertainment and defense company that doesn’t want the world to know what’s really behind their algorithm. EXPERIENCE, ALGORITHM, ENTERTAINMENT
+
+
+The Manager
+
+Baz Beetz: Infectiously enthusiastic “artiste” and true believer in the company mission who is as profound as nonsensical.
+
+
+The Cyblessed Liaison
+
+“Tastes like eating out the ass-end of human progress.”: Like a cheap flaccid little candle dripping wax down an otherwise glorious cake wearing a tacky suit reminiscent of a 1980’s faux-wood-paneled station wagon.
+
+
+The Issue
+
+The Quarterly earnings report is coming up soon, and The Corporation is anomalously underperforming.
+
+Several brand launches this Quart…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sojourner: Orbital]]></title>
+        <id>https://www.hypertextcorner.com/orbital</id>
+        <link href="https://www.hypertextcorner.com/orbital"/>
+        <updated>2022-06-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Homeworld 3 concept art.
+
+Continuing my Sojourner series, I was thinking about an ideal spaceship combat system. Ergo, one where not only the pilot and gunner get all the action. Inspired by Retired Adventurer’s rules, Classic Traveller Book 01 and my Spaceship Submarines I will flesh out the details of spaceships in Sojourner.
+Warning. Capital ship exiting jumpspace. Metal hulls scraping against the void. The void screams back, all while it bleeds a midnight star’s blood. Warning. Capital ship exiting jumpspace. You are not prepared. You were not well paid for this either. But you just have to survive until the payday. Warning.
+Interstellar Travel
+Travel along interstellar routes can be done using star gates. After paying your travel fees to the Empire, you are allowed passage to the next…]]></summary>
+        <author>
+            <name>Sojourner: Orbital</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alex’s Questions]]></title>
         <id>http://githyankidiaspora.com/?p=20146</id>
