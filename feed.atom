@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-21T16:27:45.758Z</id>
+    <id>urn:2022-06-22T01:47:37.268Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T16:27:45.758Z</updated>
+    <updated>2022-06-22T01:47:37.268Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,10 +127,10 @@ Travel along interstellar routes can be done using star gates. After paying your
         <summary type="html"><![CDATA[Perfect sunset by Axel-Astro-Art
 
 Worlds chapter from Classic Traveller Book 03. Modernised and edited with annotations. All values have been preserved to be compatible with the original.
-Online generator by Marcia using the tables bel.
+Online generator by Marcia using the tables below.
 Star Mapping
 The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map (Hexographer is a solid digital option). You should have around 40 worlds total, which is plenty for a campaign. Give the subsector a name. Label spinward and coreward directions.
-World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world is present…]]></summary>
+World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world is prese…]]></summary>
         <author>
             <name>Worlds of Classic Traveller</name>
         </author>
@@ -751,22 +751,6 @@ The spark for this new G&G came in July 2021, when I cam…]]></summary>
  Naturally, it’s seldom down to the artisans involved. With a more Mythic Underworld approach, in some of these frightening places every Door might require some Forcing for delvers and interlopers (while they are whisper quiet and open readily for Monsters of course). The Dungeon knows Her children and permits them to travel throughout freely as one of Her Dark Gifts. This creates a remarkably interesting pacing mechanism and can lead to tenser exploration. I tend to let a few of them swing freely, but still try to sprinkle in a few “Stuck” ones here and the…]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Mecha: An Exercise in Nihilism]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/weird-mecha-exercise-in-nihilism.html"/>
-        <updated>2022-05-23T12:05:00.002Z</updated>
-        <summary type="html"><![CDATA[I've enjoyed creating these Weird Mecha / Golem for MRD2. Two of the PCs in my MRD2 Campaign are using them (Chemysterious Cascader and Lycaon Strain), and one of them showed up as an enemy in a cliffhanger in the previous session. Those two are arguably more concrete than some of the other ones, which is ok, but I do really want to test the viability of abstract "Mecha" and exploring those possibilities both subtextually and in terms of how they open up the game in new ways.
-
-
-The two current posts include tables for superorganism mecha and embodied cognition mecha. In this post, I'll create a few mecha combining both of these tables. 
-
-
-TL;DR Creating weird "Mecha" (including more symbolic extrapolations of the body like superorganisms and cognition) where combinations of words are used …]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
