@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T01:40:45.485Z</id>
+    <id>urn:2022-06-25T08:20:33.293Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T01:40:45.485Z</updated>
+    <updated>2022-06-25T08:20:33.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Calamities for Lost Civilizations]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/06/calamaties-for-fallen-civilizations.html</id>
         <link href="https://glassbirdgames.blogspot.com/2022/06/calamaties-for-fallen-civilizations.html"/>
-        <updated>2022-06-24T20:52:00.006Z</updated>
+        <updated>2022-06-24T20:52:00.007Z</updated>
         <summary type="html"><![CDATA[Well, things are a bit fucking bleak today, eh? Let's talk about the end times.
 Between current events in the US of A, my work on my archeological hearth-fantasy setting, and my revisiting of the storyline of the latest Final Fantasy XIV expansion, I've been thinking a lot about dysfunctional, decaying and all-around disastrous empires and their ends.
 All of Ben Robbins' West Marches posts are incredibly useful, thought-provoking, and entertaining reading, but my favorite has always been his musings on Layers of History. I'm trying to invoke this especially in the stuff I'm writing lately, and it always helps to have some jumping off points for the Big Foundational Questions of a setting - the character of the ancient people that came before, and the reason they're no longer here. So here'…]]></summary>
@@ -799,28 +799,6 @@ Pitons (handful)]]></summary>
         <link href="https://githyankidiaspora.com/2022/05/26/imbalances-in-the-outlands-session-1-acorn-problem-in-bytopia/"/>
         <updated>2022-05-27T02:35:50.000Z</updated>
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...In which the Sigil 6 help Garl Glittergold with a druidic cult that was stealing acorns from his oak trees in the Golden Hills of Bytopia.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 – Magical Cloaks & Capes]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-magical-cloaks-capes.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-magical-cloaks-capes.html"/>
-        <updated>2022-05-26T18:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Nearly necessary for the necks of dashing Heroes or concealing nefarious Ne’er-do-wells, the ubiquitous Cloak receives some specific attention in the Magic Item tables of most versions of these games. Some of these garments quite interesting and intriguing (those fashioned from what I assume to be Displacing Beast Hide, the one “Of The Bat”, etc.) but the most common seem to just simply possess only protective properties or were woven by delicate Elfin hands to predictable effect.
- Since my Magic Item posts appear to be pretty popular, I decided to give these accessories a little more attention.
- See also: Magic Blades, Magic Shields, Magic Bows, Magic Footwear for more Random Tables along these lines.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 1 – Motives Were Mingled]]></title>
-        <id>http://githyankidiaspora.com/?p=19552</id>
-        <link href="https://githyankidiaspora.com/2022/05/26/dread-domain-detectives-illustrated-session-1-motives-were-mingled/"/>
-        <updated>2022-05-26T18:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Ripped from the pages of Van Richten's Guide to Ravenloft, Talis and Viktor investigate crimes throughout Ludendorf in cold Lamordia in our Dungeons and Dragons game.]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
