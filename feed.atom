@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T08:20:33.293Z</id>
+    <id>urn:2022-06-25T16:22:09.004Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T08:20:33.293Z</updated>
+    <updated>2022-06-25T16:22:09.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MRD2 Nazarite Contracts and MRD2 Updates]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html"/>
+        <updated>2022-06-25T14:03:00.002Z</updated>
+        <summary type="html"><![CDATA[I'm a few sessions into my MRD2 Campaign. Scheduling an IRL game is a nightmare or else I'd have liked to be a bit further into the campaign by now, but it's nice to be playing IRL again regardless. I'm realizing now that I've referenced Nazarite Contracts in the PRs and some of the other posts, but have not formally shared anything on them here.
+
+
+The Nazarite Contracts of MRD2 are equivalent to the Poltergeist Forms of MRD1, the character classes. They are meant to reflect various kinds of careers or skillsets related to careers, but also speak to the psychologies around those careers, what that says about the individual or their relationship with the world.
+
+
+Mechanically they are mostly the same as Poltergeist Forms, with some changes based on my experiences with my >1 year-long MRD1 C…]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calamities for Lost Civilizations]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/06/calamaties-for-fallen-civilizations.html</id>
@@ -789,16 +805,6 @@ Pitons (handful)]]></summary>
         <link href="https://githyankidiaspora.com/2022/05/27/what-about-the-adorable-side-of-the-osr/"/>
         <updated>2022-05-27T17:36:16.000Z</updated>
         <summary type="html"><![CDATA[In which I link to two adorable OSR-related links.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imbalances in the Outlands, Session 1, Acorn Problem in Bytopia]]></title>
-        <id>http://githyankidiaspora.com/?p=19574</id>
-        <link href="https://githyankidiaspora.com/2022/05/26/imbalances-in-the-outlands-session-1-acorn-problem-in-bytopia/"/>
-        <updated>2022-05-27T02:35:50.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...In which the Sigil 6 help Garl Glittergold with a druidic cult that was stealing acorns from his oak trees in the Golden Hills of Bytopia.]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
