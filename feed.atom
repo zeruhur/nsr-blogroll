@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-26T01:45:23.835Z</id>
+    <id>urn:2022-06-26T08:20:00.744Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T01:45:23.835Z</updated>
+    <updated>2022-06-26T08:20:00.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -795,16 +795,6 @@ Pitons (handful)]]></summary>
         <link href="https://githyankidiaspora.com/2022/05/30/troika-emerges-from-a-pile-of-games/"/>
         <updated>2022-05-30T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[In which we make Troika characters and agree to meet up next Friday to play them.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What about the adorable side of the OSR?]]></title>
-        <id>http://githyankidiaspora.com/?p=19697</id>
-        <link href="https://githyankidiaspora.com/2022/05/27/what-about-the-adorable-side-of-the-osr/"/>
-        <updated>2022-05-27T17:36:16.000Z</updated>
-        <summary type="html"><![CDATA[In which I link to two adorable OSR-related links.]]></summary>
         <author>
             <name>juddthelibrarian</name>
         </author>
