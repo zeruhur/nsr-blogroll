@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T01:47:21.888Z</id>
+    <id>urn:2022-06-27T08:24:20.346Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T01:47:21.888Z</updated>
+    <updated>2022-06-27T08:24:20.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stranger Things and "Puzzle Monsters"]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html"/>
+        <updated>2022-06-27T04:19:00.001Z</updated>
+        <summary type="html"><![CDATA[[This post will contain spoilers for Stranger Things up through season 4]
+
+The best monsters are not merely a big sack of hit points you hack-n-slash your way through because of a random encounter table. No, they're something more. They have qualities possible only through the conceits of fantasy. They challenge your brain just as much as your stats and dice. They stick in the mind. They're not just a one-and-done encounter. They're grounded in the world and its rules, and can't be understood merely with numbers. And maybe most of all, they're robust enough that reckoning with them is the whole adventure, or at least could be the whole adventure.
+
+
+A very popular piece of advice in the OSR is "Just Use Bears." The basic argument is that, "monsters which don't have elaborate special abiliti…]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morrow Project - Liberation At Riverton, A Review]]></title>
+        <id>https://thecosmicorrery.blogspot.com/2022/06/morrow-project-liberation-at-riverton.html</id>
+        <link href="https://thecosmicorrery.blogspot.com/2022/06/morrow-project-liberation-at-riverton.html"/>
+        <updated>2022-06-27T02:37:00.008Z</updated>
+        <summary type="html"><![CDATA[My first meeting with the Morrow Project came in the guise of Different Worlds Magazine, Issue 33 which I inherited along with two issues of Dragon, a copy of the AD&D 1e Players Handbook, Moldvay Basic Set, and a handful of modules. The meeting was brief. A short module featuring a plague carrying biker gang along with some Q&A of the authors. But it wormed the game into my brain and eventually I scrounged pdf's for it out of the corners of the internet and read through them. 
+
+
+And I was charmed. Its an old, idiosyncratic game but interesting in its presentation of details and has some surprisingly well made modules. So as I reread the Morrow Project's books I will be reviewing them, in hopes that this might introduce other folks to the game. 
+
+
+Now the obvious place to start would be th…]]></summary>
+        <author>
+            <name>The Cosmic Orrery</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MRD2 Nazarite Contracts and MRD2 Updates]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html</id>
