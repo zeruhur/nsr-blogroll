@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-28T08:24:45.263Z</id>
+    <id>urn:2022-06-28T16:27:51.403Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T08:24:45.263Z</updated>
+    <updated>2022-06-28T16:27:51.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seasonal Spells]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1053</id>
+        <link href="https://hamsterhoard.home.blog/2022/06/28/seasonal-spells/"/>
+        <updated>2022-06-28T12:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Been fighting creative blocks for a while now — I mean, a lot of folks are, I daresay — and it’s been frustrating getting stuck in cycle after cycle of have idea -> ponder idea -> get stuck -> stew in own juices -> get another idea to add to pile -> infinitum. But this … Continue reading Seasonal Spells →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stranger Things and "Puzzle Monsters"]]></title>
         <id>https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html</id>
