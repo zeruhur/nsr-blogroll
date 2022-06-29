@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T08:25:07.346Z</id>
+    <id>urn:2022-06-29T16:44:01.632Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T08:25:07.346Z</updated>
+    <updated>2022-06-29T16:44:01.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -771,19 +771,6 @@ Here are 15 more cheap tricks.
         <summary type="html"><![CDATA[Lots of discussion happening today around games that are missing rules or worlds. That’s a bit simplified, so here are the posts I’m thinking about: Negative Space “F**k-You” Design As a note to the latter: I don’t really love the way the author implies such a strong sense of emotional negativity, but this does resonate … Continue reading Be specific about unwritten rules →]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Why This Hireling Decided To Join]]></title>
-        <id>https://blog.d4caltrops.com/2022/05/d100-why-this-hireling-decided-to-join.html</id>
-        <link href="https://blog.d4caltrops.com/2022/05/d100-why-this-hireling-decided-to-join.html"/>
-        <updated>2022-05-30T22:18:00.004Z</updated>
-        <summary type="html"><![CDATA[Padding out a Party with Hired Help to assist with Treasure Schlepping or having some additional Free Hands to help Light your way can be an incredibly fun addition to these games. Here’s a Hundred Reasons why someone would potentially risk life and limb to join up with a band of Adventurers on what may just be a very temporary/terminal basis.
- My preference is always to avoid portraying my Hirelings as automatons, and they aren’t really intended to be used by the Players as fodder or trap springers. That’s a sure-fire way to earn a very bad reputation back in Town and definitely will dry up the pool of prospects. That is, if it doesn’t anger their kin/friends, or engender an additional complication...hmm...that reminds me of another small table I put together recently:
-
-These are people, …]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
