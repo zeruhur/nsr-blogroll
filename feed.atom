@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T01:41:29.375Z</id>
+    <id>urn:2022-06-29T08:25:07.346Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T01:41:29.375Z</updated>
+    <updated>2022-06-29T08:25:07.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -784,50 +784,6 @@ Here are 15 more cheap tricks.
 These are people, …]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getter Robo Armageddon Not-Review]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/05/getter-robo-armageddon-not-review.html"/>
-        <updated>2022-05-30T18:20:00.001Z</updated>
-        <summary type="html"><![CDATA[I'm moving in a couple of days, not very far, but still stressful, so in my procrastination on packing and prepping, here's another not-review of an obscure-ish Mecha anime.
-
-
-
-
-
-Getter Robo Armageddon came out in the very late 90's, but like with Iczer-One, it has this beautiful hand-drawn art style that you just don't see anymore, which I've always really loved. This would have been the very tail-end of that style of animation.
-
-
-My understanding is that the original Getter Robo, along with Mazinger Z*, were the two original and still most archetypal "Super Robot" Mecha anime, but Getter Robo Armageddon is more like a sequel or spiritual sequel to the original series, set after a Getter-related apocalyptic event. I haven't seen or read the original manga/anime so can't say for sure but t…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inventory Worldbuilding : Shellfolk Rambler]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/05/inventory-worldbuilding-shellfolk.html"/>
-        <updated>2022-05-30T14:36:00.001Z</updated>
-        <summary type="html"><![CDATA[Shellfolk Rambler
-For every youth there comes a time to go rambling on a long tour of the stars, some keep it small; just the local hives, others hop ship-to-ship with the strange shell-less foreigners to odd worlds. Everyone comes home eventually, with stories a-plenty to tell of their adventures.
-
-Symbiote shell-suit (crustacean-esq, vacuum-rated, maneuvering jets, alive)
-Mushroom-cricket pemmican (wrapped in bio-plastic, leftovers fed to suit)
-Dagger-axe, short hafted
-Rigging knife
-Cable coil, weighted end (lassoing)
-Fertilizer brick (compressed phosphates & nitrates wrapped in cheap gold foil)
-Leg-braces
-Membrane tent (with airlock)
-Shell-paint, turquoise (vacuum-rated)
-Story-songs : The Many Quest-Rovings of Yohann the Wake
-Longshoremen's tattoo, carved (Belphagor docks)
-Unfolding tableau, gold & aluminum etching of hive-mates & ancestors 
-Pitons (handful)]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
