@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T01:41:04.534Z</id>
+    <id>urn:2022-06-30T08:23:56.224Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T01:41:04.534Z</updated>
+    <updated>2022-06-30T08:23:56.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -751,16 +751,6 @@ Here are 15 more cheap tricks.
         <summary type="html"><![CDATA[The Kranev Investigative Guild is a group patron, as seen in Tasha's Cauldron of Everything perfect for us with one's Van Richten's Guide to Ravenloft in one's Dungeons and Dragons games.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d66 Wondrous Drafts]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1047</id>
-        <link href="https://hamsterhoard.home.blog/2022/05/31/d66-wondrous-drafts/"/>
-        <updated>2022-05-31T14:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a potion? A strange and curious fluid to pour on your skin or down your throat? Then look no further ~ d66 Name Traits Properties 11. Calcific Warding Elixir Thin; chalky, milky white, definitely not meant to be drunk Poured on the thresholds of a chamber or — if pressed — scattered across … Continue reading d66 Wondrous Drafts →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
