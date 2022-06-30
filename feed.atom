@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-29T16:44:01.632Z</id>
+    <id>urn:2022-06-30T01:41:04.534Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-29T16:44:01.632Z</updated>
+    <updated>2022-06-30T01:41:04.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -761,16 +761,6 @@ Here are 15 more cheap tricks.
         <summary type="html"><![CDATA[Looking for a potion? A strange and curious fluid to pour on your skin or down your throat? Then look no further ~ d66 Name Traits Properties 11. Calcific Warding Elixir Thin; chalky, milky white, definitely not meant to be drunk Poured on the thresholds of a chamber or — if pressed — scattered across … Continue reading d66 Wondrous Drafts →]]></summary>
         <author>
             <name>taichara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be specific about unwritten rules]]></title>
-        <id>http://technoskald.me/?p=6407</id>
-        <link href="https://technoskald.me/2022/05/31/be-specific-about-unwritten-rules/"/>
-        <updated>2022-05-31T13:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Lots of discussion happening today around games that are missing rules or worlds. That’s a bit simplified, so here are the posts I’m thinking about: Negative Space “F**k-You” Design As a note to the latter: I don’t really love the way the author implies such a strong sense of emotional negativity, but this does resonate … Continue reading Be specific about unwritten rules →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
