@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-30T16:27:04.887Z</id>
+    <id>urn:2022-07-01T01:51:06.310Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T16:27:04.887Z</updated>
+    <updated>2022-07-01T01:51:06.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Every so often the best game is no game.]]></title>
+        <id>http://githyankidiaspora.com/?p=20187</id>
+        <link href="https://githyankidiaspora.com/2022/06/30/every-so-often-the-best-game-is-no-game/"/>
+        <updated>2022-07-01T01:25:03.000Z</updated>
+        <summary type="html"><![CDATA[In which a session of our D&D game is cancelled and we just chatted it up and enjoyed each other's faces.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seasonal Spells]]></title>
         <id>http://hamsterhoard.home.blog/?p=1053</id>
@@ -741,16 +751,6 @@ Here are 15 more cheap tricks.
         <summary type="html"><![CDATA[In April 2021, a fruitful essay appeared called "Six Cultures of Play," by blogger Retired Adventurer, receiving a lot of deserved attention. It seems to have established some terms for further and ongoing discussion since then.In this entry I address the distinction construed there between the earliest two "cultures of play" and how they differ from what is known as the OSR (Old-School Revival).]]></summary>
         <author>
             <name>Tom Van Winkle's Return to Gaming</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kranev Investigative Guild: a group patron for one’s Ravenloft campaign]]></title>
-        <id>http://githyankidiaspora.com/?p=19652</id>
-        <link href="https://githyankidiaspora.com/2022/06/01/kranev-investigative-guild/"/>
-        <updated>2022-06-01T10:07:00.000Z</updated>
-        <summary type="html"><![CDATA[The Kranev Investigative Guild is a group patron, as seen in Tasha's Cauldron of Everything perfect for us with one's Van Richten's Guide to Ravenloft in one's Dungeons and Dragons games.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
