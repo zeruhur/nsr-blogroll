@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T08:23:00.796Z</id>
+    <id>urn:2022-07-01T16:27:57.977Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T08:23:00.796Z</updated>
+    <updated>2022-07-01T16:27:57.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -727,20 +727,6 @@ Umberto, an amateur con artist the brigands mistook for a noble and are holding 
         <summary type="html"><![CDATA[This week in our Dungeons and Dragons game set in Ravenloft. When we lost left our stalwart investigators, they were about to meet up near the apartment where Killian and Valentia were having their dalliance. A mysterious blue man in a black suit with black horns atop his head, was also waiting nearby, though he hadn't noticed them yet.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 (more) cheap tricks]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/06/15-more-cheap-tricks.html"/>
-        <updated>2022-06-01T23:06:00.000Z</updated>
-        <summary type="html"><![CDATA[One of my fave GLoG blogs - Whose Measure God Could Not Take - did a fun meme about listing cheap tricks that GMs can use to make their game better. You can see the original and the resulting links to other cheap tricks here.
-Here are 15 more cheap tricks.
-1. Give your players an INC map. Seriously. Choosing the routes gives players an interesting decision point and discovering the room contents is fun. Saying "Wait, you said TWO exits on the north wall? I gotta redraw" is less fun.
-1a. You can still have secret rooms. Seeing the "gaps" on the map and finding the door will make players feel smart.
-2. Unless you're learning the game for the first time, don't pause the game to look up rules. Make the call the players want you to make, then get a rules lawyer to look it up while you continue …]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
