@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T01:51:06.310Z</id>
+    <id>urn:2022-07-01T08:23:00.796Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T01:51:06.310Z</updated>
+    <updated>2022-07-01T08:23:00.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -741,16 +741,6 @@ Here are 15 more cheap tricks.
 2. Unless you're learning the game for the first time, don't pause the game to look up rules. Make the call the players want you to make, then get a rules lawyer to look it up while you continue …]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On RPG Play-sytles, Part 3: Classic Playstyle versus Trad Playstyle versus OSR?]]></title>
-        <id>https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html</id>
-        <link href="https://lichvanwinkle.blogspot.com/2022/06/on-rpg-play-sytles-part-3-classic.html"/>
-        <updated>2022-06-01T15:57:00.001Z</updated>
-        <summary type="html"><![CDATA[In April 2021, a fruitful essay appeared called "Six Cultures of Play," by blogger Retired Adventurer, receiving a lot of deserved attention. It seems to have established some terms for further and ongoing discussion since then.In this entry I address the distinction construed there between the earliest two "cultures of play" and how they differ from what is known as the OSR (Old-School Revival).]]></summary>
-        <author>
-            <name>Tom Van Winkle's Return to Gaming</name>
         </author>
     </entry>
 </feed>
