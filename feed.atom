@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-01T16:27:57.977Z</id>
+    <id>urn:2022-07-02T01:39:28.093Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T16:27:57.977Z</updated>
+    <updated>2022-07-02T01:39:28.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Traits of the Mythic Underworld]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html"/>
+        <updated>2022-07-01T18:10:00.002Z</updated>
+        <summary type="html"><![CDATA[The "Mythic Underworld" is a term popular in the OSR that I believe was coined by Jason Cone in Philotomy's Musings. Cone argued that the rules of OD&D can be interpreted to suggest that the "dungeons" that adventurers delve into aren't really to be understood as real, logical spaces created by normal people or natural processes. Rather, they're more like a surreal, dreamlike, and hostile realm that runs on its own twisted logic, which might be inconsistent. It gives the referee some leeway to make a contrived, game-y, "funhouse" dungeon instead of stressing about accuracy or rationality.
+
+Much of what Cone describes are just traits of megadungeons, or even simply dungeons in general. Things like, "non-linear pathways" and "lots of connections between levels" aren't really mythic, they're …]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every so often the best game is no game.]]></title>
         <id>http://githyankidiaspora.com/?p=20187</id>
