@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T08:20:38.684Z</id>
+    <id>urn:2022-07-02T16:22:23.876Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T08:20:38.684Z</updated>
+    <updated>2022-07-02T16:22:23.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -719,26 +719,6 @@ Non-Player Character
 Umberto, an amateur con artist the brigands mistook for a noble and are holding captive. He has made friends with the ghosts who occasionally visit him to put on miniature dramas, though they are reluctant to help him escape.]]></summary>
         <author>
             <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imbalances in the Outlands, Session 2, A Balanced Deal with a Heaping Side of Lore]]></title>
-        <id>http://githyankidiaspora.com/?p=17683</id>
-        <link href="https://githyankidiaspora.com/2022/06/02/thursday-night-ap-template-imbalances-in-the-outlands-session-2-a-balanced-deal-with-a-heaping-side-of-lore/"/>
-        <updated>2022-06-03T02:15:41.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dread Domain Detectives Illustrated, Session 2 – Awaken Thrilling Horror]]></title>
-        <id>http://githyankidiaspora.com/?p=19782</id>
-        <link href="https://githyankidiaspora.com/2022/06/02/dread-domain-detectives-illustrated-session-2-awaken-thrilling-horror/"/>
-        <updated>2022-06-03T01:41:29.000Z</updated>
-        <summary type="html"><![CDATA[This week in our Dungeons and Dragons game set in Ravenloft. When we lost left our stalwart investigators, they were about to meet up near the apartment where Killian and Valentia were having their dalliance. A mysterious blue man in a black suit with black horns atop his head, was also waiting nearby, though he hadn't noticed them yet.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
