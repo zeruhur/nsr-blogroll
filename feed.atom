@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T01:48:58.997Z</id>
+    <id>urn:2022-07-03T08:19:39.179Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T01:48:58.997Z</updated>
+    <updated>2022-07-03T08:19:39.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Traits of the Mythic Underworld]]></title>
         <id>https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html"/>
-        <updated>2022-07-01T18:10:00.002Z</updated>
+        <updated>2022-07-01T18:10:00.005Z</updated>
         <summary type="html"><![CDATA[The "Mythic Underworld" is a term popular in the OSR that I believe was coined by Jason Cone in Philotomy's Musings. Cone argued that the rules of OD&D can be interpreted to suggest that the "dungeons" that adventurers delve into aren't really to be understood as real, logical spaces created by normal people or natural processes. Rather, they're more like a surreal, dreamlike, and hostile realm that runs on its own twisted logic, which might be inconsistent. It gives the referee some leeway to make a contrived, game-y, "funhouse" dungeon instead of stressing about accuracy or rationality.
 
 Much of what Cone describes are just traits of megadungeons, or even simply dungeons in general. Things like, "non-linear pathways" and "lots of connections between levels" aren't really mythic, they're …]]></summary>
@@ -656,69 +656,6 @@ It is always appealing to me when one of these snags ends up being a boon with t
 Here is a list of a hundred of these sorts of impediments and imperfections. You could even use them to garb Spells themselves, Familiars, Magic Item Creation, or other wonderous things with a little bit of creative adjustment.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Minute Dungeon : Amphitheater Of Ghost & Brigand]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-amphitheater-of-ghost.html"/>
-        <updated>2022-06-03T20:00:00.005Z</updated>
-        <summary type="html"><![CDATA[Per the methodology from Priestess of Spiders.
-
-Idea : A haunted and overgrown amphitheater complex used as a hideout by brigands
-
-
-Hook : Rescue the son of a merchant whose being held for ransom
-
-
-Encounters :
-
-
-A. 1d6 brigands, flaunting cockades and toting knives and pistols, on patrol. Swaggering and joking among each other, not really expecting anything. 
-
-
-B. 1d4 ghosts, singing and muttering their lines, will ask you to join in a play, if satisfied they will gift you a silver gilded thespian mask, if refused they will conjure up a miniature tempest.
-
-
-C. The brigand prince, dressed in plundered finery, mediating a dispute between two brigands over the proper ownership of a bejeweled goblet, a duel looks to be in order. 
-
-
-Key :
-
-
-Trap/Hazards 
-
-
-A web of strings hung with bells across the easiest approach into the amphitheater, if disturbed the ringing will alert 1d6 brigands who will come to investigate. 
-
-
-A makeshift fire-pit surrounded by 1d8 snoring brigands who roll and shift uneasily in their sleep. A very large and obvious iron key ring hangs on the far wall.
-
-
-"Empty"
-
-
-The stage, wooden boards sagging and pierced through with growing trees in places, looking up you can see the whole of the encircling bleachers.
-
-
-Old musty prop closets, digging around unearths two intact silk robes and a tarnished silver amulet. 
-
-
-A gnarled tree growing out of the stands, its roots split apart the stones allowing one to easily drop down into an old dusty under-passage. 
-
-
-Special 
-
-
-The acoustics when standing in the seats are perfect to amplify any sounds three-fold and let you displace it as though a ventriloquist anywhere in the structure. 
-
-
-Non-Player Character
-
-
-Umberto, an amateur con artist the brigands mistook for a noble and are holding captive. He has made friends with the ghosts who occasionally visit him to put on miniature dramas, though they are reluctant to help him escape.]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
