@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-02T16:22:23.876Z</id>
+    <id>urn:2022-07-03T01:48:58.997Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T16:22:23.876Z</updated>
+    <updated>2022-07-03T01:48:58.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,7 +41,7 @@ Much of what Cone describes are just traits of megadungeons, or even simply dung
         <title type="html"><![CDATA[Stranger Things and "Puzzle Monsters"]]></title>
         <id>https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html"/>
-        <updated>2022-06-27T04:19:00.003Z</updated>
+        <updated>2022-06-27T04:19:00.004Z</updated>
         <summary type="html"><![CDATA[[This post will contain spoilers for Stranger Things up through season 4]
 
 The best monsters are not merely a big sack of hit points you hack-n-slash your way through because of a random encounter table. No, they're something more. They have qualities possible only through the conceits of fantasy. They challenge your brain just as much as your stats and dice. They stick in the mind. They're not just a one-and-done encounter. They're grounded in the world and its rules, and can't be understood merely with numbers. And maybe most of all, they're robust enough that reckoning with them is the whole adventure, or at least could be the whole adventure.
