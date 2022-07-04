@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T16:22:18.290Z</id>
+    <id>urn:2022-07-04T01:53:09.050Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T16:22:18.290Z</updated>
+    <updated>2022-07-04T01:53:09.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GItMS! Mecha Gear]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html"/>
+        <updated>2022-07-03T17:12:00.002Z</updated>
+        <summary type="html"><![CDATA[This is an old draft, way before I decided to start using Concept Crafting for Mecha Gear. I think in all likelihood it's too fiddly, and I wasn't satisfied with it even at the time, but it's interesting seeing how it got me to where it is now.
+
+
+
+
+This is for my Into the Odd Mecha Hack: Get Into the Machine, Shinji! The mechanics have changed to varying degrees since I've been running my MRD2 Campaign, but this post more so corresponds to the original GitMS! than to MRD2. Most notably, it is no longer the case in MRD2 that Golem (the Mecha) have their own Ability Scores anymore, instead just sharing the pilot Ability Scores, but having their own Damage dice and of course the Gear.
+Here's my Weird & Wonderful Table of Super Robot Wars-inspired Mecha and a "Gacha" Mecha Dispenser generator …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d100 - Where Is The Key For This Locked Door?]]></title>
+        <id>https://blog.d4caltrops.com/2022/07/d100-where-is-key-for-this-locked-door.html</id>
+        <link href="https://blog.d4caltrops.com/2022/07/d100-where-is-key-for-this-locked-door.html"/>
+        <updated>2022-07-03T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Locked Doors or Containers are a time-honored obstacle to exploration and discovery. They present an opportunity for the clever Thief to fiddle with their tools to flex their percentiles, the Fighter to muscle things open with a sturdy d6, or the Magic User to unleash a mighty Knock. If only there were another way?
+ The presence of a Lock implies the existence of a Key. Here are a Hundred places where that pesky unlocker might live. Much like my previous posts on Secret or Stuck Doors, some imply a puzzle or a skosh of Set Dressing as well. Some of the particularly tricky ones might be worthy of rewarding the Players with a passe-partout.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Traits of the Mythic Underworld]]></title>
         <id>https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html</id>
@@ -525,16 +552,6 @@ A long hall with lead seal inscribed into the floor and ceiling, both glow sickl
         <summary type="html"><![CDATA[I’ve been playing a lot more solo sessions, and I didn’t want to clog this place up. Plus, I just wanted to experiment with something different. So in April, my spinoff blog Solo Skald launched. So far, I’ve played campaigns of Blades in the Dark as well as Scum & Villainy, a solo adventure with … Continue reading Spinoff solo blog →]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Someplace cool,” with Troika! Numinous Edition]]></title>
-        <id>http://githyankidiaspora.com/?p=19893</id>
-        <link href="https://githyankidiaspora.com/2022/06/04/someplace-cool-with-troika-numinous-edition/"/>
-        <updated>2022-06-04T04:40:39.000Z</updated>
-        <summary type="html"><![CDATA[A Necromancer, a Nunslinger and a Temple Knight of Telak the Swordbringer walk into a dungeon… We had made characters and agreed to play the following Friday. I knew how I wanted to prepare but didn’t get to it until the Friday afternoon before the game. I had read the rules but couldn’t quite picture […]]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
