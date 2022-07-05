@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T08:22:38.522Z</id>
+    <id>urn:2022-07-05T16:27:37.694Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T08:22:38.522Z</updated>
+    <updated>2022-07-05T16:27:37.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[emberlight] Pasts, Professions and Small Precious Things]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1057</id>
+        <link href="https://hamsterhoard.home.blog/2022/07/05/emberlight-pasts-professions-and-small-precious-things/"/>
+        <updated>2022-07-05T11:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Even in the remains of the world, people have something — someone — that they are, or were, or claimed to be. Or want to be. And everyone has a place they came from, even if they don’t want to stay there; and bits of that get carried forward as they forge ahead with a … Continue reading [emberlight] Pasts, Professions and Small Precious Things →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GItMS! Mecha Gear]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html</id>
@@ -131,6 +141,20 @@ All of Ben Robbins' West Marches posts are incredibly useful, thought-provoking,
         <summary type="html"><![CDATA[Just a quick post sharing a generator I needed to build out for Perchance: Marvelous Mushrooms & Tantalizing Toadstools. Since this one can requires a few rolls, I like to make those a little faster with a generator that can collate content in a click.]]></summary>
         <author>
             <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loops]]></title>
+        <id>https://www.hypertextfish.org/loops</id>
+        <link href="https://www.hypertextfish.org/loops"/>
+        <updated>2022-06-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2001: A Space Loop
+
+This post is about how I view procedures as a specific case of gameplay loops (using the video game design term). I want to explore roleplaying through the lens of these loops. Why though? To me the advantage of understanding game loops is intentionally using them in play and design (of systems and adventures alike). By making them explicit (or intentionally subtle) the table can focus on making interesting decisions and narrating the fiction.
+Game loops can also inform the base units of your fictional world. Loops that deal with space and time will be better suited for location exploration. While loops that are focused on events and narrative beats are more apt for scene based play.
+In a video game, these loops are coded in by the designers, and revealed to us as eithe…]]></summary>
+        <author>
+            <name>Loops</name>
         </author>
     </entry>
     <entry>
@@ -275,6 +299,21 @@ Several brand launches this Quart…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sojourner: Orbital]]></title>
+        <id>https://www.hypertextfish.org/orbital</id>
+        <link href="https://www.hypertextfish.org/orbital"/>
+        <updated>2022-06-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Homeworld 3 concept art.
+
+Continuing my Sojourner series, I was thinking about an ideal spaceship combat system. Ergo, one where not only the pilot and gunner get all the action. Inspired by Retired Adventurer’s rules, Classic Traveller Book 01 and my Spaceship Submarines I will flesh out the details of spaceships in Sojourner.
+Warning. Capital ship exiting jumpspace. Metal hulls scraping against the void. The void screams back, all while it bleeds a midnight star’s blood. Warning. Capital ship exiting jumpspace. You are not prepared. You were not well paid for this either. But you just have to survive until the payday. Warning.
+Interstellar Travel
+Travel along interstellar routes can be done using star gates. After paying your travel fees to the Empire, you are allowed passage to the next…]]></summary>
+        <author>
+            <name>Sojourner: Orbital</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alex’s Questions]]></title>
         <id>http://githyankidiaspora.com/?p=20146</id>
         <link href="https://githyankidiaspora.com/2022/06/19/alexs-questions/"/>
@@ -292,6 +331,22 @@ Several brand launches this Quart…]]></summary>
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 arrive in Gloomwrought, hunting Rahadin who is now a crimelord, leading a posse of vampires.]]></summary>
         <author>
             <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worlds of Classic Traveller]]></title>
+        <id>https://www.hypertextfish.org/worlds</id>
+        <link href="https://www.hypertextfish.org/worlds"/>
+        <updated>2022-06-16T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Perfect sunset by Axel-Astro-Art
+
+Worlds chapter from Classic Traveller Book 03. Modernised and edited with annotations. All values have been preserved to be compatible with the original.
+Online generator by Marcia using the tables below.
+Star Mapping
+The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map (Hexographer is a solid digital option). You should have around 40 worlds total, which is plenty for a campaign. Give the subsector a name. Label spinward and coreward directions.
+World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world is prese…]]></summary>
+        <author>
+            <name>Worlds of Classic Traveller</name>
         </author>
     </entry>
     <entry>
@@ -414,6 +469,31 @@ Cool art to draw the eye, to break up the page, to give you a reason to …]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sojourner: Prospects]]></title>
+        <id>https://www.hypertextfish.org/prospects</id>
+        <link href="https://www.hypertextfish.org/prospects"/>
+        <updated>2022-06-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Periastron II by Zando-Zennek
+
+Continuing my Sojourner series, I was thinking about sandbox play. In this post I describe the way I run my sci-fi sandbox campaigns that is compatible with any system. To start off you will need a couple of worlds and factions with interconnected relationships.
+Working for both sides of the blockade to make ends meet. Crushing starship debt. Time is nothing but adding weeks and subtracting credits. They say that a month in space is darker than any darker. No starlight reaches these depths ever. Human eyes were not meant to see it.
+Procedure
+Campaign time is measured in months. In a month the crew can: visit a starport, travel between nearby worlds, or repair severe ship damage.
+At the start of every month roll for an event:
+d6
+Effect
+Description
+
+
+
+
+1
+Encoun…]]></summary>
+        <author>
+            <name>Sojourner: Prospects</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 – Sweet, Trophy Gold: Roots of Old Kalduhr]]></title>
         <id>http://githyankidiaspora.com/?p=19441</id>
         <link href="https://githyankidiaspora.com/2022/06/11/5-sweet-trophy-gold-roots-of-old-kalduhr/"/>
@@ -440,6 +520,43 @@ Note: Runes map 1-to-1 with the English alphabet equivalent. Runes are just cool
 Weave Glamour: A glamour…]]></summary>
         <author>
             <name>Rise Up Comus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sojourner: Lifepath]]></title>
+        <id>https://www.hypertextfish.org/sojourner</id>
+        <link href="https://www.hypertextfish.org/sojourner"/>
+        <updated>2022-06-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Also MOSAIC Strict!
+Alternative lifepath rules for Classic Traveller, Mothership RPG and Night Tripper. Or a way to generate some NPCs. Or a solo minigame on your lunch break.
+A dying overextended empire. Merchant guilds squabbling over scraps. Outlaws roaming the few trade routes left. War after war. Spoils of which fuel what they call the economy. You cannot change what is bound to occur. The most complex machine the universe has ever seen has reached its warranty. You might just die in service of it.
+Burdens
+Burdens are negative modifiers to your skill rolls. Severe burdens count as rank 2. So for example severe debt is equivalent to debt 2.
+d6
+1
+2
+3
+4
+5
+6
+
+
+
+
+Burdens
+Isolation
+Injury
+Insecurity
+Illness
+Dishonour
+Debt
+
+
+
+Lifepath
+Roll d6 for your family’s house and your starting reputat…]]></summary>
+        <author>
+            <name>Sojourner: Lifepath</name>
         </author>
     </entry>
     <entry>
@@ -506,42 +623,6 @@ Transduced consciousness into soundwaves and decomposed along frequency-power ax
 These were adequate. Until next time...]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Minute Dungeon : Crypt Of The Bird Demon]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-crypt-of-bird-demon.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/06/30-minute-dungeon-crypt-of-bird-demon.html"/>
-        <updated>2022-06-06T02:09:00.004Z</updated>
-        <summary type="html"><![CDATA[Once again, per the methodology from Priestess of Spiders.
-
-Idea : The aviary burial crypt of an ancient demon meant to be kept locked away 
-
-
-Hook : Wizard's paying you to crack open this tomb and bring back its contents
-
-
-Encounters :
-
-
-A. 1d8 devil peacocks with flaming eyes and golden tail feathers, prowling about crooning praises of their lord. 
-
-
-B. 2d4 tomb guardians wrapped in scripture-inscribed cloth, lugging copper-swords, bellowing warnings at interlopers. Detest the peacocks, pity the skeletons.
-
-
-C. 1d4 golden skeletons aimlessly whispering, grasp at the living in hopes of dragging them back to their slumbering master and having their flesh restored in reward. 
-
-
-Key :
-
-
-Trap/Hazards 
-
-
-A long hall with lead seal inscribed into the floor and ceiling, both glow sickly, steppin…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
