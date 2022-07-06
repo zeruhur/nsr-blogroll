@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T16:27:37.694Z</id>
+    <id>urn:2022-07-06T01:53:15.178Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T16:27:37.694Z</updated>
+    <updated>2022-07-06T01:53:15.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -588,41 +588,6 @@ Roll d6 for your family’s house and your starting reputat…]]></summary>
 never have to fiddle with a calendar for your campaign every again.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Atypical Scrolls of Protection & Assorted Aegides]]></title>
-        <id>https://blog.d4caltrops.com/2022/06/d100-atypical-scrolls-of-protection.html</id>
-        <link href="https://blog.d4caltrops.com/2022/06/d100-atypical-scrolls-of-protection.html"/>
-        <updated>2022-06-06T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Those Scrolls of Protection are a type of Magic Item that fills me with fond memories. Being usable by anyone (provided they can read them aloud), they really scratch a particular itch for me: They provide the ability to put Magic and Wonder in the hands of Classes that don’t normally have the capability to tangibly access this aspect of play. An athaumic Fighter, unfurling that fluttering page of parchment to have that chance to harness some Magic occasionally is a very fun thing. I also enjoy how they generally serve as timely “bacon-savers” of the highest degree: They are an excellent example of a specific Tool, that when used in the proper circumstances, can really make a world of difference.
- Sadly, the standard safeguards provided, while eminently useful, are still somewhat limited i…]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Minute Challenge Anew: Incursion]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/5-minute-challenge-anew-incursion.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/5-minute-challenge-anew-incursion.html"/>
-        <updated>2022-06-06T12:52:00.001Z</updated>
-        <summary type="html"><![CDATA[Library of Attnam has started doing Quarter Hour of Writing (QHW) Challenges in the vein of my old 5 Minute Challenges. I like the idea of bumping it up to 15min, but I also have not quite 15min before I need to start work, and I try to post on at least a weekly basis, and as Save vs. TPK said recently I'm trying to be more comfortable with shorter posts.
-
-
-I'll use one of Attnam's prompts, and in this case I rolled Incursion, so that's what we're doing.
-
-
-And... GO!
-
-A spectrum of light perpendicular to light as we know it, intersecting at green, breaches the electromagnetic barrier.
-Reality is in fact a dream, and for the first time, you experience oneiric wakefulness.
-The universe is an Ouroboros. As it comes closer to consuming itself, entropic unraveling exponentiates.
-Breaching the wall of life and death like puncturing choking cellophane, a pleasant and disturbing compression.
-Transduced consciousness into soundwaves and decomposed along frequency-power axes via Fourier Transform.
-
-These were adequate. Until next time...]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
