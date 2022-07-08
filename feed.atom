@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T08:24:47.085Z</id>
+    <id>urn:2022-07-08T16:28:05.682Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T08:24:47.085Z</updated>
+    <updated>2022-07-08T16:28:05.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Environmental Storytelling]]></title>
+        <id>https://www.hypertextfish.org/env-story</id>
+        <link href="https://www.hypertextfish.org/env-story"/>
+        <updated>2022-07-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Image: still from the film Solaris (1974). Kris is trying to figure out what happened on the research station.
+In this post I wanted to talk about using objects and locations in RPGs to tell a history or fiction. I believe we already use environmental storytelling in our games, however I wanted to delve deeper—understand how we can consciously apply this concept to our settings.
+Motivation
+The OSR play culture is particularly interested in exploring fantastical locations. Lots of focus is put into creating these spaces that the referee describes to the players. In turn, the players are expected to interact in these spaces as much as possible. Players usually explore ruins or derelicts of some kind, so the objects within them will always have a history.
+If you are playing a mystery game, en…]]></summary>
+        <author>
+            <name>Environmental Storytelling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Case for Winged Spacecraft]]></title>
+        <id>https://www.hypertextfish.org/space-wings</id>
+        <link href="https://www.hypertextfish.org/space-wings"/>
+        <updated>2022-07-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A short post explaining why I think spaceships with wings can work in a hard sci-fi setting. And I will not be talking about landings here, since wings aren’t crucial for that. Instead I will introduce you to the concept of aerogravity assist.
+Not to be confused with aerobreaking, which is a manoeuvre that uses the atmosphere of a planet to slow down a spacecraft. Aerogravity assist uses the atmosphere to speed up instead.
+A common manoeuvre in space travel is the gravity assist—using a planets gravity well as a slingshot to deflect your trajectory. The closer you get to the planet, the more your course will be changed. The issue is that you are limited by the planets atmosphere. If you come too close, the drag will significantly reduce your speed and the costs will outweigh the benefits.
+…]]></summary>
+        <author>
+            <name>A Case for Winged Spacecraft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gloomwrought: City of Midnight, Session 2, Killing Rahadin]]></title>
         <id>http://githyankidiaspora.com/?p=20201</id>
