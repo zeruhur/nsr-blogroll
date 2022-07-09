@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-09T08:20:59.462Z</id>
+    <id>urn:2022-07-09T16:22:12.560Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-09T08:20:59.462Z</updated>
+    <updated>2022-07-09T16:22:12.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -593,26 +593,6 @@ Lifepath
 Roll d6 for your family’s house and your starting reputat…]]></summary>
         <author>
             <name>Sojourner: Lifepath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imbalance in the Outlands, Session 3, The Vampire, the Lich and the Raven Queen]]></title>
-        <id>http://githyankidiaspora.com/?p=19960</id>
-        <link href="https://githyankidiaspora.com/2022/06/09/imbalance-in-the-outlands-session-3-the-vampire-the-lich-and-the-raven-queen/"/>
-        <updated>2022-06-10T02:33:52.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 talk to a vampire to better understand Innistrad and a lich to better understand Orcus.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Well of Worlds]]></title>
-        <id>http://githyankidiaspora.com/?p=19948</id>
-        <link href="https://githyankidiaspora.com/2022/06/09/making-a-well-of-worlds/"/>
-        <updated>2022-06-09T22:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Making a Well of Worlds using ideas from Apocalypse World for our Thursday night Dungeons and Dragons game.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
