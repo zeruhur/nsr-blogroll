@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T16:28:05.682Z</id>
+    <id>urn:2022-07-09T01:23:26.804Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T16:28:05.682Z</updated>
+    <updated>2022-07-09T01:23:26.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Environmental Storytelling]]></title>
-        <id>https://www.hypertextfish.org/env-story</id>
-        <link href="https://www.hypertextfish.org/env-story"/>
-        <updated>2022-07-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image: still from the film Solaris (1974). Kris is trying to figure out what happened on the research station.
-In this post I wanted to talk about using objects and locations in RPGs to tell a history or fiction. I believe we already use environmental storytelling in our games, however I wanted to delve deeper—understand how we can consciously apply this concept to our settings.
-Motivation
-The OSR play culture is particularly interested in exploring fantastical locations. Lots of focus is put into creating these spaces that the referee describes to the players. In turn, the players are expected to interact in these spaces as much as possible. Players usually explore ruins or derelicts of some kind, so the objects within them will always have a history.
-If you are playing a mystery game, en…]]></summary>
+        <title type="html"><![CDATA[MRD2 PR 4: Political Intrigue in Non-Violent Dimensions]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/07/mrd2-pr-4-political-intrigue-in-non.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/07/mrd2-pr-4-political-intrigue-in-non.html"/>
+        <updated>2022-07-08T17:40:00.002Z</updated>
+        <summary type="html"><![CDATA[I was worried how this session would go, because there was very little in the way of "encounters" in the traditional sense or anything that would require them to use their character sheets, and a FUCKTON of NPCs and logistics. But it went better than I could have hoped. This was some good Social Intrigue, which I am all about. I don't know how well this will translate to a PR, despite my efforts to make these PRs more interesting.
+
+
+I was inspired by the Scales of Conviction system for the videogame Triangle Strategy, where key plot events are decided on a vote, and the player has to talk to the various NPCs and gather information to try to sway the votes of the rest of the party. I figured that would work even better in a TTRPG, and it did. At some point either here or on Iconoclastic Flo…]]></summary>
         <author>
-            <name>Environmental Storytelling</name>
+            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
     <entry>
@@ -614,17 +613,6 @@ Roll d6 for your family’s house and your starting reputat…]]></summary>
         <summary type="html"><![CDATA[Making a Well of Worlds using ideas from Apocalypse World for our Thursday night Dungeons and Dragons game.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tempus, Fudge It]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:625cb6acf7aef559cbc40b6e</id>
-        <link href="https://www.prismaticwasteland.com/blog/tempus-fudge-it"/>
-        <updated>2022-06-09T13:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Include time-tracking directly in your game’s procedures, and you will 
-never have to fiddle with a calendar for your campaign every again.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
