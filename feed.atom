@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T01:53:01.714Z</id>
+    <id>urn:2022-07-10T08:20:28.169Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T01:53:01.714Z</updated>
+    <updated>2022-07-10T08:20:28.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -537,62 +537,6 @@ Encoun…]]></summary>
         <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...the group continued playing the incursion, A Heart Hums in the Darkness by Michael Van Vleet.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glamour-Weaver - Freeform Illusion Magic]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/06/glamour-weaver-freeform-illusion-magic.html"/>
-        <updated>2022-06-10T14:47:00.008Z</updated>
-        <summary type="html"><![CDATA[If you want to play a gnome illusionist or a bard whose songs take shape or a hard-light construct who crash landed into your fantasy setting, you can use this class. 
-Glamour-Weaver
-Saves and Levels: As a thief
-Proficiencies: As a magic-user
-Runes: At level 1, gain three random runes. Every level thereafter, gain one random rune. 
-With a week of downtime and 1,000 silver in magical materials (mithril inks, obsidian mirrors, lights reflected from distant stars), you may attempt to research a specific rune. At the end of the week, Save vs Wands. If successful, you learn the rune you were researching. If you fail, you do not learn the rune and your research is wasted.
-
-
-Note: Runes map 1-to-1 with the English alphabet equivalent. Runes are just cooler than "letters."
-Weave Glamour: A glamour…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sojourner: Lifepath]]></title>
-        <id>https://www.hypertextfish.org/sojourner</id>
-        <link href="https://www.hypertextfish.org/sojourner"/>
-        <updated>2022-06-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Also MOSAIC Strict!
-Alternative lifepath rules for Classic Traveller, Mothership RPG and Night Tripper. Or a way to generate some NPCs. Or a solo minigame on your lunch break.
-A dying overextended empire. Merchant guilds squabbling over scraps. Outlaws roaming the few trade routes left. War after war. Spoils of which fuel what they call the economy. You cannot change what is bound to occur. The most complex machine the universe has ever seen has reached its warranty. You might just die in service of it.
-Burdens
-Burdens are negative modifiers to your skill rolls. Severe burdens count as rank 2. So for example severe debt is equivalent to debt 2.
-d6
-1
-2
-3
-4
-5
-6
-
-
-
-
-Burdens
-Isolation
-Injury
-Insecurity
-Illness
-Dishonour
-Debt
-
-
-
-Lifepath
-Roll d6 for your family’s house and your starting reputat…]]></summary>
-        <author>
-            <name>Sojourner: Lifepath</name>
         </author>
     </entry>
 </feed>
