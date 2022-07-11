@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T16:23:06.881Z</id>
+    <id>urn:2022-07-11T01:42:56.639Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T16:23:06.881Z</updated>
+    <updated>2022-07-11T01:42:56.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 2nd Age is here]]></title>
+        <id>https://tabletopcuriositycabinet.blogspot.com/2022/07/the-2nd-age-is-here.html</id>
+        <link href="https://tabletopcuriositycabinet.blogspot.com/2022/07/the-2nd-age-is-here.html"/>
+        <updated>2022-07-10T17:57:00.001Z</updated>
+        <summary type="html"><![CDATA[The first part of the project Adventures Buffo and I have been working on is complete. I originally approached Adventures Buffo after reading a great blogpost of his asking if he minded if I took a stab at the idea. Instead, he proposed we attempted something colleboratively and this is the result:
+
+
+
+The 2nd Age 
+
+The 2nd Age is a tabletop RPG supplement containing 12 institutions intended to supplant traditional classes for games that prefer a more materialist approach to advancement. 
+When using these institutions, power is gained primarily as a reward for your service to the empire of Turandor through one of its institutions. However, once you join one of these organisations, they decide what you do and where you go. Those who serve their institution will advance through its ranks and …]]></summary>
+        <author>
+            <name>Tabletop Curiosity Cabinet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MRD2 PR 4: Political Intrigue in Non-Violent Dimensions]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/07/mrd2-pr-4-political-intrigue-in-non.html</id>
@@ -527,16 +544,6 @@ Description
 Encoun…]]></summary>
         <author>
             <name>Sojourner: Prospects</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 – Sweet, Trophy Gold: Roots of Old Kalduhr]]></title>
-        <id>http://githyankidiaspora.com/?p=19441</id>
-        <link href="https://githyankidiaspora.com/2022/06/11/5-sweet-trophy-gold-roots-of-old-kalduhr/"/>
-        <updated>2022-06-11T05:25:58.000Z</updated>
-        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold...the group continued playing the incursion, A Heart Hums in the Darkness by Michael Van Vleet.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
