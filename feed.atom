@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T01:42:16.047Z</id>
+    <id>urn:2022-07-13T08:22:34.331Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T01:42:16.047Z</updated>
+    <updated>2022-07-13T08:22:34.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -530,44 +530,6 @@ There aren't that many of these because I've been busy and tired lately and tryi
 Cool art to draw the eye, to break up the page, to give you a reason to …]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 - Introductions for Newly Minted PCs In Medias Res]]></title>
-        <id>https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html</id>
-        <link href="https://blog.d4caltrops.com/2022/06/d100-introductions-for-newly-minted-pcs.html"/>
-        <updated>2022-06-13T15:08:00.001Z</updated>
-        <summary type="html"><![CDATA[Sometimes one finds oneself in a situation where there is an immediate need to Introduce a new PC to a Party whilst the adventure is currently in progress. Their character falls, and after the comforting clatter of dice, they have made a new one: But by what means do they get ushered into play?
- Here is a table that might supply a skosh of inspiration or at least some “starting points” for these sticky situations where there’s need for a Sudden Entrance, Stage Left. Like most of my tables, it might need a bit of strategic tailoring to the specific situation and taste. Remember the Trick behind all those seemingly stray Capital Letters: Capitalized Words can always be freely substituted/specified/adjusted to fit.
- I’m afraid that most of these might impinge on Player Agency a bit, but I’ve always felt that a player character’s Prologue was fairer game for such things, and it’s a small price to pay for being able to leap back into the action I suppose. I’ve tried to shy away from some of the ones I’ve seen used that put the Character or Player in some of the more uncomfortable spots, and leaning into a bit of mystery and unanswered questions to flesh out in play is never a bad thing in my book. One could even just have them roll (or even select!) an entry that strikes them as that final step of creating their new character. A bit of brief, hopefully  actionable backstory never hurt anyone, and who knows where it could lead? 😊
- Several of these entries are ones I’ve found myself having to use in the past, some even served as Session/Campaign Starters in their own right or Premises for One-Shot Games, so I’m sure there might be a bit of additional hidden utility in this table if one approaches it from other angles.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sojourner: Prospects]]></title>
-        <id>https://www.hypertextfish.org/prospects</id>
-        <link href="https://www.hypertextfish.org/prospects"/>
-        <updated>2022-06-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Periastron II by Zando-Zennek
-
-Continuing my Sojourner series, I was thinking about sandbox play. In this post I describe the way I run my sci-fi sandbox campaigns that is compatible with any system. To start off you will need a couple of worlds and factions with interconnected relationships.
-Working for both sides of the blockade to make ends meet. Crushing starship debt. Time is nothing but adding weeks and subtracting credits. They say that a month in space is darker than any darker. No starlight reaches these depths ever. Human eyes were not meant to see it.
-Procedure
-Campaign time is measured in months. In a month the crew can: visit a starport, travel between nearby worlds, or repair severe ship damage.
-At the start of every month roll for an event:
-d6
-Effect
-Description
-
-
-
-
-1
-Encoun…]]></summary>
-        <author>
-            <name>Sojourner: Prospects</name>
         </author>
     </entry>
 </feed>
