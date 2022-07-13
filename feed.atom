@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T08:22:34.331Z</id>
+    <id>urn:2022-07-13T16:28:35.558Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T08:22:34.331Z</updated>
+    <updated>2022-07-13T16:28:35.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -499,37 +499,6 @@ Personifying the Magic made it a little easier to produce some of these entries,
  Sure seems like several of the recent tables have been a bit Caster-centric. I really need to polish up a few more of my Fighter-friendly tables at some point 😊.]]></summary>
         <author>
             <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick and Ugly Troika Setting Hack]]></title>
-        <id>http://githyankidiaspora.com/?p=20066</id>
-        <link href="https://githyankidiaspora.com/2022/06/14/quick-and-ugly-troika-setting-hack/"/>
-        <updated>2022-06-14T04:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Making your own Troika setting using Pathfinder or D&D inspirations.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Kinds of Magic]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/new-kinds-of-magic.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/new-kinds-of-magic.html"/>
-        <updated>2022-06-13T21:28:00.001Z</updated>
-        <summary type="html"><![CDATA[No, this isn't about Vancian vs. such-and-such. I guess it's more like different schools of magic like Illusion, Evocation, etc., but it's not bound to those classifications either. It's just meant to get you to think about weird abstract things, and what magic can mean, and how different principles of science and philosophy and cognition and perception operate.
-
-
-My character in Mike of Sheep & Sorcery's Weirdways Campaign (previously discussed in this post) also more recently gained powers relating to the first entry, so that's cool.
-
-
-There aren't that many of these because I've been busy and tired lately and trying to prioritize shorter high quality posts over forcing out longer ones, but I'm happy with these.
-
-
-
-
-Cool art to draw the eye, to break up the page, to give you a reason to …]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
