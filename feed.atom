@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T08:22:12.370Z</id>
+    <id>urn:2022-07-14T16:31:41.536Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T08:22:12.370Z</updated>
+    <updated>2022-07-14T16:31:41.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Fire Beetles]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html"/>
+        <updated>2022-07-14T10:32:00.001Z</updated>
+        <summary type="html"><![CDATA[I'm running the Borderlands via play-by-post over discord, and I'm using Maze Rats to do it. I like how it gives me extra incentive to reinvent things as I have to convert things anyway. One of these things is that I've been thinking about Fire Beetles and how they might be regarded in my take on a setting, a Medieval France type deal, where all the weird stuff is actually still weird. And I want to keep it that way. Things should be mysterious and unexplainable. I was first thinking of expanding the bugs into stages of life etc. but decided not to do that. Anyway, this is my first draft.
+
+art by Caeora on Deviantart. - Not entirely how I envision it, but close enough for this article.
+On Fire Beetles:
+ARMOR:6 // HP:4
+Fire beetles are:
+• As large as a small dog or a big house-cat.
+ • Live …]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aboraz, the Striding Skull, The Tomb that Walks]]></title>
         <id>http://githyankidiaspora.com/?p=20216</id>
