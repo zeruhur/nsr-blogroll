@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T01:48:26.470Z</id>
+    <id>urn:2022-07-14T08:22:12.370Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T01:48:26.470Z</updated>
+    <updated>2022-07-14T08:22:12.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -497,28 +497,6 @@ Dark…]]></summary>
         <summary type="html"><![CDATA[I’ve been playing the original Star Wars RPG (WEG 1987) in a solo game and damn if combat isn’t cumbersome. Lots of rolling and comparison and adding numbers up, as trad games like this commonly require. First, you roll your skill (e.g. “Blaster”) to attack against a target number defined by range. If the defender … Continue reading Cumbersome Star Wars Combat →]]></summary>
         <author>
             <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micro hack of Mothership]]></title>
-        <id>http://technoskald.me/?p=6425</id>
-        <link href="https://technoskald.me/2022/06/14/micro-hack-of-mothership/"/>
-        <updated>2022-06-14T18:13:57.000Z</updated>
-        <summary type="html"><![CDATA[During a discussion in the Mothership Discord about reskinning the game for other settings, I came up with the following little hack. If anything, it’s just a small set of house rules for creating classless characters and maybe simplifying the stats and saves. Please feel free to comment any feedback. It’s completely untested, just a … Continue reading Micro hack of Mothership →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d100 – My Magic Cannot...]]></title>
-        <id>https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html</id>
-        <link href="https://blog.d4caltrops.com/2022/06/d100-my-magic-cannot.html"/>
-        <updated>2022-06-14T16:44:00.001Z</updated>
-        <summary type="html"><![CDATA[An interesting conversation on Twitter about ways to make Magic weilded by Magic-Users a little less reliable for a more distinctive and wonderous feel (somewhat like the Taboo System I use for Clerics) got me thinking, and before I knew it I had the makings of a Table. I had some semi-similar things (like my recent Flaws & Foibles or perhaps my Magical Mishaps & Calamitous Curses), but nothing that quite fit the bill.
-Personifying the Magic made it a little easier to produce some of these entries, feel free to season that bit to taste. I’m not quite sure how I’d use them (Maybe in exchange for more Casting Ability? Perhaps every Magic User specializes or has their own personal connections?) but I’d probably try to make them meaningful in terms of interpretation.
- Sure seems like several of the recent tables have been a bit Caster-centric. I really need to polish up a few more of my Fighter-friendly tables at some point 😊.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
         </author>
     </entry>
 </feed>
