@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T16:28:35.558Z</id>
+    <id>urn:2022-07-14T01:48:26.470Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T16:28:35.558Z</updated>
+    <updated>2022-07-14T01:48:26.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aboraz, the Striding Skull, The Tomb that Walks]]></title>
+        <id>http://githyankidiaspora.com/?p=20216</id>
+        <link href="https://githyankidiaspora.com/2022/07/13/aboraz-the-striding-skull-the-tomb-that-walks/"/>
+        <updated>2022-07-13T19:18:22.000Z</updated>
+        <summary type="html"><![CDATA[The unholy marriage of a Demi-Lich and an Iron Golem for our Thursday night Dungeons and Dragons game.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Band Of Blades]]></title>
+        <id>http://hamsterhoard.home.blog/?p=1060</id>
+        <link href="https://hamsterhoard.home.blog/2022/07/13/band-of-blades/"/>
+        <updated>2022-07-13T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Everyone likes having npcs to help, hinder, surprise, behind, or ambush the player characters. Everyone (well, a decent chunk of everyone, anyway) likes magic swords. Let’s combine them! :D! Presented here are a dozen sentient, sapient swords. They all have names along with titles; they have personalities, and some magical abilities, and some areas of … Continue reading Band Of Blades →]]></summary>
+        <author>
+            <name>taichara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encounter Checklist]]></title>
         <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62cb05ac3e7e3277ca811061</id>
