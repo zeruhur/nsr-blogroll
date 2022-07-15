@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T01:55:43.033Z</id>
+    <id>urn:2022-07-15T08:22:55.495Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T01:55:43.033Z</updated>
+    <updated>2022-07-15T08:22:55.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Goblins]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-goblins.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-goblins.html"/>
+        <updated>2022-07-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Goblins in the movie Labyrinth, by Jim Henson. Part of the inspiration.
+
+ 
+Goblins: 
+HP: 2 // ARMOR 6
+stats for Maze Rats
+
+
+It is true that Goblins were children stolen from their crib and turned into goblins by the Witch Magobia. The following is also true about them:
+• They never grow bigger than a toddler, as their growth is stunted by their strange diet.
+• Their skin gets an unhealthy grey and wrinkles as if they are of very old age. Their pupils turn a very pale-pink color and their hair a greasy black.
+ • Most grow up to be mean, fearful and craven.
+
+
+When encountering Goblins in the wild they… 
+• Try to hide or run away if you are stronger than them. 
+• Are singing a dreadful song that teaches to be mean. 
+• Are carrying a stolen baby and arguing about who has to take care of it.
+
+
+…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gloomwrought: City of Midnight, Session 3, The Second Wave]]></title>
+        <id>http://githyankidiaspora.com/?p=20242</id>
+        <link href="https://githyankidiaspora.com/2022/07/14/gloomwrought-city-of-midnight-session-3-the-second-wave/"/>
+        <updated>2022-07-15T02:31:20.000Z</updated>
+        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 loot the vault of the late vampire gang, kill the last surviving vampire, stuff 2 vampire spawn accountants in a bag of holding and face Innistradi Vampire Assassins.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Dreams about Journeys Through the Radiant Citadel]]></title>
         <id>http://githyankidiaspora.com/?p=20230</id>
@@ -514,16 +554,6 @@ Games are about decision making but it's hard to make informed decisions about a
 Dark…]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cumbersome Star Wars Combat]]></title>
-        <id>http://technoskald.me/?p=6432</id>
-        <link href="https://technoskald.me/2022/06/15/cumbersome-star-wars-combat/"/>
-        <updated>2022-06-15T18:00:30.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been playing the original Star Wars RPG (WEG 1987) in a solo game and damn if combat isn’t cumbersome. Lots of rolling and comparison and adding numbers up, as trad games like this commonly require. First, you roll your skill (e.g. “Blaster”) to attack against a target number defined by range. If the defender … Continue reading Cumbersome Star Wars Combat →]]></summary>
-        <author>
-            <name>Kyle Maxwell</name>
         </author>
     </entry>
 </feed>
