@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-14T16:31:41.536Z</id>
+    <id>urn:2022-07-15T01:55:43.033Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T16:31:41.537Z</updated>
+    <updated>2022-07-15T01:55:43.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Dreams about Journeys Through the Radiant Citadel]]></title>
+        <id>http://githyankidiaspora.com/?p=20230</id>
+        <link href="https://githyankidiaspora.com/2022/07/14/digital-dreams-about-journeys-through-the-radiant-citadel/"/>
+        <updated>2022-07-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Art inspired by the latest Dungeons and Dragons adventure book, Journeys Through the Radiant Citadel.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Fire Beetles]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html</id>
