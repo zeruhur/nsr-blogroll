@@ -4,7 +4,18 @@
       "title": "Technoskald's Forge",
       "feedUrl": "https://technoskald.me/feed/",
       "siteUrl": "https://technoskald.me",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://technoskald.me/?p=6440",
+          "author": "Kyle Maxwell",
+          "description": "Over the last year or two, I’ve played a good bit of Call of Cthulhu and related games. While I love many things about that particular game, I don’t like the crunchiness of the character sheet. Investigators have nine attributes before we even get to things like Sanity, Luck, Magic Points, and skills! One thing … Continue reading Cthulhu Style Investigations →",
+          "link": "https://technoskald.me/2022/07/15/cthulhu-style-investigations/",
+          "publishedOn": "2022-07-15T19:12:07.000Z",
+          "wordCount": 3730,
+          "title": "Cthulhu Style Investigations",
+          "imageUrl": "https://skaldforge.files.wordpress.com/2022/07/pexels-photo-7319076.jpeg"
+        }
+      ]
     },
     {
       "title": "Tabletop Curiosity Cabinet",
@@ -17,9 +28,9 @@
           "description": "The first part of the project Adventures Buffo and I have been working on is complete. I originally approached Adventures Buffo after reading a great blogpost of his asking if he minded if I took a stab at the idea. Instead, he proposed we attempted something colleboratively and this is the result:\n\n\n\nThe 2nd Age \n\nThe 2nd Age is a tabletop RPG supplement containing 12 institutions intended to supplant traditional classes for games that prefer a more materialist approach to advancement. \nWhen using these institutions, power is gained primarily as a reward for your service to the empire of Turandor through one of its institutions. However, once you join one of these organisations, they decide what you do and where you go. Those who serve their institution will advance through its ranks and …",
           "link": "https://tabletopcuriositycabinet.blogspot.com/2022/07/the-2nd-age-is-here.html",
           "publishedOn": "2022-07-10T17:57:00.001Z",
-          "wordCount": 2854,
+          "wordCount": null,
           "title": "The 2nd Age is here",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshlH7FICd50df0C3qDcgi5jzdhmMbw-uufBpEfIQVycbGkGQl2TBUaJAj63-IyGVz4xg6MUdR325biLBHYvZrgQGFEGzlt7KIhvTIozpIY_ZijrGjZsUlGkXmu96Oci88kUYIQ8dogkd9gwhuyfVZ_RowsQHBqKUewIMo59UulT7iLjhgqtZd52u7/w1200-h630-p-k-no-nu/Screenshot%202022-07-09%20at%2023.50.02.png"
+          "imageUrl": null
         }
       ]
     },
@@ -33,7 +44,18 @@
       "title": "eskur.dev",
       "feedUrl": "https://eskur.dev/index.xml",
       "siteUrl": "https://eskur.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://eskur.dev/posts/rant-im-fucking-sick-of-stats/",
+          "author": null,
+          "description": "My issues with player-facing stats and modifiers.",
+          "link": "https://eskur.dev/posts/rant-im-fucking-sick-of-stats/",
+          "publishedOn": "2022-07-15T00:00:00.000Z",
+          "wordCount": 923,
+          "title": "Rant: I'm Fucking Sick Of Stats",
+          "imageUrl": "https://eskur.dev/images/ogimage.png"
+        }
+      ]
     },
     {
       "title": "Hopeful Weird Wonder",
@@ -91,7 +113,7 @@
           "description": "Sometimes I have thoughts and I have to put them on paper to get them out of my head and get back to the practice of living. This is one of them.\nHere, make yourself a BEYOND! THE HYPERTRENCH or Mothership character or something with this. I don't know.\nStep 1. Age\nDecide how old you are. This determines the number of lifepath hexes you have as well as your starting stats. \nThe older you are, the fewer stat points you'll have to work with but the more skilled you will be.\n\n\n\nAge (human)\n\nStarting Stat Spread\n\nNumber of Hex Steps\n\n\nJuvenile (<20)\n\n+2, +2, +3, +4\n\n3\n\n\nYoung Adult (20s)\n\n+1, +2, +3, +4\n\n4\n\n\nExperienced (30-40s)\n\n+0, +1, +2, +3\n\n5\n\n\nAged (50-60)\n\n+0, +1, +1, +2\n\n6\n\n\nVenerable (70+)\n\n+0, +0, +1, +2\n\n7\n\n\n\nStep 2. Trace your Lifepath\nNext, based on how many hex steps you have, ch…",
           "link": "https://riseupcomus.blogspot.com/2022/06/hexflower-lifepath-character-generation.html",
           "publishedOn": "2022-06-22T11:53:00.004Z",
-          "wordCount": 4581,
+          "wordCount": 4583,
           "title": "Hexflower Lifepath Character Generation",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWp0mBJcRa4TBn5IbcTnOFJ2W9ZJTNQ1KNlpYzkoF9fVdLqlyIO7V074CvW802cegbMdgEigDw2cW9Tj0JR0O9nlexv7JPTPGvu5ULpuI2JjuEKvwZeMD3uV7B2eOSrWqIHE1eD5KYhd4gMZbKhzJB_wCPfkKPrcGKtLUWzldltb2rFusR0O13V319pw/w1200-h630-p-k-no-nu/Star-Wars-esque-Lifepath-Generator.png"
         },
@@ -101,7 +123,7 @@
           "description": "There’s been a lot of good, actionable advice for Referees to telegraph traps, create Jayquays loops, and keep accurate time records. I have seen less advice on how to play a character in an old-school way (although I think the teaching dungeons Tomb of the Serpent King’s and Lair of the Lamb have good player-facing advice). In fact, I think you’d agree that most advice about “play” is geared towards Referees. \n\nI’m interested in exploring how to be a good player. \n\n\n\nThis post is in many ways a sequel to my Player Manifesto, here. \n\n“The (Egyptian) Book of the Dead is made up of a number of individual texts and their accompanying illustrations. … They served a range of purposes. Some are intended to give the deceased mystical knowledge in the afterlife, or perhaps to identify them with th…",
           "link": "https://riseupcomus.blogspot.com/2022/06/dungeoncrawling-advice-for-players.html",
           "publishedOn": "2022-06-20T16:35:00.010Z",
-          "wordCount": 4009,
+          "wordCount": 4011,
           "title": "Dungeoncrawling Advice for Players",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ2rblsWeEiwB6sNb4d356vHRN5M5axVHztEF2UzNR0YELY6YUb9R1SAbtEdLPJLk5J_1fmdSS6f2Xh7FEo-sEe7WuS3_N4UU0G4D-pCEi_vR88wCkfIlZYWLmHUBsMLhZmwL9gmlqOkfc4Gse0B9YakRQkAHMt138mXxZJgd0-vgyAXt9fiSTcEcy6g/w1200-h630-p-k-no-nu/emily-cheeseman-hmtw-collage-2.jpg"
         }
@@ -118,9 +140,9 @@
           "description": "I was worried how this session would go, because there was very little in the way of \"encounters\" in the traditional sense or anything that would require them to use their character sheets, and a FUCKTON of NPCs and logistics. But it went better than I could have hoped. This was some good Social Intrigue, which I am all about. I don't know how well this will translate to a PR, despite my efforts to make these PRs more interesting.\n\n\nI was inspired by the Scales of Conviction system for the videogame Triangle Strategy, where key plot events are decided on a vote, and the player has to talk to the various NPCs and gather information to try to sway the votes of the rest of the party. I figured that would work even better in a TTRPG, and it did. At some point either here or on Iconoclastic Flo…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/07/mrd2-pr-4-political-intrigue-in-non.html",
           "publishedOn": "2022-07-08T17:40:00.002Z",
-          "wordCount": 7241,
+          "wordCount": 7242,
           "title": "MRD2 PR 4: Political Intrigue in Non-Violent Dimensions",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyxF1DP_KsezNdvhPw15VmBj8ZR-hGSiDN_7QxK_14ETiLUVasm_VznX2cS6X-3qAG9EwKv3FsTTAXHKiKZbYOFOS8G2P0IeArHsc-7eZr3_siIKoo3HAtUJf7ONTB2O1eYGUoRrOA4sXFejRoypxP1SyVaEYdOiPSG8RlWOwvOaJIe4aDo0GBLx6y4FkDP1MmGwXLnyvawgu8ajcjHS9Lz4ncC2Dbj08OvjjDRv2thdVnIHBUsKFHo=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EydOlP36dsUXRfKJFSA1_tjo--aPb31xpTCy8cVAElBh1k0g03P7EPopyN24xjf0IATBSPZM_v3ME0zKyjtj2R-WcGnEdC-Q1emAVb_HaUichIuuTdEQpUsHOi2wXkqm9Mc6St0-EBatOFkercAPaHQaYr2c7ohQMw12Wd-bxLGNfo6oBe5S1gJDnJ8NZexz9RRZY2NCeSEpBFasWqO096te_fTEzojFfbzzfsQkXygkSm4c4NZQR6O=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html",
@@ -128,9 +150,9 @@
           "description": "This is an old draft, way before I decided to start using Concept Crafting for Mecha Gear. I think in all likelihood it's too fiddly, and I wasn't satisfied with it even at the time, but it's interesting seeing how it got me to where it is now.\n\n\n\n\nThis is for my Into the Odd Mecha Hack: Get Into the Machine, Shinji! The mechanics have changed to varying degrees since I've been running my MRD2 Campaign, but this post more so corresponds to the original GitMS! than to MRD2. Most notably, it is no longer the case in MRD2 that Golem (the Mecha) have their own Ability Scores anymore, instead just sharing the pilot Ability Scores, but having their own Damage dice and of course the Gear.\nHere's my Weird & Wonderful Table of Super Robot Wars-inspired Mecha and a \"Gacha\" Mecha Dispenser generator …",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html",
           "publishedOn": "2022-07-03T17:12:00.002Z",
-          "wordCount": 4572,
+          "wordCount": 4573,
           "title": "GItMS! Mecha Gear",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyMFCXNxzJOgR8HNnMVuYWlvaX8E5iY8ukHoC1KCpdrd2tdGzfDm8AvJxgAWLxagKNP3KLJr05CX2Gyb2cG6R67uWewNRXpSHzzoyDpjzqGJ7roWl0xdSZGO22xGkb5r1MvLS9FzU3Syt2HFx-HakcgcUrQ8A-f1ScqZEhKtRH-LSeD3SS8yeKSVEfrwHDQr7D2u7ylHGifkfz9Kyrfsw=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzGTyb-3DBbiotYjkxCy3ccyeYhkrZTjUSO7yoytvXhnOCOQeUBTJ4a3v_z1znUWK_V-vf-5kWC4yTkFw__YzMBzqABuMVwPlawesg-TKxf7df5Zoj-bKOQIEz3D4FTNArced--yGmPy2oeGFbUyHl46gOOlgGn2mWtC3_FoYScsvssZ6fzLWLv855Sl_YWCaPIYi171AT2D5fGRiQgfg=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html",
@@ -138,7 +160,7 @@
           "description": "I'm a few sessions into my MRD2 Campaign. Scheduling an IRL game is a nightmare or else I'd have liked to be a bit further into the campaign by now, but it's nice to be playing IRL again regardless. I'm realizing now that I've referenced Nazarite Contracts in the PRs and some of the other posts, but have not formally shared anything on them here.\n\n\nThe Nazarite Contracts of MRD2 are equivalent to the Poltergeist Forms of MRD1, the character classes. They are meant to reflect various kinds of careers or skillsets related to careers, but also speak to the psychologies around those careers, what that says about the individual or their relationship with the world.\n\n\nMechanically they are mostly the same as Poltergeist Forms, with some changes based on my experiences with my >1 year-long MRD1 C…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html",
           "publishedOn": "2022-06-25T14:03:00.002Z",
-          "wordCount": 6142,
+          "wordCount": 6143,
           "title": "MRD2 Nazarite Contracts and MRD2 Updates",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFeKVE_xxGv6_hBBg7Bx1j0hEbxjB2Wdaeq0mUzUknq9MpruNxvA1zepGZYFglPGV4ABF1SerQHXmRMkzMRLll40L4_szMzZzt3CCATULD2j-bstJhOyi1hZDfIacM2QeFqWT3uYhNCsdr9oPARjG_M-yfxuhV5ic8QWgRgiV25wrIEMcb5kkp1Xd/w1200-h630-p-k-no-nu/maximum_recursion_depth.png"
         },
@@ -148,9 +170,9 @@
           "description": "Previous PRs and general MRD2 context\nThe Corporation\n\nRegeXperience: “Live for the RegeXperience”. Childishly edgy experimental entertainment and defense company that doesn’t want the world to know what’s really behind their algorithm. EXPERIENCE, ALGORITHM, ENTERTAINMENT\n\n\nThe Manager\n\nBaz Beetz: Infectiously enthusiastic “artiste” and true believer in the company mission who is as profound as nonsensical.\n\n\nThe Cyblessed Liaison\n\n“Tastes like eating out the ass-end of human progress.”: Like a cheap flaccid little candle dripping wax down an otherwise glorious cake wearing a tacky suit reminiscent of a 1980’s faux-wood-paneled station wagon.\n\n\nThe Issue\n\nThe Quarterly earnings report is coming up soon, and The Corporation is anomalously underperforming.\n\nSeveral brand launches this Quart…",
           "link": "https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-pr-3-you-werent-supposed-to-see.html",
           "publishedOn": "2022-06-20T14:21:00.000Z",
-          "wordCount": 6619,
+          "wordCount": 6620,
           "title": "MRD2 PR 3: You Weren't Supposed to See That Yet",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Eyx4DFbwhCGTjnsZPyu3QiD6V4fmqggRLjepKN5X8w0uzD4_bB_ARp69Yv-swUy0dLWSyzFdaKcSwJCj9dl6miYubFsnkfYcB-T6eyI5CjHLXh0-QMWWw=w1200-h630-pd"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Eyj8wFUd9CwBaAimOmTo9UlT-N63bmbRxTdtqZim-F4i8N1Enz8PFke33aEJtc-VaaT25R9DxXK_jDD8g28sQLENTQmoYDDVTGFvJq-iWL_j71cxwKClg=w1200-h630-pd"
         }
       ]
     },
@@ -275,7 +297,7 @@
           "publishedOn": "2022-07-15T08:00:00.000Z",
           "wordCount": 5582,
           "title": "On Goblins",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Exvygww1Mg36SDJ2X8PdH7ysVzpA6MaRrGAl4JzCymHuQG27UL87KwyKsR1Vs5U0jqrrhxlGnj3xDsOWdVuGQWtxXXMGPE4FTF9NMmLEihcs9foELtnxEPPgOI08nvWg71-RSND8rkH8juFLFhXhp3uw8-FDpJQjsprfAYF5_WwgLqohfBJOi98JQzt2pBamrwos8S7MvzIRChOou3pS0ZG-HKrq2lM9u-z4g=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyUCWgcOA29r_gZCQtvftcjxC4XTAesKjQCBbjym3XENyUiK5ywTVoaVOlslD2_5X46-lPBfEOTv9e456JC3T06K5oG1ZZkkcN325ap2O-WFd1TK4zLqMjOB6wy37eMJYDWEDxJa1_gd_rjC0Je4B4EjgYgW8oQexgAOUpnZSVQ_SH8OkEsnaX1bbOHnvprwi8Ka7RUrEEuv-rfEjTNVEcauwSAUmWDm2TtTQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html",
@@ -285,7 +307,7 @@
           "publishedOn": "2022-07-14T10:32:00.001Z",
           "wordCount": 5548,
           "title": "On Fire Beetles",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzNzF_Y08zx0olwRBoJl23XdAe5kCIrgjy7m1T6Nso49WujZb5atpeDblbGRCUgrsgEpMh36_VLsunsnqhaE-vvNU-rxKYMAQN2LvE2GCJIqDEumaOqa2sMRETUCDMqxzYTT1bJiBwlCqHweae1JZOFLGcehHWy-SGhmeaQi_3P-RYeu29O1MMBydypF22Ey-nt760s51cMGdFBLDaLczvL9dw7QczfyOVvqlN6d0dS5JqZYZGxWTXCQHcyHalWHu15K7RG5q5-4T9NM-rQAzmhS9p54rbmmABSv63YOEW_MEK47IIevAwJ4SpWsbyr6kVYsVQonXit6CXoR0ARO5kGvU7IQ7eZ2TA_mgN2LbZE-IWTwLJM0Xvbyq6Xm0NmoxWBjL6V9JaNkTDbIBmnSLnfycVK8u8HnlkulCL1Pb-_RcwAdlGCf9Wi-CpvfGLOIoSeLHOtrNcr_ZLJSZYn-O7b8jWe8-Z5jLpNb3HrtaIae6kkJ0yNPz_guPG_2taHl64A91uZbqtfEus2F2qOUPFkV2YiZQt1yV6hwC2PVjocywHhEJ45vFDvtXWqbsMVE9KJZ5LX9DBekBGjOucDBamnHqPi2HjSyGhMrlK6nKsLMX-EQ6bAIu0NzRf__87NPUPEPBFa8V60HpFI1nzaHb10XwKYHGgdcLMF7fyfaGzT6koE4TIqY-u2XAL2RnO7Vlh6uo8NoB92ecJSL1jVcHhS2gEd3gE8VY5MU3Bosz6eZO-9nDJUDz_kOESZ3zuISLCRON7lDq_tJMhdEk15DyfI0vryNpTo=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwPD__qfO4Wl9YBgtarrX4AIuXgmrQt2pumt5Kw-Yv1vfECkjlRV9JyYx7vAkxEwXqSz6FIOHtDDKh2FoBAO8sPUP7S_oLrrcjgDnKycnWm8qQBIn8svv-yWKI7P2CUE5MR9TnmdYNYcCrjc5OzVThDf6UdA_81_PZx_BKUOrj9N_ZxEg20uw-DJCZzpMCLtm2KhYCg12OSFXSmblOXqikUlZ2FJuVN9Py13lKLmnJY9qWaRWX1sZKtRHjVjpLAPVqItdfzYQtYPSpIdJNFwmskAB2PL1TzL7x3vbi95pSmUfsyRhUXzuKhEAnFZlmtP7m45VkiFUCoepZ1amyeOu08VOVNeUpo7WfusqPzfw6l5kfA_OrSUd-3NK3ogyg4SlxQWCsQtcIL9KjVAwteAAu3muHL9jh_9-EB2hK52CxoqCoz21hKNJTL2dB7GzK1Cq0Wntkbt9JGoRIaUl9zA1HHRsO-Fz_EyhGFJWZ4vBtw2_Vv-XKC-ExKfXlnvUv3neYdOSP84UmBn2Waqf99tq4gWYT8E1yCceTPQY0h1XznJedqV9ekMNHoDXWmqiGCgaGQTPgwIp2M9AO5HR39Ms2a5WPVCMZV3o7RsEQYt8eZj7k7wbxrgJgw0t0Fq34e1c97e7ko_CQ6T1aw-3e2co4wI_DbyjDfoQDzdVn_cHbjF60No5DT4wgpJYsQ50H0uDdj3-0ovary5UUbjKHMxedRS4dey4C1RmPf_9QSyKBEVajaplPBE06GDOGl-UJTGdlzGFKct0u77HopqMKjWG6rADaJobiJ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -339,9 +361,9 @@
           "description": "My first meeting with the Morrow Project came in the guise of Different Worlds Magazine, Issue 33 which I inherited along with two issues of Dragon, a copy of the AD&D 1e Players Handbook, Moldvay Basic Set, and a handful of modules. The meeting was brief. A short module featuring a plague carrying biker gang along with some Q&A of the authors. But it wormed the game into my brain and eventually I scrounged pdf's for it out of the corners of the internet and read through them. \n\n\nAnd I was charmed. Its an old, idiosyncratic game but interesting in its presentation of details and has some surprisingly well made modules. So as I reread the Morrow Project's books I will be reviewing them, in hopes that this might introduce other folks to the game. \n\n\nNow the obvious place to start would be th…",
           "link": "https://thecosmicorrery.blogspot.com/2022/06/morrow-project-liberation-at-riverton.html",
           "publishedOn": "2022-06-27T02:37:00.008Z",
-          "wordCount": 4635,
+          "wordCount": 4636,
           "title": "Morrow Project - Liberation At Riverton, A Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExQv5qQAcZAixWBy1tkjolKBz0QcsmEGlQ-npI6X8WIOokZzJWuSGSWJT8KJmJVd_6sWs9NEwUSWHl-RiGBItVRQtGU1qdWFNjoGOvgRzndcK-K9qG_17p9duvFEvxJuQLaBzMgubWS6jZBaV0=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EweePKmDJ1kHPDKrjACZaAAoGBUe1FaxryKXthqXVj8ZBrKb2zZXKNNUX6L53Xh1nUjPGPC-xnlFsZ4H4UQKyE5195Mw_msGpvIgTkFD7App_10l_R-zPkF7PLXxEljqyb_HBb3ApNM_pB73U0=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thecosmicorrery.blogspot.com/2022/06/deep-country-guano-isles.html",
@@ -349,9 +371,9 @@
           "description": "Out where deep country meets deep water, on a handful of rocky islands under the baking sun, layers of bird shit strata have hardened into rich, white gold. Blasted, chipped, and shoveled out. Loaded into freighters to take back to Bastion where it becomes saltpeter, fertilizer, and all manner of products. \n\n\nAmong the innumerable sea birds might be found...\n\n\n1-4: d8 Convict Shovelers - STR 13, 3hp, Shovels & Picks (d6), Manacles, Grimy Overalls. Want to escape from this life sentence of grueling labour. Watched over by a lone, surly Guard - 6hp, Whip (d4), Musket (d8), Officious Hat.\n1 : Hauling bags of guano down a dangerous cliff to be loaded onto a barge.\n2 : Watching a fellow prisoner be whipped for killing a gull.\n3 : Fistfighting, a distraction so that another convict can steal a s…",
           "link": "https://thecosmicorrery.blogspot.com/2022/06/deep-country-guano-isles.html",
           "publishedOn": "2022-06-21T00:26:00.003Z",
-          "wordCount": 2683,
+          "wordCount": 2684,
           "title": "Deep Country : The Guano Isles",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExYrurP2-cp08I1QzpOKNM0VixfZE6gBrid2uIEvZzX5-maKifdw-O4XXRmN9a2QUlDSqHwjP9ou9UfNdjrc3Fq-5Lldq9PhBQtHkIMxAnKOZgf0nTMGaqzGdzWTNCINI-qnhRee7qs_gR6fkyW-opwXtbp3AsnsM-8PkZ199QiSNTPBhbkpx56y_fdlWdlcpvJXkARdnW58DFI0kfB8o6bOo0sr9LoMKrnYcHNsj9rjgpatOaH7rTHVunPgJTtlLiR8lBeckEHMJBpt9hn1rmND0Onzghx_5akk6s6IWEZ6xHCIDKJ2aIvYPeyq60kgCnT0o9IDyqBbiYKvV75mV7yoVh6uVLO3zLvG0c=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezkt0Zit8CLra6ZDAWxgcQGJJUO4AxPxNobBXnQ-mGXpkezpGX389Fx8RdJdxAjz_Y-qxus26deb7dseTYXO13DVwxTObqTSVLftBv3_mwsSN93WuSUEJ2x07PHkwrWZwP5Vz024cxp7AgoTEpwJpb7XvRgCf50na7c0f7SnNuquyT43IhdEtO1kQitGkoKoRHsgQCWNco_SJ8ct0rlZCdIsXmjqOOcQ7EczcwBoX8cAoKZrSyYWTE_ikMOO8cBPiWiYdz-0P3tzaQISur5XaEdq5H3eYgZtcV4gvHDKngUDggZBx12gwDcMbCDbzTFDYJ9cRMvu2NJReyAh2ud48MBzNtQQPRm-oS9HGs=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -366,7 +388,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 loot the vault of the late vampire gang, kill the last surviving vampire, stuff 2 vampire spawn accountants in a bag of holding and face Innistradi Vampire Assassins.",
           "link": "https://githyankidiaspora.com/2022/07/14/gloomwrought-city-of-midnight-session-3-the-second-wave/",
           "publishedOn": "2022-07-15T02:31:20.000Z",
-          "wordCount": 2865,
+          "wordCount": 2875,
           "title": "Gloomwrought: City of Midnight, Session 3, The Second Wave",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/gloomwrought-city-of-midnight-twitter-pic-s3-second-wave.png"
         },
@@ -376,7 +398,7 @@
           "description": "AI Art inspired by the latest Dungeons and Dragons adventure book, Journeys Through the Radiant Citadel.",
           "link": "https://githyankidiaspora.com/2022/07/14/digital-dreams-about-journeys-through-the-radiant-citadel/",
           "publishedOn": "2022-07-14T19:00:00.000Z",
-          "wordCount": 2460,
+          "wordCount": 2470,
           "title": "Digital Dreams about Journeys Through the Radiant Citadel",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/judd_hehim_bright_fantasy_city_with_tiers_growing_around_a_cent_bf0e88a7-c209-4c66-8d85-4834f2d91322.png?w=1200"
         },
@@ -386,7 +408,7 @@
           "description": "The unholy marriage of a Demi-Lich and an Iron Golem for our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/07/13/aboraz-the-striding-skull-the-tomb-that-walks/",
           "publishedOn": "2022-07-13T19:18:22.000Z",
-          "wordCount": 2780,
+          "wordCount": 2790,
           "title": "Aboraz, the Striding Skull, The Tomb that Walks",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/aboraz-the-tomb-that-walks-the-striding-skull-pic-2.png?w=918"
         },
@@ -396,7 +418,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 kill Rahadin and most of her vampire gang that has terrorized the streets of Gloomwrought since Strahd's curse was lifted.",
           "link": "https://githyankidiaspora.com/2022/07/07/gloomwrought-city-of-midnight-session-2-killing-rahadin/",
           "publishedOn": "2022-07-08T02:47:58.000Z",
-          "wordCount": 2798,
+          "wordCount": 2808,
           "title": "Gloomwrought: City of Midnight, Session 2, Killing Rahadin",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/gloomwrought-city-of-midnight-twitter-pic-s2-killing-rahadin.png"
         },
@@ -406,7 +428,7 @@
           "description": "In which a session of our D&D game is cancelled and we just chatted it up and enjoyed each other's faces.",
           "link": "https://githyankidiaspora.com/2022/06/30/every-so-often-the-best-game-is-no-game/",
           "publishedOn": "2022-07-01T01:25:03.000Z",
-          "wordCount": 2648,
+          "wordCount": 2658,
           "title": "Every so often the best game is no game.",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/gloomwrought-city-of-midnight-twitter-pic-cancelled.png"
         },
@@ -416,7 +438,7 @@
           "description": "In which I answer questions from Alex concerning the Dungeons and Dragons campaign chronicling the adventures of the Sigil 6.",
           "link": "https://githyankidiaspora.com/2022/06/19/alexs-questions/",
           "publishedOn": "2022-06-19T21:20:00.000Z",
-          "wordCount": 3078,
+          "wordCount": 3088,
           "title": "Alex’s Questions",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/01/the-sigil-6-oet-gritty-twitter-pic-3.png"
         },
@@ -426,7 +448,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 arrive in Gloomwrought, hunting Rahadin who is now a crimelord, leading a posse of vampires.",
           "link": "https://githyankidiaspora.com/2022/06/16/gloomwrought-city-of-midnight-session-1-locate-object/",
           "publishedOn": "2022-06-17T02:37:45.000Z",
-          "wordCount": 2788,
+          "wordCount": 2798,
           "title": "Gloomwrought: City of Midnight, Session 1, Locate Object",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/gloomwrought-city-of-midnight-twitter-pic-s1.png"
         }
@@ -486,7 +508,18 @@
       "title": "d66 Classless Kobolds",
       "feedUrl": "https://d66kobolds.blogspot.com/feeds/posts/default",
       "siteUrl": "https://d66kobolds.blogspot.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://d66kobolds.blogspot.com/2022/07/weird-north-is-now-available-in-print.html",
+          "author": null,
+          "description": "Title.\nWith the excellent aid of Jacob Marks, Weird North is not only formatted for print (finally, I know, I know) but already available for purchase from Lulu.com as a high-quality stapled softcover digest book. It's quite nice. As always, \"WELCOME15\" should work as a discount code, or the other various-and-often discount codes which Lulu spits out on the regular.\nStorefront Link",
+          "link": "https://d66kobolds.blogspot.com/2022/07/weird-north-is-now-available-in-print.html",
+          "publishedOn": "2022-07-15T19:51:00.001Z",
+          "wordCount": 2639,
+          "title": "Weird North is now available IN PRINT!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxyU7WvsoMW1_aIqXuMmVUyHddGZsGkHJzuItIH86csKN8--I4k_GTLH75AfXygXzlIRc5qVNRSwLuoXWcor3y2benJ8oAOUuQo3HSODqtkRySvZyHER58JyRobbFzglKzA3o5UiooMJuhUwai9QPL-H3MHphQTI6T197nJGcN3B-7Ce9cIT7y2IASuA/w1200-h630-p-k-no-nu/Capture.PNG"
+        }
+      ]
     },
     {
       "title": "hypertextfish",

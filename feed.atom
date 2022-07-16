@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T16:27:53.869Z</id>
+    <id>urn:2022-07-16T01:44:07.996Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T16:27:53.869Z</updated>
+    <updated>2022-07-16T01:44:07.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Weird North is now available IN PRINT!]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/07/weird-north-is-now-available-in-print.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/07/weird-north-is-now-available-in-print.html"/>
+        <updated>2022-07-15T19:51:00.001Z</updated>
+        <summary type="html"><![CDATA[Title.
+With the excellent aid of Jacob Marks, Weird North is not only formatted for print (finally, I know, I know) but already available for purchase from Lulu.com as a high-quality stapled softcover digest book. It's quite nice. As always, "WELCOME15" should work as a discount code, or the other various-and-often discount codes which Lulu spits out on the regular.
+Storefront Link]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cthulhu Style Investigations]]></title>
+        <id>http://technoskald.me/?p=6440</id>
+        <link href="https://technoskald.me/2022/07/15/cthulhu-style-investigations/"/>
+        <updated>2022-07-15T19:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Over the last year or two, I’ve played a good bit of Call of Cthulhu and related games. While I love many things about that particular game, I don’t like the crunchiness of the character sheet. Investigators have nine attributes before we even get to things like Sanity, Luck, Magic Points, and skills! One thing … Continue reading Cthulhu Style Investigations →]]></summary>
+        <author>
+            <name>Kyle Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Goblins]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-goblins.html</id>
@@ -43,6 +65,16 @@ When encountering Goblins in the wild they… 
         <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 loot the vault of the late vampire gang, kill the last surviving vampire, stuff 2 vampire spawn accountants in a bag of holding and face Innistradi Vampire Assassins.]]></summary>
         <author>
             <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rant: I'm Fucking Sick Of Stats]]></title>
+        <id>https://eskur.dev/posts/rant-im-fucking-sick-of-stats/</id>
+        <link href="https://eskur.dev/posts/rant-im-fucking-sick-of-stats/"/>
+        <updated>2022-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My issues with player-facing stats and modifiers.]]></summary>
+        <author>
+            <name>eskur.dev</name>
         </author>
     </entry>
     <entry>
