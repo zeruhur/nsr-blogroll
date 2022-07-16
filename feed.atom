@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-16T01:44:07.996Z</id>
+    <id>urn:2022-07-16T08:20:49.998Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T01:44:07.996Z</updated>
+    <updated>2022-07-16T08:20:49.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -554,21 +554,6 @@ World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world i
 When I was very young there was a stretch when I was absolutely obsessed with Prokofiev's Peter and the Wolf. For those unfamiliar, the piece is a narrated children's story accompanied by an orchestra, with each character represented with a specific instrument and theme. I loved it, and would listen to it over and over again until I had every bit memorized. Not so much every word, or even the specifics of the story, but every turn of the music was etched into my imagination. The characters spoke to me not through their literal actions, but through the way they were portrayed by the orchestra. Soon I was imagining entirely new stories, new configurations of characters and their interactions based on the way their themes were woven together as the narration rattled o…]]></summary>
         <author>
             <name>Glass Bird Games</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PROCEDURALISM]]></title>
-        <id>https://alldeadgenerations.blogspot.com/2022/06/a-manifesto-for-proceduralism.html</id>
-        <link href="https://alldeadgenerations.blogspot.com/2022/06/a-manifesto-for-proceduralism.html"/>
-        <updated>2022-06-16T19:20:00.003Z</updated>
-        <summary type="html"><![CDATA[SLOUCHING TOWARD PROCEDURALISM
-“Here we come across another, very positive feature of play : it creates order, is order. Into an imperfect world and into the confusion of life it brings a temporary, a limited perfection. Play demands order absolute and supreme. The least deviation from it "spoils the game", robs it of its character and makes it worthless.”
-- Homo Ludens
-
-Homo Ludens is a foundational work in the scholarship of games or “play” and of cultural history more generally. Written by the Dutch historian Johan Huizinga and published in 1938, it defines play as a distinct natural activity that exists outside everyday survival, only for the purpose of freedom and fun. However, a major element separates play from other leisure activities—play requires rules. 
-Play produces “games” or …]]></summary>
-        <author>
-            <name>All Dead Generations</name>
         </author>
     </entry>
 </feed>
