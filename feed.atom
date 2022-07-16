@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-16T08:20:49.998Z</id>
+    <id>urn:2022-07-16T16:22:01.123Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T08:20:49.998Z</updated>
+    <updated>2022-07-16T16:22:01.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Hobgoblins]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-hobgoblins.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-hobgoblins.html"/>
+        <updated>2022-07-16T10:37:00.004Z</updated>
+        <summary type="html"><![CDATA[Some more goblins from Jim Henson's 'Labyrinth'.
+
+
+
+Hobgoblins: 
+HP: 4 // ARMOR 6
+Hobgoblins were once children who showed a definite mean streak in their nature. The Witch Magobia lured them away from home with many promises, and fed them her special food, disguised as gingerbread cakes. Eventually her corruption deformed them as well. 
+The following are all true: 
+• Once the gingerbread is eaten, they can no longer get sustenance from any other food. They need her food to survive. This is how she controls them.
+ • These children grow up looking like very wrinkly teenagers in much the same way as the babies turn into goblins. Their skin-tone remains closer to their original one, if not a bit less vibrant.
+• The hobgoblins are cruel and have less of a need to be fearful, compared to the go…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weird North is now available IN PRINT!]]></title>
         <id>https://d66kobolds.blogspot.com/2022/07/weird-north-is-now-available-in-print.html</id>
@@ -517,43 +537,6 @@ Travel along interstellar routes can be done using star gates. After paying your
         <summary type="html"><![CDATA[In which I answer questions from Alex concerning the Dungeons and Dragons campaign chronicling the adventures of the Sigil 6.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gloomwrought: City of Midnight, Session 1, Locate Object]]></title>
-        <id>http://githyankidiaspora.com/?p=20123</id>
-        <link href="https://githyankidiaspora.com/2022/06/16/gloomwrought-city-of-midnight-session-1-locate-object/"/>
-        <updated>2022-06-17T02:37:45.000Z</updated>
-        <summary type="html"><![CDATA[In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 arrive in Gloomwrought, hunting Rahadin who is now a crimelord, leading a posse of vampires.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worlds of Classic Traveller]]></title>
-        <id>https://www.hypertextfish.org/worlds</id>
-        <link href="https://www.hypertextfish.org/worlds"/>
-        <updated>2022-06-16T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Perfect sunset by Axel-Astro-Art
-
-Worlds chapter from Classic Traveller Book 03. Modernised and edited with annotations. All values have been preserved to be compatible with the original.
-Online generator by Marcia using the tables below.
-Star Mapping
-The referee has the responsibility for mapping the subsector before a campaign begins. Each hex in a subsector represents the distance that may be covered by an interstellar jump of distance 1 (1 hex = 1 parsec, or 3.26 light years). Use an 8 by 10 hex grid for your subsector map (Hexographer is a solid digital option). You should have around 40 worlds total, which is plenty for a campaign. Give the subsector a name. Label spinward and coreward directions.
-World occurrence: roll d6 for each hex, results of 4, 5, or 6 indicate a world is prese…]]></summary>
-        <author>
-            <name>Worlds of Classic Traveller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sprouted Stump: Thematic Musical Tables]]></title>
-        <id>https://glassbirdgames.blogspot.com/2022/06/the-sprouted-stump-thematic-musical.html</id>
-        <link href="https://glassbirdgames.blogspot.com/2022/06/the-sprouted-stump-thematic-musical.html"/>
-        <updated>2022-06-16T22:31:00.018Z</updated>
-        <summary type="html"><![CDATA[In Crimea, Ivan Shishkin
-When I was very young there was a stretch when I was absolutely obsessed with Prokofiev's Peter and the Wolf. For those unfamiliar, the piece is a narrated children's story accompanied by an orchestra, with each character represented with a specific instrument and theme. I loved it, and would listen to it over and over again until I had every bit memorized. Not so much every word, or even the specifics of the story, but every turn of the music was etched into my imagination. The characters spoke to me not through their literal actions, but through the way they were portrayed by the orchestra. Soon I was imagining entirely new stories, new configurations of characters and their interactions based on the way their themes were woven together as the narration rattled o…]]></summary>
-        <author>
-            <name>Glass Bird Games</name>
         </author>
     </entry>
 </feed>
