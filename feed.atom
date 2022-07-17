@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-16T16:22:01.123Z</id>
+    <id>urn:2022-07-17T01:51:02.128Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T16:22:01.123Z</updated>
+    <updated>2022-07-17T01:51:02.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[6 – Time, Trophy Gold: Roots of Old Kalduhr]]></title>
+        <id>http://githyankidiaspora.com/?p=20278</id>
+        <link href="https://githyankidiaspora.com/2022/07/16/6-time-trophy-gold-roots-of-old-kalduhr/"/>
+        <updated>2022-07-16T17:25:46.000Z</updated>
+        <summary type="html"><![CDATA[In this session of the table-top role-playing game, Trophy Gold we playtested a surreal incursion I'm writing called Attack of the Phase Spider.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Hobgoblins]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-hobgoblins.html</id>
