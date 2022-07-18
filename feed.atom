@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T08:23:36.640Z</id>
+    <id>urn:2022-07-18T16:26:40.015Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T08:23:36.640Z</updated>
+    <updated>2022-07-18T16:26:40.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Monday Midjourney: Doorways]]></title>
+        <id>http://githyankidiaspora.com/?p=20334</id>
+        <link href="https://githyankidiaspora.com/2022/07/18/monday-midjourney-doorways/"/>
+        <updated>2022-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Making dungeon doors for dungeon delving fantasy role-playing games, like Dungeons and Dragons with Midjourney]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Gros Jean: Ogre of the Woods]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-gros-jean-ogre-of-woods.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-gros-jean-ogre-of-woods.html"/>
+        <updated>2022-07-18T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Google tells me this image is from Game of Thrones
+
+
+
+Gros Jean: Ogre of the woods
+HP:12, ARMOR:8, +2AB, STR+2, Ogre Great-Club (2-handed, Ogre Sized, +1DMG), Wearing treated bearskin as armour (+1ARM, already calculated)
+
+
+Gros Jean is the ogre that roams these parts of the country. He mainly works as a mercenary for the forces of Chaos. He recently has come in possession of an unholy symbol of the dark forces, that will slowly corrupt his mind, offering him dark powers. Gros Jean has an agreement with the Witch Magobia that if the goblins pay him, he will protect them, as he can have some of the babies she brings in as food.
+
+
+When Gros Jean is met in the wild he…
+ 1. Is eating and will tolerate weary travelers to join. 
+2. Is admiring his ruby necklace of the Snake.
+ 3. Has a manacled prisoner on a chain and is sitting down with a pensive smile brainstorming on an apt punishment for the oath the prisoner broke. 
+4. Is very hungry and looking for food. You look tasty. Or do you perhaps have a baby?
+ 5. Is grumpy and angry because his prisoner escaped. 
+6. Is hanging chains with stone skulls on them on a prisoner. One for each of the men he promised to bring back safely, but failed to do so. He has to cary these around wherever they go.
+
+
+Ogres are descendants of the old Roman deity called Orcus. They roam the world, eating babies (preferably) and enjoying in punishing oath-breakers. 
+
+
+There are more ogres in the land, but not a lot. They do not get along very much and as such remain a good distance away from each other. If they get too close to each other, the land cannot sustain their appetite all that much and they will fight over food. Sometimes an ogre will find a mate though, and somehow they manage to tolerate each other. Woe betide the lands where this is the case.]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ten Interesting Traps]]></title>
         <id>https://riseupcomus.blogspot.com/2022/07/ten-interesting-traps.html</id>
