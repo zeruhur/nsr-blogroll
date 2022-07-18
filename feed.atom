@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-17T16:22:30.651Z</id>
+    <id>urn:2022-07-18T01:45:41.048Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T16:22:30.651Z</updated>
+    <updated>2022-07-18T01:45:41.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Primal Quest – Hunting the Sky Wizards]]></title>
+        <id>http://githyankidiaspora.com/?p=20300</id>
+        <link href="https://githyankidiaspora.com/2022/07/17/primal-quest/"/>
+        <updated>2022-07-18T00:02:33.000Z</updated>
+        <summary type="html"><![CDATA[In which I gathered with Stras, Jay and Sean in order to hunt sky wizards with the NSR Stone and Sorcery adventure game, Primal Quest.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 – Time, Trophy Gold: Roots of Old Kalduhr]]></title>
         <id>http://githyankidiaspora.com/?p=20278</id>
