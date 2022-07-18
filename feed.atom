@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T01:45:41.048Z</id>
+    <id>urn:2022-07-18T08:23:36.640Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-18T01:45:41.048Z</updated>
+    <updated>2022-07-18T08:23:36.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ten Interesting Traps]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/07/ten-interesting-traps.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/07/ten-interesting-traps.html"/>
+        <updated>2022-07-18T02:07:00.000Z</updated>
+        <summary type="html"><![CDATA[There have been many posts on this subject. This is mine.
+(Because of His Majesty the Worm, I find myself in the position where I need to explain concepts in a worse way than the originator of the idea. I am standing on the shoulders of giants and falling.)
+---
+
+
+Art for HIS MAJESTY THE WORM by Marcin S
+
+Put some of these traps into your dungeons. Use them as inspiration to create your own.
+ I. Mysterious Tower, Acid Lake
+ There is a tumbledown tower on the middle of an island. The island is in the middle of a bright-green acid lake. The lake is death for whoever falls into it.
+ Why this trap doesn’t suck: The possible rewards are tantalizing. (A mysterious tower? What’s in it?) The dangers are obvious. (The lake is bright green! Acid is deadly!) This is an open-ended problem with many pos…]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Primal Quest – Hunting the Sky Wizards]]></title>
         <id>http://githyankidiaspora.com/?p=20300</id>
