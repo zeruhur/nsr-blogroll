@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T08:22:21.716Z</id>
+    <id>urn:2022-07-19T16:25:50.509Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-19T08:22:21.716Z</updated>
+    <updated>2022-07-19T16:25:50.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meditating on the White Lotus]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/07/meditating-on-white-lotus.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/07/meditating-on-white-lotus.html"/>
+        <updated>2022-07-19T12:00:00.002Z</updated>
+        <summary type="html"><![CDATA[Sometimes I make kung fu posts. I've started using the `kung-fu` label to aggregate them. Click on this label to read my other mutterings on this subject.
+I've been watching Shaw Brothers films at the gym this summer. If you're unfamiliar, Shaw Brothers was a prolific Hong Kong production company that produced grindhouse kung fu films. Basically, all the audio samples from Enter the Wu-Tang (36 Chambers) were from these films. 
+> Frog style is incredibly strong and immune to nearly any weapon.
+I like some of the films more than I like others, but almost all of them have something that made me say "Ha ha neat." Almost all of them have something gameable. 
+In this post, I'm going to step through the Shaw Brothers' film Clan of the White Lotus beat by beat. Heavy spoilers warning, obviously. …]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Magobia the Witch]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-magobia-witch.html</id>
@@ -635,16 +649,6 @@ Interstellar Travel
 Travel along interstellar routes can be done using star gates. After paying your travel fees to the Empire, you are allowed passage to the next…]]></summary>
         <author>
             <name>Sojourner: Orbital</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex’s Questions]]></title>
-        <id>http://githyankidiaspora.com/?p=20146</id>
-        <link href="https://githyankidiaspora.com/2022/06/19/alexs-questions/"/>
-        <updated>2022-06-19T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[In which I answer questions from Alex concerning the Dungeons and Dragons campaign chronicling the adventures of the Sigil 6.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
