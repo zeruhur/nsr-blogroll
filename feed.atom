@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T08:24:46.742Z</id>
+    <id>urn:2022-07-20T16:26:33.038Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T08:24:46.742Z</updated>
+    <updated>2022-07-20T16:26:33.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -623,25 +623,6 @@ basic definition for an aspect of TTRPGs that is garnering more and more
 critical attention.]]></summary>
         <author>
             <name>W. F. Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Country : The Guano Isles]]></title>
-        <id>https://thecosmicorrery.blogspot.com/2022/06/deep-country-guano-isles.html</id>
-        <link href="https://thecosmicorrery.blogspot.com/2022/06/deep-country-guano-isles.html"/>
-        <updated>2022-06-21T00:26:00.003Z</updated>
-        <summary type="html"><![CDATA[Out where deep country meets deep water, on a handful of rocky islands under the baking sun, layers of bird shit strata have hardened into rich, white gold. Blasted, chipped, and shoveled out. Loaded into freighters to take back to Bastion where it becomes saltpeter, fertilizer, and all manner of products. 
-
-
-Among the innumerable sea birds might be found...
-
-
-1-4: d8 Convict Shovelers - STR 13, 3hp, Shovels & Picks (d6), Manacles, Grimy Overalls. Want to escape from this life sentence of grueling labour. Watched over by a lone, surly Guard - 6hp, Whip (d4), Musket (d8), Officious Hat.
-1 : Hauling bags of guano down a dangerous cliff to be loaded onto a barge.
-2 : Watching a fellow prisoner be whipped for killing a gull.
-3 : Fistfighting, a distraction so that another convict can steal a s…]]></summary>
-        <author>
-            <name>The Cosmic Orrery</name>
         </author>
     </entry>
 </feed>
