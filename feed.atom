@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T01:42:54.397Z</id>
+    <id>urn:2022-07-20T08:24:46.742Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T01:42:54.397Z</updated>
+    <updated>2022-07-20T08:24:46.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Wolves]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-wolves.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-wolves.html"/>
+        <updated>2022-07-20T06:55:00.001Z</updated>
+        <summary type="html"><![CDATA[On Wolves
+HP: 3, ARMOR 6, ATT+1
+
+
+Wolves in the Borderlands are common. They roam the forests in packs. While the North American wolves might be known to be afraid of humans in general, the European wolves are bigger and meaner than that and have been known to attack humans when hungry. 
+
+
+In the Borderlands, the strange and chaotic forces that permeate this area sometimes changes things about the wolves and make them strange.
+
+
+The chance of this alteration occurring will depend on how much of a foothold chaos has on the lands. I suggest starting with a 1/6 chance, triggering on a 6, adding +1 to each time ‘regular’ wolves are rolled. And add a +1 for each rank of a foothold Chaos has on the lands.
+
+
+
+
+
+
+The Eurasian Grey Wolf, found free to use on Wikipedia
+
+
+
+The Wolves of the Borderland might…
+1. Talk and understand humans. They know to use this to attract prey.
+2. Leave ashen paw prints that remain warm to the touch for a night and a day.
+3. Have a howl that makes you think your feet suddenly sink into the ground and are stuck.  
+Roll DANGER +WIL or be paralyzed with fear for a round.
+4. Have the ability to grow to the size of cows.
+Double HP, +1 to ATTACK
+5. Be ridden by kobolds wanting to cause mischief of the deadly kind. 
+They will use their own devious skills to make fighting harder, like riding with a line of rope between them to try and trip up people, shooting arrows that might paralyze or put you to sleep, etc.
+6. Have the ability to breathe a cloud of mist, making ranged attacks on them harder, forcing people to have to go hand to hand, or to make it easier for them to flee.]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meditating on the White Lotus]]></title>
         <id>https://riseupcomus.blogspot.com/2022/07/meditating-on-white-lotus.html</id>
@@ -602,69 +642,6 @@ Among the innumerable sea birds might be found...
 3 : Fistfighting, a distraction so that another convict can steal a s…]]></summary>
         <author>
             <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeoncrawling Advice for Players]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/06/dungeoncrawling-advice-for-players.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/06/dungeoncrawling-advice-for-players.html"/>
-        <updated>2022-06-20T16:35:00.010Z</updated>
-        <summary type="html"><![CDATA[There’s been a lot of good, actionable advice for Referees to telegraph traps, create Jayquays loops, and keep accurate time records. I have seen less advice on how to play a character in an old-school way (although I think the teaching dungeons Tomb of the Serpent King’s and Lair of the Lamb have good player-facing advice). In fact, I think you’d agree that most advice about “play” is geared towards Referees. 
-
-I’m interested in exploring how to be a good player. 
-
-
-
-This post is in many ways a sequel to my Player Manifesto, here. 
-
-“The (Egyptian) Book of the Dead is made up of a number of individual texts and their accompanying illustrations. … They served a range of purposes. Some are intended to give the deceased mystical knowledge in the afterlife, or perhaps to identify them with th…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD2 PR 3: You Weren't Supposed to See That Yet]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-pr-3-you-werent-supposed-to-see.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-pr-3-you-werent-supposed-to-see.html"/>
-        <updated>2022-06-20T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Previous PRs and general MRD2 context
-The Corporation
-
-RegeXperience: “Live for the RegeXperience”. Childishly edgy experimental entertainment and defense company that doesn’t want the world to know what’s really behind their algorithm. EXPERIENCE, ALGORITHM, ENTERTAINMENT
-
-
-The Manager
-
-Baz Beetz: Infectiously enthusiastic “artiste” and true believer in the company mission who is as profound as nonsensical.
-
-
-The Cyblessed Liaison
-
-“Tastes like eating out the ass-end of human progress.”: Like a cheap flaccid little candle dripping wax down an otherwise glorious cake wearing a tacky suit reminiscent of a 1980’s faux-wood-paneled station wagon.
-
-
-The Issue
-
-The Quarterly earnings report is coming up soon, and The Corporation is anomalously underperforming.
-
-Several brand launches this Quart…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sojourner: Orbital]]></title>
-        <id>https://www.hypertextfish.org/orbital</id>
-        <link href="https://www.hypertextfish.org/orbital"/>
-        <updated>2022-06-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Homeworld 3 concept art.
-
-Continuing my Sojourner series, I was thinking about an ideal spaceship combat system. Ergo, one where not only the pilot and gunner get all the action. Inspired by Retired Adventurer’s rules, Classic Traveller Book 01 and my Spaceship Submarines I will flesh out the details of spaceships in Sojourner.
-Warning. Capital ship exiting jumpspace. Metal hulls scraping against the void. The void screams back, all while it bleeds a midnight star’s blood. Warning. Capital ship exiting jumpspace. You are not prepared. You were not well paid for this either. But you just have to survive until the payday. Warning.
-Interstellar Travel
-Travel along interstellar routes can be done using star gates. After paying your travel fees to the Empire, you are allowed passage to the next…]]></summary>
-        <author>
-            <name>Sojourner: Orbital</name>
         </author>
     </entry>
 </feed>
