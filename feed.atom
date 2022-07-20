@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T16:25:50.509Z</id>
+    <id>urn:2022-07-20T01:42:54.397Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-19T16:25:50.509Z</updated>
+    <updated>2022-07-20T01:42:54.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,6 +42,22 @@ It is said that the witch Magobia cannot have children of her own and that becau
  • She is followed around by what looks like a black cat that has the power,…]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring the Page With You]]></title>
+        <id>https://www.hypertextfish.org/bring-the-page</id>
+        <link href="https://www.hypertextfish.org/bring-the-page"/>
+        <updated>2022-07-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a proof of concept for a worldbuilding game based on the world of Myst. Using these rules you can create and detail your own ages.
+Bring the page with you is based on games like Microscope and I’m sorry did you say street magic. To play this game you will need some index cards and writing tools.
+Setup
+Before you start exploring the Ages, establish the basics of your setting.
+First agree on the tone of your world. Is it an eerie lonely experience? Or are the ages still bustling with life? Decide with your group and note down a couple of adjectives.
+Create a foundational age and a device (following their respective instructions in the next chapter). Describe why this age serves as a crossroads to other ages. Name this age.
+Play passes clockwise. Each player may add either an age or a…]]></summary>
+        <author>
+            <name>Bring the Page With You</name>
         </author>
     </entry>
     <entry>
