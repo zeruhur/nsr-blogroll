@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T16:26:33.038Z</id>
+    <id>urn:2022-07-21T01:44:16.076Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T16:26:33.038Z</updated>
+    <updated>2022-07-21T01:44:16.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[5 FIST Characters]]></title>
+        <id>https://weirdwonderfulworlds.blogspot.com/2022/07/5-fist-characters.html</id>
+        <link href="https://weirdwonderfulworlds.blogspot.com/2022/07/5-fist-characters.html"/>
+        <updated>2022-07-20T21:07:00.001Z</updated>
+        <summary type="html"><![CDATA[I've been growing interested in FIST, a rules-light RPG with a very Metal Gear Solid vibe, but in a way that feels true to Kojima and not just derivative, and taking other influences from the likes of Lovecraft, GI Joe, and Doom Patrol, which of course drew my attention even before I saw it referenced as an inspiration.
+
+
+I may want to do a bigger FIST post down the line, or maybe a micro-setting using FIST as the core system, but in the mean time, here is my attempt at a few premade characters randomly generated:
+
+
+
+
+
+Codename: Anti-Mutant P
+Tachyonic "mutant" whose DNA was chipped and blasted with psychonine, the nucleotide from the center of all spacetimes, reduced like a block of marble into the teleological True One towards which all life unknowingly aspires. It modulates itself with …]]></summary>
+        <author>
+            <name>Weird &amp; Wonderful Worlds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Wolves]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-wolves.html</id>
@@ -611,18 +631,6 @@ Step 2. Trace your Lifepath
 Next, based on how many hex steps you have, ch…]]></summary>
         <author>
             <name>Rise Up Comus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Even Is a “Procedure”?]]></title>
-        <id>5fc42d3b9955c744b550776c:5fc449cf7acac6192a4958a4:62abb5785455df5558264046</id>
-        <link href="https://www.prismaticwasteland.com/blog/what-even-is-a-procedure"/>
-        <updated>2022-06-21T12:56:11.000Z</updated>
-        <summary type="html"><![CDATA[So a game has “procedures” but what does that mean? This post presents a 
-basic definition for an aspect of TTRPGs that is garnering more and more 
-critical attention.]]></summary>
-        <author>
-            <name>W. F. Smith</name>
         </author>
     </entry>
 </feed>
