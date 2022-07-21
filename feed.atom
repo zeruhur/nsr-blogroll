@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T08:22:39.885Z</id>
+    <id>urn:2022-07-21T16:24:38.585Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T08:22:39.885Z</updated>
+    <updated>2022-07-21T16:24:38.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[So you took to the road in the Borderlands (Encounter Table)]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-took-to-road-in-borderlands.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-took-to-road-in-borderlands.html"/>
+        <updated>2022-07-21T10:34:00.004Z</updated>
+        <summary type="html"><![CDATA[So you took to the road in the Borderlands...
+This is a dangerous thing to do, and we're playing Maze Rats, so make a Danger Roll! 
+If there's any reason for you gaining advantage or adding a stat bonus, argue for it now.
+Whether or not you succeed, an encounter will be had. The result of your danger roll just decides how well your encounter will go. 
+
+
+
+Pilgrims arriving in Rome for the first Jubilee in 1300, from Giovanni Sercambi’s “Chronicles,” around 1400.
+Credit...Archivio di Stato, Lucca
+
+After the Danger Roll has been rolled, the GM also rolls 2d6, basing the encounter table on this blogpost by Papers and Pencils, adding, consequently a dragon and a wizard (or in this case, witch) to the module. Also, not wanting to throw away a roll if the danger roll was successful, I have two en…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 FIST Characters]]></title>
         <id>https://weirdwonderfulworlds.blogspot.com/2022/07/5-fist-characters.html</id>
