@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T01:47:51.493Z</id>
+    <id>urn:2022-07-22T08:25:04.584Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T01:47:51.493Z</updated>
+    <updated>2022-07-22T08:25:04.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Killer Bees]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-killer-bees.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-killer-bees.html"/>
+        <updated>2022-07-22T05:19:00.011Z</updated>
+        <summary type="html"><![CDATA[On killer bees
+HP: 1 // ARMOR: 7 // Special: Dies after stinging // Fast fliers.
+ “Jupiter, king of the Roman gods, is said to have given the honeybee his stinger, to protect his honey. His wife, Juno, however, insisted there must be payment for this gift of a weapon, so Jupiter gave the stinger with the condition that the bee dies should she use it.”
+
+
+
+Image by rawpixel.com
+
+
+
+Bees the size of loaves of bread are sometimes spotted around the borderlands. But where do they come from? Where do they find the nectar for their honey?
+Where do they come from?
+1. Deep underground, where there are giant caves full of giant animals and plants. 
+They are lost and confused. This upsets them greatly. A system of caves must be close by that leads to these strange lands. Their honey has natural healin…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So you took to the road in the Borderlands (Encounter Table)]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-took-to-road-in-borderlands.html</id>
@@ -565,30 +588,6 @@ Between current events in the US of A, my work on my archeological hearth-fantas
 All of Ben Robbins' West Marches posts are incredibly useful, thought-provoking, and entertaining reading, but my favorite has always been his musings on Layers of History. I'm trying to invoke this especially in the stuff I'm writing lately, and it always helps to have some jumping off points for the Big Foundational Questions of a setting - the character of the ancient people that came before, and the reason they're no longer here. So here'…]]></summary>
         <author>
             <name>Glass Bird Games</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvelous Mushrooms - Generator]]></title>
-        <id>https://blog.d4caltrops.com/2022/06/marvelous-mushrooms-generator.html</id>
-        <link href="https://blog.d4caltrops.com/2022/06/marvelous-mushrooms-generator.html"/>
-        <updated>2022-06-22T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Just a quick post sharing a generator I needed to build out for Perchance: Marvelous Mushrooms & Tantalizing Toadstools. Since this one can requires a few rolls, I like to make those a little faster with a generator that can collate content in a click.]]></summary>
-        <author>
-            <name>d4 Caltrops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loops]]></title>
-        <id>https://www.hypertextfish.org/loops</id>
-        <link href="https://www.hypertextfish.org/loops"/>
-        <updated>2022-06-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2001: A Space Loop
-
-This post is about how I view procedures as a specific case of gameplay loops (using the video game design term). I want to explore roleplaying through the lens of these loops. Why though? To me the advantage of understanding game loops is intentionally using them in play and design (of systems and adventures alike). By making them explicit (or intentionally subtle) the table can focus on making interesting decisions and narrating the fiction.
-Game loops can also inform the base units of your fictional world. Loops that deal with space and time will be better suited for location exploration. While loops that are focused on events and narrative beats are more apt for scene based play.
-In a video game, these loops are coded in by the designers, and revealed to us as eithe…]]></summary>
-        <author>
-            <name>Loops</name>
         </author>
     </entry>
 </feed>
