@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T16:24:38.585Z</id>
+    <id>urn:2022-07-22T01:47:51.493Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T16:24:38.585Z</updated>
+    <updated>2022-07-22T01:47:51.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -589,68 +589,6 @@ Game loops can also inform the base units of your fictional world. Loops that de
 In a video game, these loops are coded in by the designers, and revealed to us as eithe…]]></summary>
         <author>
             <name>Loops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexflower Lifepath Character Generation]]></title>
-        <id>https://riseupcomus.blogspot.com/2022/06/hexflower-lifepath-character-generation.html</id>
-        <link href="https://riseupcomus.blogspot.com/2022/06/hexflower-lifepath-character-generation.html"/>
-        <updated>2022-06-22T11:53:00.004Z</updated>
-        <summary type="html"><![CDATA[Sometimes I have thoughts and I have to put them on paper to get them out of my head and get back to the practice of living. This is one of them.
-Here, make yourself a BEYOND! THE HYPERTRENCH or Mothership character or something with this. I don't know.
-Step 1. Age
-Decide how old you are. This determines the number of lifepath hexes you have as well as your starting stats. 
-The older you are, the fewer stat points you'll have to work with but the more skilled you will be.
-
-
-
-Age (human)
-
-Starting Stat Spread
-
-Number of Hex Steps
-
-
-Juvenile (<20)
-
-+2, +2, +3, +4
-
-3
-
-
-Young Adult (20s)
-
-+1, +2, +3, +4
-
-4
-
-
-Experienced (30-40s)
-
-+0, +1, +2, +3
-
-5
-
-
-Aged (50-60)
-
-+0, +1, +1, +2
-
-6
-
-
-Venerable (70+)
-
-+0, +0, +1, +2
-
-7
-
-
-
-Step 2. Trace your Lifepath
-Next, based on how many hex steps you have, ch…]]></summary>
-        <author>
-            <name>Rise Up Comus</name>
         </author>
     </entry>
 </feed>
