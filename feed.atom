@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T01:43:57.390Z</id>
+    <id>urn:2022-07-23T08:22:22.184Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-23T01:43:57.391Z</updated>
+    <updated>2022-07-23T08:22:22.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet the Castellan: Morcant Dupoisson]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-castellan-morcant-dupoisson.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-castellan-morcant-dupoisson.html"/>
+        <updated>2022-07-23T05:50:00.005Z</updated>
+        <summary type="html"><![CDATA[The Council in the Keep is made up off the Castellan, his Scribe and his Advisor. They are working together to halt and defeat the forces of chaos trying to invade the lands through this little  fiefdom. The actual Count of the keep (Count Leopold de Chouxchaude) has gone missing, and the Castellan, his uncle on his mother’s side, has taken his place.
+
+
+
+This is kind of what the Castellan looks like.
+"The Prefect Raffaele Raggi", Van Dyck, c. 1625
+
+
+The Castellan: Morcant Dupoisson
+HP: 14 // ARMOR: 10 // ATT: +3 // WIL+2 // DEX+1 // STR: +2
+Morcant Dupoisson is known to: 
+• Have gone on many an adventure in his youth, all over Europe.
+ • Be older than the count, but not by much, being one of the last children born in a long line, while the count is a first child of a first child
+• Possess …]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Misplaced Kingdom]]></title>
         <id>https://glassbirdgames.blogspot.com/2022/07/kornog-return-home.html</id>
