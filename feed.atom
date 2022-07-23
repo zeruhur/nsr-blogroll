@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T16:29:04.681Z</id>
+    <id>urn:2022-07-23T01:43:57.390Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T16:29:04.681Z</updated>
+    <updated>2022-07-23T01:43:57.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Misplaced Kingdom]]></title>
+        <id>https://glassbirdgames.blogspot.com/2022/07/kornog-return-home.html</id>
+        <link href="https://glassbirdgames.blogspot.com/2022/07/kornog-return-home.html"/>
+        <updated>2022-07-22T21:47:00.003Z</updated>
+        <summary type="html"><![CDATA[Inside the Forest, Under the Moonlight - Caspar Friedrich 1830
+
+Once upon a time, as a younger, foolish man (like just over a year ago) I started a blog. There was a lot that went into that and a lot that led up to that, but let's leave it at this: it was something I'd always wanted to do, and getting emotional and writing nerd shit remains something I want to pour myself into for a lot more years.
+(The next few paragraphs are some more weepy personal blather because apparently this blog also doubles as therapy for me, so feel free to skip down to the title below. TL;DR: here's a project I've been toying with and plan to start working on in earnest.)
+I set myself some rules/goals/principles when I got started. I called them The Cares of a Carelord, which I still think is a pretty good desc…]]></summary>
+        <author>
+            <name>Glass Bird Games</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Killer Bees]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-killer-bees.html</id>
