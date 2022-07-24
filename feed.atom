@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T08:21:18.243Z</id>
+    <id>urn:2022-07-24T16:24:13.669Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T08:21:18.243Z</updated>
+    <updated>2022-07-24T16:24:13.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nameless Legends of GLOG]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html"/>
+        <updated>2022-07-24T10:22:00.002Z</updated>
+        <summary type="html"><![CDATA[This is a work in progress. Any part of a class marked with a ? is currently undecided. Any text after // is a comment, left for your consideration. Many classes are missing the higher level abilities. Several classes are missing quite a lot of necessary parts, and will be finished as needed.
+The Fire Thief - Anato Finnstark
+
+Recommended Rules
+These are the rules I use. They work pretty well, but are tuned to my specific table. Hence, they are not The Rules, just recommended.
+
+Spwack's Baseline GLOG Ruleset, using "Tragic" Death and Dismemberment
+Shuffle the class list, and take a few off the top. Players then choose their class from this smaller selection
+Players should not go through the entire list to choose a class, but if they have a specific concept in mind, they can search for the o…]]></summary>
+        <author>
+            <name>Slight Adjustments</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nameless Legends of GLOG]]></title>
+        <id>https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html</id>
+        <link href="https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html"/>
+        <updated>2022-07-24T10:22:00.002Z</updated>
+        <summary type="html"><![CDATA[This is a work in progress. Any part of a class marked with a ? is currently undecided. Any text after // is a comment, left for your consideration. Many classes are missing the higher level abilities. Several classes are missing quite a lot of necessary parts, and will be finished as needed.
+The Fire Thief - Anato Finnstark
+
+Recommended Rules
+These are the rules I use. They work pretty well, but are tuned to my specific table. Hence, they are not The Rules, just recommended.
+
+Spwack's Baseline GLOG Ruleset, using "Tragic" Death and Dismemberment
+Shuffle the class list, and take a few off the top. Players then choose their class from this smaller selection
+Players should not go through the entire list to choose a class, but if they have a specific concept in mind, they can search for the o…]]></summary>
+        <author>
+            <name>Slight Adjustments</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Father Winoc Le Drôle: The Castellan's Scribe]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-winoc-le-drole-castellans.html</id>
@@ -678,18 +714,6 @@ The Nazarite Contracts of MRD2 are equivalent to the Poltergeist Forms of MRD1, 
 Mechanically they are mostly the same as Poltergeist Forms, with some changes based on my experiences with my >1 year-long MRD1 C…]]></summary>
         <author>
             <name>Weird &amp; Wonderful Worlds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calamities for Lost Civilizations]]></title>
-        <id>https://glassbirdgames.blogspot.com/2022/06/calamaties-for-fallen-civilizations.html</id>
-        <link href="https://glassbirdgames.blogspot.com/2022/06/calamaties-for-fallen-civilizations.html"/>
-        <updated>2022-06-24T20:52:00.008Z</updated>
-        <summary type="html"><![CDATA[Well, things are a bit fucking bleak today, eh? Let's talk about the end times.
-Between current events in the US of A, my work on my archeological hearth-fantasy setting, and my revisiting of the storyline of the latest Final Fantasy XIV expansion, I've been thinking a lot about dysfunctional, decaying and all-around disastrous empires and their ends.
-All of Ben Robbins' West Marches posts are incredibly useful, thought-provoking, and entertaining reading, but my favorite has always been his musings on Layers of History. I'm trying to invoke this especially in the stuff I'm writing lately, and it always helps to have some jumping off points for the Big Foundational Questions of a setting - the character of the ancient people that came before, and the reason they're no longer here. So here'…]]></summary>
-        <author>
-            <name>Glass Bird Games</name>
         </author>
     </entry>
 </feed>
