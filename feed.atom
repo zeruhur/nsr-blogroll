@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T01:52:30.471Z</id>
+    <id>urn:2022-07-24T08:21:18.243Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-24T01:52:30.471Z</updated>
+    <updated>2022-07-24T08:21:18.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Father Winoc Le Drôle: The Castellan's Scribe]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-winoc-le-drole-castellans.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-winoc-le-drole-castellans.html"/>
+        <updated>2022-07-24T05:45:00.006Z</updated>
+        <summary type="html"><![CDATA[Father Winoc Le Drôle, Warrior Priest of Saint Martin and Scribe to the Castellan:
+HP: 6 // ARMOR: 9 // Miracle Slot  // WIL +1 
+A young, zealous and scrawny warrior priest on his way to holiness. 
+
+
+
+"Portrait of a Young Benedictine" - Giovanni Francesco Caroto
+
+
+
+Father Winoc Le Drôle is known to:
+
+ • Be the personal Scribe to the Castellan due to his training in reading and writing, and his devotion making him trustworthy.
+• Be a warrior-priest devoted to Saint-Martin. Devoted and Zealous in his protection of the weak.
+ • Have accompanied the Castellan on at least one adventure before coming to the Keep.
+Father Winoc Le Drôle is said to have:
+• Spoken with angels.
+• Broken his nose in a fistfight with the devil. Rumors cannot agree on who won.
+• A jealous streak when it comes to friendships.
+Father Winoc Le Drôle will ask you: 
+• Your opinion on the parable of the good Samaritan. What would you do?
+• To pray with him later, and seek the Lord’s counsel in routing this land of chaos.
+• What sources of Chaos you have witnessed and where? Can you point to it on a map?
+Gear:
+Plate Mail:
+ • +2 Armor 
+• no advantage on DEX Danger Rolls or Surprise Attack Rolls. 
+Shield:  
+• +1 ARMOR (1 hand)
+ Mace:
+ • 1 hand
+ Angel’s Promise:
+• A shimmering feather, given by an angel in a vision with the promise of assisting in restraining an enemy once when called upon.
+ • Enemy in question needs to make a Danger Roll + WIL or be paralyzed for the remainder of the scene.
+ Holy Symbol:
+Medallion of Saint Martin on a rosary. When brandished, it gives access to the word PROTECT for the use with Miracles.]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer on Star Wars RPGs]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html"/>
+        <updated>2022-07-24T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've received a link to this article, you may have just asked the question, "what's the deal with Star Wars RPGs?" The first part of this post is a succinct overview of all the major (and some minor) options out there which cover this need.
+I decided to write this because in the last two weeks, I've seen at least 4 Reddit posts and a couple Discord messages where people asked that very question, and I get tired of explaining it. So if you see someone asking that question, link them to this article.
+
+
+
+Outline
+Firstly, there are (basically) three official Star Wars RPGs:
+
+
+West End Games Star Wars (1987), AKA "Star Wars d6." This is the "old school" option and uses big pools of d6s for everything.
+Wizards of the Coast Star Wars (2000), AKA "Star Wars d20," which was revised in 2002 and…]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet the Castellan: Morcant Dupoisson]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-castellan-morcant-dupoisson.html</id>

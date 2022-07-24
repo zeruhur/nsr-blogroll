@@ -81,12 +81,22 @@
       "siteUrl": "https://knightattheopera.blogspot.com/",
       "articles": [
         {
+          "id": "https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html",
+          "author": null,
+          "description": "If you've received a link to this article, you may have just asked the question, \"what's the deal with Star Wars RPGs?\" The first part of this post is a succinct overview of all the major (and some minor) options out there which cover this need.\nI decided to write this because in the last two weeks, I've seen at least 4 Reddit posts and a couple Discord messages where people asked that very question, and I get tired of explaining it. So if you see someone asking that question, link them to this article.\n\n\n\nOutline\nFirstly, there are (basically) three official Star Wars RPGs:\n\n\nWest End Games Star Wars (1987), AKA \"Star Wars d6.\" This is the \"old school\" option and uses big pools of d6s for everything.\nWizards of the Coast Star Wars (2000), AKA \"Star Wars d20,\" which was revised in 2002 and…",
+          "link": "https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html",
+          "publishedOn": "2022-07-24T04:05:00.000Z",
+          "wordCount": 12521,
+          "title": "A Primer on Star Wars RPGs",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEO4XOaIpu-XelZ4IRe6agGGWzbSZzn-h2f8vHNvO__7xyOGOqJLePixkqHJNovZ3FCVp2QmMVyBHs1uhjMiFQ6t-j2FwygtVDMCvxkdhUw7hoY7srNDVoVqLxP0adDuE1W8edLWwAW3SyG2v253MT0dC_a2RBVBtSnnA_iySkfILX7i_DoJMYiN4n/w1200-h630-p-k-no-nu/Star_Wars_Logo.svg.png"
+        },
+        {
           "id": "https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html",
           "author": null,
           "description": "The \"Mythic Underworld\" is a term popular in the OSR that I believe was coined by Jason Cone in Philotomy's Musings. Cone argued that the rules of OD&D can be interpreted to suggest that the \"dungeons\" that adventurers delve into aren't really to be understood as real, logical spaces created by normal people or natural processes. Rather, they're more like a surreal, dreamlike, and hostile realm that runs on its own twisted logic, which might be inconsistent. It gives the referee some leeway to make a contrived, game-y, \"funhouse\" dungeon instead of stressing about accuracy or rationality.\n\nMuch of what Cone describes are just traits of megadungeons, or even simply dungeons in general. Things like, \"non-linear pathways\" and \"lots of connections between levels\" aren't really mythic, they're …",
           "link": "https://knightattheopera.blogspot.com/2022/07/traits-of-mythic-underworld.html",
           "publishedOn": "2022-07-01T18:10:00.005Z",
-          "wordCount": 2827,
+          "wordCount": 2835,
           "title": "Traits of the Mythic Underworld",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweb5RCbYhxF3cT0xObM8jC9lDMyao8RTGv9j_PEacg2wKBErK5BzRVD7u9cpbXsArH0kw2gHE5vs_uhfaSVXV8nEAcb9F5ywbX8VCCkyA0D718qGmJjWVG3enOqWzf5XthSw-ifPw7l_8Yn9fYgVzeJNOkTLlANiUwkTsWCrkbvBn7tuXujR7mjeS/w1200-h630-p-k-no-nu/DwjzYAYX4AATeW2.jpg"
         },
@@ -113,7 +123,7 @@
           "description": "Sometimes I make kung fu posts. I've started using the `kung-fu` label to aggregate them. Click on this label to read my other mutterings on this subject.\nI've been watching Shaw Brothers films at the gym this summer. If you're unfamiliar, Shaw Brothers was a prolific Hong Kong production company that produced grindhouse kung fu films. Basically, all the audio samples from Enter the Wu-Tang (36 Chambers) were from these films. \n> Frog style is incredibly strong and immune to nearly any weapon.\nI like some of the films more than I like others, but almost all of them have something that made me say \"Ha ha neat.\" Almost all of them have something gameable. \nIn this post, I'm going to step through the Shaw Brothers' film Clan of the White Lotus beat by beat. Heavy spoilers warning, obviously. …",
           "link": "https://riseupcomus.blogspot.com/2022/07/meditating-on-white-lotus.html",
           "publishedOn": "2022-07-19T12:00:00.002Z",
-          "wordCount": 4849,
+          "wordCount": 4850,
           "title": "Meditating on the White Lotus",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVo7hq0nafO4Z40bOoRqsKkhhEU6mscbcO0VCtWcvr4MpjgpcEsj6OTf5SAKxVi1C3b_Lf3tBaRClSrNGsmkjOKdonQrjN7SfWU0vQH-h0InvWy1l9CXw4R4qA1MVvMi3SnamoIIkfBPjXPkGhaPi7cc1-AA3vcr7yVyzPvyQznSShP6C3Rtk4W2_zrA/w1200-h630-p-k-no-nu/Clan_of_the_White_Lotus_FilmPoster.jpeg"
         },
@@ -123,7 +133,7 @@
           "description": "There have been many posts on this subject. This is mine.\n(Because of His Majesty the Worm, I find myself in the position where I need to explain concepts in a worse way than the originator of the idea. I am standing on the shoulders of giants and falling.)\n---\n\n\nArt for HIS MAJESTY THE WORM by Marcin S\n\nPut some of these traps into your dungeons. Use them as inspiration to create your own.\n I. Mysterious Tower, Acid Lake\n There is a tumbledown tower on the middle of an island. The island is in the middle of a bright-green acid lake. The lake is death for whoever falls into it.\n Why this trap doesn’t suck: The possible rewards are tantalizing. (A mysterious tower? What’s in it?) The dangers are obvious. (The lake is bright green! Acid is deadly!) This is an open-ended problem with many pos…",
           "link": "https://riseupcomus.blogspot.com/2022/07/ten-interesting-traps.html",
           "publishedOn": "2022-07-18T02:07:00.000Z",
-          "wordCount": 5391,
+          "wordCount": 5392,
           "title": "Ten Interesting Traps",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3Aa3a3hf1YMvlvYqUGS-pk_TLlVN8mrpJ9zTVWc3cKSTdglameM561PwLfXSpQnAvz-DWYNTkRqeK7ypodTW5gC2yTU6e9e31EiV7OcYUntR-6rd-J5Pcjr96viFL2mo2RQRDkYZx3_LzriB8iAG9a8XpZaSh-oG3MvQs-Lro85gg4EsnAYBrW0bKQ/w1200-h630-p-k-no-nu/4.%20Four%20Paths%20by%20Marcin%20S.png"
         }
@@ -142,7 +152,7 @@
           "publishedOn": "2022-07-20T21:07:00.001Z",
           "wordCount": 3981,
           "title": "5 FIST Characters",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ezd46OVvZhOqEwG9khOG_ThsdTdo1ohEbBYZZsqrMCG_9v8DmBrb4BhUYyhjWXH3QZ28iHlwPZFCvfAFT0aQtMM_3-MLcS7VLYrnGkK53OBWVCqB_Gzs1nh_e64VeFifkzVfhK2_yUITF2Oxa4PhGOfAv3REPQ4l8jbQsCOaVQ=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyVcVgb4NagWz6L6Ti5dm5rCeQnnqjVs4fpcM28cwcTnnpWsYrChuI6bHi5gqLNKg2oEI5R4MjfQGJAgH7bxFIUQDTsMFIGJBlcQaMpcBl2NYOeCqnNJkEmDMeMAXloP4OkTunbsEhumk3zuyQk7yz9n72RxsAFceI65mVHjdc=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/07/mrd2-pr-4-political-intrigue-in-non.html",
@@ -152,7 +162,7 @@
           "publishedOn": "2022-07-08T17:40:00.002Z",
           "wordCount": 7235,
           "title": "MRD2 PR 4: Political Intrigue in Non-Violent Dimensions",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwqCIe2xffLWU8rBy9-8O9Nm8jZ8UhMXwyGCGQa-Q-LriFntjP-xHsF6unrU6-rjFNRkgMhTuNiM-2JjUAsNIm0jYFSrfo1AYHY1s37BUW8tbLBGFm8KGjGqgWiOauCGfdDKG1ZJG0mUPZzXguGTxbsA61gNJB5k3R5BHhN0_97viIsZxk5CQPxQwXPmcm10rJz0f0TNZzivdTDo95zuxT0PSde2EPoNJRJuzTHVTUk_d4UkZYKCg3A=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwMeZn41nbBytRf6J7IPWbIQQcMLeS2rztq8C9GBhvnW0s33jNedY1VNPJcWT2T14dh31sAQ5TAFNTOrbjmmcocL2R04-YPIFuyXF4ooOlivXI8AmRQzrYTC2_XUK-V5_YH9LAzbzR67OO1FyS3NwyA2MWb3aRUe_X6ZgdxZLEn5oWjE6-aBEMPR9zbytBuxYoDpjPjfsCNQC8VfcI3iPrUez3HsFpKevb7vWVyH4uPGOujwSvRWv6Q=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/07/gitms-mecha-gear.html",
@@ -162,7 +172,7 @@
           "publishedOn": "2022-07-03T17:12:00.002Z",
           "wordCount": 4564,
           "title": "GItMS! Mecha Gear",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyyQkqlJ7klr1erT5wGX5Av0HEb2ZgK17qJ7fOINB4EwUj7yfhAnhp5h6x4ylksyyokeUAH-a2dLkPtd_PLGVrc5O3uc3Jj9nZAA64SgVrB0GpXY1WuDWyx9Gz3JrDLkW7WUlmBNyr6sksM7m0oVh3j6p5XRSyDqPv8v8V0iVI8OOwsWpZ-DBhF3XHy6C-l02JYEWLWq7FOBlfu1-nX2A=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Eycx4fK-OR93B7xs-qTv9EYr7JMHRdZcWrxMt4QAejLhUIZigCPAW7FyihOe-tl9JRbwh5VII18lWaUzZMk2xLu8mS8q9R2IgKNiBhr7jFHaad2oqX3Nd3EDnDMZcNMmn1KVQRgpZIM4OQG3UL93sHFdcnakVS7v9WTo8y8btuLN8o3pzHz_oyb78VGsBhAX67FDMy_Ilc4pnNmrvI7SQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html",
@@ -279,12 +289,22 @@
       "siteUrl": "https://thebeardedbelgiansplayground.blogspot.com/",
       "articles": [
         {
+          "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-winoc-le-drole-castellans.html",
+          "author": null,
+          "description": "Father Winoc Le Drôle, Warrior Priest of Saint Martin and Scribe to the Castellan:\nHP: 6 // ARMOR: 9 // Miracle Slot  // WIL +1 \nA young, zealous and scrawny warrior priest on his way to holiness. \n\n\n\n\"Portrait of a Young Benedictine\" - Giovanni Francesco Caroto\n\n\n\nFather Winoc Le Drôle is known to:\n\n • Be the personal Scribe to the Castellan due to his training in reading and writing, and his devotion making him trustworthy.\n• Be a warrior-priest devoted to Saint-Martin. Devoted and Zealous in his protection of the weak.\n • Have accompanied the Castellan on at least one adventure before coming to the Keep.\nFather Winoc Le Drôle is said to have:\n• Spoken with angels.\n• Broken his nose in a fistfight with the devil. Rumors cannot agree on who won.\n• A jealous streak when it comes to friendships.\nFather Winoc Le Drôle will ask you: \n• Your opinion on the parable of the good Samaritan. What would you do?\n• To pray with him later, and seek the Lord’s counsel in routing this land of chaos.\n• What sources of Chaos you have witnessed and where? Can you point to it on a map?\nGear:\nPlate Mail:\n • +2 Armor \n• no advantage on DEX Danger Rolls or Surprise Attack Rolls. \nShield:  \n• +1 ARMOR (1 hand)\n Mace:\n • 1 hand\n Angel’s Promise:\n• A shimmering feather, given by an angel in a vision with the promise of assisting in restraining an enemy once when called upon.\n • Enemy in question needs to make a Danger Roll + WIL or be paralyzed for the remainder of the scene.\n Holy Symbol:\nMedallion of Saint Martin on a rosary. When brandished, it gives access to the word PROTECT for the use with Miracles.",
+          "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-winoc-le-drole-castellans.html",
+          "publishedOn": "2022-07-24T05:45:00.006Z",
+          "wordCount": 3156,
+          "title": "Meet Father Winoc Le Drôle: The Castellan's Scribe",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEXvvAWA0y5hjMr7gUtbJg92rEpZQmIZuBOKicsvLLJZSrzN8si8BN6K8fxnQpL6AtLnqSZ15jq7UdpqZO-cCDwFpeziz7pEGCDoM2zsub6IxbaeQ3PpGwV1EtOlChdifQ14T5Ukcj2986ChpyB73eY7gYO3kVlE3PyKxN7PqIyfXP-RnahjJXwt-YOg/w1200-h630-p-k-no-nu/images-3.jpeg"
+        },
+        {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-castellan-morcant-dupoisson.html",
           "author": null,
           "description": "The Council in the Keep is made up off the Castellan, his Scribe and his Advisor. They are working together to halt and defeat the forces of chaos trying to invade the lands through this little  fiefdom. The actual Count of the keep (Count Leopold de Chouxchaude) has gone missing, and the Castellan, his uncle on his mother’s side, has taken his place.\n\n\n\nThis is kind of what the Castellan looks like.\n\"The Prefect Raffaele Raggi\", Van Dyck, c. 1625\n\n\nThe Castellan: Morcant Dupoisson\nHP: 14 // ARMOR: 10 // ATT: +3 // WIL+2 // DEX+1 // STR: +2\nMorcant Dupoisson is known to: \n• Have gone on many an adventure in his youth, all over Europe.\n • Be older than the count, but not by much, being one of the last children born in a long line, while the count is a first child of a first child\n• Possess …",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-castellan-morcant-dupoisson.html",
           "publishedOn": "2022-07-23T05:50:00.005Z",
-          "wordCount": 3374,
+          "wordCount": 3388,
           "title": "Meet the Castellan: Morcant Dupoisson",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFLodba-CmOzN52lkyiGSn5bfKvOMnc7i3FedqRMWERXR755bsi0Z5w7ML7-y0zaP3Y3uWfjXe1tgpvsSK0RO-8cdsXeXG04MR4QAaC5B4AK-AZ7qVeMG26Reb_d1STJsGvF6FHA8O9FFqm1Q7OlETxeX1iJepf-VIIwg3mN8c_RdUpnnfE9WBA0BA2g/w1200-h630-p-k-no-nu/the_prefect_raffaele_raggi_1942.9.90.jpg"
         },
@@ -294,7 +314,7 @@
           "description": "On killer bees\nHP: 1 // ARMOR: 7 // Special: Dies after stinging // Fast fliers.\n “Jupiter, king of the Roman gods, is said to have given the honeybee his stinger, to protect his honey. His wife, Juno, however, insisted there must be payment for this gift of a weapon, so Jupiter gave the stinger with the condition that the bee dies should she use it.”\n\n\n\nImage by rawpixel.com\n\n\n\nBees the size of loaves of bread are sometimes spotted around the borderlands. But where do they come from? Where do they find the nectar for their honey?\nWhere do they come from?\n1. Deep underground, where there are giant caves full of giant animals and plants. \nThey are lost and confused. This upsets them greatly. A system of caves must be close by that leads to these strange lands. Their honey has natural healin…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-killer-bees.html",
           "publishedOn": "2022-07-22T05:19:00.011Z",
-          "wordCount": 3253,
+          "wordCount": 3265,
           "title": "On Killer Bees",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG4znGWFIr86fqpmoXZC9nB1dKnJuMuA5AeW7IiL7zwPaWl0zlDGfhf5NzDNcGn5qYTm8jBQ6AK5ItJkirspC3XpFpsVPUmxuc5EMYb0GlRIOVrz0Hd4Gct8ijSk1jIyPr7pKRyvo3iDq5HhIT8oKm8hyUr0fLDbtlhEo-kDBGnAOAlzzVxX9mbn-1Ww/w1200-h630-p-k-no-nu/image-from-rawpixel-id-6641257-original.png"
         },
@@ -304,9 +324,9 @@
           "description": "So you took to the road in the Borderlands...\nThis is a dangerous thing to do, and we're playing Maze Rats, so make a Danger Roll! \nIf there's any reason for you gaining advantage or adding a stat bonus, argue for it now.\nWhether or not you succeed, an encounter will be had. The result of your danger roll just decides how well your encounter will go. \n\n\n\nPilgrims arriving in Rome for the first Jubilee in 1300, from Giovanni Sercambi’s “Chronicles,” around 1400.\nCredit...Archivio di Stato, Lucca\n\nAfter the Danger Roll has been rolled, the GM also rolls 2d6, basing the encounter table on this blogpost by Papers and Pencils, adding, consequently a dragon and a wizard (or in this case, witch) to the module. Also, not wanting to throw away a roll if the danger roll was successful, I have two en…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-took-to-road-in-borderlands.html",
           "publishedOn": "2022-07-21T10:34:00.004Z",
-          "wordCount": 4206,
+          "wordCount": 4218,
           "title": "So you took to the road in the Borderlands (Encounter Table)",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez6DOcVgj2IACSgesd1GvC7TYVO9gJMR7Z3u6L-L4urOZ1vYC_lhUBrSlDrW_LqNxBa8_9-zRyb_r5WdWD7XJ02btZM8Pq3tPiDE-bKVMpRIIZQ9eEbiLvR5VIwdjCwx3OXZuVF4cGh5VulTncn-pma8yo8Iy45IFoMFo8nSi9I-f27r4P64-eaAtMxkX7hXiGeP6nUNrX5XSwoPwukuWYI0C-TNfZzfxASsevI48iIq1MELA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EweBncRPsV2srJx_qhxVMERcl2zDwtwH9WXDtp5FzXZHjeQWrg__lQAHk75nONqNX4bzBI6TgfFP3E7BiSLymMQGNqz3kPhJQAuhpuKdhrkmZcx6UXk9rEH0ROXt3hA-sUCrDDJP3pphTyZtwkVR_TOVn2Z6ojnSqK7dP2432oyKGFhfBu49lZceBlkTGsBYgdQFNMsW3RXRiQTppO7zVRymfqdbeyPy7GgR6UsjCbZ-ziyAQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-wolves.html",
@@ -314,9 +334,9 @@
           "description": "On Wolves\nHP: 3, ARMOR 6, ATT+1\n\n\nWolves in the Borderlands are common. They roam the forests in packs. While the North American wolves might be known to be afraid of humans in general, the European wolves are bigger and meaner than that and have been known to attack humans when hungry. \n\n\nIn the Borderlands, the strange and chaotic forces that permeate this area sometimes changes things about the wolves and make them strange.\n\n\nThe chance of this alteration occurring will depend on how much of a foothold chaos has on the lands. I suggest starting with a 1/6 chance, triggering on a 6, adding +1 to each time ‘regular’ wolves are rolled. And add a +1 for each rank of a foothold Chaos has on the lands.\n\n\n\n\n\n\nThe Eurasian Grey Wolf, found free to use on Wikipedia\n\n\n\nThe Wolves of the Borderland might…\n1. Talk and understand humans. They know to use this to attract prey.\n2. Leave ashen paw prints that remain warm to the touch for a night and a day.\n3. Have a howl that makes you think your feet suddenly sink into the ground and are stuck.  \nRoll DANGER +WIL or be paralyzed with fear for a round.\n4. Have the ability to grow to the size of cows.\nDouble HP, +1 to ATTACK\n5. Be ridden by kobolds wanting to cause mischief of the deadly kind. \nThey will use their own devious skills to make fighting harder, like riding with a line of rope between them to try and trip up people, shooting arrows that might paralyze or put you to sleep, etc.\n6. Have the ability to breathe a cloud of mist, making ranged attacks on them harder, forcing people to have to go hand to hand, or to make it easier for them to flee.",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-wolves.html",
           "publishedOn": "2022-07-20T06:55:00.001Z",
-          "wordCount": 3121,
+          "wordCount": 3133,
           "title": "On Wolves",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EywzW5kpcdL2ZfwMZpg3Q5Yf4d1LG6eZEeAsaoOCFBC-9u1pesbZMUo1UqwgdW2aNBIM1fgMGM2CPBZxC5PQk-QHouHL8k_XEslxfWZS-cle7YCC5iN8kYQEXxGZ5PIMuWijKDxOXXMmazPyUr8dl_gUDHrVyv3Us95wwNR7clPh68p8aTPn3fy21-9-KsHXhd5aOk2O4kmAQhgszJoz8UyvF27ymaahsKUpXTD1A58Dl99ylBgQwpuTjxlGGLW7l1bxk8QcHX3HzD0xFPt4SiNyjLXsG1i6IuWxqXT2URMzy4Y=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez334klaW6s9MOA9aUnZ3P_LAcAtXZND6pHdCftTmmLLOpXDJzrEhUYrIjei5rEyvy0sGSzhHb-JUJQlFNOps9UuvUTXfBOvPSEtmCt2GfECFOBj2NPc8ok0FsSqpQvDfoYNYah2X6zInDVGdHKMZNcxQhKojFWjSfL8dxXCwCdvlPBxI8ast50ulq5QIpTyqssyKi3_ps7ljGONiR8TR-DbdJdJMzhvbjKKMQrFSKPWZzYoADWNPeu74aMorvpH8QP32ouEoxXB4bgSCQVLmbgz4WpQDXBUOXpVdJjYheWFZJO=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-magobia-witch.html",
@@ -324,9 +344,9 @@
           "description": "Meet the Witch Magobia:\nMother to goblins and hobgoblins\n\n\nTrying to find a source for this picture led me to a deactivated Tumblr for Cultur Tava.\n\n\n\nHP:4 // ARMOR 6* (impervious to physical harm until a certain protection is dealt with)\nSPELL SLOTS: 5 // Special Item: Cursing Charm\n\n\nIt is said that the witch Magobia cannot have children of her own and that because of that she resolved to steal babies for her own. \n• Some say that it’s because she’s barren, some say that it’s because she’s too mean for anyone to want a relationship with her.  \n• Rumor goes that her desire for children has led her to kidnapping them and feeding them her special witch-food, turning them into goblins and hobgoblins in the process. \n • She is followed around by what looks like a black cat that has the power,…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-magobia-witch.html",
           "publishedOn": "2022-07-19T08:10:00.001Z",
-          "wordCount": 3515,
+          "wordCount": 3527,
           "title": "Meet Magobia the Witch",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EwlzHu0bdJyXZYH-qfxlB6y-msexVRQktgPMyNbCFYO1hgfV02rCvRZnoAvQmr-xpaPpdcomL5ZEAndZRvK0W6aR1WrswjSBv9a1WIPM8ryb0xQmJ1ipcfEOP6pTM9klkFt7jtD5Xedq9WlIFLepBo=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex-XBtlI2wHmHHF9nwPwSrJEMpYEZjuxmT5x4cdtM9bI0efeGPyCH4F2_XKe86PF33WIiIlWNCHYtagJKoW_bt5ss2pPH8OAalLm3nKo9zrGiH3jLnVgf1FUJnc_du1ZL9PW56QDx9I-T3RxG6rRe4=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-gros-jean-ogre-of-woods.html",
@@ -334,9 +354,9 @@
           "description": "Google tells me this image is from Game of Thrones\n\n\n\nGros Jean: Ogre of the woods\nHP:12, ARMOR:8, +2AB, STR+2, Ogre Great-Club (2-handed, Ogre Sized, +1DMG), Wearing treated bearskin as armour (+1ARM, already calculated)\n\n\nGros Jean is the ogre that roams these parts of the country. He mainly works as a mercenary for the forces of Chaos. He recently has come in possession of an unholy symbol of the dark forces, that will slowly corrupt his mind, offering him dark powers. Gros Jean has an agreement with the Witch Magobia that if the goblins pay him, he will protect them, as he can have some of the babies she brings in as food.\n\n\nWhen Gros Jean is met in the wild he…\n 1. Is eating and will tolerate weary travelers to join. \n2. Is admiring his ruby necklace of the Snake.\n 3. Has a manacled prisoner on a chain and is sitting down with a pensive smile brainstorming on an apt punishment for the oath the prisoner broke. \n4. Is very hungry and looking for food. You look tasty. Or do you perhaps have a baby?\n 5. Is grumpy and angry because his prisoner escaped. \n6. Is hanging chains with stone skulls on them on a prisoner. One for each of the men he promised to bring back safely, but failed to do so. He has to cary these around wherever they go.\n\n\nOgres are descendants of the old Roman deity called Orcus. They roam the world, eating babies (preferably) and enjoying in punishing oath-breakers. \n\n\nThere are more ogres in the land, but not a lot. They do not get along very much and as such remain a good distance away from each other. If they get too close to each other, the land cannot sustain their appetite all that much and they will fight over food. Sometimes an ogre will find a mate though, and somehow they manage to tolerate each other. Woe betide the lands where this is the case.",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-gros-jean-ogre-of-woods.html",
           "publishedOn": "2022-07-18T09:46:00.000Z",
-          "wordCount": 3181,
+          "wordCount": 3193,
           "title": "Meet Gros Jean: Ogre of the Woods",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ewo2MtAVlq9u5nPtqOw-vkcYfcksRHRwb9eIOhjTRONOpZcuXxe_xD1x1wJou9Ie_ZD83S6yOPjky68NyX6uAt4B-gZ-x7FnFqpydDolOMxUmp-EChoiOo3GnnqTL9cFTeEfPfkQL_Mm6O0rJE5sHICMvTPLFIQU2Hip1ERBnUOfB0an2qAQYXTPNws6Oc3ewBSR7Tuaponwfl1Txo7z2_T5-GbvBUmd1PYCDAKHOA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExTHuGBZuNzpgNFAxcZovxp6IUJeVg7xeBkpGKSwlRvk3dCPrwaSINo948gutJG_15ttxlwINRb6dDpG6CP9TNm19DzI0qfEru1qaBJqQFlM7hsn3E_l4GYeqo9EmkHC-nanZUzL9fCwCtCGlKrnUaj62GvxIF_PAJB_bHthPWM0NTSx8AgjkJMP82Vqi9ZGzEN9aKP8cwcrsqVyNN8ACxmdbl2Mtq-bWAmD7iWGoQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-hobgoblins.html",
@@ -344,9 +364,9 @@
           "description": "Some more goblins from Jim Henson's 'Labyrinth'.\n\n\n\nHobgoblins: \nHP: 4 // ARMOR 6\nHobgoblins were once children who showed a definite mean streak in their nature. The Witch Magobia lured them away from home with many promises, and fed them her special food, disguised as gingerbread cakes. Eventually her corruption deformed them as well. \nThe following are all true: \n• Once the gingerbread is eaten, they can no longer get sustenance from any other food. They need her food to survive. This is how she controls them.\n • These children grow up looking like very wrinkly teenagers in much the same way as the babies turn into goblins. Their skin-tone remains closer to their original one, if not a bit less vibrant.\n• The hobgoblins are cruel and have less of a need to be fearful, compared to the go…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-hobgoblins.html",
           "publishedOn": "2022-07-16T10:37:00.004Z",
-          "wordCount": 3219,
+          "wordCount": 3231,
           "title": "On Hobgoblins",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex6pVAo0_IuFdkhIbIAJqPN1Avwu-EfbWQC7AiSEu2kwTzmeHOPcnqoDgn9tyQ_PjoN0UNE3Kwx9-T7r2JnDPNKQMdSnX0IaOiVINjyQad8nnJLTWGrVAyeg1gkKdaFAgmg3W_psO_k_6nMmpS6dOPVnIHufhjle55OUj2txYdAY12rPjDWQsAqPAizb6NcRMVj2rxvbX8XeCZxHxWfC0hYDG_oRiTCmlGTMnhh=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez7Rgm4y4JY-UEcYpOK8JNkqf8Kl5xqTbwLKg3HxBE_UkdZpGgcGm0d8llWqLmMt-SiqbNGW-n-MGCACB-P4N_mruOFC2bQvuKfqB_uBu-xEhGPgahGBl-0qf5BlyZRJf6QeKphd_vTcmiLiApuH5HCF-0369Xv9IHXpuQw5n83XQdVX0nyBWBeP7C0qGomMC4rGzyGJytEIIZ1P3sgdUQo7-7snGZLwHtQOCMm=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-goblins.html",
@@ -354,9 +374,9 @@
           "description": "Goblins in the movie Labyrinth, by Jim Henson. Part of the inspiration.\n\n \nGoblins: \nHP: 2 // ARMOR 6\nstats for Maze Rats\n\n\nIt is true that Goblins were children stolen from their crib and turned into goblins by the Witch Magobia. The following is also true about them:\n• They never grow bigger than a toddler, as their growth is stunted by their strange diet.\n• Their skin gets an unhealthy grey and wrinkles as if they are of very old age. Their pupils turn a very pale-pink color and their hair a greasy black.\n • Most grow up to be mean, fearful and craven.\n\n\nWhen encountering Goblins in the wild they… \n• Try to hide or run away if you are stronger than them. \n• Are singing a dreadful song that teaches to be mean. \n• Are carrying a stolen baby and arguing about who has to take care of it.\n\n\n…",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-goblins.html",
           "publishedOn": "2022-07-15T08:00:00.000Z",
-          "wordCount": 3283,
+          "wordCount": 3295,
           "title": "On Goblins",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzLXDe-yPTHz2P49FcTOGlf4LeSYYLpgJY-8iYxpKeiHJoXd22pGpkrzCBwDGgLf334e_pzpdkUNNhLb3mIDHF2xouHal8qU3rua7dY7luogGWFrlfDCk5cX-N8k974_1Atrb2o6TEKM9yFs0ZFW-NnTlqQx7JNeEXU3KzASIjNUDeyVx-bM-aI-ZhUIDZ3iqNbIfyREAssxbLwUQMppD3UzMPWttgbD0zKsA=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ex0ymZBiEpEUwL4yg3rN70TQvm4WGjtZv4u_WlDrjzeakSJKlsOCcfL0HJF9TcEl8U-BUR6qQeM8YkiS8yxWn9Im4SYTQ2Vek6u5zi1yxDbjDUF2Te8GK8ztRkE2LMSsTss21T10goQ5rzcFi2JrOMdLi78-vz1t0cGVD_19HqAlEhWXnomXaFWAflbFsW9pJk4J3LO40GfzNfnTKKi0RIF35GZdSlAgV3oKQ=w1200-h630-p-k-no-nu"
         },
         {
           "id": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html",
@@ -364,9 +384,9 @@
           "description": "I'm running the Borderlands via play-by-post over discord, and I'm using Maze Rats to do it. I like how it gives me extra incentive to reinvent things as I have to convert things anyway. One of these things is that I've been thinking about Fire Beetles and how they might be regarded in my take on a setting, a Medieval France type deal, where all the weird stuff is actually still weird. And I want to keep it that way. Things should be mysterious and unexplainable. I was first thinking of expanding the bugs into stages of life etc. but decided not to do that. Anyway, this is my first draft.\n\nart by Caeora on Deviantart. - Not entirely how I envision it, but close enough for this article.\nOn Fire Beetles:\nARMOR:6 // HP:4\nFire beetles are:\n• As large as a small dog or a big house-cat.\n • Live …",
           "link": "https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-fire-beetles.html",
           "publishedOn": "2022-07-14T10:32:00.001Z",
-          "wordCount": 3251,
+          "wordCount": 3263,
           "title": "On Fire Beetles",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ey9ID3QdJWgZs1akZDclnMKv-fHYxeclIOjoOJN_uH_ItWv1kFVFNcS2ViOGb4X3LLq6OXvlwhSKV1qzKvP66K27T0S6RYsjL3vSFSxt2408ACLZ8IDw7NGM-F980MU6o3kfPetirWm1ib1s9ClIBjJsbuqMG16jMgDEPNNglO7wcJBLGVsfAwgK4VgXQ_o2YLkbqA8WMP0gIQDxwOsrf7ZhNM78sEtwX4FqqHMGr5tGEwmFDw2BYn3UMpYi6_jEH9xEjUb8r4Dq2NYniw6MUhIV7aO4FbUWkVW0pJKwrrG0pbXU8hUl0A5_Q54_W2LdA6aYWnoaWE6NlfH-MY9BihIWazApkImJP8N6k27VBcRbdGwfoJKntjgmFKoqnzLYmPgLhbe38RuLJcj62RWOHqmNmLo5jNQORHdTxz8QMGel0DgtSgbYH1DA7hvT-YHqLUIJyldjUqb-DdyWX4d7l1FJY46NSnHHYiHME7ZQ8bxLm3WjU5l1LHJPX21GMlEfYPoqDRz3mBpe9CJe0msPRpc0BRKnbK0isx6ff5ooSysflTPOUDw4jiwDhsSM0NyRNkF2ix3yCuImLLWlwQ9KSjWBHnTwil-lr7EKy_bt4cJXBxVofj5i3ci5FPgN7ZQqG5QsEahw_DO8JTznqm8W5Jw_5GpkzRpQeDawLhB8Aj8x1WC7y8jlSq0R36yikEXK7GX707RrQLnlAHOUyavrtKHQ49MAGGd2bvhzieK30mQAhZaU9LrVCVt6sU7wEcqlV0LvJKd8FI0WFYJEErAwo2v-xKpYRYp=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzgRqJHt_xqq9x6XGfBxUzXIGvVf-1khFMhjaXZf0036lz_ForFKu5jdTLBP3Wg9K3Fn8CZ4IpmlPvJEz13owsXmS9LjKbCwkV2c-smuaJ-2b7BZEPuUoKtCIz5FfrsGjpROr6h7EC9qq3_1QH3buO-5wAYCT56O0ce1yW6WHpckBcnYqQQaa8Iz4h6HzVDi4t8_JezaAKz1-y4GR4NSeLACl6ebKW_RHyK5_SsfgqcmbLs54fScH9WC10stEvBWOuA1KT944giXuhBAmKdrQng4epmcfRNpbb3BGKlWKv3R_gAZW3QLllyvb_cbqnurX3GHCqHFPdT1mb_7UXpuQmNmvevgDoIp2pRdNF-utAF9iF09TbYf6mQ2b0xUfO67O9IYyPVYxbn2IslUBWva-PtKvTFihYnHUyrHbjVr0uMT4Lh_Px0ylfZG_k4El9ZuUKtXgjs6DE67s8SCrbZ2Ru3q-wcFfmpChxm7tmXkRelNZZrg6DMDQqgYJdYk2VBhHCX2sBcpmutO755ycGQLs0jAC5zh2zbBa2aEBSc4rI7-tnKVp7z3t67I-Sr9J1nF2Nmoscen92J43N4vU1rXLQvsF8z5y15B1OXfK7-nT1YjpKhjDvp4Wle655AGXjy6MUGtZQB-McRbowWjN5Js7iBA8J2rf9OkKwkQY9DFevDnQdZa33XdReRDE0wS4IDUN-koyR0COejp9xKFwScI97_hFZYNREiwzCMRqHRWw8glZBDglvobF-rlf4jlKI36eeCD-ehe9k_qfqZ5AL-qFlkuUafdEiJ=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -412,7 +432,7 @@
           "publishedOn": "2022-06-27T02:37:00.008Z",
           "wordCount": 4648,
           "title": "Morrow Project - Liberation At Riverton, A Review",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EzuIYcqr3lo-SZB_tFHa2J11T5sPOEudMREMhldMU6VgKoroDSc1-NELt-9OQRy4KLeQ3vWwiPo-TEs_qHYXTOcOVE6kajf_WPRmwu5cnHmJIyc40HN60IkYczK5rXdAJKIrr-mJs-EQQXfYRM=w1200-h630-p-k-no-nu"
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4ExTA3TcX9NrJHU7enm8Ii8sF6aSQoN8Dek4rzi7NC9mXa5s4wh_4HaamEqJpZIBHtZntMuorNXEp8kO_W_iuEkG8oZ-qHoNbgCJDmSRnp0xHcZ4aTSDilJwyuvg5NsopC_MCltJKgA4J9VsCM0=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -427,7 +447,7 @@
           "description": "Making dungeon doors for dungeon delving fantasy role-playing games, like Dungeons and Dragons with Midjourney",
           "link": "https://githyankidiaspora.com/2022/07/18/monday-midjourney-doorways/",
           "publishedOn": "2022-07-18T10:00:00.000Z",
-          "wordCount": 2731,
+          "wordCount": 2722,
           "title": "Monday Midjourney: Doorways",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/judd_hehim_skull_shaped_doorway_to_a_lichs_tomb_in_the_style_of_0e448d3e-3cef-45fb-8135-2aad7e1843b9.png"
         },
@@ -437,7 +457,7 @@
           "description": "In which I gathered with Stras, Jay and Sean in order to hunt sky wizards with the NSR Stone and Sorcery adventure game, Primal Quest.",
           "link": "https://githyankidiaspora.com/2022/07/17/primal-quest/",
           "publishedOn": "2022-07-18T00:02:33.000Z",
-          "wordCount": 2899,
+          "wordCount": 2890,
           "title": "Primal Quest – Hunting the Sky Wizards",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/primal-quest-twitter-title-card-abortion-funds.png"
         },
@@ -447,7 +467,7 @@
           "description": "In this session of the table-top role-playing game, Trophy Gold we playtested a surreal incursion I'm writing called Attack of the Phase Spider.",
           "link": "https://githyankidiaspora.com/2022/07/16/6-time-trophy-gold-roots-of-old-kalduhr/",
           "publishedOn": "2022-07-16T17:25:46.000Z",
-          "wordCount": 2865,
+          "wordCount": 2856,
           "title": "6 – Time, Trophy Gold: Roots of Old Kalduhr",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/trophy-gold-twitter-pic-old-kalduhr-but-not-phase-spider.png"
         },
@@ -457,7 +477,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 loot the vault of the late vampire gang, kill the last surviving vampire, stuff 2 vampire spawn accountants in a bag of holding and face Innistradi Vampire Assassins.",
           "link": "https://githyankidiaspora.com/2022/07/14/gloomwrought-city-of-midnight-session-3-the-second-wave/",
           "publishedOn": "2022-07-15T02:31:20.000Z",
-          "wordCount": 2897,
+          "wordCount": 2888,
           "title": "Gloomwrought: City of Midnight, Session 3, The Second Wave",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/gloomwrought-city-of-midnight-twitter-pic-s3-second-wave.png"
         },
@@ -467,7 +487,7 @@
           "description": "AI Art inspired by the latest Dungeons and Dragons adventure book, Journeys Through the Radiant Citadel.",
           "link": "https://githyankidiaspora.com/2022/07/14/digital-dreams-about-journeys-through-the-radiant-citadel/",
           "publishedOn": "2022-07-14T19:00:00.000Z",
-          "wordCount": 2478,
+          "wordCount": 2469,
           "title": "Digital Dreams about Journeys Through the Radiant Citadel",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/judd_hehim_bright_fantasy_city_with_tiers_growing_around_a_cent_bf0e88a7-c209-4c66-8d85-4834f2d91322.png?w=1200"
         },
@@ -477,7 +497,7 @@
           "description": "The unholy marriage of a Demi-Lich and an Iron Golem for our Thursday night Dungeons and Dragons game.",
           "link": "https://githyankidiaspora.com/2022/07/13/aboraz-the-striding-skull-the-tomb-that-walks/",
           "publishedOn": "2022-07-13T19:18:22.000Z",
-          "wordCount": 2817,
+          "wordCount": 2808,
           "title": "Aboraz, the Striding Skull, The Tomb that Walks",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/aboraz-the-tomb-that-walks-the-striding-skull-pic-2.png?w=918"
         },
@@ -487,7 +507,7 @@
           "description": "In tonight's Thursday night Dungeons and Dragons game...the Sigil 6 kill Rahadin and most of her vampire gang that has terrorized the streets of Gloomwrought since Strahd's curse was lifted.",
           "link": "https://githyankidiaspora.com/2022/07/07/gloomwrought-city-of-midnight-session-2-killing-rahadin/",
           "publishedOn": "2022-07-08T02:47:58.000Z",
-          "wordCount": 2835,
+          "wordCount": 2826,
           "title": "Gloomwrought: City of Midnight, Session 2, Killing Rahadin",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/07/gloomwrought-city-of-midnight-twitter-pic-s2-killing-rahadin.png"
         },
@@ -497,7 +517,7 @@
           "description": "In which a session of our D&D game is cancelled and we just chatted it up and enjoyed each other's faces.",
           "link": "https://githyankidiaspora.com/2022/06/30/every-so-often-the-best-game-is-no-game/",
           "publishedOn": "2022-07-01T01:25:03.000Z",
-          "wordCount": 2666,
+          "wordCount": 2657,
           "title": "Every so often the best game is no game.",
           "imageUrl": "https://githyankidiaspora.files.wordpress.com/2022/06/gloomwrought-city-of-midnight-twitter-pic-cancelled.png"
         }
