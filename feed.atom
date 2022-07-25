@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T01:45:40.601Z</id>
+    <id>urn:2022-07-25T08:24:56.569Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T01:45:40.601Z</updated>
+    <updated>2022-07-25T08:24:56.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Orion Romatet: Advisor to the Castellan]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-orion-romatet-advisor-to-castellan.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-orion-romatet-advisor-to-castellan.html"/>
+        <updated>2022-07-25T05:29:00.005Z</updated>
+        <summary type="html"><![CDATA[Advisor: Orion Romatet
+HP: 8 // ARMOR: 6 // SPELL SLOTS: 2 DEX +1 // WIL +2
+Orion Romatet is the delicate, nine-fingered advisor to the Castellan.
+
+
+
+Study Head of a Woman
+Anthonis van Dyck
+
+Orion Romatet is known to: 
+• Be the personal Advisor to the Castellan.
+ • Have only nine fingers. 
+• Have a strong fashion sense.
+
+
+Orion Romatet is rumored to:
+• Actually be girl, disguised as a man so as to be able to be around the Castellan. Scandalous!
+• Have sold his finger to the devil for dark, magical power. Why does he get away with this?
+• Actually be a fairy prince, tagging along with the Castellan to see if a possible alliance would be a good idea.
+
+
+Orion Romatet will ask you:
+ • What your Zodiac Sign is.
+• What strange things you have seen.
+• Wether you could bring back something strange next time, preferably alive.
+
+
+Gear:
+Magical Plate Mail:
+• +2 Armor
+• no advantage on DEX Danger Rolls or Surprise Attack Rolls.
+• Orichalcum armor inscribed with illusion runes, giving it the look of pretty, regular clothes.
+Ring of the Phoenix:
+• A ring holding a single feather from a phoenix’s tail. This gives free access to the word FIRE or LIFE for use in spells, wether or not the winds of magic or the pre-ordained position of the heavenly bodies would dictate it so. You can only choose one of the two words. You cannot use them both at once.
+Short Bow:
+• 2 handed weapon for shooting ranged arrows.
+Magical Arrows (10): 
+ • Contain their own spell slot each.
+• One of the words is already set by the rune carved in the arrowhead (SHOOT/SHOOTING) the other depends on the winds of magic and a user of magic to fill in.]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nameless Legends of GLOG]]></title>
         <id>https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html</id>
         <link href="https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html"/>
-        <updated>2022-07-24T10:22:00.002Z</updated>
+        <updated>2022-07-24T10:22:00.003Z</updated>
         <summary type="html"><![CDATA[This is a work in progress. Any part of a class marked with a ? is currently undecided. Any text after // is a comment, left for your consideration. Many classes are missing the higher level abilities. Several classes are missing quite a lot of necessary parts, and will be finished as needed.
 The Fire Thief - Anato Finnstark
 
@@ -27,7 +75,7 @@ Players should not go through the entire list to choose a class, but if they hav
         <title type="html"><![CDATA[Nameless Legends of GLOG]]></title>
         <id>https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html</id>
         <link href="https://slightadjustments.blogspot.com/2022/07/nameless-legends-of-glog.html"/>
-        <updated>2022-07-24T10:22:00.002Z</updated>
+        <updated>2022-07-24T10:22:00.003Z</updated>
         <summary type="html"><![CDATA[This is a work in progress. Any part of a class marked with a ? is currently undecided. Any text after // is a comment, left for your consideration. Many classes are missing the higher level abilities. Several classes are missing quite a lot of necessary parts, and will be finished as needed.
 The Fire Thief - Anato Finnstark
 
@@ -698,22 +746,6 @@ And I was charmed. Its an old, idiosyncratic game but interesting in its present
 Now the obvious place to start would be th…]]></summary>
         <author>
             <name>The Cosmic Orrery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MRD2 Nazarite Contracts and MRD2 Updates]]></title>
-        <id>https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html</id>
-        <link href="https://weirdwonderfulworlds.blogspot.com/2022/06/mrd2-nazarite-contracts-and-mrd2-updates.html"/>
-        <updated>2022-06-25T14:03:00.003Z</updated>
-        <summary type="html"><![CDATA[I'm a few sessions into my MRD2 Campaign. Scheduling an IRL game is a nightmare or else I'd have liked to be a bit further into the campaign by now, but it's nice to be playing IRL again regardless. I'm realizing now that I've referenced Nazarite Contracts in the PRs and some of the other posts, but have not formally shared anything on them here.
-
-
-The Nazarite Contracts of MRD2 are equivalent to the Poltergeist Forms of MRD1, the character classes. They are meant to reflect various kinds of careers or skillsets related to careers, but also speak to the psychologies around those careers, what that says about the individual or their relationship with the world.
-
-
-Mechanically they are mostly the same as Poltergeist Forms, with some changes based on my experiences with my >1 year-long MRD1 C…]]></summary>
-        <author>
-            <name>Weird &amp; Wonderful Worlds</name>
         </author>
     </entry>
 </feed>
