@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T01:52:58.348Z</id>
+    <id>urn:2022-07-26T08:22:01.066Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-26T01:52:58.348Z</updated>
+    <updated>2022-07-26T08:22:01.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Father Clement Palacz, Curate of the Keep]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-clement-palacz-curate-of.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-clement-palacz-curate-of.html"/>
+        <updated>2022-07-26T06:00:00.002Z</updated>
+        <summary type="html"><![CDATA[Father Clement Palacz
+HP: 12 // ARMOR: 10 // ATTACK +1 // Miracles: 2 // STR: +2 // WIL: +3 //
+
+
+
+"Der Kellermeister", by Max Thedy
+
+It is known that Father Clement Palacz:
+• Is not from around here, but people disagree on where he's actually from
+• Is a man of great faith, who can perform miracles
+• Has a patient and merciful outlook towards people, even enemies
+
+
+It is said that Father Clement Palacz:
+• Is a possible candidate to become the next Pope, should the current one die.
+• Used to live in Moorish lands.
+• Has a powerful relic in his possession.
+
+
+When you meet Father Clement Palacz:
+1. He will ask you how you are doing, and how he can help you.
+2. He asks what your thoughts are about the last sermon he gave.
+3. Asks you if you can help one of the people in this parish with a prob…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney Monday: Lamordian Money]]></title>
         <id>http://githyankidiaspora.com/?p=20380</id>
@@ -731,7 +763,7 @@ Much of what Cone describes are just traits of megadungeons, or even simply dung
         <title type="html"><![CDATA[Stranger Things and "Puzzle Monsters"]]></title>
         <id>https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/06/stranger-things-and-puzzle-monsters.html"/>
-        <updated>2022-06-27T04:19:00.004Z</updated>
+        <updated>2022-06-27T04:19:00.005Z</updated>
         <summary type="html"><![CDATA[[This post will contain spoilers for Stranger Things up through season 4]
 
 The best monsters are not merely a big sack of hit points you hack-n-slash your way through because of a random encounter table. No, they're something more. They have qualities possible only through the conceits of fantasy. They challenge your brain just as much as your stats and dice. They stick in the mind. They're not just a one-and-done encounter. They're grounded in the world and its rules, and can't be understood merely with numbers. And maybe most of all, they're robust enough that reckoning with them is the whole adventure, or at least could be the whole adventure.
