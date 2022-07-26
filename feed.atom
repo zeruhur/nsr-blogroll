@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T16:25:48.375Z</id>
+    <id>urn:2022-07-26T01:52:58.348Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T16:25:48.375Z</updated>
+    <updated>2022-07-26T01:52:58.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -148,7 +148,7 @@ Medallion of Saint Martin on a rosary. When brandished, it gives access to the w
         <title type="html"><![CDATA[A Primer on Star Wars RPGs]]></title>
         <id>https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html</id>
         <link href="https://knightattheopera.blogspot.com/2022/07/a-primer-on-star-wars-rpgs.html"/>
-        <updated>2022-07-24T04:05:00.000Z</updated>
+        <updated>2022-07-24T04:05:00.005Z</updated>
         <summary type="html"><![CDATA[If you've received a link to this article, you may have just asked the question, "what's the deal with Star Wars RPGs?" The first part of this post is a succinct overview of all the major (and some minor) options out there which cover this need.
 I decided to write this because in the last two weeks, I've seen at least 4 Reddit posts and a couple Discord messages where people asked that very question, and I get tired of explaining it. So if you see someone asking that question, link them to this article.
 
