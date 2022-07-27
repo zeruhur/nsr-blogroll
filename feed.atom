@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T16:24:58.279Z</id>
+    <id>urn:2022-07-27T01:47:48.047Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-26T16:24:58.279Z</updated>
+    <updated>2022-07-27T01:47:48.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shadow Appalachia: Boone Saltwoods]]></title>
+        <id>https://d66kobolds.blogspot.com/2022/07/shadow-appalachia-boone-saltwoods.html</id>
+        <link href="https://d66kobolds.blogspot.com/2022/07/shadow-appalachia-boone-saltwoods.html"/>
+        <updated>2022-07-26T18:32:00.002Z</updated>
+        <summary type="html"><![CDATA[The salt came first, even before the coal. When the hollers were not yet born, the Iapetus Ocean covered everything. Some say the ancient blanket of buried salt keeps what shouldn't be out of the woods. Others say it subtly whispers to the Old Things, inviting them to the gullies and high places across West Virginia.
+Down south of Charleston, past where the Kanawha River branches off into the trickle of Loop Creek, are the deep woods cramped-in around nowhere towns like Kinkaid and Artie. This was wild land even before I-64 was abandoned and fell apart under the forest canopy, and now it's all but primeval landscape, peppered with cabins and hunters and things best left alone.
+
+
+Felix Riano - Artstation
+
+
+Wandering through these parts might reveal (d20)...
+1-4: d4 dump trucks. Belonging to…]]></summary>
+        <author>
+            <name>d66 Classless Kobolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Father Clement Palacz, Curate of the Keep]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/meet-father-clement-palacz-curate-of.html</id>
