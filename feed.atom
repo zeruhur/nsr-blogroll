@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T01:47:48.047Z</id>
+    <id>urn:2022-07-27T08:23:51.152Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T01:47:48.047Z</updated>
+    <updated>2022-07-27T08:23:51.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adventures in Krowne Keep: Actual play report(s) of the play by post group.]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/adventures-in-krowne-keep-actual-play.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/adventures-in-krowne-keep-actual-play.html"/>
+        <updated>2022-07-27T07:28:00.004Z</updated>
+        <summary type="html"><![CDATA[Adventures in Krowne Keep
+
+
+
+ So, I've been taking some players through B2 - Keep on the Borderlands through play-by-post gaming. We use Discord for this and I'm constantly learning how to do this better. There have been two "sessions" this far, which I kind of classify as a separate excursion. Our playing mainly depends on me having the time and state of mind to run it, which means that it's usually a school vacation thing. We're also in quite different time zones, which makes it slower than it might otherwise be, but I've got nothing to complain about. The pace is right for me, going from about two posts a day to one every other day moves things about quickly enough to still feel like we're getting things done. The system we use is Maze Rats, which makes things go rather smoothly. Anyway…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kung-fu Training Minigame]]></title>
+        <id>https://riseupcomus.blogspot.com/2022/07/kung-fu-training-minigame.html</id>
+        <link href="https://riseupcomus.blogspot.com/2022/07/kung-fu-training-minigame.html"/>
+        <updated>2022-07-27T02:20:00.002Z</updated>
+        <summary type="html"><![CDATA[As I said in my previous post, I've been watching a lot of kung fu movies. A core feature of these movies is a training scene. The hero goes from nursing their bruised knuckles to smashing through stone walls. Importantly, there are frequently multiple training scenes. 36 Chambers of Shaolin is essentially one long training scene sequence.
+Because training scenes are an important part of the genre, they seem important to gameify. Saying "Okay, you go off and train for a few months and we're back" seems insufficient. 
+But how can you make doing 100 pushups, reciting 100 sutras, or carrying 100 jugs of water interesting?
+
+
+From Kill 6 Billion Demons
+
+
+Honing Your Skills vs Learning New Skills
+When training, you can hone your skills or learn new skills. 
+Honing your skills allows you to impro…]]></summary>
+        <author>
+            <name>Rise Up Comus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shadow Appalachia: Boone Saltwoods]]></title>
         <id>https://d66kobolds.blogspot.com/2022/07/shadow-appalachia-boone-saltwoods.html</id>
