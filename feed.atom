@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T16:26:29.953Z</id>
+    <id>urn:2022-07-28T01:43:59.181Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T16:26:29.953Z</updated>
+    <updated>2022-07-28T01:43:59.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -799,16 +799,6 @@ Much of what Cone describes are just traits of megadungeons, or even simply dung
         <summary type="html"><![CDATA[In which a session of our D&D game is cancelled and we just chatted it up and enjoyed each other's faces.]]></summary>
         <author>
             <name>juddthelibrarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasonal Spells]]></title>
-        <id>http://hamsterhoard.home.blog/?p=1053</id>
-        <link href="https://hamsterhoard.home.blog/2022/06/28/seasonal-spells/"/>
-        <updated>2022-06-28T12:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Been fighting creative blocks for a while now — I mean, a lot of folks are, I daresay — and it’s been frustrating getting stuck in cycle after cycle of have idea -> ponder idea -> get stuck -> stew in own juices -> get another idea to add to pile -> infinitum. But this … Continue reading Seasonal Spells →]]></summary>
-        <author>
-            <name>taichara</name>
         </author>
     </entry>
 </feed>
