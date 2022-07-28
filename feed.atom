@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T08:24:40.575Z</id>
+    <id>urn:2022-07-28T16:28:56.112Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T08:24:40.575Z</updated>
+    <updated>2022-07-28T16:28:56.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[So you found a secret passage to the Keep (encounter table)]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-found-secret-passage-to-keep.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-found-secret-passage-to-keep.html"/>
+        <updated>2022-07-28T10:05:00.005Z</updated>
+        <summary type="html"><![CDATA[So you found a secret passage to the Keep
+My adventurers know of a secret way into the Keep. Since due to recent events they feel they can not really trust people in the Keep with the evidence they are currently bringing into the Keep they decide to take this way into the Keep.
+I found a certain map of cave systems where they will find the entrance to this secret passage. Following the passage should be interesting I feel, so I made an encounter table.
+
+
+Illustration: Adam Simpson/Observer
+
+
+Roll 2d6:
+2. Signs of an ancient dragon. 
+Giant claw marks.
+If in danger, dragon cultists looking for ancient dragon bones. 
+Don't like being spotted.
+
+
+3. weird stuff: 
+lost dwarves
+if in danger, they fear you want to rob them and attack.
+There is a mining shaft to the side (up, down, left or right) i…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encounter Tables]]></title>
         <id>http://githyankidiaspora.com/?p=20446</id>
