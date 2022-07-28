@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-28T01:43:59.181Z</id>
+    <id>urn:2022-07-28T08:24:40.575Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-28T01:43:59.181Z</updated>
+    <updated>2022-07-28T08:24:40.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Encounter Tables]]></title>
+        <id>http://githyankidiaspora.com/?p=20446</id>
+        <link href="https://githyankidiaspora.com/2022/07/27/encounter-tables/"/>
+        <updated>2022-07-28T03:48:05.000Z</updated>
+        <summary type="html"><![CDATA[A link to an inspirational blog post about using encounter tables in Dungeons & Dragons games and several encounter tables from the Outlands to the Godroads to the Shadowfell.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adventures in Krowne Keep: Actual play report(s) of the play by post group.]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/adventures-in-krowne-keep-actual-play.html</id>
