@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T08:22:06.075Z</id>
+    <id>urn:2022-07-29T16:26:38.389Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T08:22:06.075Z</updated>
+    <updated>2022-07-29T16:26:38.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[d100 - Magic Gloves & Gauntlets]]></title>
+        <id>https://blog.d4caltrops.com/2022/07/d100-magic-gloves-gauntlets.html</id>
+        <link href="https://blog.d4caltrops.com/2022/07/d100-magic-gloves-gauntlets.html"/>
+        <updated>2022-07-29T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[AAnother in my little series of Magic Item posts, this one is devoted to helpful Handwear. Though they’re not nearly as represented in the standard treasure lists as other garments (outside the occasional pair providing Ogre Power). Be it Glove or Gauntlet, rather than just applying a Magical bonus or malus, like most Magical Treasures, I often prefer them to serve as creative solutions to potential problems the players may face.  
+ See also: Magic Blades, Magic Shields, Magic Bows, Magic Footwear, and Magic Cloaks & Capes.]]></summary>
+        <author>
+            <name>d4 Caltrops</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Door At The End (an obstacle to overcome)]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/the-door-at-end-obstacle-to-overcome.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/the-door-at-end-obstacle-to-overcome.html"/>
+        <updated>2022-07-29T08:35:00.002Z</updated>
+        <summary type="html"><![CDATA[The players in my game will be going through a secret passageway to the keep, hoping to gain access unnoticed. What they do not know is that someone in the new management of the keep has found it as well, being the curious wizard-type that he is, and installed a magic door to keep it safe. His magic wasn't entirely successful though, not he knows this, and this door gained a personality that can be played into to convince it to be opened up to the players. This is how The Door At The End's magical protection looks like.
+
+
+
+A bas relief in Mechelen city that we found yesterday and took a picture of.
+
+
+The Door At The End (of the secret tunnel)
+
+At the end of the tunnel you find a door to the Keep's fountain. On the door is a bas relief of a lion with a ring in it's mouth through which some tassled ribbons are draped.
+When you try to open it in any way, it will come alive and talk, unclearly as if the ring in its mouth is actually obstructing it.
+1. Hewwo phewe. How are you phoing?
+2. Ohohohhoho! Phtoooop! Phah Tickwleph!
+3. Exphcuuphe me? Phwho awe you?
+4. Unhand me at oneph! Phavageph!
+5. Aaauw! PHTOP IT!
+6. *eye roll* Wha' awe you doim?
+It is recently installed and enchanted by Orion the Advisor, who found the passages. It can only allow those with the right key, but there is a flaw in it's design in that it has a bit of a personality, and it often feels lonely here. 
+It might open for you if you...
+1. Tell him a story. Either one he hasn't heard before, or a specific one that is his favorite.
+2. Sing him a song. Either one he hasn't heard before, or a specific one that is his favorite.
+3. Talk to him about the outside world. He wants to experience it through you. Does it line up with what he has heard before? How does this influence his decision on wether or not to open for you?
+4. Teach him a sentence in a new language.
+5. Make him pretty somehow. Paint, flowers, a ribbon ... Bonus if you can show him in a mirror.
+6. Show him a dance, trick or other visual performance.]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So you found a secret passage to the Keep (encounter table)]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/so-you-found-secret-passage-to-keep.html</id>
@@ -81,7 +126,7 @@ Honing your skills allows you to impro…]]></summary>
         <title type="html"><![CDATA[Shadow Appalachia: Boone Saltwoods]]></title>
         <id>https://d66kobolds.blogspot.com/2022/07/shadow-appalachia-boone-saltwoods.html</id>
         <link href="https://d66kobolds.blogspot.com/2022/07/shadow-appalachia-boone-saltwoods.html"/>
-        <updated>2022-07-26T18:32:00.002Z</updated>
+        <updated>2022-07-26T18:32:00.003Z</updated>
         <summary type="html"><![CDATA[The salt came first, even before the coal. When the hollers were not yet born, the Iapetus Ocean covered everything. Some say the ancient blanket of buried salt keeps what shouldn't be out of the woods. Others say it subtly whispers to the Old Things, inviting them to the gullies and high places across West Virginia.
 Down south of Charleston, past where the Kanawha River branches off into the trickle of Loop Creek, are the deep woods cramped-in around nowhere towns like Kinkaid and Artie. This was wild land even before I-64 was abandoned and fell apart under the forest canopy, and now it's all but primeval landscape, peppered with cabins and hunters and things best left alone.
 
