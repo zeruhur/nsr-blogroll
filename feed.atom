@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T01:44:33.241Z</id>
+    <id>urn:2022-07-30T08:21:16.857Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-30T01:44:33.241Z</updated>
+    <updated>2022-07-30T08:21:16.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[On Skeletons That Roam And Their Motivations]]></title>
+        <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-skeletons-that-roam-and-their.html</id>
+        <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-skeletons-that-roam-and-their.html"/>
+        <updated>2022-07-30T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[On Skeletons That Roam And Their Motivations
+
+
+
+From a completely digitized manuscript called Danse Macabre.
+
+
+From skeletons and zombies to ghost, phantoms and other, even more nefarious things like Vampires. These dead didn’t stay dead, for whatever reason. In fairytales, it’s often because of an unresolved thing that is so important that it keeps them from peacefully going on to the afterlife, be it for vengeance, love or some other powerful motivator, they keep alive.
+Another is dark magic, either being animated by dark wizards or the devil himself, these dead are walking again. Perhaps they made a pact with the devil, not wanting to die or they or are called back and bound by a dark wizard. Perhaps the devil himself jumped back into the bones of these undead to find a way to move arou…]]></summary>
+        <author>
+            <name>The Bearded Belgian's Playground</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeroQuest: The Tourney of Champions]]></title>
+        <id>https://knightattheopera.blogspot.com/2022/07/heroquest-tourney-of-champions.html</id>
+        <link href="https://knightattheopera.blogspot.com/2022/07/heroquest-tourney-of-champions.html"/>
+        <updated>2022-07-30T07:32:00.002Z</updated>
+        <summary type="html"><![CDATA[The best thing about HeroQuest is pitting your friends against one another in a vicious deathtrap!
+
+I've just designed my first custom scenario for HeroQuest, which I intend to play with one of my board gaming groups when we meet in a few weeks. It's a big group, so I had the idea of a competitive scenario where you split the players into two teams and have them fight one another in the dungeon. I have no idea how well this will work, if it's balanced at all, if we'll be able to get through it in one session, etc. It makes use of lots of materials from all the expansions because I backed the crowdfunding campaign and got them all as rewards, and I want to try using those pieces finally. I figured I would make the zaniest funhouse dungeon I could, y'know?
+
+
+
+
+
+-Dwiz]]></summary>
+        <author>
+            <name>A Knight at the Opera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The "Friction" Theory of TTRPG Mechanics]]></title>
         <id>tag:blogger.com,1999:blog-5478571215590450754.post-8643391462161666369</id>
