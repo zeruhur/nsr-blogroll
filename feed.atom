@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T08:21:16.857Z</id>
+    <id>urn:2022-07-30T16:22:55.139Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-30T08:21:16.857Z</updated>
+    <updated>2022-07-30T16:22:55.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[On Skeletons That Roam And Their Motivations]]></title>
+        <title type="html"><![CDATA[On Skeletons That Roam (And Their Motivations)]]></title>
         <id>https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-skeletons-that-roam-and-their.html</id>
         <link href="https://thebeardedbelgiansplayground.blogspot.com/2022/07/on-skeletons-that-roam-and-their.html"/>
-        <updated>2022-07-30T08:04:00.000Z</updated>
-        <summary type="html"><![CDATA[On Skeletons That Roam And Their Motivations
-
-
-
-From a completely digitized manuscript called Danse Macabre.
+        <updated>2022-07-30T08:04:00.002Z</updated>
+        <summary type="html"><![CDATA[From a completely digitized manuscript called Danse Macabre.
 
 
 From skeletons and zombies to ghost, phantoms and other, even more nefarious things like Vampires. These dead didn’t stay dead, for whatever reason. In fairytales, it’s often because of an unresolved thing that is so important that it keeps them from peacefully going on to the afterlife, be it for vengeance, love or some other powerful motivator, they keep alive.
-Another is dark magic, either being animated by dark wizards or the devil himself, these dead are walking again. Perhaps they made a pact with the devil, not wanting to die or they or are called back and bound by a dark wizard. Perhaps the devil himself jumped back into the bones of these undead to find a way to move arou…]]></summary>
+Another is dark magic, either being animated by dark wizards or the devil himself, these dead are walking again. Perhaps they made a pact with the devil, not wanting to die or they or are called back and bound by a dark wizard. Perhaps the devil himself jumped back into the bones of these undead to find a way to move around. Many theories exist, some of them are bound …]]></summary>
         <author>
             <name>The Bearded Belgian's Playground</name>
         </author>
@@ -946,16 +942,6 @@ Here's my Weird & Wonderful Table of Super Robot Wars-inspired Mecha and a "Gac
 Much of what Cone describes are just traits of megadungeons, or even simply dungeons in general. Things like, "non-linear pathways" and "lots of connections between levels" aren't really mythic, they're …]]></summary>
         <author>
             <name>A Knight at the Opera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every so often the best game is no game.]]></title>
-        <id>http://githyankidiaspora.com/?p=20187</id>
-        <link href="https://githyankidiaspora.com/2022/06/30/every-so-often-the-best-game-is-no-game/"/>
-        <updated>2022-07-01T01:25:03.000Z</updated>
-        <summary type="html"><![CDATA[In which a session of our D&D game is cancelled and we just chatted it up and enjoyed each other's faces.]]></summary>
-        <author>
-            <name>juddthelibrarian</name>
         </author>
     </entry>
 </feed>
