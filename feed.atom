@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-29T16:26:38.389Z</id>
+    <id>urn:2022-07-30T01:44:33.241Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T16:26:38.389Z</updated>
+    <updated>2022-07-30T01:44:33.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The "Friction" Theory of TTRPG Mechanics]]></title>
+        <id>tag:blogger.com,1999:blog-5478571215590450754.post-8643391462161666369</id>
+        <link href="https://academyofdoors.blogspot.com/2022/07/the-friction-theory-of-ttrpg-mechanics.html"/>
+        <updated>2022-07-29T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The Idea
+
+  
+I often see a rules light game complimented by saying its rules, "get out of the way" or "don't slow things down" during play. Whereas I also see (usually different people) say that rules light games are too ephemeral, or there's not enough "meat" there.
+I've had the thought that both of these statements are actually talking about the same thing.
+
+Mechanics in a TTRPG provide friction. They slow things down, and they provide grip. 
+When you encounter a situation that requires interfacing with mechanics, that often means pausing the narration, consulting the rules (depending on complexity), and rolling dice before you can continue.
+This can be bad, if it interrupts an otherwise good flow of conversation and narration. But it can also be good, if it provides a slight pause at th…]]></summary>
+        <author>
+            <name>noreply@blogger.com (AwkwardTurtle)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Iron Lich Situation]]></title>
+        <id>http://githyankidiaspora.com/?p=20489</id>
+        <link href="https://githyankidiaspora.com/2022/07/29/the-iron-lich-situation/"/>
+        <updated>2022-07-29T21:37:52.000Z</updated>
+        <summary type="html"><![CDATA[How I set up games using Situations and not plots.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists to help with Itch.io Creator Day]]></title>
+        <id>http://githyankidiaspora.com/?p=20464</id>
+        <link href="https://githyankidiaspora.com/2022/07/29/lists-to-help-with-itch-io-creator-day/"/>
+        <updated>2022-07-29T18:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Lists to help find games on itch.io's Creator Day.]]></summary>
+        <author>
+            <name>juddthelibrarian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[d100 - Magic Gloves & Gauntlets]]></title>
         <id>https://blog.d4caltrops.com/2022/07/d100-magic-gloves-gauntlets.html</id>
